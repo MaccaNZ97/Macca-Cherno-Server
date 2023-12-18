@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 22,
+    "ID": 13,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Sew",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionSewTarget"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

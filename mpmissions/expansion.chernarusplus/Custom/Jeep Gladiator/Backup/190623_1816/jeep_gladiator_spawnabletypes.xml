@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+  <type name="Jeep_GladiatorF9_BOSS_Black">
+    <attachments chance="1" />
+    <attachments />
+  </type>
+</spawnabletypes>

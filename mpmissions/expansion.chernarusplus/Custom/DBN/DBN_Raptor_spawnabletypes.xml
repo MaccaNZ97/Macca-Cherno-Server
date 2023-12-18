@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+<type name="FordRaptor_Scorpio">
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarRadiator" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarBattery" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="SparkPlug" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_driver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_codriver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_cargo1" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_cargo2" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_hood" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_trunk" chance="1.00" />
+    </attachments>
+    </type>
+    <type name="FordRaptor_Scorpio_UArust">
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarRadiator" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarBattery" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="SparkPlug" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UArust_driver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UArust_codriver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UArust_cargo1" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UArust_cargo2" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UArust_hood" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UArust_trunk" chance="1.00" />
+    </attachments>
+    </type>
+    <type name="FordRaptor_Scorpio_UA2">
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarRadiator" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarBattery" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="SparkPlug" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UA2_driver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UA2_codriver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UA2_cargo1" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UA2_cargo2" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UA2_hood" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UA2_trunk" chance="1.00" />
+    </attachments>
+    </type>
+    <type name="FordRaptor_Scorpio_UA2rust">
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarRadiator" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarBattery" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="SparkPlug" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UA2rust_driver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UA2rust_codriver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UA2rust_cargo1" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UA2rust_cargo2" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UA2rust_hood" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_UA2rust_trunk" chance="1.00" />
+    </attachments>
+    </type>
+    <type name="FordRaptor_Scorpio_Green">
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarRadiator" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarBattery" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="SparkPlug" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_Green_driver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_Green_codriver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_Green_cargo1" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_Green_cargo2" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_Green_hood" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_Green_trunk" chance="1.00" />
+    </attachments>
+    </type>
+    <type name="FordRaptor_Scorpio_Black">
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarRadiator" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarBattery" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="SparkPlug" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_Black_driver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_Black_codriver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_Black_cargo1" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_Black_cargo2" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_Black_hood" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_Black_trunk" chance="1.00" />
+    </attachments>
+    </type>
+    <type name="FordRaptor_Scorpio_White">
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_Wheel" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarRadiator" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="CarBattery" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="SparkPlug" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="HeadlightH7" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_White_driver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_White_codriver" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_White_cargo1" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_White_cargo2" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_White_hood" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+    <item name="FordRaptor_Scorpio_doors_White_trunk" chance="1.00" />
+    </attachments>
+    </type>
+</spawnabletypes>

@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 22,
+    "ID": 20,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Water a Garden",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionWaterGardenSlot"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

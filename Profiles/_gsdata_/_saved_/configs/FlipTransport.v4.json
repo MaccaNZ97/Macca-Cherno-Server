@@ -1,0 +1,12 @@
+{
+    "FlipSafezoneVehicle": 1,
+    "FlipLockedVehicle": 1,
+    "WrenchDisabled": 0,
+    "WrenchPlaySound": 1,
+    "WrenchUseDamage": 25.0,
+    "PushFunctionality": 1,
+    "PushStrength": 1.5,
+    "PushDepleteStamina": 1,
+    "PushSafezoneVehicle": 0,
+    "PushLockedVehicle": 1
+}

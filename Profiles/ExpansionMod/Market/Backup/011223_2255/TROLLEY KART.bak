@@ -1,0 +1,58 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TROLLEY KART",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "spur_trolley_e_kart",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "spur_ekart_motor",
+        "spur_kart_seat",
+        "spur_kart_wheel",
+        "spur_kart_wheel",
+        "spur_kart_wheelrear",
+        "spur_kart_wheelrear",
+        "spur_wonkytrolley",
+        "waterproofbag_black",
+        "truckbattery",
+        "spur_kart_sign1",
+        "spur_kart_sign2"
+      ],
+      "Variants": [
+        "spur_trolley_e_kart_black"
+      ]
+    },
+    {
+      "ClassName": "spur_trolleykart_black",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "spur_kart_seat",
+        "spur_kart_wheel",
+        "spur_kart_wheelrear",
+        "spur_kart_wheelrear",
+        "spur_kart_engine",
+        "spur_kart_fueltank",
+        "waterproofbag_black",
+        "spur_wonkytrolley"
+      ],
+      "Variants": [
+        "spur_trolleykart"
+      ]
+    }
+  ],
+  "SortByDisplayName": true
+}

@@ -1,0 +1,20 @@
+{
+  "m_Version": 11,
+  "DisplayName": "SPEC_OPS_MMG",
+  "MinRequiredReputation": 10000,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": null,
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [],
+  "Items": {
+    "battery9v": 1,
+    "fog_pvs31_fde": 1,
+    "fog_pvs31_fde_wrapped": 1,
+    "fog_pvs31_wrapped": 1,
+    "nvgoggles": 1
+  }
+}

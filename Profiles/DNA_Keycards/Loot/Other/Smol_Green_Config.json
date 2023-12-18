@@ -1,0 +1,77 @@
+{
+    "dna_Description": "DNA SMOL CRATE CONFIG (Green Tier). Below are settings to spawn either static or randomized loot. To spawn all items in array, use randomize setting 0,",
+    "dna_DescriptionCont": "if set to 1, it will use the count setting found just below the randomize setting. When using randomized loot, the system can and likely WILL",
+    "dna_DescriptionCont2": "spawn duplicates. I suggest using static and manually adding desired duplicates. Each loot set, including weapons can be turned off as well.",
+    "dna_SpawnMainWeapons": 1,
+    "dna_RandomizeWeapons": 1,
+    "dna_WeaponCount": 1,
+    "weaponTypesGreen": [
+        {
+            "dna_TheChosenOne": "Izh18",
+            "dna_Magazine": "",
+            "dna_SpareMagCount": 0,
+            "dna_Ammunition": "AmmoBox_762x39_20Rnd",
+            "dna_SpareAmmoCount": 1,
+            "dna_OpticType": "",
+            "dna_Suppressor": "",
+            "dna_UnderBarrel": "",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "",
+            "dna_Wrap": ""
+        },
+        {
+            "dna_TheChosenOne": "SKS_Black",
+            "dna_Magazine": "",
+            "dna_SpareMagCount": 0,
+            "dna_Ammunition": "AmmoBox_762x39_20Rnd",
+            "dna_SpareAmmoCount": 1,
+            "dna_OpticType": "PUScopeOptic",
+            "dna_Suppressor": "SKS_Bayonet",
+            "dna_UnderBarrel": "",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "",
+            "dna_Wrap": ""
+        }
+    ],
+    "dna_SpawnLootSet1": 1,
+    "dna_RandomizeLootSet1": 1,
+    "dna_LootSet1Count": 3,
+    "dna_LootSetG1": [
+        "BloodTestKit",
+        "TetracyclineAntibiotics",
+        "BandageDressing",
+        "BloodBagIV",
+        "Morphine",
+        "Epinephrine"
+    ],
+    "dna_SpawnLootSet2": 1,
+    "dna_RandomizeLootSet2": 1,
+    "dna_LootSet2Count": 3,
+    "dna_LootSetG2": [
+        "BoxCerealCrunchin",
+        "PeachesCan_Opened",
+        "TacticalBaconCan",
+        "BakedBeansCan",
+        "BakedBeansCan_Opened"
+    ],
+    "dna_SpawnLootSet3": 1,
+    "dna_RandomizeLootSet3": 1,
+    "dna_LootSet3Count": 3,
+    "dna_LootSetG3": [
+        "SodaCan_Pipsi",
+        "WaterBottle",
+        "SodaCan_Fronta",
+        "SodaCan_Cola",
+        "SodaCan_Spite"
+    ],
+    "dna_SpawnLootSet4": 1,
+    "dna_RandomizeLootSet4": 0,
+    "dna_LootSet4Count": 3,
+    "dna_LootSetG4": [
+        "WoodenPlank",
+        "NailBox",
+        "Shovel",
+        "WoodAxe",
+        "Screwdriver"
+    ]
+}

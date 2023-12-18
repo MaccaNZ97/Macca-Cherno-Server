@@ -1,0 +1,2 @@
+76561100000000001       Example 1. Only the first word per line will be read (the SteamID), so feel free to add comments like this to keep track of them. Both TAB and space works as a divider.
+76561100000000002       Example 2.

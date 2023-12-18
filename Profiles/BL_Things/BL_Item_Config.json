@@ -1,0 +1,39 @@
+{
+    "ConfigVersion": "2",
+    "CoffeePrice": 5,
+    "SnackPrice": 5,
+    "MaxSnackAmount": 0,
+    "RepairCostFactor": 0.5,
+    "EnableRepairbenchPrestine": 1,
+    "TrashcanDisposeOnRestart": 1,
+    "RainCollectorEfficiency": 7,
+    "FridgeDecayFactor": 3,
+    "AllowSleepEmote": 1,
+    "AllowSitEmote": 1,
+    "AllowLabelingPalletBox": 1,
+    "AllowCraftingLabel": 0,
+    "EnablePlayerDepot": 0,
+    "Depot_AvailableSlots": [
+        "Shoulder",
+        "Shoulder1",
+        "Pistol",
+        "Headgear",
+        "Eyewear",
+        "Mask",
+        "Body",
+        "Gloves",
+        "Vest",
+        "Hips",
+        "Legs",
+        "Feet",
+        "Back",
+        "Knife",
+        "Armband",
+        "Melee"
+    ],
+    "Depot_ItemBlacklist": [
+        "SomeItem_Base",
+        "A_Single_Item",
+        "SomeItem_ColorBase"
+    ]
+}

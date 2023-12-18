@@ -1,0 +1,14 @@
+{
+  "m_Version": 11,
+  "DisplayName": "MMG Gear",
+  "MinRequiredReputation": 15000,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": null,
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [],
+  "Items": {}
+}

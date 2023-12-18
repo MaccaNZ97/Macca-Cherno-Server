@@ -1,0 +1,586 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RED FALCON HELIS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "rffsheli_apache",
+      "MaxPriceThreshold": 4500000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_apache_desert",
+      "MaxPriceThreshold": 4500000,
+      "MinPriceThreshold": 4500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_apache_winter",
+      "MaxPriceThreshold": 4500000,
+      "MinPriceThreshold": 4500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_as350",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_bell429_medic",
+      "MaxPriceThreshold": 3500000,
+      "MinPriceThreshold": 3500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_bell429_police",
+      "MaxPriceThreshold": 3500000,
+      "MinPriceThreshold": 3500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_bell429_uganda",
+      "MaxPriceThreshold": 3500000,
+      "MinPriceThreshold": 3500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_bell429_zs",
+      "MaxPriceThreshold": 3500000,
+      "MinPriceThreshold": 3500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_blackhawk",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_blackhawk_blackblackhawk",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_blackhawk_budhawk",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_blackhawk_cargo",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_blackhawk_woodland",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_bo105m",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_bo105m_blackcamo",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_ch47",
+      "MaxPriceThreshold": 4500000,
+      "MinPriceThreshold": 4500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_ch53e",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_ec135",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_ec135_blackcamo",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_ka26",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_littlebird",
+      "MaxPriceThreshold": 2500000,
+      "MinPriceThreshold": 2500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_littlebird_camo",
+      "MaxPriceThreshold": 2500000,
+      "MinPriceThreshold": 2500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_littlebird_desert",
+      "MaxPriceThreshold": 2500000,
+      "MinPriceThreshold": 2500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_mi2",
+      "MaxPriceThreshold": 3500000,
+      "MinPriceThreshold": 3500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_mi2_hornet",
+      "MaxPriceThreshold": 3500000,
+      "MinPriceThreshold": 3500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_mi2_military",
+      "MaxPriceThreshold": 3500000,
+      "MinPriceThreshold": 3500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_r22",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_r22_black",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_r22_red",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_s76",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_s76_woodlandcamo",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_uh1h",
+      "MaxPriceThreshold": 3500000,
+      "MinPriceThreshold": 3500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "rffsheli_uh1h_combat",
+      "MaxPriceThreshold": 3500000,
+      "MinPriceThreshold": 3500000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "rffsheli_hydraulic_hoses",
+        "rffsheli_wiring_harness",
+        "rffsheli_igniter_plug",
+        "rffsheli_aviation_battery",
+        "headlighth7"
+      ],
+      "Variants": []
+    }
+  ],
+  "SortByDisplayName": true
+}

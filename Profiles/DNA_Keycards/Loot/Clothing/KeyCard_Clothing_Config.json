@@ -1,0 +1,34 @@
+{
+"m_DNAConfig_Clothing": [
+        {
+            "dna_Tier": "yellow",
+            "dna_Helm": "TF_6B47Helmet",
+            "dna_Shirt": "TF_G3CombatShirt_MC",
+            "dna_Vest": "TF_JPCVest_MC",
+            "dna_Pants": "TF_G3CombatPants_MC",
+            "dna_Shoes": "",
+            "dna_Backpack": "TF_MAPBag_Khaki",
+            "dna_Gloves": "",
+            "dna_Belt": "",
+            "dna_Facewear": "",
+            "dna_Eyewear": "",
+            "dna_Armband": "",
+            "dna_NVG": "NVGoggles"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Helm": "",
+            "dna_Shirt": "TF_G3CombatShirt_WD",
+            "dna_Vest": "TF_6B43Vest_6sh112_EMR",
+            "dna_Pants": "TF_G3CombatPants_WD",
+            "dna_Shoes": "",
+            "dna_Backpack": "TF_MAPBag_Coyote",
+            "dna_Gloves": "",
+            "dna_Belt": "",
+            "dna_Facewear": "",
+            "dna_Eyewear": "",
+            "dna_Armband": "",
+            "dna_NVG": "FOG_GPNVG_Elite"
+        }
+   ]
+}

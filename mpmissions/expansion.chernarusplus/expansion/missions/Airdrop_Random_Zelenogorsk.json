@@ -1,0 +1,23 @@
+{
+  "Enabled": 1,
+  "Weight": 374.0,
+  "MissionMaxTime": 1200,
+  "MissionName": "Random_Zelenogorsk",
+  "Difficulty": 0,
+  "Objective": 0,
+  "Reward": "",
+  "ShowNotification": 1,
+  "Height": 450.0,
+  "Speed": 25.0,
+  "Container": "ExpansionAirdropContainer_Military",
+  "DropLocation": {
+    "x": 1437.93,
+    "z": 5233.15,
+    "Name": "Zelenogorsk Fort",
+    "Radius": 20
+  },
+  "Loot": [],
+  "Infected": [],
+  "ItemCount": -1,
+  "InfectedCount": -1
+}

@@ -1,0 +1,17 @@
+{
+    "ConfigVersion": "2",
+    "UseCrafting": 1,
+    "CabinetKitCrafting": 1,
+    "SofaKitCrafting": 0,
+    "BedKitCrafting": 1,
+    "TableKitCrafting": 1,
+    "BoxKitCrafting": 1,
+    "StoveKitCrafting": 1,
+    "CollectorKitCrafting": 1,
+    "SpecialKitCrafting": 1,
+    "OldCrateCrafting": 1,
+    "NailsRequiredForPallet": 30,
+    "PlanksRequiredForPallet": 10,
+    "NailsFromPallet": 20,
+    "PlanksFromPallet": 6
+}

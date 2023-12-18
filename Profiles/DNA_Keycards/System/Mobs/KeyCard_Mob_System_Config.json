@@ -1,0 +1,260 @@
+{
+    "m_DNAConfig_Mob_System": [
+        {
+            "dna_DefaultMob": "wolf",
+            "dna_MobType": "Animal_CanisLupus_Grey"
+        },
+        {
+            "dna_DefaultMob": "wolf",
+            "dna_MobType": "Animal_CanisLupus_White"
+        },
+        {
+            "dna_DefaultMob": "bear",
+            "dna_MobType": "Animal_UrsusArctos"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_CitizenASkinny_Brown"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_JournalistNormal_White"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_priestPopSkinny"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_Clerk_Normal_White"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_HermitSkinny_Beige"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_CitizenANormal_Blue"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_CitizenBFat_Red"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_CitizenBSkinny"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_FishermanOld_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_HikerSkinny_Grey"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_HunterOld_Autumn"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_SurvivorNormal_Orange"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_CitizenBFat_Blue"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_HikerSkinny_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_MotobikerFat_Black"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_JoggerSkinny_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_JoggerSkinny_Red"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_SkaterYoung_Striped"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_MechanicSkinny_Grey"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_BlueCollarFat_Red"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_HandymanNormal_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_MechanicNormal_Beige"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_HeavyIndustryWorker"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_PatientOld"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_Jacket_black"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_ShortSkirt_beige"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_Jacket_stripes"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_VillagerOld_Red"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_HikerSkinny_Blue"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_JoggerSkinny_Red"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_HikerSkinny_Yellow"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_MilkMaidOld_Beige"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_PolicemanFat"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_VillagerOld_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_PatrolNormal_Summer"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_ShortSkirt_yellow"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_JoggerSkinny_Blue"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_NurseFat"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_VillagerOld_White"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_PoliceWomanNormal"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_SkaterYoung_Brown"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_HikerSkinny_Blue"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_MechanicSkinny_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_ParamedicNormal_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_DoctorFat"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_JournalistNormal_Red"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_PatientSkinny"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_SurvivorNormal_White"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_ClerkFat_Brown"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_JoggerSkinny_Brown"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_ClerkFat_White"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_MechanicNormal_Grey"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_Jacket_magenta"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_BlueCollarFat_Green"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbM_PolicemanSpecForce"
+        },
+        {
+            "dna_DefaultMob": "infected",
+            "dna_MobType": "ZmbF_DoctorSkinny"
+        },
+        {
+            "dna_DefaultMob": "bossYellow",
+            "dna_MobType": ""
+        },
+        {
+            "dna_DefaultMob": "bossGreen",
+            "dna_MobType": ""
+        },
+        {
+            "dna_DefaultMob": "bossBlue",
+            "dna_MobType": ""
+        },
+        {
+            "dna_DefaultMob": "bossPurple",
+            "dna_MobType": ""
+        },
+        {
+            "dna_DefaultMob": "bossRed",
+            "dna_MobType": ""
+        }
+    ]
+}

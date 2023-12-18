@@ -1,0 +1,56 @@
+{
+  "m_Version": 5,
+  "EnableMap": 1,
+  "UseMapOnMapItem": 1,
+  "ShowPlayerPosition": 1,
+  "ShowMapStats": 1,
+  "NeedPenItemForCreateMarker": 0,
+  "NeedGPSItemForCreateMarker": 1,
+  "CanCreateMarker": 1,
+  "CanCreate3DMarker": 1,
+  "CanOpenMapWithKeyBinding": 1,
+  "ShowDistanceOnPersonalMarkers": 1,
+  "EnableHUDGPS": 1,
+  "NeedGPSItemForKeyBinding": 0,
+  "NeedMapItemForKeyBinding": 1,
+  "EnableServerMarkers": 1,
+  "ShowNameOnServerMarkers": 1,
+  "ShowDistanceOnServerMarkers": 1,
+  "ServerMarkers": [
+    {
+      "m_UID": "ServerMarker_Trader_Green_Montain",
+      "m_Visibility": 6,
+      "m_Is3D": 1,
+      "m_Text": "Trader - Green Montain",
+      "m_IconName": "Trader",
+      "m_Color": -13710223,
+      "m_Position": [
+        3698,
+        405,
+        5988
+      ],
+      "m_Locked": 0
+    },
+    {
+      "m_UID": "ServerMarker_Altar_Trader",
+      "m_Visibility": 0,
+      "m_Is3D": 1,
+      "m_Text": "Altar Trader",
+      "m_IconName": "Trader",
+      "m_Color": -14161643,
+      "m_Position": [
+        8174,
+        344.649994,
+        9091.95996
+      ],
+      "m_Locked": 1
+    }
+  ],
+  "EnableHUDCompass": 1,
+  "NeedCompassItemForHUDCompass": 1,
+  "NeedGPSItemForHUDCompass": 0,
+  "CompassColor": -1,
+  "CreateDeathMarker": 1,
+  "PlayerLocationNotifier": 1,
+  "CompassBadgesColor": -1946157056
+}

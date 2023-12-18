@@ -1,0 +1,9 @@
+{
+  "m_Version": 1,
+  "Enabled": 0,
+  "CheckForBlockingObjects": 1,
+  "ExplosionTargets": null,
+  "ExplosiveProjectiles": {
+    "Bullet_40mm_Explosive": "Explosion_40mm_Ammo"
+  }
+}

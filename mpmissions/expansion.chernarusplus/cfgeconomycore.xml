@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<economycore>
+  <classes>
+    <rootclass name="DefaultWeapon" />
+    <rootclass name="DefaultMagazine" />
+    <rootclass name="Inventory_Base" />
+    <rootclass name="HouseNoDestruct" reportMemoryLOD="no" />
+    <rootclass name="SurvivorBase" reportMemoryLOD="no" act="character" />
+    <rootclass name="DZ_LightAI" reportMemoryLOD="no" act="character" />
+    <rootclass name="CarScript" reportMemoryLOD="no" act="car" />
+  </classes>
+  <defaults>
+    <default name="dyn_radius" value="30" />
+    <default name="dyn_smin" value="0" />
+    <default name="dyn_smax" value="0" />
+    <default name="dyn_dmin" value="1" />
+    <default name="dyn_dmax" value="5" />
+    <default name="log_ce_loop" value="false" />
+    <default name="log_ce_dynamicevent" value="false" />
+    <default name="log_ce_vehicle" value="false" />
+    <default name="log_ce_lootspawn" value="false" />
+    <default name="log_ce_lootcleanup" value="false" />
+    <default name="log_ce_lootrespawn" value="false" />
+    <default name="log_ce_statistics" value="false" />
+    <default name="log_ce_zombie" value="false" />
+    <default name="log_storageinfo" value="false" />
+    <default name="log_hivewarning" value="true" />
+    <default name="log_missionfilewarning" value="true" />
+    <default name="save_events_startup" value="true" />
+    <default name="save_types_startup" value="true" />
+  </defaults>
+  <ce folder="expansion_ce">
+    <file name="expansion_types.xml" type="types" />
+    <file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+  </ce>
+  <ce folder="Custom">
+    <file name="Basebuildingplus_types.xml" type="types" />
+    <file name="fliptransport_types.xml" type="types" />
+    <file name="UmbrellaClothing_types.xml" type="types" />
+    <file name="KOTH_types.xml" type="types" />
+    <file name="Custom_Cards_types.xml" type="types" />
+    <file name="codelock_types.xml" type="types" />
+    <file name="Mavericks12v_types.xml" type="types" />
+    <file name="Boomlay_things_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Vanilla Types">
+    <file name="types_clothes.xml" type="types" />
+    <file name="types_containers.xml" type="types" />
+    <file name="types_explosives.xml" type="types" />
+    <file name="types_food.xml" type="types" />
+    <file name="types_lootdispatch.xml" type="types" />
+    <file name="types_other.xml" type="types" />
+    <file name="types_tools.xml" type="types" />
+    <file name="types_weapons.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Snafu Weapons">
+    <file name="Snafu_Weapons_types.xml" type="types" />
+    <file name="SnafuWeapons_spawnabletypes.xml" type="spawnabletypes" />
+  </ce>
+  <ce folder="Custom/MMG">
+    <file name="mmg_storage_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/DNA Keycards">
+    <file name="DNA_Keycards_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Jeep Gladiator">
+    <file name="jeep_gladiator_types.xml" type="types" />
+    <file name="jeep_gladiator_spawnabletypes.xml" type="spawnabletypes" />
+  </ce>
+  <ce folder="Custom/Arma2 Remastered">
+    <file name="ext_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Gebs Fishing">
+    <file name="gebs_types.xml" type="types" />
+    <file name="geb_spawnabletypes.xml" type="spawnabletypes" />
+  </ce>
+  <ce folder="Custom/Blacks">
+    <file name="Blacks_FordRaptor_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/AJ MODS">
+    <file name="AJ_Creatures_types.xml" type="types" />
+    <file name="AJ_Creatures_Events.xml" type="events" />
+    <file name="FOG_types.xml" type="types" />
+    <file name="FOG_spawnabletypes.xml" type="spawnabletypes" />
+  </ce>
+  <ce folder="Custom/Flava">
+    <file name="Flava_Tactical_types.xml" type="types" />
+    <file name="TacticalFlava_spawnabletypes.xml" type="spawnabletypes" />
+  </ce>
+  <ce folder="Custom/DBN">
+    <file name="DBN_Novotor_types.xml" type="types" />
+    <file name="DBN_Raptor_spawnabletypes.xml" type="spawnabletypes" />
+    <file name="DBN_Raptor_types.xml" type="types" />
+  </ce>
+</economycore>

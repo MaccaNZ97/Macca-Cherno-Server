@@ -1,0 +1,32 @@
+{
+  "m_Version": 11,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Scrap Metal",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "SNAFU_MAGS:2",
+    "OPTICS",
+    "BAYONETS",
+    "BUTTSTOCKS",
+    "HANDGUARDS",
+    "GUN MUZZLES",
+    "SNAFU_EXTRAS:2",
+    "SNAFU_SCOPES:2",
+    "MAGAZINES",
+    "SNAFU_GRIPS:2",
+    "SNAFU_STOCKS:2",
+    "SNAFU_HANDGUARDS:2",
+    "SNAFU_BIPODS:2"
+  ],
+  "Items": {
+    "battery9v": 1,
+    "tlrlight": 1,
+    "universallight": 1
+  }
+}

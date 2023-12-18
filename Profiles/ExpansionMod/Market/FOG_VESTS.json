@@ -1,0 +1,225 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG VESTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_vest_avs_black",
+      "MaxPriceThreshold": 17500,
+      "MinPriceThreshold": 17500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_avs_mc",
+        "fog_vest_avs_cb",
+        "fog_vest_avs_rg",
+        "fog_vest_avs_aor1",
+        "fog_vest_avs_aor2",
+        "fog_vest_avs_alp"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_fcpc_black",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_fcpc_cb",
+        "fog_vest_fcpc_grey",
+        "fog_vest_fcpc_m81",
+        "fog_vest_fcpc_mc",
+        "fog_vest_fcpc_mcb",
+        "fog_vest_fcpc_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_gen4_black",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_gen4_green",
+        "fog_vest_gen4_tan",
+        "fog_vest_gen4_emr",
+        "fog_vest_gen4_ucp",
+        "fog_vest_gen4_nwu",
+        "fog_vest_gen4_marpat"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_jpc_black",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_jpc_cb",
+        "fog_vest_jpc_mc",
+        "fog_vest_jpc_rg",
+        "fog_vest_jpc_aor1",
+        "fog_vest_jpc_aor2",
+        "fog_vest_jpc_alp"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_lv119_black",
+      "MaxPriceThreshold": 12500,
+      "MinPriceThreshold": 12500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_lv119_cb",
+        "fog_vest_lv119_mc",
+        "fog_vest_lv119_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_lvmbav_black",
+      "MaxPriceThreshold": 12500,
+      "MinPriceThreshold": 12200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_lvmbav_cb",
+        "fog_vest_lvmbav_rg",
+        "fog_vest_lvmbav_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_mmac_black",
+      "MaxPriceThreshold": 18500,
+      "MinPriceThreshold": 18200,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_mmac_mc",
+        "fog_vest_mmac_cb",
+        "fog_vest_mmac_rg",
+        "fog_vest_mmac_aor2"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_osprey_black",
+      "MaxPriceThreshold": 26500,
+      "MinPriceThreshold": 25200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_osprey_cb",
+        "fog_vest_osprey_grey",
+        "fog_vest_osprey_mc",
+        "fog_vest_osprey_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_paca_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_vest_ssmk4_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_ssmk4_cb",
+        "fog_vest_ssmk4_grey",
+        "fog_vest_ssmk4_m81",
+        "fog_vest_ssmk4_mc",
+        "fog_vest_ssmk4_mca",
+        "fog_vest_ssmk4_mct",
+        "fog_vest_ssmk4_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_tactec_black",
+      "MaxPriceThreshold": 1700,
+      "MinPriceThreshold": 1700,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_tactec_cb",
+        "fog_vest_tactec_rg",
+        "fog_vest_tactec_grey"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_thor_black",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 32500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_thor_emr",
+        "fog_vest_thor_green",
+        "fog_vest_thor_m81",
+        "fog_vest_thor_mc",
+        "fog_vest_thor_mcb",
+        "fog_vest_thor_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_tv110t_black",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 23500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_tv110t_tan",
+        "fog_vest_tv110t_cb",
+        "fog_vest_tv110t_rg",
+        "fog_vest_tv110t_au",
+        "fog_vest_tv110t_fg",
+        "fog_vest_tv110t_mc"
+      ]
+    }
+  ]
+}

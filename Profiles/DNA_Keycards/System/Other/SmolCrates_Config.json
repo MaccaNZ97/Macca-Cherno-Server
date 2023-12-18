@@ -1,0 +1,38 @@
+{
+    "dna_Description": "Config for spawning and respawning smol crates. In order to use this to spawn smol crates, set dna_SpawnSmolCrates to true, and add your",
+    "dna_DescriptionCont": "locations, and orientations along with the desired tier. To use timer settings, the timer must be activated in ResetTimer_Config.json.",
+    "dna_CrateSpawns": [
+        {
+            "dna_Tier": "Yellow",
+            "dna_Location": "0.0 0.0 0.0",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Green",
+            "dna_Location": "0.0 0.0 0.0",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Blue",
+            "dna_Location": "0.0 0.0 0.0",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Purple",
+            "dna_Location": "0.0 0.0 0.0",
+            "dna_Rotation": "0.0 0.0 0.0"
+        },
+        {
+            "dna_Tier": "Red",
+            "dna_Location": "752.601 451.53 14957.5",
+            "dna_Rotation": "-169.50.0 0.0 0.0"
+        }
+    ],
+    "dna_SpawnSmolCrates": 0,
+    "dna_ResetSmolCrates": 0,
+    "dna_TimeUntilYellowSmolCrateResets": 30,
+    "dna_TimeUntilGreenSmolCrateResets": 30,
+    "dna_TimeUntilBlueSmolCrateResets": 30,
+    "dna_TimeUntilPurpleSmolCrateResets": 30,
+    "dna_TimeUntilRedSmolCrateResets": 30
+}

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="evg_keycard_holder_camo">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1</restock>
+    <min>4</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Unique" />
+  </type>
+  <type name="evg_keycard_holder_leather">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1</restock>
+    <min>4</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Unique" />
+  </type>
+  <type name="evg_keycards_All">
+    <nominal>2</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="shelves" />
+  </type>
+  <type name="evg_keycards_Blue">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1</restock>
+    <min>4</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Unique" />
+  </type>
+  <type name="evg_keycards_Green">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1</restock>
+    <min>4</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Unique" />
+  </type>
+  <type name="evg_keycards_NWAF01">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>2</restock>
+    <min>10</min>
+    <quantmin>5</quantmin>
+    <quantmax>5</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Unique" />
+  </type>
+  <type name="evg_keycards_NWAF02">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>10</min>
+    <quantmin>5</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Unique" />
+  </type>
+  <type name="evg_keycards_NWAF03">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>10</min>
+    <quantmin>5</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Unique" />
+  </type>
+  <type name="evg_keycards_Red">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1</restock>
+    <min>4</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="ContaminatedArea" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Unique" />
+  </type>
+  <type name="evg_keycards_Tisy01">
+    <nominal>2</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="shelves" />
+  </type>
+  <type name="evg_keycards_Tisy02">
+    <nominal>2</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="tools" />
+  </type>
+  <type name="evg_keycards_Tisy03">
+    <nominal>2</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="shelves" />
+  </type>
+  <type name="evg_keycards_Tisy04">
+    <nominal>2</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="shelves" />
+  </type>
+  <type name="evg_keycards_Tisy05">
+    <nominal>2</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <tag name="shelves" />
+  </type>
+  <type name="evg_keycards_Violet">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1</restock>
+    <min>4</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="ContaminatedArea" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Unique" />
+  </type>
+  <type name="evg_keycards_White">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1</restock>
+    <min>4</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="ContaminatedArea" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Unique" />
+  </type>
+  <type name="evg_keycards_Yellow">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1</restock>
+    <min>4</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="ContaminatedArea" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Unique" />
+  </type>
+</types>

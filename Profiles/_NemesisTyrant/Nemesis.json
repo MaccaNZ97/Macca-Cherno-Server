@@ -1,0 +1,81 @@
+{
+    "ActiveReward": 1,
+    "PorcentageDrop": 40,
+    "NemesisHealth": 10000,
+    "Reward": [
+        {
+            "Name": "Reward1",
+            "Container": "Nemesis_Storage",
+            "Items": [
+                {
+                    "Item": "M4A1",
+                    "Quantity": 1,
+                    "ItemAttachments": [
+                        "M4_RISHndgrd",
+                        "M4_OEBttstck",
+                        "M68Optic"
+                    ]
+                },
+                {
+                    "Item": "PlateCarrierVest",
+                    "Quantity": 1,
+                    "ItemAttachments": [
+                        "PlateCarrierHolster"
+                    ]
+                },
+                {
+                    "Item": "Mag_STANAGCoupled_30Rnd",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Mag_STANAGCoupled_30Rnd",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "PainkillerTablets",
+                    "Quantity": 12,
+                    "ItemAttachments": []
+                }
+            ]
+        },
+        {
+            "Name": "Reward2",
+            "Container": "Nemesis_Storage",
+            "Items": [
+                {
+                    "Item": "AKM",
+                    "Quantity": 1,
+                    "ItemAttachments": [
+                        "AK74_WoodBttstck_Camo",
+                        "PSO1Optic"
+                    ]
+                },
+                {
+                    "Item": "UKAssVest_Camo",
+                    "Quantity": 1,
+                    "ItemAttachments": [
+                        "M67Grenade",
+                        "M67Grenade"
+                    ]
+                },
+                {
+                    "Item": "Mag_AKM_Drum75Rnd",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Mag_AKM_Drum75Rnd",
+                    "Quantity": 1,
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "CharcoalTablets",
+                    "Quantity": 12,
+                    "ItemAttachments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "m_Version": 6,
+  "Enabled": 1,
+  "AllowStoringDEVehicles": 1,
+  "GarageMode": 1,
+  "GarageStoreMode": 0,
+  "GarageRetrieveMode": 0,
+  "MaxStorableVehicles": 10,
+  "VehicleSearchRadius": 300.0,
+  "MaxDistanceFromStoredPosition": 550.0,
+  "CanStoreWithCargo": 1,
+  "UseVirtualStorageForCargo": 1,
+  "NeedKeyToStore": 0,
+  "EntityWhitelist": [
+    "ExpansionParkingMeter",
+    "ATSGroundMountDSParking",
+    "TerritoryFlag"
+  ],
+  "EnableGroupFeatures": 1,
+  "GroupStoreMode": 0,
+  "EnableMarketFeatures": 0,
+  "StorePricePercent": 1.0,
+  "StaticStorePrice": 100,
+  "MaxStorableTier1": 2,
+  "MaxStorableTier2": 4,
+  "MaxStorableTier3": 6,
+  "MaxRangeTier1": 220.0,
+  "MaxRangeTier2": 230.0,
+  "MaxRangeTier3": 240.0,
+  "ParkingMeterEnableFlavor": 1
+}

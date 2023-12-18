@@ -1,0 +1,404 @@
+{
+  "m_Version": 7,
+  "SpawnLocations": [
+    {
+      "Name": "Svetloyarsk",
+      "Positions": [
+        [
+          14273.2002,
+          2.4000001,
+          13053.2998
+        ],
+        [
+          14407.2998,
+          2,
+          13253
+        ],
+        [
+          14142.4004,
+          3.29999995,
+          13290.2002
+        ],
+        [
+          13910.9004,
+          4.30000019,
+          13624.9004
+        ]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "Berezino",
+      "Positions": [
+        [
+          12915.7002,
+          3.4000001,
+          9278.2002
+        ],
+        [
+          13057.2002,
+          2.29999995,
+          9584.48047
+        ],
+        [
+          13052.9004,
+          6.0999999,
+          9894.7002
+        ],
+        [
+          13207.2002,
+          2.29999995,
+          10193.7002
+        ]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "Solnich",
+      "Positions": [
+        [
+          13169.5,
+          3.07560992,
+          7504.02979
+        ],
+        [
+          13274,
+          1.78349996,
+          7258.81006
+        ],
+        [
+          13345.5996,
+          1.87793005,
+          6987.35986
+        ],
+        [
+          13383,
+          2.75516009,
+          6815.89014
+        ]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "Solnichniy",
+      "Positions": [
+        [
+          13529.5303,
+          2.25122809,
+          6455.61279
+        ],
+        [
+          13484.7246,
+          1.74664605,
+          5911.09473
+        ],
+        [
+          13515.9121,
+          2.67964792,
+          6117.38428
+        ],
+        [
+          13534.6719,
+          1.64466906,
+          6234.75
+        ]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "Kamyshovo",
+      "Positions": [
+        [
+          12321.9395,
+          1.92613995,
+          3446.66675
+        ],
+        [
+          12188.5703,
+          1.72729003,
+          3422.33228
+        ],
+        [
+          11992.25,
+          1.98208106,
+          3404.55444
+        ],
+        [
+          11859.3438,
+          1.90151501,
+          3367.71484
+        ]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "Elektrozavodsk",
+      "Positions": [
+        [
+          11099.0684,
+          2.29767609,
+          2735.5625
+        ],
+        [
+          10858.4131,
+          2.91172099,
+          2328.29028
+        ],
+        [
+          10490.9141,
+          1.84690201,
+          1950.14844
+        ],
+        [
+          9826.88574,
+          1.71182096,
+          1757.37463
+        ],
+        [
+          9428.45801,
+          2.25445294,
+          1826.21851
+        ],
+        [
+          9153.53613,
+          3.42111707,
+          1914.30066
+        ]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "Chernogorsk",
+      "Positions": [
+        [
+          6044.10303,
+          6.42999506,
+          1871.50061
+        ],
+        [
+          6220.44043,
+          1.91781402,
+          2101.12329
+        ],
+        [
+          7118.12207,
+          1.82418299,
+          2533.97192
+        ],
+        [
+          7419.49707,
+          1.76838601,
+          2576.50391
+        ],
+        [
+          8139.25,
+          1.15171099,
+          2802.35645
+        ]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "Balota",
+      "Positions": [
+        [
+          4654.59424,
+          1.45971799,
+          2132.8667
+        ],
+        [
+          4543.99072,
+          1.90163898,
+          2198.16626
+        ],
+        [
+          4269.42285,
+          1.289235,
+          2245.66089
+        ],
+        [
+          4111.90576,
+          1.56626403,
+          2193.93262
+        ]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "Komarovo",
+      "Positions": [
+        [
+          3887.55908,
+          1.59550905,
+          2207.15894
+        ],
+        [
+          3746.65576,
+          2.44538593,
+          2199.87817
+        ],
+        [
+          3507.42285,
+          2.00860906,
+          2101.45459
+        ],
+        [
+          3366.98535,
+          1.90252101,
+          2002.41406
+        ]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "Kamenka",
+      "Positions": [
+        [
+          2164.7002,
+          1.72801399,
+          2049.44385
+        ],
+        [
+          2031.42542,
+          1.29074299,
+          2150.74341
+        ],
+        [
+          1708.52307,
+          1.95830905,
+          2031.26367
+        ],
+        [
+          1563.32568,
+          2.17413211,
+          2063.25488
+        ]
+      ],
+      "UseCooldown": 1
+    }
+  ],
+  "StartingClothing": {
+    "EnableCustomClothing": 1,
+    "SetRandomHealth": 0,
+    "Headgear": [
+      "Headtorch_Black"
+    ],
+    "Glasses": [],
+    "Masks": [],
+    "Tops": [
+      "TShirt_Green",
+      "TShirt_Blue",
+      "TShirt_Black",
+      "TShirt_Beige",
+      "TShirt_Red",
+      "TShirt_OrangeWhiteStripes",
+      "TShirt_White",
+      "TShirt_Red",
+      "TShirt_Grey",
+      "TShirt_RedBlackStripes"
+    ],
+    "Vests": [],
+    "Gloves": [],
+    "Pants": [
+      "CanvasPants_Beige",
+      "CanvasPants_Blue",
+      "CanvasPants_Grey",
+      "CanvasPants_Red",
+      "CanvasPants_Violet",
+      "CanvasPantsMidi_Beige",
+      "CanvasPantsMidi_Blue",
+      "CanvasPantsMidi_Grey",
+      "CanvasPantsMidi_Red",
+      "CanvasPantsMidi_Violet"
+    ],
+    "Belts": [],
+    "Shoes": [
+      "AthleticShoes_Blue",
+      "AthleticShoes_Grey",
+      "AthleticShoes_Brown",
+      "AthleticShoes_Green",
+      "AthleticShoes_Black"
+    ],
+    "Armbands": [],
+    "Backpacks": [
+      "TaloonBag_Blue",
+      "TaloonBag_Green",
+      "TaloonBag_Orange",
+      "TaloonBag_Violet"
+    ]
+  },
+  "EnableSpawnSelection": 1,
+  "SpawnOnTerritory": 1,
+  "StartingGear": {
+    "EnableStartingGear": 1,
+    "UseUpperGear": 1,
+    "UsePantsGear": 0,
+    "UseBackpackGear": 0,
+    "UseVestGear": 0,
+    "UsePrimaryWeapon": 0,
+    "UseSecondaryWeapon": 0,
+    "ApplyEnergySources": 1,
+    "SetRandomHealth": 0,
+    "UpperGear": [
+      {
+        "ClassName": "Rag",
+        "Quantity": 4,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Apple",
+        "Quantity": 1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Battery9V",
+        "Quantity": 1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "WaterBottle",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "BandageDressing",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Headtorch_Black",
+        "Quantity": -1,
+        "Attachments": []
+      }
+    ],
+    "PantsGear": [],
+    "BackpackGear": [],
+    "VestGear": [],
+    "PrimaryWeapon": {},
+    "SecondaryWeapon": {}
+  },
+  "UseLoadouts": 1,
+  "MaleLoadouts": [
+    {
+      "Loadout": "PlayerSurvivorLoadout",
+      "Chance": 1.0
+    }
+  ],
+  "FemaleLoadouts": [
+    {
+      "Loadout": "PlayerSurvivorLoadout",
+      "Chance": 1.0
+    }
+  ],
+  "SpawnHealthValue": 100.0,
+  "SpawnEnergyValue": 500.0,
+  "SpawnWaterValue": 500.0,
+  "EnableRespawnCooldowns": 1,
+  "RespawnCooldown": 120,
+  "TerritoryRespawnCooldown": 240,
+  "PunishMultispawn": 1,
+  "PunishCooldown": 120,
+  "PunishTimeframe": 300,
+  "CreateDeathMarker": 1,
+  "BackgroundImagePath": "DayZExpansion/SpawnSelection/GUI/textures/wood_background.edds"
+}

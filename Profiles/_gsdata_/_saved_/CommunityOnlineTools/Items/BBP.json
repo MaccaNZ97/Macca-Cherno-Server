@@ -1,0 +1,31 @@
+{
+    "Name": "Gate Wood",
+    "ContainerClassName": "SeaChest",
+    "Items": [
+        {
+            "ItemName": "Nail",
+            "NumberOfStacks": 6,
+            "StackSize": 99
+        },
+        {
+            "ItemName": "hatchet",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Pliers",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "BBP_Blueprint",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "codelock",
+            "NumberOfStacks": 4,
+            "StackSize": 1
+        }
+    ]
+}

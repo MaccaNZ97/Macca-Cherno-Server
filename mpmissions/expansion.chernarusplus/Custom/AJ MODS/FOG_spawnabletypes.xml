@@ -1,0 +1,2415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+    <type name="FOG_Belt_RTGFB_CB">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_Tan" chance="0.50" />
+            <item name="FOG_SAS_Holster_Tan" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MC" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Belt_RTGFB_MC">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_MC" chance="0.50" />
+            <item name="FOG_SAS_Holster_Tan" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MC" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Belt_RTGFB_RG">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_RG" chance="0.50" />
+            <item name="FOG_SAS_Holster_RG" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MC" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Belt_RTGFB_Black">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_Black" chance="0.50" />
+            <item name="FOG_SAS_Holster_Black" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MCB" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Belt_RTGFB_ALP">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_ALP" chance="0.50" />
+            <item name="FOG_SAS_Holster_Black" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MCB" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Belt_RTGFB_AOR1">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_Tan" chance="0.50" />
+            <item name="FOG_SAS_Holster_Tan" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MC" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Belt_RTGFB_AOR2">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_RG" chance="0.50" />
+            <item name="FOG_SAS_Holster_RG" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MC" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_MRB_Belt_CB">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_Tan" chance="0.50" />
+            <item name="FOG_SAS_Holster_Tan" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Dump_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_SingleMag_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Esstac_CB" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_MRB_Belt_MC">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_MC" chance="0.50" />
+            <item name="FOG_SAS_Holster_Tan" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Dump_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_SingleMag_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Esstac_MC" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_MRB_Belt_MCB">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_Black" chance="0.50" />
+            <item name="FOG_SAS_Holster_Black" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MCB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Dump_MCB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_SingleMag_MCB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Esstac_Black" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_MRB_Belt_RG">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_RG" chance="0.50" />
+            <item name="FOG_SAS_Holster_RG" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Dump_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_SingleMag_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Esstac_RG" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_MRB_Belt_AOR1">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_Tan" chance="0.50" />
+            <item name="FOG_SAS_Holster_Tan" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Dump_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_SingleMag_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Esstac_AOR1" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_MRB_Belt_AOR2">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_RG" chance="0.50" />
+            <item name="FOG_SAS_Holster_RG" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Dump_AOR2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_SingleMag_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Esstac_AOR1" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_MRB_Belt_ATACSAU">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_Tan" chance="0.50" />
+            <item name="FOG_SAS_Holster_Tan" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Dump_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_SingleMag_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Esstac_CB" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_MRB_Belt_Black">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_Black" chance="0.50" />
+            <item name="FOG_SAS_Holster_Black" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MCB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Dump_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_SingleMag_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Esstac_Black" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_MRB_Belt_6CD">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_Tan" chance="0.50" />
+            <item name="FOG_SAS_Holster_Tan" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Dump_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_SingleMag_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Esstac_CB" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_MRB_Belt_MCT">
+        <attachments chance="1.00">
+            <item name="FOG_RTGFB_Holster_RG" chance="0.50" />
+            <item name="FOG_SAS_Holster_RG" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_LBT_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Dump_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_SingleMag_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Esstac_RG" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_Airframe_CB">
+        <attachments chance="0.75">
+            <item name="FOG_Airframe_Cover_CB" chance="0.12" />
+            <item name="FOG_Airframe_Cover_MC" chance="0.12" />
+            <item name="FOG_Airframe_Cover_Black" chance="0.12" />
+            <item name="FOG_Airframe_Cover_MCB" chance="0.12" />
+            <item name="FOG_Airframe_Cover_RG" chance="0.12" />
+            <item name="FOG_Airframe_Cover_ALP" chance="0.12" />
+            <item name="FOG_Airframe_Cover_AOR1" chance="0.12" />
+            <item name="FOG_Airframe_Cover_AOR2" chance="0.12" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.20" />
+            <item name="FOG_Comtac_IV_RG" chance="0.20" />
+            <item name="FOG_Comtac_IV_Black" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.10" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_Airframe_RG">
+        <attachments chance="0.75">
+            <item name="FOG_Airframe_Cover_CB" chance="0.12" />
+            <item name="FOG_Airframe_Cover_MC" chance="0.12" />
+            <item name="FOG_Airframe_Cover_Black" chance="0.12" />
+            <item name="FOG_Airframe_Cover_MCB" chance="0.12" />
+            <item name="FOG_Airframe_Cover_RG" chance="0.12" />
+            <item name="FOG_Airframe_Cover_ALP" chance="0.12" />
+            <item name="FOG_Airframe_Cover_AOR1" chance="0.12" />
+            <item name="FOG_Airframe_Cover_AOR2" chance="0.12" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.20" />
+            <item name="FOG_Comtac_IV_RG" chance="0.20" />
+            <item name="FOG_Comtac_IV_Black" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.10" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_Airframe_Black">
+        <attachments chance="0.75">
+            <item name="FOG_Airframe_Cover_CB" chance="0.12" />
+            <item name="FOG_Airframe_Cover_MC" chance="0.12" />
+            <item name="FOG_Airframe_Cover_Black" chance="0.12" />
+            <item name="FOG_Airframe_Cover_MCB" chance="0.12" />
+            <item name="FOG_Airframe_Cover_RG" chance="0.12" />
+            <item name="FOG_Airframe_Cover_ALP" chance="0.12" />
+            <item name="FOG_Airframe_Cover_AOR1" chance="0.12" />
+            <item name="FOG_Airframe_Cover_AOR2" chance="0.12" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.20" />
+            <item name="FOG_Comtac_IV_RG" chance="0.20" />
+            <item name="FOG_Comtac_IV_Black" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.10" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FAST_Bump_Tan">
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.10" />
+            <item name="FOG_Comtac_IV_RG" chance="0.10" />
+            <item name="FOG_Comtac_IV_Black" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FAST_Bump_RG">
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.10" />
+            <item name="FOG_Comtac_IV_RG" chance="0.10" />
+            <item name="FOG_Comtac_IV_Black" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FAST_Bump_Black">
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.10" />
+            <item name="FOG_Comtac_IV_RG" chance="0.10" />
+            <item name="FOG_Comtac_IV_Black" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FAST_Bump_Grey">
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.10" />
+            <item name="FOG_Comtac_IV_RG" chance="0.10" />
+            <item name="FOG_Comtac_IV_Black" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FAST_Bump_MC">
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.10" />
+            <item name="FOG_Comtac_IV_RG" chance="0.10" />
+            <item name="FOG_Comtac_IV_Black" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FAST_Bump_MCB">
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.10" />
+            <item name="FOG_Comtac_IV_RG" chance="0.10" />
+            <item name="FOG_Comtac_IV_Black" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FAST_Bump_ERDL">
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.10" />
+            <item name="FOG_Comtac_IV_RG" chance="0.10" />
+            <item name="FOG_Comtac_IV_Black" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FASTMT_Tan">
+        <attachments chance="1.00">
+            <item name="FOG_FastMT_RAC_Tan" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FASTMT_MC">
+        <attachments chance="1.00">
+            <item name="FOG_FastMT_RAC_Tan" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FASTMT_Black">
+        <attachments chance="1.00">
+            <item name="FOG_FastMT_RAC_Tan" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FAST_SF_Tan">
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.10" />
+            <item name="FOG_Comtac_IV_RG" chance="0.10" />
+            <item name="FOG_Comtac_IV_Black" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_SF_BatteryPack_Tan" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_RG" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MC" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MCB" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FAST_SF_RG">
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.10" />
+            <item name="FOG_Comtac_IV_RG" chance="0.10" />
+            <item name="FOG_Comtac_IV_Black" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_SF_BatteryPack_Tan" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_RG" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MC" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MCB" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FAST_SF_Black">
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.10" />
+            <item name="FOG_Comtac_IV_RG" chance="0.10" />
+            <item name="FOG_Comtac_IV_Black" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_SF_BatteryPack_Tan" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_RG" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MC" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MCB" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FAST_SF_MC">
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.10" />
+            <item name="FOG_Comtac_IV_RG" chance="0.10" />
+            <item name="FOG_Comtac_IV_Black" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_SF_BatteryPack_Tan" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_RG" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MC" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MCB" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FAST_SF_MCB">
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.10" />
+            <item name="FOG_Comtac_IV_RG" chance="0.10" />
+            <item name="FOG_Comtac_IV_Black" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_SF_BatteryPack_Tan" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_RG" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MC" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MCB" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_FAST_SF_ERDL">
+        <attachments chance="1.00">
+            <item name="FOG_Comtac_IV_CB" chance="0.10" />
+            <item name="FOG_Comtac_IV_RG" chance="0.10" />
+            <item name="FOG_Comtac_IV_Black" chance="0.10" />
+            <item name="FOG_Comtac3_Headphones_AJ" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_RG" chance="0.20" />
+            <item name="FOG_Comtac3_Headphones_Black" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_SF_BatteryPack_Tan" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_RG" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MC" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MCB" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Helmet_Exfil_MC">
+        <attachments chance="1.00">
+            <item name="FOG_FastMT_RAC_Tan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_SF_BatteryPack_Tan" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_RG" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MC" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_MCB" chance="0.20" />
+            <item name="FOG_SF_BatteryPack_Black" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="FOG_Ghost_Mask_New">
+        <attachments chance="1.00">
+            <item name="FOG_Ghost_Headset_Tan" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_FCPC_MC">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_MC" chance="0.15" />
+            <item name="FOG_Pouch_Mag_Kangaroo_MC" chance="0.15" />
+            <item name="FOG_Pouch_Mag_BlueFor_MC" chance="0.15" />
+            <item name="FOG_TV110T_MagPouches_MC" chance="0.15" />
+            <item name="FOG_Pouch_Mag_TEAR_MC" chance="0.15" />
+            <item name="FOG_Pouch_Mag_KTAR_MC" chance="0.15" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Brown" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_MC_Flag_US" chance="0.30" />
+            <item name="FOG_FC_Panel_MC_Flag_US" chance="0.70" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_FCPC_RG">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_RG" chance="0.15" />
+            <item name="FOG_Pouch_Mag_Kangaroo_RG" chance="0.15" />
+            <item name="FOG_Pouch_Mag_BlueFor_RG" chance="0.15" />
+            <item name="FOG_TV110T_MagPouches_RG" chance="0.15" />
+            <item name="FOG_Pouch_Mag_TEAR_RG" chance="0.15" />
+            <item name="FOG_Pouch_Mag_KTAR_RG" chance="0.15" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_RG_Flag_US" chance="0.30" />
+            <item name="FOG_FC_Panel_RG_Flag_US" chance="0.70" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_FCPC_CB">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_CB" chance="0.15" />
+            <item name="FOG_Pouch_Mag_Kangaroo_CB" chance="0.15" />
+            <item name="FOG_Pouch_Mag_BlueFor_CB" chance="0.15" />
+            <item name="FOG_TV110T_MagPouches_CB" chance="0.15" />
+            <item name="FOG_Pouch_Mag_TEAR_CB" chance="0.15" />
+            <item name="FOG_Pouch_Mag_KTAR_CB" chance="0.15" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Brown" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_CB_Flag_US" chance="0.30" />
+            <item name="FOG_FC_Panel_CB_Flag_US" chance="0.70" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_FCPC_Black">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_Kangaroo_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_BlueFor_Black" chance="0.15" />
+            <item name="FOG_TV110T_MagPouches_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_TEAR_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_KTAR_Black" chance="0.15" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_Black_Flag_US" chance="0.30" />
+            <item name="FOG_FC_Panel_Black_Flag_US" chance="0.70" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_FCPC_MCB">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_Kangaroo_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_BlueFor_Black" chance="0.15" />
+            <item name="FOG_TV110T_MagPouches_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_TEAR_MCB" chance="0.15" />
+            <item name="FOG_Pouch_Mag_KTAR_MCB" chance="0.15" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_Black_Flag_US" chance="0.30" />
+            <item name="FOG_FC_Panel_Black_Flag_US" chance="0.70" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_FCPC_M81">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_RG" chance="0.15" />
+            <item name="FOG_Pouch_Mag_Kangaroo_RG" chance="0.15" />
+            <item name="FOG_Pouch_Mag_BlueFor_RG" chance="0.15" />
+            <item name="FOG_TV110T_MagPouches_RG" chance="0.15" />
+            <item name="FOG_Pouch_Mag_TEAR_RG" chance="0.15" />
+            <item name="FOG_Pouch_Mag_KTAR_RG" chance="0.15" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_RG_Flag_US" chance="0.30" />
+            <item name="FOG_FC_Panel_M81_Flag_US" chance="0.70" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_FCPC_Grey">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_Kangaroo_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_BlueFor_Black" chance="0.15" />
+            <item name="FOG_TV110T_MagPouches_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_TEAR_MCB" chance="0.15" />
+            <item name="FOG_Pouch_Mag_KTAR_MCB" chance="0.15" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_Grey" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Grey" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_Black_Flag_US" chance="0.30" />
+            <item name="FOG_FC_Panel_Black_Flag_US" chance="0.70" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_Osprey_MC">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_MC" chance="0.15" />
+            <item name="FOG_Pouch_Mag_Kangaroo_MC" chance="0.15" />
+            <item name="FOG_Pouch_Mag_BlueFor_MC" chance="0.15" />
+            <item name="FOG_TV110T_MagPouches_MC" chance="0.15" />
+            <item name="FOG_Pouch_Mag_TEAR_MC" chance="0.15" />
+            <item name="FOG_Pouch_Mag_KTAR_MC" chance="0.15" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Brown" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_Osprey_RG">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_RG" chance="0.15" />
+            <item name="FOG_Pouch_Mag_Kangaroo_RG" chance="0.15" />
+            <item name="FOG_Pouch_Mag_BlueFor_RG" chance="0.15" />
+            <item name="FOG_TV110T_MagPouches_RG" chance="0.15" />
+            <item name="FOG_Pouch_Mag_TEAR_RG" chance="0.15" />
+            <item name="FOG_Pouch_Mag_KTAR_RG" chance="0.15" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_Osprey_Grey">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_Kangaroo_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_BlueFor_Black" chance="0.15" />
+            <item name="FOG_TV110T_MagPouches_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_TEAR_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_KTAR_Black" chance="0.15" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_Osprey_CB">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_CB" chance="0.15" />
+            <item name="FOG_Pouch_Mag_Kangaroo_CB" chance="0.15" />
+            <item name="FOG_Pouch_Mag_BlueFor_CB" chance="0.15" />
+            <item name="FOG_TV110T_MagPouches_CB" chance="0.15" />
+            <item name="FOG_Pouch_Mag_TEAR_CB" chance="0.15" />
+            <item name="FOG_Pouch_Mag_KTAR_CB" chance="0.15" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_Osprey_Black">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_Kangaroo_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_BlueFor_Black" chance="0.15" />
+            <item name="FOG_TV110T_MagPouches_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_TEAR_Black" chance="0.15" />
+            <item name="FOG_Pouch_Mag_KTAR_Black" chance="0.15" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_AVS_MC">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_MC" chance="0.50" />
+            <item name="FOG_Pouch_Mag_AVS_CB" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_MC" chance="0.50" />
+            <item name="FOG_Pouch_Admin_Small_CB" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_MC" chance="0.50" />
+            <item name="FOG_Pouch_Grenade_CB" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Chemlight_Blue" chance="0.20" />
+            <item name="Chemlight_Green" chance="0.20" />
+            <item name="Chemlight_Red" chance="0.20" />
+            <item name="Chemlight_White" chance="0.20" />
+            <item name="Chemlight_Yellow" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Brown" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_AVS_CB">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Chemlight_Blue" chance="0.20" />
+            <item name="Chemlight_Green" chance="0.20" />
+            <item name="Chemlight_Red" chance="0.20" />
+            <item name="Chemlight_White" chance="0.20" />
+            <item name="Chemlight_Yellow" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Brown" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_AVS_Black">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Chemlight_Blue" chance="0.20" />
+            <item name="Chemlight_Green" chance="0.20" />
+            <item name="Chemlight_Red" chance="0.20" />
+            <item name="Chemlight_White" chance="0.20" />
+            <item name="Chemlight_Yellow" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_AVS_RG">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Chemlight_Blue" chance="0.20" />
+            <item name="Chemlight_Green" chance="0.20" />
+            <item name="Chemlight_Red" chance="0.20" />
+            <item name="Chemlight_White" chance="0.20" />
+            <item name="Chemlight_Yellow" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_AVS_AOR1">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_AOR1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_AOR1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Chemlight_Blue" chance="0.20" />
+            <item name="Chemlight_Green" chance="0.20" />
+            <item name="Chemlight_Red" chance="0.20" />
+            <item name="Chemlight_White" chance="0.20" />
+            <item name="Chemlight_Yellow" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Brown" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_AVS_AOR2">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_AOR2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_AOR2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Chemlight_Blue" chance="0.20" />
+            <item name="Chemlight_Green" chance="0.20" />
+            <item name="Chemlight_Red" chance="0.20" />
+            <item name="Chemlight_White" chance="0.20" />
+            <item name="Chemlight_Yellow" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_AVS_ALP">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_ALP" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_ALP" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_Grey" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Chemlight_Blue" chance="0.20" />
+            <item name="Chemlight_Green" chance="0.20" />
+            <item name="Chemlight_Red" chance="0.20" />
+            <item name="Chemlight_White" chance="0.20" />
+            <item name="Chemlight_Yellow" chance="0.20" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Grey" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_JPC_CB">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_CB" chance="0.25" />
+            <item name="FOG_Pouch_Mag_Kangaroo_CB" chance="0.25" />
+            <item name="FOG_Pouch_Mag_BlueFor_CB" chance="0.25" />
+            <item name="FOG_TV110T_MagPouches_CB" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Brown" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_CB_Flag_US" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_JPC_MC">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_MC" chance="0.25" />
+            <item name="FOG_Pouch_Mag_Kangaroo_MC" chance="0.25" />
+            <item name="FOG_Pouch_Mag_BlueFor_MC" chance="0.25" />
+            <item name="FOG_TV110T_MagPouches_MC" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Brown" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_MC_Flag_US" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_JPC_Black">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_Black" chance="0.25" />
+            <item name="FOG_Pouch_Mag_Kangaroo_Black" chance="0.25" />
+            <item name="FOG_Pouch_Mag_BlueFor_Black" chance="0.25" />
+            <item name="FOG_TV110T_MagPouches_Black" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_Black_Flag_US" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_JPC_RG">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_RG" chance="0.25" />
+            <item name="FOG_Pouch_Mag_Kangaroo_RG" chance="0.25" />
+            <item name="FOG_Pouch_Mag_BlueFor_RG" chance="0.25" />
+            <item name="FOG_TV110T_MagPouches_RG" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_RG_Flag_US" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_JPC_AOR1">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_AOR1" chance="0.25" />
+            <item name="FOG_Pouch_Mag_Kangaroo_AOR1" chance="0.25" />
+            <item name="FOG_Pouch_Mag_BlueFor_AOR1" chance="0.25" />
+            <item name="FOG_TV110T_MagPouches_CB" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_AOR1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_AOR1_Flag_US" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_JPC_AOR2">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_AOR2" chance="0.25" />
+            <item name="FOG_Pouch_Mag_Kangaroo_AOR2" chance="0.25" />
+            <item name="FOG_Pouch_Mag_BlueFor_AOR2" chance="0.25" />
+            <item name="FOG_TV110T_MagPouches_RG" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_AOR2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_AOR2_Flag_US" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_AOR2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_JPC_ALP">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_ALP" chance="0.25" />
+            <item name="FOG_Pouch_Mag_Kangaroo_ALP" chance="0.25" />
+            <item name="FOG_Pouch_Mag_BlueFor_ALP" chance="0.25" />
+            <item name="FOG_TV110T_MagPouches_Black" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_ALP" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_Grey" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Grey" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_Black_Flag_US" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_TacTec_CB">
+        <attachments chance="1.00">
+            <item name="PlateCarrierPouches" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_CB_Flag_US" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_TacTec_RG">
+        <attachments chance="1.00">
+            <item name="PlateCarrierPouches" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_RG_Flag_US" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_TacTec_Black">
+        <attachments chance="1.00">
+            <item name="PlateCarrierPouches" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_Black_Flag_US" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_TacTec_Grey">
+        <attachments chance="1.00">
+            <item name="PlateCarrierPouches" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_Grey" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Grey" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_JPC_Panel_Black_Flag_US" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_MMAC_MC">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_MC" chance="0.12" />
+            <item name="FOG_Pouch_Mag_Kangaroo_MC" chance="0.12" />
+            <item name="FOG_Pouch_Mag_BlueFor_MC" chance="0.12" />
+            <item name="FOG_TV110T_MagPouches_MC" chance="0.12" />
+            <item name="FOG_Pouch_Mag_AVS_CB" chance="0.12" />
+            <item name="FOG_Pouch_Mag_Kangaroo_CB" chance="0.12" />
+            <item name="FOG_Pouch_Mag_BlueFor_CB" chance="0.12" />
+            <item name="FOG_TV110T_MagPouches_CB" chance="0.12" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_MC" chance="0.50" />
+            <item name="FOG_Pouch_Admin_Small_CB" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_MC" chance="0.50" />
+            <item name="FOG_Pouch_Grenade_CB" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Brown" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_MC" chance="0.50" />
+            <item name="FOG_Pouch_Belly_CB" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_MMAC_Black">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_Black" chance="0.25" />
+            <item name="FOG_Pouch_Mag_Kangaroo_Black" chance="0.25" />
+            <item name="FOG_Pouch_Mag_BlueFor_Black" chance="0.25" />
+            <item name="FOG_TV110T_MagPouches_Black" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_MMAC_CB">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_CB" chance="0.25" />
+            <item name="FOG_Pouch_Mag_Kangaroo_CB" chance="0.25" />
+            <item name="FOG_Pouch_Mag_BlueFor_CB" chance="0.25" />
+            <item name="FOG_TV110T_MagPouches_CB" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_Brown" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_MMAC_RG">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_RG" chance="0.25" />
+            <item name="FOG_Pouch_Mag_Kangaroo_RG" chance="0.25" />
+            <item name="FOG_Pouch_Mag_BlueFor_RG" chance="0.25" />
+            <item name="FOG_TV110T_MagPouches_RG" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_MMAC_AOR2">
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Mag_AVS_AOR2" chance="0.25" />
+            <item name="FOG_Pouch_Mag_Kangaroo_AOR2" chance="0.25" />
+            <item name="FOG_Pouch_Mag_BlueFor_AOR2" chance="0.25" />
+            <item name="FOG_TV110T_MagPouches_AOR2" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Admin_Small_AOR2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Grenade_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_IFAK_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Pouch_Belly_AOR2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_TV110T_Tan">
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_MagPouches_Tan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_AdminPouch_Tan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_FastMag_Tan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_GrenadePouch_Tan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_Medkit_Tan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_UtilityPouch_Tan" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_TV110T_CB">
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_MagPouches_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_AdminPouch_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_FastMag_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_GrenadePouch_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_Medkit_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_UtilityPouch_CB" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_TV110T_Black">
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_MagPouches_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_AdminPouch_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_FastMag_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_GrenadePouch_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_Medkit_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_UtilityPouch_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_TV110T_RG">
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_MagPouches_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_AdminPouch_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_FastMag_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_GrenadePouch_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_Medkit_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_UtilityPouch_RG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_TV110T_AU">
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_MagPouches_AU" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_AdminPouch_AU" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_FastMag_AU" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_GrenadePouch_AU" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_Medkit_AU" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_UtilityPouch_AU" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_TV110T_FG">
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_MagPouches_FG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_AdminPouch_FG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_FastMag_FG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_GrenadePouch_FG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_Medkit_FG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_UtilityPouch_FG" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_Vest_TV110T_MC">
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_MagPouches_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_AdminPouch_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_FastMag_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_GrenadePouch_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_Medkit_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_TV110T_UtilityPouch_MC" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PersonalRadio" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Tourniquet" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="FOG_Vest_PhoneCase1_Tan" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Grey" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_Black" chance="0.12" />
+            <item name="FOG_Vest_PhoneCase1_RG" chance="0.12" />
+            <item name="FOG_Big_Patch_US_Colored" chance="0.12" />
+            <item name="FOG_Big_Patch_RedMan" chance="0.12" />
+            <item name="FOG_Big_Patch_FOG_cc" chance="0.12" />
+            <item name="FOG_Big_Patch_CrimeCo" chance="0.12" />
+        </attachments>
+    </type>
+    <type name="FOG_TV110T_Medkit_Tan">
+        <attachments chance="0.50">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="AntiChemInjector" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_TV110T_Medkit_CB">
+        <attachments chance="0.50">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="AntiChemInjector" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_TV110T_Medkit_Black">
+        <attachments chance="0.50">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="AntiChemInjector" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_TV110T_Medkit_RG">
+        <attachments chance="0.50">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="AntiChemInjector" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_TV110T_Medkit_AU">
+        <attachments chance="0.50">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="AntiChemInjector" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_TV110T_Medkit_FG">
+        <attachments chance="0.50">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="AntiChemInjector" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_TV110T_Medkit_MC">
+        <attachments chance="0.50">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="AntiChemInjector" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Pouch_IFAK_Brown">
+        <attachments chance="0.50">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="AntiChemInjector" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Pouch_IFAK_CB">
+        <attachments chance="0.50">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="AntiChemInjector" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Pouch_IFAK_RG">
+        <attachments chance="0.50">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="AntiChemInjector" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Pouch_IFAK_Grey">
+        <attachments chance="0.50">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="AntiChemInjector" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="FOG_Pouch_IFAK_Black">
+        <attachments chance="0.50">
+            <item name="BandageDressing" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="BloodTestKit" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="SalineBagIV" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Morphine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="AntiChemInjector" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="Epinephrine" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="PainkillerTablets" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="VitaminBottle" chance="1.00" />
+        </attachments>
+        <attachments chance="0.50">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </attachments>
+    </type>
+</spawnabletypes>

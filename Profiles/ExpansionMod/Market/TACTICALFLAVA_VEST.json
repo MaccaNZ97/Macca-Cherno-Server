@@ -1,0 +1,223 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TACTICAL FLAVA VEST",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "tf_6b23_112vest_emr",
+      "MaxPriceThreshold": 13000,
+      "MinPriceThreshold": 9750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "tf_6b23_112vest_gflora"
+      ]
+    },
+    {
+      "ClassName": "tf_6b23_112vest_emr_syrian",
+      "MaxPriceThreshold": 11000,
+      "MinPriceThreshold": 8250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_6b23_112vest_gflora_syrian",
+      "MaxPriceThreshold": 11000,
+      "MinPriceThreshold": 8250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_6b23vest_emr",
+      "MaxPriceThreshold": 11000,
+      "MinPriceThreshold": 8250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "tf_6b23vest_gflora"
+      ]
+    },
+    {
+      "ClassName": "tf_6b43vest_6sh112_emr",
+      "MaxPriceThreshold": 22500,
+      "MinPriceThreshold": 16875,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_6b43vest_6sh112_emr_syrian",
+      "MaxPriceThreshold": 22500,
+      "MinPriceThreshold": 16875,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_6b43vest_6sh112_syrian",
+      "MaxPriceThreshold": 22500,
+      "MinPriceThreshold": 16875,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_6b43vest_6sh112_syrian_emr",
+      "MaxPriceThreshold": 22500,
+      "MinPriceThreshold": 16875,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_6b43vest_emr",
+      "MaxPriceThreshold": 14200,
+      "MinPriceThreshold": 10650,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_6b43vest_syrian",
+      "MaxPriceThreshold": 22500,
+      "MinPriceThreshold": 16875,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_avsvest_coyote",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1125,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_avsvest_tagilla",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 18750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_imtvvest",
+      "MaxPriceThreshold": 9200,
+      "MinPriceThreshold": 6900,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_imtvvest_khaki",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1125,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_jpcvest_coyote",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 11250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_jpcvest_mc",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 11250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_lvmbavvest_kh",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1125,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_platecarriervest_coyote",
+      "MaxPriceThreshold": 1800,
+      "MinPriceThreshold": 1350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_platecarriervest_emr",
+      "MaxPriceThreshold": 1800,
+      "MinPriceThreshold": 1350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+    "adsFOVMultiplier": {
+        "constrain": 0,
+        "message": "#STR_SUDE_LAYOUT_OPTIONS_CONSTRAINED",
+        "min": 0.0,
+        "max": 1.0
+    },
+    "adsFOVMagnOpticsMultiplier": {
+        "constrain": 0,
+        "message": "#STR_SUDE_LAYOUT_OPTIONS_CONSTRAINED",
+        "min": 0.0,
+        "max": 1.0
+    },
+    "adsDOFIntensity": {
+        "constrain": 0,
+        "message": "#STR_SUDE_LAYOUT_OPTIONS_CONSTRAINED",
+        "min": 0.0,
+        "max": 1.0
+    },
+    "hideWeaponBarrelInOptic": {
+        "constrain": 0,
+        "message": "#STR_SUDE_LAYOUT_OPTIONS_CONSTRAINED",
+        "value": 0
+    },
+    "hideClothingInOptic": {
+        "constrain": 0,
+        "message": "#STR_SUDE_LAYOUT_OPTIONS_CONSTRAINED",
+        "value": 1
+    },
+    "lensZoomStrength": {
+        "constrain": 0,
+        "message": "#STR_SUDE_LAYOUT_OPTIONS_CONSTRAINED",
+        "min": 0.0,
+        "max": 1.0
+    },
+    "deadzoneLimits": {
+        "constrain": 0,
+        "message": "#STR_SUDE_LAYOUT_OPTIONS_CONSTRAINED",
+        "min": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "max": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "resetDeadzoneOnFocus": {
+        "constrain": 0,
+        "message": "#STR_SUDE_LAYOUT_OPTIONS_CONSTRAINED",
+        "value": 1
+    },
+    "showDynamicCrosshair": {
+        "constrain": 0,
+        "message": "#STR_SUDE_LAYOUT_OPTIONS_CONSTRAINED",
+        "value": 1
+    },
+    "dynamicCrosshairType": {
+        "constrain": 0,
+        "message": "#STR_SUDE_LAYOUT_OPTIONS_CONSTRAINED",
+        "value": 0
+    },
+    "dynamicCrosshairRGBA": {
+        "constrain": 0,
+        "message": "#STR_SUDE_LAYOUT_OPTIONS_CONSTRAINED",
+        "min": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "max": [
+            255.0,
+            255.0,
+            255.0,
+            255.0
+        ]
+    }
+}

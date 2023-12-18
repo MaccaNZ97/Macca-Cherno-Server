@@ -1,0 +1,16 @@
+{
+  "m_Version": 11,
+  "DisplayName": "Music Trader",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Questionmark",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "BATTERY:3"
+  ],
+  "Items": {}
+}

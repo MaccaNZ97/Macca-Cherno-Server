@@ -1,0 +1,65 @@
+{
+  "ConfigVersion": 20,
+  "ID": 32,
+  "Type": 1,
+  "Title": "Base Building Craft a Territory Kit",
+  "Descriptions": [
+    "Create a Kit with Rope and sticks",
+    "Craft a Flag Kit",
+    "Great work your now ready for the next quest"
+  ],
+  "ObjectiveText": "Short objective desctiption text.",
+  "FollowUpQuest": 33,
+  "Repeatable": 0,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [
+    {
+      "ClassName": "Rope",
+      "Amount": 1
+    }
+  ],
+  "Rewards": [
+    {
+      "ClassName": "TerritoryFlagKit",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 0,
+  "QuestGiverIDs": [
+    6
+  ],
+  "QuestTurnInIDs": [],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 22,
+      "ID": 6,
+      "ObjectiveType": 11
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 500,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [
+    31
+  ],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 1,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {}
+}

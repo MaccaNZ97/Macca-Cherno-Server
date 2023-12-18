@@ -1,0 +1,39 @@
+{
+  "ObjectiveText": "Sniper Nest",
+  "TimeLimit": -1,
+  "ShowDistance": 0,
+  "ContainerName": "ExpansionQuestSeaChest",
+  "DigInStash": 0,
+  "MarkerName": "Snipers Stash",
+  "MarkerVisibility": 4,
+  "Positions": [
+    [
+      3969.27002,
+      345.990997,
+      10416.0996
+    ]
+  ],
+  "Loot": [
+    {
+      "Name": "DNA_KeyCard_Yellow_Inactive",
+      "Attachments": [],
+      "Chance": 1,
+      "QuantityPercent": -1,
+      "Variants": [],
+      "Max": -1
+    },
+    {
+      "Name": "MK18_Gun",
+      "Attachments": [],
+      "Chance": 1,
+      "QuantityPercent": -1,
+      "Variants": [],
+      "Max": -1
+    }
+  ],
+  "LootItemsAmount": 2,
+  "MaxDistance": 10,
+  "ConfigVersion": 18,
+  "ID": 2,
+  "ObjectiveType": 6
+}

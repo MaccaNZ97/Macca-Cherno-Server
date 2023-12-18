@@ -1,0 +1,119 @@
+{
+  "m_Version": 4,
+  "CanBuildAnywhere": 1,
+  "AllowBuildingWithoutATerritory": 0,
+  "DeployableOutsideATerritory": [
+    "ExpansionSatchel",
+    "Fireplace",
+    "TerritoryFlagKit",
+    "MediumTent",
+    "LargeTent",
+    "CarTent",
+    "PartyTent",
+    "ExpansionCamoTentKit",
+    "ExpansionCamoBoxKit",
+    "ShelterKit",
+    "LandMineTrap",
+    "BearTrap",
+    "FishNetTrap",
+    "RabbitSnareTrap",
+    "SmallFishTrap",
+    "TripwireTrap",
+    "ExpansionSafeLarge",
+    "ExpansionSafeMedium",
+    "ExpansionSafeSmall",
+    "SeaChest",
+    "WoodenCrate",
+    "GardenPlot"
+  ],
+  "DeployableInsideAEnemyTerritory": [
+    "ExpansionSatchel",
+    "LandMineTrap",
+    "BearTrap",
+    "FishNetTrap",
+    "RabbitSnareTrap",
+    "SmallFishTrap",
+    "TripwireTrap"
+  ],
+  "CanCraftVanillaBasebuilding": 1,
+  "CanCraftExpansionBasebuilding": 1,
+  "DestroyFlagOnDismantle": 1,
+  "DismantleOutsideTerritory": 1,
+  "DismantleInsideTerritory": 0,
+  "DismantleAnywhere": 0,
+  "CodelockActionsAnywhere": 1,
+  "CodeLockLength": 6,
+  "DoDamageWhenEnterWrongCodeLock": 1,
+  "DamageWhenEnterWrongCodeLock": 10,
+  "RememberCode": 1,
+  "CanCraftTerritoryFlagKit": 1,
+  "SimpleTerritory": 1,
+  "AutomaticFlagOnCreation": 1,
+  "GetTerritoryFlagKitAfterBuild": 1,
+  "BuildZoneRequiredCustomMessage": "You are trying to build in a non build area",
+  "Zones": [
+    {
+      "Name": "Krasnostav Trader Camp",
+      "Center": [
+        11882,
+        143,
+        12466
+      ],
+      "Radius": 1000,
+      "Items": [
+        "Fireplace",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "Green Mountain Trader Camp",
+      "Center": [
+        3728.27002,
+        403,
+        6003.6001
+      ],
+      "Radius": 1000,
+      "Items": [
+        "Fireplace",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "NWEF",
+      "Center": [
+        4480,
+        339.390015,
+        10500
+      ],
+      "Radius": 1500,
+      "Items": [
+        "BearTrap",
+        "TripwireTrap",
+        "FishNetTrap",
+        "LandMineTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "ImprovisedExplosive",
+        "Plastic_Explosive"
+      ],
+      "IsWhitelist": 0,
+      "CustomMessage": "Military Zone"
+    }
+  ],
+  "ZonesAreNoBuildZones": 1,
+  "CodelockAttachMode": 2,
+  "DismantleFlagMode": -1,
+  "FlagMenuMode": 1,
+  "EnableVirtualStorage": 1,
+  "VirtualStorageExcludedContainers": [
+    "ExpansionAirdropContainerBase"
+  ]
+}

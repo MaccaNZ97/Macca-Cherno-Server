@@ -1,0 +1,17 @@
+{
+  "ObjectiveText": "Find the Snipers",
+  "TimeLimit": -1,
+  "Position": [
+    3914.62012,
+    348.997986,
+    10346.9004
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "",
+  "ShowDistance": 0,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 18,
+  "ID": 6,
+  "ObjectiveType": 3
+}

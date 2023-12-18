@@ -1,0 +1,53 @@
+Tiredness					= 0
+
+	TireTime (minutes)			= 210
+	EyeClosingPoint  (percent)		= 19
+	TextReports				= 0
+	EnergizingDrinkGain (percent)		= 20
+	EnergizingDrinkClass			= SodaCan_Cola
+	EnergizingDrinkClass			= SodaCan_Pipsi
+	EnergizingDrinkClass			= SodaCan_Spite
+
+	SleepingBagClass = MediumTent
+
+	SleepingDOF				= 0
+
+ZombieBleedChance (percent)			= 20
+ZombieSalmonellaChance (percent)		= 25
+WoundInfectionChance (percent)			= 25
+ZombieArmFractureChance (percent)		= 15
+FeverActive					= 1
+BrainDisease					= 1
+AntibioticsStrength				= 4
+SalineBloodRegen				= 1
+TestBloodSelf					= 1
+TestBloodTarget					= 1
+TestBloodToxin					= 1
+
+
+AlcoholicDrinkClass				= SodaCan_Kvass
+AlcoholicDrinkClass				= DisinfectantAlcohol = 3.5
+
+AlcoholicLiquid				= Beer
+AlcoholicLiquid				= Vodka = 2
+
+
+ZoneType = Biohazard
+ZoneChance (percent) = 1
+ZoneCenter (X Y Z) = 
+ZoneRadiusMin = 50
+ZoneRadiusMax = 75
+ZoneMsgIn = CAUTION: YOU ARE IN A BIOHAZARD ZONE
+ZoneMsgOut = YOU LEFT THE BIOHAZARD ZONE
+
+ToxinAccumulationTimeMin = 5
+ToxinAccumulationTimeMax = 60
+
+ProtectionSuit = NBCBootsGray = 10
+ProtectionSuit = NBCGlovesGray = 10
+ProtectionSuit = NBCHoodGray = 10
+ProtectionSuit = NBCJacketGray = 20
+ProtectionSuit = NBCPantsGray = 20
+
+ProtectionSuit = GP5GasMask = 30 = 1
+ProtectionSuit = GasMask = 30 = 1

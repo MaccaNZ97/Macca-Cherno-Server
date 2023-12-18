@@ -1,0 +1,70 @@
+{
+  "m_Version": 12,
+  "DisplayName": "TACTICAL FLAVA BACKPACK",
+  "Icon": "Backpack",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "tf_avsbag_coyote",
+      "MaxPriceThreshold": 2520,
+      "MinPriceThreshold": 2510,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_avsbag_khaki",
+      "MaxPriceThreshold": 2520,
+      "MinPriceThreshold": 2510,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_camelbakbag_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "tf_camelbakbag_brown",
+        "tf_camelbakbag_emr",
+        "tf_camelbakbag_tan",
+        "tf_camelbakbag_od"
+      ]
+    },
+    {
+      "ClassName": "tf_mapbag_coyote",
+      "MaxPriceThreshold": 2520,
+      "MinPriceThreshold": 2510,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_mapbag_khaki",
+      "MaxPriceThreshold": 2520,
+      "MinPriceThreshold": 2510,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

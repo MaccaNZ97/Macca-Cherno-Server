@@ -1,0 +1,154 @@
+{
+    "BBP_DisableCraftVanillaFence": 0,
+    "BBP_DisableCraftVanillaWatchtower": 0,
+    "BBP_BaseBuildAnywhere": 1,
+    "BBP_FlagBuildAnywhere": 0,
+    "BBP_TentBuildAnywhere": 0,
+    "BBP_VanillaBuildAnywhere": 0,
+    "BBP_CraftWorkbenchRequiresPermit": 0,
+    "BBP_SetInfiniteLifetime": 1,
+    "BBP_AdvancedRotation": 1,
+    "BBP_FloatingPlacement": 1,
+    "BBP_CanRaiseAndLowerHologram": 1,
+    "BBP_HologramHasCollision": 0,
+    "BBP_InventoryToggle": 1,
+    "BBP_BarbedWireRemoveOutside": 1,
+    "BBP_CanAttachFlashlights": 0,
+    "BBP_CanAttachXmaslights": 0,
+    "BBP_CanAttachCamonets": 1,
+    "BBP_CanAttachWallpaper": 1,
+    "BBP_CanAttachCarpet": 1,
+    "BBP_CanAttachPlaster": 1,
+    "BBP_RaidOnlyDoors": 0,
+    "BBP_DisableDestroy": 0,
+    "BBP_DisableDismantle": 0,
+    "BBP_BuildTime": 1,
+    "BBP_DismantleTime": 2,
+    "BBP_Tier1RaidTime": 300,
+    "BBP_Tier2RaidTime": 600,
+    "BBP_Tier3RaidTime": 1200,
+    "BBP_BaseBuildToolDamage": 1,
+    "BBP_BaseDismantleToolDamage": 1,
+    "BBP_Tier1RaidToolDamage": 50,
+    "BBP_Tier2RaidToolDamage": 100,
+    "BBP_Tier3RaidToolDamage": 1000,
+    "BBP_BuildTools": [
+        "Hammer",
+        "Hatchet"
+    ],
+    "BBP_DismantleTools": [
+        "Hatchet",
+        "Crowbar"
+    ],
+    "BBP_Tier1RaidTools": [
+        "SledgeHammer",
+        "FirefighterAxe",
+        "WoodAxe"
+    ],
+    "BBP_Tier2RaidTools": [
+        "SledgeHammer",
+        "FirefighterAxe"
+    ],
+    "BBP_Tier3RaidTools": [
+        "SledgeHammer"
+    ],
+    "BBP_CementMixerTime": 252,
+    "BBP_CementMixerLocations": [
+        {
+            "position": [
+                10054.9150390625,
+                5.99834680557251,
+                1824.8145751953126
+            ],
+            "orientation": [
+                140.3209991455078,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                8025.97412109375,
+                14.320038795471192,
+                3112.5556640625
+            ],
+            "orientation": [
+                -134.31700134277345,
+                0.0,
+                -9.999999974752428e-7
+            ]
+        },
+        {
+            "position": [
+                2259.96728515625,
+                185.38668823242188,
+                5228.34326171875
+            ],
+            "orientation": [
+                31.42186164855957,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                13320.810546875,
+                9.184663772583008,
+                6120.3203125
+            ],
+            "orientation": [
+                0.4880000054836273,
+                0.002672000089660287,
+                1.681928038597107
+            ]
+        },
+        {
+            "position": [
+                11916.3330078125,
+                28.763134002685548,
+                14286.380859375
+            ],
+            "orientation": [
+                105.10449981689453,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "position": [
+                8005.10009765625,
+                129.20440673828126,
+                12594.5
+            ],
+            "orientation": [
+                -12.629599571228028,
+                -0.7346320152282715,
+                0.24026000499725343
+            ]
+        },
+        {
+            "position": [
+                5216.392578125,
+                340.9700927734375,
+                9886.8974609375
+            ],
+            "orientation": [
+                -109.34298706054688,
+                -0.04223399981856346,
+                0.007776999846100807
+            ]
+        },
+        {
+            "position": [
+                2943.952880859375,
+                220.7844696044922,
+                12637.5263671875
+            ],
+            "orientation": [
+                -158.0102081298828,
+                0.0181450005620718,
+                -0.04493200033903122
+            ]
+        }
+    ]
+}

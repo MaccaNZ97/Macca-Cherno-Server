@@ -1,0 +1,59 @@
+{
+"m_DNAConfig_Loot": [
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "medical",
+            "dna_Type": "BloodTestKit"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "food",
+            "dna_Type": "BoxCerealCrunchin"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "tools",
+            "dna_Type": "Pickaxe"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "material",
+            "dna_Type": "WoodenPlank"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "valuable",
+            "dna_Type": "NailBox"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "Grizzly_Medikit"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "Grizzly_Medikit"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "Grizzly_Medikit"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "Grizzly_Medikit"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "Grizzly_Medikit"
+        }
+   ]
+}

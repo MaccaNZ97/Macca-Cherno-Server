@@ -1,0 +1,959 @@
+{
+  "m_Version": 15,
+  "Enabled": 1,
+  "DespawnTime": 600.0,
+  "RespawnTime": -1.0,
+  "MinDistRadius": 400.0,
+  "MaxDistRadius": 1000.0,
+  "DespawnRadius": 1100.0,
+  "AccuracyMin": -1.0,
+  "AccuracyMax": -1.0,
+  "ThreatDistanceLimit": -1.0,
+  "DamageMultiplier": -1.0,
+  "ObjectPatrols": [
+    {
+      "Faction": "West",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "",
+      "NumberOfAI": -3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 5.0,
+      "MaxSpreadRadius": 20.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "ClassName": "Wreck_UH1Y"
+    },
+    {
+      "Faction": "East",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "",
+      "NumberOfAI": -3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 5.0,
+      "MaxSpreadRadius": 20.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "ClassName": "Wreck_Mi8_Crashed"
+    },
+    {
+      "Faction": "East",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "PoliceLoadout",
+      "NumberOfAI": -3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 5.0,
+      "MaxSpreadRadius": 20.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "ClassName": "Land_Wreck_sed01_aban1_police"
+    },
+    {
+      "Faction": "East",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "PoliceLoadout",
+      "NumberOfAI": -3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 5.0,
+      "MaxSpreadRadius": 20.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "ClassName": "Land_Wreck_sed01_aban2_police"
+    },
+    {
+      "Faction": "West",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "NBCLoadout",
+      "NumberOfAI": -3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "Speed": "JOG",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 0.0,
+      "MaxSpreadRadius": 150.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "ClassName": "ContaminatedArea_Static"
+    },
+    {
+      "Faction": "West",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "NBCLoadout",
+      "NumberOfAI": -3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "Speed": "JOG",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 0.0,
+      "MaxSpreadRadius": 150.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "ClassName": "ContaminatedArea_Dynamic"
+    }
+  ],
+  "Patrols": [
+    {
+      "Name": "Patrol 0",
+      "Faction": "West",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "",
+      "NumberOfAI": 3,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          4211.22266,
+          109.023384,
+          6382.06445
+        ],
+        [
+          4151.6626,
+          105.450653,
+          6080.29443
+        ],
+        [
+          4160.97168,
+          105.412598,
+          6035.10303
+        ],
+        [
+          4160.69922,
+          106.25148,
+          5906.83008
+        ],
+        [
+          4107.86279,
+          108.930527,
+          5898.48291
+        ],
+        [
+          4057.25806,
+          114.174736,
+          5584.5957
+        ],
+        [
+          4084.56006,
+          113.232422,
+          5494.54004
+        ],
+        [
+          4079.30811,
+          113.801163,
+          5435.95313
+        ],
+        [
+          4081.73584,
+          113.402504,
+          5385.57617
+        ],
+        [
+          4067.26611,
+          109.788383,
+          4904.50879
+        ],
+        [
+          4126.50488,
+          107.371178,
+          4647.12891
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 1",
+      "Faction": "West",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "",
+      "NumberOfAI": 3,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          4508.86035,
+          109.347275,
+          6230.75146
+        ],
+        [
+          4448.49072,
+          109.377792,
+          6025.89258
+        ],
+        [
+          4546.90283,
+          112.057549,
+          6126.59033
+        ],
+        [
+          4613.97559,
+          110.163887,
+          6112.86963
+        ],
+        [
+          4563.82568,
+          110.696106,
+          5797.4502
+        ],
+        [
+          4551.80566,
+          110.555084,
+          5652.87695
+        ],
+        [
+          4312.20361,
+          110.752151,
+          5366.94189
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 2",
+      "Faction": "Raiders",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "",
+      "NumberOfAI": 1,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          10545.6875,
+          38.0371552,
+          10384.2051
+        ],
+        [
+          10502.6152,
+          40.3777618,
+          10464.7549
+        ],
+        [
+          10700.6348,
+          34.3465424,
+          10461.4707
+        ],
+        [
+          10645.3506,
+          36.4518356,
+          10377.7695
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 3",
+      "Faction": "Raiders",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "",
+      "NumberOfAI": 1,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          8588.20996,
+          103.304726,
+          13439.0029
+        ],
+        [
+          8578.58594,
+          106.485222,
+          13465.2813
+        ],
+        [
+          8605.71777,
+          112.455276,
+          13521.626
+        ],
+        [
+          8640.50977,
+          120.118225,
+          13590.3604
+        ],
+        [
+          8641.97656,
+          127.327774,
+          13644.0693
+        ],
+        [
+          8643.52344,
+          123.581627,
+          13609.8486
+        ],
+        [
+          8724.07715,
+          121.008499,
+          13532.3525
+        ],
+        [
+          8792.48438,
+          119.34481,
+          13479.8672
+        ],
+        [
+          8843.3584,
+          122.085854,
+          13469.4648
+        ],
+        [
+          8881.16113,
+          121.293594,
+          13413.0664
+        ],
+        [
+          8837.00488,
+          121.072372,
+          13470.0068
+        ],
+        [
+          8742.03906,
+          121.246811,
+          13516.5879
+        ],
+        [
+          8704.23828,
+          119.762787,
+          13546.5166
+        ],
+        [
+          8609.14453,
+          113.184517,
+          13527.6016
+        ],
+        [
+          8573.0166,
+          112.247055,
+          13530.6621
+        ],
+        [
+          8563.08398,
+          118.173904,
+          13576.2129
+        ],
+        [
+          8500.52539,
+          135.59021,
+          13653.7695
+        ],
+        [
+          8456.375,
+          139.365845,
+          13677.1279
+        ],
+        [
+          8546.61035,
+          126.12944,
+          13615.5449
+        ],
+        [
+          8566.74707,
+          116.355377,
+          13563.6885
+        ],
+        [
+          8573.12305,
+          112.562714,
+          13532.7393
+        ],
+        [
+          8563.7002,
+          107.298088,
+          13476.4658
+        ],
+        [
+          8586.04785,
+          103.664093,
+          13442.4355
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 4",
+      "Faction": "Civilian",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "",
+      "NumberOfAI": 4,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          7841.33496,
+          76.6961136,
+          105.506462
+        ],
+        [
+          7874.43359,
+          86.5004654,
+          194.182739
+        ],
+        [
+          7881.0918,
+          88.8189468,
+          247.873428
+        ],
+        [
+          7804.40625,
+          88.3792801,
+          365.877625
+        ],
+        [
+          7792.43018,
+          88.6502991,
+          383.001404
+        ],
+        [
+          7762.80762,
+          83.7376709,
+          334.874634
+        ],
+        [
+          7760.65381,
+          84.6838379,
+          353.211792
+        ],
+        [
+          7768.95703,
+          88.4459076,
+          421.012054
+        ],
+        [
+          7781.33887,
+          89.1132355,
+          430.44043
+        ],
+        [
+          7769.26367,
+          90.8582535,
+          472.488281
+        ],
+        [
+          7776.35693,
+          91.0064392,
+          493.63382
+        ],
+        [
+          7762.37402,
+          91.0144882,
+          534.747681
+        ],
+        [
+          7739.28076,
+          91.1342773,
+          564.848328
+        ],
+        [
+          7639,
+          120.328026,
+          769.771545
+        ],
+        [
+          7378.47998,
+          94.5129242,
+          764.41748
+        ],
+        [
+          7325.03906,
+          93.7929535,
+          820.421448
+        ],
+        [
+          7323.5542,
+          95.0760193,
+          869.669067
+        ],
+        [
+          6920.2666,
+          84.6422043,
+          926.835693
+        ],
+        [
+          6942.74805,
+          84.1129913,
+          977.515381
+        ],
+        [
+          6901.2876,
+          82.8783798,
+          1002.58075
+        ],
+        [
+          6848.88477,
+          91.4922714,
+          967.189453
+        ],
+        [
+          6835.84082,
+          84.5955887,
+          942.76062
+        ],
+        [
+          6655.30908,
+          92.3188477,
+          793.134338
+        ],
+        [
+          6639.65527,
+          91.8307419,
+          792.534058
+        ],
+        [
+          6635.73096,
+          92.2498016,
+          780.763
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 5",
+      "Faction": "Civilian",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "",
+      "NumberOfAI": 4,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          9963.34668,
+          55.6400986,
+          10900.8447
+        ],
+        [
+          9965.39844,
+          54.7290344,
+          10969.5361
+        ],
+        [
+          9924.38086,
+          57.232151,
+          10901.9678
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 6",
+      "Faction": "West",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "",
+      "NumberOfAI": 4,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          8796.83984,
+          59.8781013,
+          2547
+        ],
+        [
+          8745,
+          59.1366997,
+          2523.19995
+        ],
+        [
+          8710.44043,
+          57.5695992,
+          2499
+        ],
+        [
+          8794.23047,
+          55.9719009,
+          2417
+        ],
+        [
+          8756.99023,
+          55.8529015,
+          2370
+        ],
+        [
+          8782.75977,
+          56.1916008,
+          2345
+        ],
+        [
+          8740.16992,
+          56.1661987,
+          2304
+        ],
+        [
+          8751.15039,
+          56.1216011,
+          2284
+        ],
+        [
+          8828.46973,
+          56.6495018,
+          2234
+        ],
+        [
+          8764.01953,
+          53.2921982,
+          2139
+        ],
+        [
+          8656.01953,
+          47.4257011,
+          2009
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 7",
+      "Faction": "East",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "",
+      "NumberOfAI": 4,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          1583.57996,
+          292.803986,
+          2961
+        ],
+        [
+          1600.83997,
+          294.291992,
+          3006
+        ],
+        [
+          1631.43994,
+          295.40799,
+          3029
+        ],
+        [
+          1652.89001,
+          297.98999,
+          3079.6001
+        ],
+        [
+          1685.63,
+          297.554993,
+          3080
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 8",
+      "Faction": "East",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "",
+      "NumberOfAI": 4,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          1824.93994,
+          294.06601,
+          3075
+        ],
+        [
+          1884.94995,
+          293.221985,
+          3047
+        ],
+        [
+          1846.68994,
+          289.888,
+          2996
+        ],
+        [
+          1812.78003,
+          290.333008,
+          3001
+        ],
+        [
+          1796.65002,
+          287.975006,
+          2990
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 9",
+      "Faction": "West",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "",
+      "NumberOfAI": 4,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          7160.8501,
+          84.5560989,
+          585.604004
+        ],
+        [
+          6677.50977,
+          95.0799026,
+          770.112976
+        ]
+      ]
+    }
+  ]
+}

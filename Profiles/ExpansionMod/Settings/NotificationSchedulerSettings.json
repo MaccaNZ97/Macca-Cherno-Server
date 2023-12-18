@@ -1,0 +1,26 @@
+{
+  "m_Version": 2,
+  "Enabled": 1,
+  "UTC": 0,
+  "UseMissionTime": 1,
+  "Notifications": [
+    {
+      "Hour": 3,
+      "Minute": 45,
+      "Second": 0,
+      "Title": "Server Restart",
+      "Text": "Server is restarting in 15 Minutes!",
+      "Icon": "Info",
+      "Color": "E21C29FF"
+    },
+    {
+      "Hour": 4,
+      "Minute": 0,
+      "Second": 0,
+      "Title": "Server Restart",
+      "Text": "Server is restarting!",
+      "Icon": "Info",
+      "Color": "E21C29FF"
+    }
+  ]
+}

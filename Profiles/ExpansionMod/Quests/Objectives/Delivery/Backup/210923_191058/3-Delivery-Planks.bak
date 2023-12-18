@@ -1,0 +1,17 @@
+{
+  "ObjectiveText": "Deliver 12  planks to Steve",
+  "TimeLimit": -1,
+  "Collections": [
+    {
+      "Amount": 1,
+      "ClassName": "WoodenPlank"
+    }
+  ],
+  "MaxDistance": 50,
+  "MarkerName": "",
+  "ShowDistance": 0,
+  "AddItemsToNearbyMarketZone": 0,
+  "ConfigVersion": 18,
+  "ID": 3,
+  "ObjectiveType": 5
+}

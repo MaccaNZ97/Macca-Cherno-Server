@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+  <type name="Jeep_GladiatorF9_BOSS_Black">
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_Black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_camo_black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door2_Black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Codriver_Door_Black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Driver_Door_Black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Hood_Black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Trunk_Black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Crackers" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+	</type>
+
+  <type name="Jeep_GladiatorF9_BOSS_Brown">
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_Brown" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_Brown" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door2_Brown" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Codriver_Door_Brown" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Driver_Door_Brown" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Hood_Brown" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Trunk_Brown" chance="1" />
+    </attachments>
+      <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>    
+  </type>
+  
+  <type name="Jeep_GladiatorF9_BOSS_camo_black">
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_camo_black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_camo_black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door2_camo_black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Codriver_Door_camo_black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Driver_Door_camo_black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Hood_camo_black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Trunk_camo_black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>    
+  </type>
+   
+   <type name="Jeep_GladiatorF9_BOSS_camo_blue">
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_camo_blue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_camo_camo_blue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door2_camo_blue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Codriver_Door_camo_blue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Driver_Door_camo_blue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Hood_camo_blue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Trunk_camo_blue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>    
+  </type>
+  
+  <type name="Jeep_GladiatorF9_BOSS_camo_green">
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_camo_green" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_camo_green" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door2_camo_green" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Codriver_Door_camo_green" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Driver_Door_camo_green" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Hood_camo_green" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Trunk_camo_green" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>    
+  </type>
+  
+  <type name="Jeep_GladiatorF9_BOSS_camo_red">
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_camo_red" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_camo__red" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door2_camo_red" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Codriver_Door_camo_red" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Driver_Door_camo_red" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Hood_camo_red" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Trunk_camo_red" chance="1" />
+    </attachments>
+  
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>    
+  </type>
+  
+   <type name="Jeep_GladiatorF9_BOSS_DarkBlue">
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_DarkBlue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_DarkBlue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door2_DarkBlue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Codriver_Door_DarkBlue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Driver_Door_DarkBlue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Hood_DarkBlue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Trunk_DarkBlue" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>    
+  </type>
+  
+  <type name="Jeep_GladiatorF9_BOSS_DarkRed">
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_DarkRed" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_DarkRed" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door2_DarkRed" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Codriver_Door_DarkRed" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Driver_Door_DarkRed" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Hood_DarkRed" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Trunk_DarkRed" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Crackers" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>    
+  </type>
+  
+  <type name="Jeep_GladiatorF9_BOSS_White">
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_White" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_Boss_White" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door2_Boss_White" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Codriver_Door_Boss_White" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Driver_Door_Boss_White" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Hood_Boss_White" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Trunk_Boss_White" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>    
+  </type>
+</spawnabletypes>

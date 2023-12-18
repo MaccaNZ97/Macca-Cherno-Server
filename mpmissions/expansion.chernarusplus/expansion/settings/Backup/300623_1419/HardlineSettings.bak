@@ -1,0 +1,29 @@
+{
+  "m_Version": 8,
+  "ReputationOnKillInfected": 20,
+  "ReputationOnKillPlayer": -100,
+  "ReputationOnKillAnimal": 20,
+  "ReputationOnKillAI": 150,
+  "ReputationLossOnDeath": 50,
+  "PoorItemRequirement": 0,
+  "CommonItemRequirement": 0,
+  "UncommonItemRequirement": 5000,
+  "RareItemRequirement": 7500,
+  "EpicItemRequirement": 20000,
+  "LegendaryItemRequirement": 25000,
+  "MythicItemRequirement": 50000,
+  "ExoticItemRequirement": 100000,
+  "ShowHardlineHUD": 1,
+  "UseReputation": 1,
+  "UseFactionReputation": 0,
+  "EnableFactionPersistence": 0,
+  "EnableItemRarity": 1,
+  "UseItemRarityForMarketPurchase": 1,
+  "UseItemRarityForMarketSell": 0,
+  "MaxReputation": 0,
+  "ItemRarity": {
+    
+    "expansionlhd": 8,
+    "expansionsupplysignal": 8
+  }
+}

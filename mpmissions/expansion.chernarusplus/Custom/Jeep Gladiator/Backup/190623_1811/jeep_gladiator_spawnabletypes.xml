@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+  <type name="Jeep_GladiatorF9_BOSS_Black">
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_Black" chance="1" />
+      <item name="Jeep_GladiatorF9_Cargo_Door2_Black" chance="1" />
+      <item name="New Item, Please change me..." chance="1" />
+      <item name="New Item, Please change me..." chance="1" />
+      <item name="New Item, Please change me..." chance="1" />
+      <item name="New Item, Please change me..." chance="1" />
+    </attachments>
+  </type>
+</spawnabletypes>

@@ -1,0 +1,83 @@
+{
+  "ObjectiveText": "Find the location of the treasure",
+  "TimeLimit": -1,
+  "ShowDistance": 1,
+  "ContainerName": "ExpansionQuestSeaChest",
+  "DigInStash": 1,
+  "MarkerName": "???",
+  "MarkerVisibility": 4,
+  "Positions": [
+    [
+      2936.47998,
+      350.403992,
+      6369.39014
+    ],
+    [
+      3143.3501,
+      365.776001,
+      6942.04004
+    ],
+    [
+      5233.50977,
+      290.881012,
+      6246.37012
+    ]
+  ],
+  "Loot": [
+    {
+      "Name": "MSFC_NBC_Boots_ATACSFG",
+      "Attachments": [],
+      "Chance": 0.5,
+      "QuantityPercent": -1,
+      "Variants": [],
+      "Max": -1
+    },
+    {
+      "Name": "MSFC_NBC_Gloves_ATACSFG",
+      "Attachments": [],
+      "Chance": 0.5,
+      "QuantityPercent": -1,
+      "Variants": [],
+      "Max": -1
+    },
+    {
+      "Name": "MSFC_NBC_Hood_ATACSFG",
+      "Attachments": [],
+      "Chance": 0.5,
+      "QuantityPercent": -1,
+      "Variants": [],
+      "Max": -1
+    },
+    {
+      "Name": "MSFC_NBC_Jacket_ATACSFG",
+      "Attachments": [],
+      "Chance": 0.5,
+      "QuantityPercent": -1,
+      "Variants": [],
+      "Max": -1
+    },
+    {
+      "Name": "MSFC_NBC_Pants_ATACSFG",
+      "Attachments": [],
+      "Chance": 0.5,
+      "QuantityPercent": -1,
+      "Variants": [],
+      "Max": -1
+    },
+    {
+      "Name": "MSFC_PCU5_ATACSFG",
+      "Attachments": [
+        "GasMask_Filter"
+      ],
+      "Chance": 0.5,
+      "QuantityPercent": -1,
+      "Variants": [],
+      "Max": -1
+    }
+  ],
+  "LootItemsAmount": 0,
+  "MaxDistance": 10.0,
+  "ConfigVersion": 18,
+  "ID": 1,
+  "ObjectiveType": 6
+}

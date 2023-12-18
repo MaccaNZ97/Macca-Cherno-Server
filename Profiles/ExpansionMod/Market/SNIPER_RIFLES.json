@@ -1,0 +1,76 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SNIPER_RIFLES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "expansion_awm",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 5,
+      "QuantityPercent": 10,
+      "SpawnAttachments": [
+        "mag_expansion_awm_5rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "m14",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 14500,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_m14_10rnd",
+        "mag_m14_20rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "scout_chernarus",
+      "MaxPriceThreshold": 4200,
+      "MinPriceThreshold": 4200,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 5,
+      "QuantityPercent": 10,
+      "SpawnAttachments": [
+        "mag_scout_5rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "svd",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 5,
+      "QuantityPercent": 10,
+      "SpawnAttachments": [
+        "mag_svd_10rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "vss",
+      "MaxPriceThreshold": 3200,
+      "MinPriceThreshold": 3200,
+      "SellPricePercent": 20,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 5,
+      "QuantityPercent": 10,
+      "SpawnAttachments": [
+        "mag_vss_10rnd"
+      ],
+      "Variants": []
+    }
+  ]
+}

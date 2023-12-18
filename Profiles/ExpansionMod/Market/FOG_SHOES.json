@@ -1,0 +1,74 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG SHOES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_combat_hikingboots_brown",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_combat_hikingboots_black",
+        "fog_combat_hikingboots_grey",
+        "fog_combat_hikingboots_khaki"
+      ]
+    },
+    {
+      "ClassName": "fog_lerch_boots_black",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_lerch_boots_black_dirty",
+        "fog_lerch_boots_cb",
+        "fog_lerch_boots_khk",
+        "fog_lerch_boots_mc",
+        "fog_lerch_boots_mcb",
+        "fog_lerch_boots_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_operator_boots_black",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_operator_boots_cb",
+        "fog_operator_boots_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_zypher_boots_black_socks",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_zypher_boots_black_nosocks",
+        "fog_zypher_boots_rg_nosocks",
+        "fog_zypher_boots_rg_socks",
+        "fog_zypher_boots_tan_nosocks",
+        "fog_zypher_boots_tan_socks"
+      ]
+    }
+  ]
+}

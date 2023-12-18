@@ -1,0 +1,49 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG BELTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_belt_rtgfb_black",
+      "MaxPriceThreshold": 1250,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_belt_rtgfb_cb",
+        "fog_belt_rtgfb_mc",
+        "fog_belt_rtgfb_rg",
+        "fog_belt_rtgfb_aor1",
+        "fog_belt_rtgfb_aor2",
+        "fog_belt_rtgfb_alp"
+      ]
+    },
+    {
+      "ClassName": "fog_mrb_belt_6cd",
+      "MaxPriceThreshold": 1250,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_mrb_belt_aor1",
+        "fog_mrb_belt_aor2",
+        "fog_mrb_belt_atacsau",
+        "fog_mrb_belt_black",
+        "fog_mrb_belt_cb",
+        "fog_mrb_belt_mc",
+        "fog_mrb_belt_mcb",
+        "fog_mrb_belt_mct",
+        "fog_mrb_belt_rg"
+      ]
+    }
+  ]
+}

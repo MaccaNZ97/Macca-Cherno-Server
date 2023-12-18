@@ -1,0 +1,44 @@
+{
+  "m_Version": 12,
+  "DisplayName": "VEHICLEKEYS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "expansioncarkey",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionkeychainbase",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "expansionkeychain_black",
+        "expansionkeychain_blue",
+        "expansionkeychain_green",
+        "expansionkeychain_grey",
+        "expansionkeychain_orange",
+        "expansionkeychain_pink",
+        "expansionkeychain_purple",
+        "expansionkeychain_red",
+        "expansionkeychain_white",
+        "expansionkeychain_yellow"
+      ]
+    }
+  ],
+  "SortByDisplayName": true
+}

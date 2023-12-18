@@ -1,0 +1,19 @@
+{
+  "ConfigVersion": 18,
+  "ID": 10,
+  "ObjectiveType": 4,
+  "ObjectiveText": "Collect Wooden Logs",
+  "TimeLimit": -1,
+  "MaxDistance": 0,
+  "MarkerName": "",
+  "ShowDistance": 0,
+  "AddItemsToNearbyMarketZone": 0,
+  "NeedAnyCollection": 0,
+  "Collections": [
+    {
+      "Amount": 2,
+      "ClassName": "WoodenLog"
+    }
+  ]
+  
+}

@@ -1,0 +1,139 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG HELMETS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_boonie_aor1",
+      "MaxPriceThreshold": 1750,
+      "MinPriceThreshold": 1750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_boonie_aor2",
+        "fog_boonie_black",
+        "fog_boonie_cb",
+        "fog_boonie_grey",
+        "fog_boonie_khk",
+        "fog_boonie_m81",
+        "fog_boonie_mc",
+        "fog_boonie_mcb",
+        "fog_boonie_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_fastmt_rac_black",
+      "MaxPriceThreshold": 1750,
+      "MinPriceThreshold": 1750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_fastmt_rac_rg",
+        "fog_fastmt_rac_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_helmet_airframe_black",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_helmet_airframe_cb",
+        "fog_helmet_airframe_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_helmet_exfil_mc",
+      "MaxPriceThreshold": 1900,
+      "MinPriceThreshold": 1900,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_helmet_exfil_black",
+        "fog_helmet_exfil_rg",
+        "fog_helmet_exfil_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_helmet_fast_bump_black",
+      "MaxPriceThreshold": 1600,
+      "MinPriceThreshold": 1600,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_helmet_fast_bump_tan",
+        "fog_helmet_fast_bump_rg",
+        "fog_helmet_fast_bump_grey",
+        "fog_helmet_fast_bump_mc",
+        "fog_helmet_fast_bump_mcb",
+        "fog_helmet_fast_bump_erdl"
+      ]
+    },
+    {
+      "ClassName": "fog_helmet_fast_sf_black",
+      "MaxPriceThreshold": 1800,
+      "MinPriceThreshold": 1800,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_helmet_fast_sf_tan",
+        "fog_helmet_fast_sf_rg",
+        "fog_helmet_fast_sf_mc",
+        "fog_helmet_fast_sf_mcb",
+        "fog_helmet_fast_sf_erdl"
+      ]
+    },
+    {
+      "ClassName": "fog_helmet_fastmt_black",
+      "MaxPriceThreshold": 1700,
+      "MinPriceThreshold": 1700,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_helmet_fastmt_tan",
+        "fog_helmet_fastmt_mc",
+        "fog_helmet_fastmt_aor1",
+        "fog_helmet_fastmt_aor2",
+        "fog_helmet_fastmt_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_ronin_hat",
+      "MaxPriceThreshold": 1750,
+      "MinPriceThreshold": 1750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ronin_hat_black"
+      ]
+    }
+  ]
+}

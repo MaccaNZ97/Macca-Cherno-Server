@@ -1,0 +1,24 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG MISC",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_hooded_cloak_black",
+      "MaxPriceThreshold": 950,
+      "MinPriceThreshold": 950,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_hooded_cloak_grey",
+        "fog_hooded_cloak_rg"
+      ]
+    }
+  ]
+}

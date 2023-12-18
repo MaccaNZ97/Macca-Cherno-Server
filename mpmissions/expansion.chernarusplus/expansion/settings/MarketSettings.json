@@ -1,0 +1,264 @@
+{
+  "m_Version": 12,
+  "MarketSystemEnabled": 1,
+  "NetworkCategories": [],
+  "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
+  "ATMSystemEnabled": 1,
+  "MaxDepositMoney": 10000000,
+  "DefaultDepositMoney": 10000,
+  "ATMPlayerTransferEnabled": 1,
+  "ATMPartyLockerEnabled": 1,
+  "MaxPartyDepositMoney": 100000,
+  "UseWholeMapForATMPlayerList": 1,
+  "SellPricePercent": 75.0,
+  "NetworkBatchSize": 100,
+  "MaxVehicleDistanceToTrader": 120.0,
+  "MaxLargeVehicleDistanceToTrader": 800.0,
+  "LargeVehicles": [
+    "expansionlhd"
+  ],
+  "LandSpawnPositions": [
+    {
+      "Position": [
+        11903.4004,
+        140,
+        12455.0996
+      ],
+      "Orientation": [
+        24,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        8174,
+        474.052002,
+        9091.36035
+      ],
+      "Orientation": [
+        24,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        11898.4004,
+        140,
+        12481.5996
+      ],
+      "Orientation": [
+        24,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        11878,
+        140,
+        12482.7998
+      ],
+      "Orientation": [
+        24,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        1145,
+        6,
+        2405
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        3722.77002,
+        402,
+        6018.93018
+      ],
+      "Orientation": [
+        138,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        3737.18994,
+        402.700012,
+        6001.9502
+      ],
+      "Orientation": [
+        138,
+        0,
+        0
+      ]
+    }
+  ],
+  "AirSpawnPositions": [
+    {
+      "Position": [
+        8178.83008,
+        478.329987,
+        9175.92969
+      ],
+      "Orientation": [
+        1.11721003,
+        2.46901011,
+        -0.200230002
+      ]
+    },
+    {
+      "Position": [
+        8168.87988,
+        478.325989,
+        9171.53027
+      ],
+      "Orientation": [
+        -0.219500005,
+        2.46737003,
+        0.219569996
+      ]
+    },
+    {
+      "Position": [
+        8161.0498,
+        478.338013,
+        9167.62988
+      ],
+      "Orientation": [
+        -0.219679996,
+        2.40824008,
+        0.219679996
+      ]
+    }
+  ],
+  "WaterSpawnPositions": [
+    {
+      "Position": [
+        1759,
+        0,
+        1994
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        14347.7998,
+        0,
+        13235.7998
+      ],
+      "Orientation": [
+        -147.5,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        14344.0996,
+        0,
+        13219.7002
+      ],
+      "Orientation": [
+        -147.5,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        14360.9004,
+        0,
+        13246.7002
+      ],
+      "Orientation": [
+        -147.5,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        1760,
+        0,
+        1730
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        14540,
+        0,
+        12995
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "MarketMenuColors": {
+    "BaseColorVignette": "000000C8",
+    "BaseColorHeaders": "13171BFF",
+    "BaseColorLabels": "27272DFF",
+    "BaseColorText": "FBFCFEFF",
+    "BaseColorCheckboxes": "FBFCFEFF",
+    "BaseColorInfoSectionBackground": "2225268C",
+    "BaseColorTooltipsHeaders": "000000F0",
+    "BaseColorTooltipsBackground": "000000DC",
+    "ColorDecreaseQuantityButton": "DD262614",
+    "ColorDecreaseQuantityIcon": "DD262628",
+    "ColorSetQuantityButton": "C7265114",
+    "ColorIncreaseQuantityButton": "A0CC7114",
+    "ColorIncreaseQuantityIcon": "A0CC7128",
+    "ColorSellPanel": "27272DFF",
+    "ColorSellButton": "DD262628",
+    "ColorBuyPanel": "27272DFF",
+    "ColorBuyButton": "A0CC7128",
+    "ColorMarketIcon": "E241428C",
+    "ColorFilterOptionsButton": "C726518C",
+    "ColorFilterOptionsIcon": "C726518C",
+    "ColorSearchFilterButton": "C726518C",
+    "ColorCategoryButton": "C726518C",
+    "ColorCategoryCollapseIcon": "C726518C",
+    "ColorCurrencyDenominationText": "FFB418FF",
+    "ColorItemButton": "C726518C",
+    "ColorItemInfoIcon": "FFB418FF",
+    "ColorItemInfoTitle": "FFB418FF",
+    "ColorItemInfoHasContainerItems": "FFB418FF",
+    "ColorItemInfoHasAttachments": "FFB418FF",
+    "ColorItemInfoHasBullets": "FFB418FF",
+    "ColorItemInfoIsAttachment": "FFB418FF",
+    "ColorItemInfoIsEquiped": "FFB418FF",
+    "ColorItemInfoAttachments": "FFB418FF",
+    "ColorToggleCategoriesText": "C726518C",
+    "ColorCategoryCorners": "FBFCFEFF",
+    "ColorCategoryBackground": "222526FF"
+  },
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "VehicleKeys": [
+    "ExpansionCarKey"
+  ],
+  "MaxSZVehicleParkingTime": 7200,
+  "SZVehicleParkingTicketFine": 2500
+}

@@ -1,0 +1,66 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BASE ELECTRONICS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "hm_arcade_kit",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 30,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hm_pc_kit",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 30,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hm_printer_kit",
+      "MaxPriceThreshold": 55000,
+      "MinPriceThreshold": 55000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 0,
+      "QuantityPercent": 30,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hm_recycler_kit",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 0,
+      "QuantityPercent": 30,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hm_washmachine_kit",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 0,
+      "QuantityPercent": 30,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ],
+  "SortByDisplayName": true
+}

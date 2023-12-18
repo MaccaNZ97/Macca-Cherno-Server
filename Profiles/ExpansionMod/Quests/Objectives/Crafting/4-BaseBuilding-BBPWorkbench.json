@@ -1,0 +1,11 @@
+{
+    "ConfigVersion": 22,
+    "ID": 4,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Craft BBP Workbench Kit",
+    "TimeLimit": -1,
+    "ItemNames": [
+        "BBP_Workbench_Kit"
+    ],
+    "ExecutionAmount": 1
+}

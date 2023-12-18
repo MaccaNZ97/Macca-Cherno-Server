@@ -1,0 +1,36 @@
+2023-12-10 21:18:23: == Sync Started by User Command
+2023-12-10 21:18:24: ConnectCloned connected to file:///D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus
+2023-12-10 21:18:24: ConnectCloned connected to file:///D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus
+2023-12-10 21:18:24: ConnectCloned connected to file:///D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus
+2023-12-10 21:18:24: ConnectCloned connected to smb://51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus
+2023-12-10 21:18:24: ConnectCloned connected to smb://51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus
+2023-12-10 21:18:24: ConnectCloned connected to smb://51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus
+2023-12-10 21:18:24: Copy Over '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/expansion/traderzones/ALTAR_TRADER.json' -> 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/expansion/traderzones/ALTAR_TRADER.json' (115,446)
+2023-12-10 21:18:25: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types_Noms.txt' (196)
+2023-12-10 21:18:25: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/DBN/DBN_Novotor_types_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/DBN/DBN_Novotor_types_Noms.txt' (1,802)
+2023-12-10 21:18:25: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/Blacks/Blacks_FordRaptor_types.xml' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/Blacks/Blacks_FordRaptor_types.xml' (101,378)
+2023-12-10 21:18:25: Copy Over '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/expansion/traderzones/GREENMOUNTAIN.json' -> 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/expansion/traderzones/GREENMOUNTAIN.json' (111,686)
+2023-12-10 21:18:25: Copy Over '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/expansion/traderzones/GORKA_TRADER.json' -> 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/expansion/traderzones/GORKA_TRADER.json' (11,530)
+2023-12-10 21:18:26: Copy Over '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/expansion/traderzones/SPECIAL_OPS_TRADER.json' -> 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/expansion/traderzones/SPECIAL_OPS_TRADER.json' (49,631)
+2023-12-10 21:18:26: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/DBN/DBN_Raptor_types_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/DBN/DBN_Raptor_types_Noms.txt' (152)
+2023-12-10 21:18:26: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/Mavericks12v_types_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/Mavericks12v_types_Noms.txt' (14)
+2023-12-10 21:18:27: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/Vanilla Types/types_food_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/Vanilla Types/types_food_Noms.txt' (15)
+2023-12-10 21:18:27: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/Vanilla Types/types_other_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/Vanilla Types/types_other_Noms.txt' (3,897)
+2023-12-10 21:18:27: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/Vanilla Types/types_tools_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/Vanilla Types/types_tools_Noms.txt' (12)
+2023-12-10 21:18:27: Save State File D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2023-12-10 21:18:28: Save State File //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2023-12-10 21:18:28: Deleted Recycled: //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_saved_/Custom/DNA Keycards/DNA_Keycards_types.xml
+2023-12-10 21:18:28: Deleted Recycled: //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_saved_/Custom/Vanilla Types/types_clothes.xml
+2023-12-10 21:18:28: Deleted Recycled: //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_saved_/Custom/Vanilla Types/types_containers.xml
+2023-12-10 21:18:28: Deleted Recycled: //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_saved_/Custom/Vanilla Types/types_explosives.xml
+2023-12-10 21:18:28: Deleted Recycled: //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_saved_/Custom/Vanilla Types/types_food.xml
+2023-12-10 21:18:28: Deleted Recycled: //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_saved_/Custom/Vanilla Types/types_lootdispatch.xml
+2023-12-10 21:18:28: Deleted Recycled: //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_saved_/Custom/Vanilla Types/types_tools.xml
+2023-12-10 21:18:28: Deleted Recycled: //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_saved_/Custom/Vanilla Types/types_vehiclesparts.xml
+2023-12-10 21:18:28: Deleted Recycled: //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_saved_/cfgeffectarea.json
+2023-12-10 21:18:28: Deleted Recycled: //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_saved_/cfgeventgroups.xml
+2023-12-10 21:18:29: Deleted Recycled: //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_saved_/cfgeventspawns.xml
+2023-12-10 21:18:29: Deleted Recycled: //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_saved_/cfglimitsdefinition.xml
+2023-12-10 21:18:29: Deleted Recycled: //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_saved_/db/types.xml
+2023-12-10 21:18:30: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/Custom/DNA Keycards
+2023-12-10 21:18:35: == Sync Complete. Time: 00:00:12, Speed: 103.56 KB/s, OK: 12, Errors: 0

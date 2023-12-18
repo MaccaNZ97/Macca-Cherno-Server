@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+	<damage min="0.0" max="0.0" />
+    <type name="Kitty_FordRaptor">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kitty_FordRaptor_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kitty_FordRaptor_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kitty_FordRaptor_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kitty_FordRaptor_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kitty_FordRaptor_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kitty_FordRaptor_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kitty_FordRaptor_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Kitty_FordRaptor_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kitty_FordRaptor_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kitty_FordRaptor_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kitty_FordRaptor_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor_HKitty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor_HKitty" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Blacks_FordRaptor_Camo40">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo40_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo40_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo40_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo40_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo40_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo40_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo40_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo40_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo40_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo40_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo40_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor40" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor40" chance="1.00" />
+		</attachments>
+	</type> 
+	<type name="Blacks_FordRaptor_Camo257">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo257_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo257_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo257_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo257_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo257_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo257_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo257_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo257_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo257_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo257_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo257_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor257" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor257" chance="1.00" />
+		</attachments>
+	</type>
+	
+	<type name="Blacks_FordRaptor_Camo001">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo001_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo001_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo001_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo001_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo001_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo001_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo001_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo001_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo001_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo001_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo001_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor001" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor001" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Blacks_FordRaptor_Camo002">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo002_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo002_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo002_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo002_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo002_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo002_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo002_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo002_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo002_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo002_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo002_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor002" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor002" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Blacks_FordRaptor_Camo003">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo003_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo003_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo003_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo003_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo003_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo003_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo003_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo003_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo003_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo003_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo003_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor003" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor003" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Blacks_FordRaptor_Camo004">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo004_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo004_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo004_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo004_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo004_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo004_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo004_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo004_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo004_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo004_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo004_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor004" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor004" chance="1.00" />
+		</attachments>
+	</type>
+	
+	<type name="Blacks_FordRaptor_Camo006">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo006_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo006_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo006_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo006_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo006_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo006_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo006_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo006_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo006_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo006_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo006_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor006" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor006" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Blacks_FordRaptor_Camo007">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo007_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo007_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo007_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo007_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo007_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo007_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo007_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo007_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo007_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo007_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo007_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor007" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor007" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Blacks_FordRaptor_Camo008">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo008_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo008_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo008_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo008_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo008_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo008_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo008_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo008_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo008_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo008_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo008_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor008" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor008" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Blacks_FordRaptor_Camo009">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo009_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo009_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo009_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo009_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo009_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo009_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo009_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo009_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo009_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo009_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo009_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor009" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor009" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Blacks_FordRaptor_Camo010">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo010_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo010_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo010_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo010_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo010_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo010_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo010_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo010_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo010_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo010_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo010_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor010" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor010" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Blacks_FordRaptor_Camo011">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo011_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo011_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo011_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo011_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo011_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo011_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo011_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo011_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo011_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo011_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo011_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor011" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor011" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Blacks_FordRaptor_Camo012">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo012_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo012_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo012_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo012_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo012_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo012_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo012_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo012_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo012_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo012_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo012_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor012" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor012" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Blacks_FordRaptor_Camo013">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo013_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo013_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo013_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo013_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo013_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo013_driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo013_codriver" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo013_cargo1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo013_cargo2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo013_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_FordRaptor_Camo013_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_SeaChest_DBNRaptor013" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blacks_Barrel_DBNRaptor013" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>

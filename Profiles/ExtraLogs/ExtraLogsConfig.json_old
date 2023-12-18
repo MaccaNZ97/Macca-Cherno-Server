@@ -1,0 +1,57 @@
+{
+    "ConfigVersion": "2",
+    "ServerConfig": {
+        "Info1": "",
+        "ShowBarrelActions": 1,
+        "ShowTakeStorage": 1,
+        "ShowDropStorage": 1,
+        "ShowBuryStash": 1,
+        "Info2": "",
+        "ShowBaseDamage": 1,
+        "ShowFenceOpen": 1,
+        "ShowLockAttach": 1,
+        "ShowLockCode": 0,
+        "Info3": "",
+        "ShowNVGActions": 1,
+        "ShowShock": 1,
+        "ShowBrokenLegs": 1,
+        "ShowSplintAction": 1,
+        "ShowGasPoison": 1,
+        "ShowInjectorActions": 1,
+        "ShowUseBloodBag": 0,
+        "ShowTakeBloodBag": 0,
+        "ShowGrenadeActions": 0,
+        "Info4": "",
+        "ShowCarActions": 1,
+        "ShowConnectionInfo": 0,
+        "SimpleLogs": 1,
+        "SimpleLogsStorage": 0,
+        "LifeTimeFilter": 0.0
+    },
+    "LiveMap": {
+        "ShowStashs": 0,
+        "ShowShelters": 0
+    },
+    "CustomConfig": {
+        "TakeMonitorItems": [],
+        "DropMonitorItems": []
+    },
+    "CarCover": {
+        "ShowCarCover": 0
+    },
+    "CodeLock": {
+        "ShowLockAttach": 0
+    },
+    "MMGStorage": {
+        "ShowMMGStorageActions": 0
+    },
+    "CrocoStorage": {
+        "ShowCrocoStorageActions": 0
+    },
+    "Trader": {
+        "ShowLockActions": 0
+    },
+    "MuchCarKey": {
+        "ShowLockActions": 0
+    }
+}

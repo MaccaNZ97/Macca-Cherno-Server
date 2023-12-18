@@ -1,0 +1,499 @@
+{
+  "m_Version": 15,
+  "Enabled": 1,
+  "DespawnTime": 600.0,
+  "RespawnTime": -1.0,
+  "MinDistRadius": 400.0,
+  "MaxDistRadius": 1000.0,
+  "DespawnRadius": 1100.0,
+  "AccuracyMin": -1.0,
+  "AccuracyMax": -1.0,
+  "ThreatDistanceLimit": -1.0,
+  "DamageMultiplier": -1.0,
+  "ObjectPatrols": [
+    {
+      "Name": "Object Patrol 1",
+      "Faction": "Shamans",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "UmbrellaCorp",
+      "NumberOfAI": -3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 800,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 5.0,
+      "MaxSpreadRadius": 20.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "ClassName": "Wreck_UH1Y"
+    },
+    {
+      "Name": "Object Patrol 2",
+      "Faction": "Shamans",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "UmbrellaCorp",
+      "NumberOfAI": -3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 800,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 5.0,
+      "MaxSpreadRadius": 20.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "ClassName": "Wreck_Mi8_Crashed"
+    },
+    {
+      "Name": "Object Patrol 5",
+      "Faction": "Shamans",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "NBCLoadout",
+      "NumberOfAI": -3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "Speed": "JOG",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 1,
+      "SniperProneDistanceThreshold": 800,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 0.0,
+      "MaxSpreadRadius": 150.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "ClassName": "ContaminatedArea_Static"
+    },
+    {
+      "Name": "Object Patrol 6",
+      "Faction": "Shamans",
+      "Formation": "RANDOM",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "NBCLoadout",
+      "NumberOfAI": -3,
+      "Behaviour": "HALT_OR_ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 1,
+      "SniperProneDistanceThreshold": 800,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 0.0,
+      "MaxSpreadRadius": 150.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "ClassName": "ContaminatedArea_Dynamic"
+    }
+  ],
+  "Patrols": [
+    {
+      "Name": "Patrol 0",
+      "Faction": "Shamans",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "UmbrellaCorp",
+      "NumberOfAI": 2,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          2519.15991,
+          254.438995,
+          9113.59961
+        ],
+        [
+          4151.6626,
+          105.450653,
+          6080.29443
+        ],
+        [
+          4160.97168,
+          105.412598,
+          6035.10303
+        ],
+        [
+          4160.69922,
+          106.25148,
+          5906.83008
+        ],
+        [
+          4107.86279,
+          108.930527,
+          5898.48291
+        ],
+        [
+          4057.25806,
+          114.174736,
+          5584.5957
+        ],
+        [
+          4084.56006,
+          113.232422,
+          5494.54004
+        ],
+        [
+          4079.30811,
+          113.801163,
+          5435.95313
+        ],
+        [
+          4081.73584,
+          113.402504,
+          5385.57617
+        ],
+        [
+          4067.26611,
+          109.788383,
+          4904.50879
+        ],
+        [
+          4126.50488,
+          107.371178,
+          4647.12891
+        ]
+      ]
+    },
+    {
+      "Name": "Patrol 3",
+      "Faction": "Shamans",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "UmbrellaCorp.json",
+      "NumberOfAI": 1,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 0,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 100.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          8588.20996,
+          103.304726,
+          13439.0029
+        ],
+        [
+          8578.58594,
+          106.485222,
+          13465.2813
+        ],
+        [
+          8605.71777,
+          112.455276,
+          13521.626
+        ],
+        [
+          8640.50977,
+          120.118225,
+          13590.3604
+        ],
+        [
+          8641.97656,
+          127.327774,
+          13644.0693
+        ],
+        [
+          8643.52344,
+          123.581627,
+          13609.8486
+        ],
+        [
+          8724.07715,
+          121.008499,
+          13532.3525
+        ],
+        [
+          8792.48438,
+          119.34481,
+          13479.8672
+        ],
+        [
+          8843.3584,
+          122.085854,
+          13469.4648
+        ],
+        [
+          8881.16113,
+          121.293594,
+          13413.0664
+        ],
+        [
+          8837.00488,
+          121.072372,
+          13470.0068
+        ],
+        [
+          8742.03906,
+          121.246811,
+          13516.5879
+        ],
+        [
+          8704.23828,
+          119.762787,
+          13546.5166
+        ],
+        [
+          8609.14453,
+          113.184517,
+          13527.6016
+        ],
+        [
+          8573.0166,
+          112.247055,
+          13530.6621
+        ],
+        [
+          8563.08398,
+          118.173904,
+          13576.2129
+        ],
+        [
+          8500.52539,
+          135.59021,
+          13653.7695
+        ],
+        [
+          8456.375,
+          139.365845,
+          13677.1279
+        ],
+        [
+          8546.61035,
+          126.12944,
+          13615.5449
+        ],
+        [
+          8566.74707,
+          116.355377,
+          13563.6885
+        ],
+        [
+          8573.12305,
+          112.562714,
+          13532.7393
+        ],
+        [
+          8563.7002,
+          107.298088,
+          13476.4658
+        ],
+        [
+          8586.04785,
+          103.664093,
+          13442.4355
+        ]
+      ]
+    },
+    {
+      "Name": "Lopatino",
+      "Faction": "Shamans",
+      "Formation": "Column",
+      "FormationLooseness": 0,
+      "LoadoutFile": "UmbrellaCorp",
+      "NumberOfAI": 5,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 1,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -2,
+      "AccuracyMax": -2,
+      "ThreatDistanceLimit": 800,
+      "DamageMultiplier": 0,
+      "MinDistRadius": -2,
+      "MaxDistRadius": -2,
+      "DespawnRadius": -2,
+      "MinSpreadRadius": 5,
+      "MaxSpreadRadius": 20,
+      "Chance": 1,
+      "WaypointInterpolation": "NaturalCubic",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          2519.16,
+          254.439,
+          9654.72
+        ],
+        [
+          2517.48,
+          255.345,
+          9711.17
+        ],
+        [
+          2555.59,
+          258.552,
+          9774.53
+        ]
+      ]
+    },
+    {
+      "Name": "Tisy",
+      "Faction": "Shamans",
+      "Formation": "Column",
+      "FormationLooseness": 0,
+      "LoadoutFile": "UmbrellaCorp",
+      "NumberOfAI": 5,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 1,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -2,
+      "AccuracyMax": -2,
+      "ThreatDistanceLimit": 800,
+      "DamageMultiplier": 0,
+      "MinDistRadius": -2,
+      "MaxDistRadius": -2,
+      "DespawnRadius": -2,
+      "MinSpreadRadius": 5,
+      "MaxSpreadRadius": 20,
+      "Chance": 1,
+      "WaypointInterpolation": "NaturalCubic",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          1728.5,
+          451.742,
+          14298.8
+        ],
+        [
+          1757.66,
+          451.692,
+          14312
+        ],
+        [
+          1802.63,
+          448.703,
+          14224.5
+        ]
+      ]
+    },
+    {
+      "Name": "NWAF",
+      "Faction": "Shamans",
+      "Formation": "Column",
+      "FormationLooseness": 0,
+      "LoadoutFile": "UmbrellaCorp",
+      "NumberOfAI": 5,
+      "Behaviour": "ALTERNATE",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 1,
+      "SniperProneDistanceThreshold": 0,
+      "AccuracyMin": -2,
+      "AccuracyMax": -2,
+      "ThreatDistanceLimit": 800,
+      "DamageMultiplier": 0,
+      "MinDistRadius": -2,
+      "MaxDistRadius": -2,
+      "DespawnRadius": -2,
+      "MinSpreadRadius": 5,
+      "MaxSpreadRadius": 20,
+      "Chance": 1,
+      "WaypointInterpolation": "NaturalCubic",
+      "DespawnTime": -1,
+      "RespawnTime": -2,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [
+          4077.53,
+          339.012,
+          10792.7
+        ],
+        [
+          4123.87,
+          339.012,
+          10702.9
+        ],
+        [
+          4211.51,
+          339.835,
+          10534.6
+        ],
+        [
+          4271.15,
+          339.000,
+          10422.7
+        ]
+      ]
+    }
+  ]
+}

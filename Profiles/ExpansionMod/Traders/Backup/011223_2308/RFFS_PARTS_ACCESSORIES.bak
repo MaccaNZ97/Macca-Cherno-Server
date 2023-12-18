@@ -1,0 +1,16 @@
+{
+  "m_Version": 11,
+  "DisplayName": "RFFS_PARTS_ACCESSORIES",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Questionmark",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "VEHICLEKEYS"
+  ],
+  "Items": {}
+}

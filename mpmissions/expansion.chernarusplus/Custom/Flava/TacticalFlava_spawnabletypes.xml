@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+
+	<!-- BAGS -->
+
+	<type name="TF_CamelBakBag_Black">
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="TF_CamelBakBag_Brown">
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixHunter" />
+	</type>
+	<type name="TF_CamelBakBag_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TF_CamelBakBag_OD">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TF_CamelBakBag_Tan">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TF_AVSBag_Coyote">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TF_AVSBag_Khaki">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TF_MAPBag_Khaki">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TF_MAPBag_Coyote">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+
+	<!-- M14 -->
+
+	<type name="TF_M14_DMR">
+		<attachments chance="0.30">
+			<item name="TF_M14_Adapter" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.15" />
+			<item name="ACOGOptic_6x" chance="0.05" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_ElcanSpecterDROptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDROptic_Black" chance="0.05" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="TF_Mag_M14_20Rnd" chance="0.30" />
+			<item name="TF_Mag_M14_10Rnd" chance="0.70" />
+		</attachments>
+	</type>
+	<type name="TF_M14_EBR">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.15" />
+			<item name="ACOGOptic_6x" chance="0.05" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_ElcanSpecterDROptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDROptic_Black" chance="0.05" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="TF_Mag_M14_20Rnd" chance="0.30" />
+			<item name="TF_Mag_M14_10Rnd" chance="0.70" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_Harris_Bipod" chance="0.50" />
+			<item name="TF_Atlas_Bipod" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="TF_M14_STD">
+		<attachments chance="0.30">
+			<item name="TF_M14_Adapter" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.15" />
+			<item name="ACOGOptic_6x" chance="0.05" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_ElcanSpecterDROptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDROptic_Black" chance="0.05" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="TF_Mag_M14_20Rnd" chance="0.30" />
+			<item name="TF_Mag_M14_10Rnd" chance="0.70" />
+		</attachments>
+	</type>
+	<type name="TF_M1A_Black">
+		<attachments chance="0.20">
+			<item name="TF_Mag_M14_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_M1A_OD">
+		<attachments chance="0.20">
+			<item name="TF_Mag_M14_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_M1A_Tan">
+		<attachments chance="0.20">
+			<item name="TF_Mag_M14_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+
+	<!-- SCAR 20 -->
+
+	<type name="TF_SCAR_20_FDE">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.10" />
+			<item name="ACOGOptic_6x" chance="0.05" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_ElcanSpecterDROptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDROptic_Black" chance="0.05" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+			<item name="HuntingOptic" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_Mk20Bttstck_FDE" chance="0.20" />
+			<item name="TF_SCAR_StndBttstck_FDE" chance="0.80" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="TF_Mag_SCAR_H_20Rnd_FDE" chance="0.70" />
+			<item name="TF_Mag_SCAR_H_25Rnd_FDE" chance="0.30" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_Harris_Bipod" chance="0.3" />
+			<item name="TF_Atlas_Bipod" chance="0.3" />
+			<item name="TF_AFG_RIS_Grip_FDE" chance="0.3" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_SCAR_Suppressor_Black" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_SCAR_20_Black">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.10" />
+			<item name="ACOGOptic_6x" chance="0.05" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_ElcanSpecterDROptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDROptic_Black" chance="0.05" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+			<item name="HuntingOptic" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_Mk20Bttstck_Black" chance="0.20" />
+			<item name="TF_SCAR_StndBttstck_Black" chance="0.80" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="TF_Mag_SCAR_H_20Rnd_Black" chance="0.70" />
+			<item name="TF_Mag_SCAR_H_25Rnd_Black" chance="0.30" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_Harris_Bipod" chance="0.3" />
+			<item name="TF_Atlas_Bipod" chance="0.3" />
+			<item name="TF_AFG_RIS_Grip_Black" chance="0.3" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_SCAR_Suppressor_Black" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_SCAR_20_Shd">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.10" />
+			<item name="ACOGOptic_6x" chance="0.05" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_ElcanSpecterDROptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDROptic_Black" chance="0.05" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+			<item name="HuntingOptic" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_Mk20Bttstck_Shd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="TF_Mag_SCAR_H_20Rnd_Shd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_Harris_Bipod" chance="0.3" />
+			<item name="TF_Atlas_Bipod" chance="0.3" />
+			<item name="TF_AFG_RIS_Grip_Black" chance="0.3" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_SCAR_Suppressor_Black" chance="1.00" />
+		</attachments>
+	</type>
+
+	<!-- SCAR L -->
+
+	<type name="TF_SCAR_L_FDE">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.10" />
+			<item name="ACOGOptic" chance="0.10" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+			<item name="TF_DeltaPointOptic_Black" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_StndBttstck_FDE" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_ADDHndgrd" chance="0.05" />
+			<item name="TF_SCAR_StndHndgrd" chance="0.90" />
+			<item name="TF_SCAR_MREXHndgrd_FDE" chance="0.05" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_M4_STANAG_30Rnd" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG10Rnd" chance="0.30" />
+			<item name="TF_Mag_M4_PMAG20Rnd" chance="0.35" />
+			<item name="TF_Mag_M4_PMAG30Rnd_FDE" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG40Rnd_FDE" chance="0.05" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_Harris_Bipod" chance="0.25" />
+			<item name="TF_Atlas_Bipod" chance="0.25" />
+			<item name="TF_AFG_RIS_Grip_FDE" chance="0.25" />
+			<item name="TF_AFG_MLOCK_Grip_FDE" chance="0.25" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="M4_Suppressor" chance="0.50" />
+			<item name="TF_M4_SOCOMSuppressor" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="TF_SCAR_L_Black">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.10" />
+			<item name="ACOGOptic" chance="0.10" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+			<item name="TF_DeltaPointOptic_Black" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_StndBttstck_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_ADDHndgrd" chance="0.05" />
+			<item name="TF_SCAR_StndHndgrd" chance="0.90" />
+			<item name="TF_SCAR_MREXHndgrd_Black" chance="0.05" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_M4_STANAG_30Rnd" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG10Rnd" chance="0.30" />
+			<item name="TF_Mag_M4_PMAG20Rnd" chance="0.35" />
+			<item name="TF_Mag_M4_PMAG30Rnd" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG40Rnd" chance="0.05" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_Harris_Bipod" chance="0.25" />
+			<item name="TF_Atlas_Bipod" chance="0.25" />
+			<item name="TF_AFG_RIS_Grip_Black" chance="0.25" />
+			<item name="TF_AFG_MLOCK_Grip_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_SCAR_L_CQC_FDE">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.10" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.30" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_DeltaPointOptic_Black" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_StndBttstck_FDE" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_StndHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_M4_STANAG_30Rnd" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG10Rnd" chance="0.30" />
+			<item name="TF_Mag_M4_PMAG20Rnd" chance="0.35" />
+			<item name="TF_Mag_M4_PMAG30Rnd_FDE" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG40Rnd_FDE" chance="0.05" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_AFG_RIS_Grip_FDE" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="M4_Suppressor" chance="0.50" />
+			<item name="TF_M4_SOCOMSuppressor" chance="0.50" />
+		</attachments>
+	</type>
+		<type name="TF_SCAR_L_CQC_Black">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.10" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.30" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_DeltaPointOptic_Black" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_StndBttstck_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_StndHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_M4_STANAG_30Rnd" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG10Rnd" chance="0.30" />
+			<item name="TF_Mag_M4_PMAG20Rnd" chance="0.35" />
+			<item name="TF_Mag_M4_PMAG30Rnd" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG40Rnd" chance="0.05" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_AFG_RIS_Grip_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
+
+	<!-- SCAR H -->
+
+	<type name="TF_SCAR_H_FDE">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.10" />
+			<item name="ACOGOptic" chance="0.10" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+			<item name="TF_DeltaPointOptic_Black" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_StndBttstck_FDE" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_ADDHndgrd" chance="0.05" />
+			<item name="TF_SCAR_StndHndgrd" chance="0.90" />
+			<item name="TF_SCAR_MREXHndgrd_FDE" chance="0.05" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_SCAR_H_20Rnd_FDE" chance="0.70" />
+			<item name="TF_Mag_SCAR_H_25Rnd_FDE" chance="0.30" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_Harris_Bipod" chance="0.25" />
+			<item name="TF_Atlas_Bipod" chance="0.25" />
+			<item name="TF_AFG_RIS_Grip_FDE" chance="0.25" />
+			<item name="TF_AFG_MLOCK_Grip_FDE" chance="0.25" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_SCAR_Suppressor_Black" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_SCAR_H_Black">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.10" />
+			<item name="ACOGOptic" chance="0.10" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+			<item name="TF_DeltaPointOptic_Black" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_StndBttstck_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_ADDHndgrd" chance="0.05" />
+			<item name="TF_SCAR_StndHndgrd" chance="0.90" />
+			<item name="TF_SCAR_MREXHndgrd_Black" chance="0.05" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_SCAR_H_20Rnd_Black" chance="0.70" />
+			<item name="TF_Mag_SCAR_H_25Rnd_Black" chance="0.30" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_Harris_Bipod" chance="0.25" />
+			<item name="TF_Atlas_Bipod" chance="0.25" />
+			<item name="TF_AFG_RIS_Grip_Black" chance="0.25" />
+			<item name="TF_AFG_MLOCK_Grip_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_SCAR_Suppressor_Black" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_SCAR_H_CQC_FDE">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.10" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.30" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_DeltaPointOptic_Black" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_StndBttstck_FDE" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_StndHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_SCAR_H_20Rnd_FDE" chance="0.70" />
+			<item name="TF_Mag_SCAR_H_25Rnd_FDE" chance="0.30" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_AFG_RIS_Grip_FDE" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_SCAR_Suppressor_Black" chance="1.00" />
+		</attachments>
+	</type>
+		<type name="TF_SCAR_H_CQC_Black">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.10" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.30" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_DeltaPointOptic_Black" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_StndBttstck_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_SCAR_StndHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_SCAR_H_20Rnd_Black" chance="0.70" />
+			<item name="TF_Mag_SCAR_H_25Rnd_Black" chance="0.30" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_AFG_RIS_Grip_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_SCAR_Suppressor_Black" chance="1.00" />
+		</attachments>
+	</type>
+	
+	<!-- AK -->
+	
+	<type name="TF_AK101">
+		<attachments chance="0.30">
+			<item name="KashtanOptic" chance="0.50" />
+			<item name="PSO11Optic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_PlasticBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_PlasticHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AK101_Plastic30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_AK102">
+		<attachments chance="0.30">
+			<item name="KashtanOptic" chance="0.50" />
+			<item name="PSO11Optic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_PlasticBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_PlasticHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AK101_Plastic30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_AK103">
+		<attachments chance="0.30">
+			<item name="KashtanOptic" chance="0.50" />
+			<item name="PSO11Optic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_PlasticBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_PlasticHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="TF_AK_6p20Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AKM_Plastic30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_AK104">
+		<attachments chance="0.30">
+			<item name="KashtanOptic" chance="0.50" />
+			<item name="PSO11Optic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_PlasticBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_PlasticHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="TF_AK_6p20Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AKM_Plastic30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_AK105">
+		<attachments chance="0.30">
+			<item name="KashtanOptic" chance="0.50" />
+			<item name="PSO11Optic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_PlasticBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_PlasticHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="TF_AK_6p20Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AK74_45Rnd" chance="0.15" />
+			<item name="TF_Mag_AK74_Plastic30Rnd" chance="0.85" />
+		</attachments>
+	</type>
+	<type name="TF_AK105_Bullpup">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.10" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.30" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_DeltaPointOptic_Black" chance="0.20" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_AFG_RIS_Grip_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="TF_AK_6p20Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AK74_45Rnd" chance="0.15" />
+			<item name="TF_Mag_AK74_Plastic30Rnd" chance="0.85" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_AK74M">
+		<attachments chance="0.30">
+			<item name="KashtanOptic" chance="0.50" />
+			<item name="PSO11Optic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_PlasticBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_PlasticHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="TF_AK_6p20Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AK74_45Rnd" chance="0.15" />
+			<item name="TF_Mag_AK74_Plastic30Rnd" chance="0.85" />
+		</attachments>
+	</type>
+	<type name="TF_AKM">
+		<attachments chance="1.00">
+			<item name="AK_WoodBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_WoodHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="TF_AK_6p20Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_AKMN">
+		<attachments chance="0.30">
+			<item name="KazuarOptic" chance="0.50" />
+			<item name="PSO11Optic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_WoodBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_WoodHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="TF_AK_6p20Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_VPO136">
+		<attachments chance="1.00">
+			<item name="AK_WoodBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_WoodHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="TF_AK_6p20Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AKM_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_AKS74U">
+		<attachments chance="1.00">
+			<item name="AKS74U_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_AKS74U_WoodHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="TF_AK_6p20Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AK74_Bakelit30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+
+	<!-- AR-15 -->
+
+	<type name="TF_M4A1">
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_PlasticHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BUISOptic" chance="0.50" />
+			<item name="M4_CarryHandleOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_M4_STANAG_30Rnd" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG10Rnd" chance="0.30" />
+			<item name="TF_Mag_M4_PMAG20Rnd" chance="0.35" />
+			<item name="TF_Mag_M4_PMAG30Rnd" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG40Rnd" chance="0.05" />
+		</attachments>
+	</type>
+	<type name="TF_ADAR2_15">
+		<attachments chance="1.00">
+			<item name="TF_M4_ADARBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_M4_ADARWoodHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_M4_ColtA2Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_M4_PMAG10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_M4A1_CQBR">
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_PlasticHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BUISOptic" chance="0.50" />
+			<item name="M4_CarryHandleOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_M4_STANAG_30Rnd" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG10Rnd" chance="0.30" />
+			<item name="TF_Mag_M4_PMAG20Rnd" chance="0.35" />
+			<item name="TF_Mag_M4_PMAG30Rnd" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG40Rnd" chance="0.05" />
+		</attachments>
+	</type>
+	<type name="TF_M16A4">
+		<attachments chance="1.00">
+			<item name="TF_M16_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_M16_KACHndgrd_RIS" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BUISOptic" chance="0.50" />
+			<item name="M4_CarryHandleOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_M4_STANAG_30Rnd" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG10Rnd" chance="0.30" />
+			<item name="TF_Mag_M4_PMAG20Rnd" chance="0.35" />
+			<item name="TF_Mag_M4_PMAG30Rnd" chance="0.15" />
+			<item name="TF_Mag_M4_PMAG40Rnd" chance="0.05" />
+		</attachments>
+	</type>
+
+	<!-- AR-10 -->
+
+	<type name="TF_MK47_CQBR">
+		<attachments chance="1.00">
+			<item name="TF_M4_CMMG_RIPBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_AR10_CMMG9Hndgrd_MLOCK" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.10" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.30" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_DeltaPointOptic_Black" chance="0.20" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_AFG_MLOCK_Grip_Black" chance="1.0" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AKM_PMAG30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_MK47">
+		<attachments chance="1.00">
+			<item name="TF_M4_CMMG_RIPBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_AR10_CMMG15Hndgrd_MLOCK" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.10" />
+			<item name="ACOGOptic" chance="0.10" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+			<item name="TF_DeltaPointOptic_Black" chance="0.10" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_AFG_MLOCK_Grip_Black" chance="1.0" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AKM_PMAG30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_SR25">
+		<attachments chance="1.00">
+			<item name="TF_M4CraneBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_AR10_KACHndgrd_RIS" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="0.80" />
+			<item name="TF_HAMROptic_Black" chance="0.20" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_AFG_RIS_Grip_Black" chance="1.0" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_SR25_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_M4_MOEPistolGrip_Black" chance="0.50" />
+			<item name="TF_M4_OMRGPistolGrip_Black" chance="0.50" />
+		</attachments>
+	</type>
+
+	<!-- PISTOLS -->
+
+	<type name="TF_FiveSeven">
+		<attachments chance="0.10">
+			<item name="TF_Mag_FiveSeven_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.05">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TLRLight" chance="1.00" />
+		</attachments>
+		<attachments chance="0.15">
+			<item name="FNP45_MRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_MakarovPB">
+		<attachments chance="0.60">
+			<item name="Mag_IJ70_8Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_MakarovPB_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_MP443">
+		<attachments chance="0.10">
+			<item name="TF_Mag_MP443_18Rnd" chance="1.00" />
+		</attachments>
+	</type>
+
+	<!-- PK -->
+
+	<type name="TF_AEK999">
+		<attachments chance="0.30">
+			<item name="KashtanOptic" chance="0.50" />
+			<item name="PSO11Optic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_PKP_PlasticBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_AEK999_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="TF_Mag_PKM_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_PKM">
+		<attachments chance="1.00">
+			<item name="TF_PKP_PlasticBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="TF_PKM_6ch43Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="TF_Mag_PKM_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_PKP">
+		<attachments chance="0.30">
+			<item name="KashtanOptic" chance="0.50" />
+			<item name="PSO11Optic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_PKP_PlasticBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="TF_PKM_6ch43Compensator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="TF_Mag_PKM_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+
+	<!-- SVCh -->
+
+	<type name="TF_SVCh308">
+		<attachments chance="0.50">
+			<item name="ACOGOptic" chance="0.15" />
+			<item name="ACOGOptic_6x" chance="0.05" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="TF_ElcanSpecterDROptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDROptic_Black" chance="0.05" />
+			<item name="TF_ElcanSpecterDR_6xOptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDR_6xOptic_Black" chance="0.05" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="TF_Mag_SVCh308_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_SVCh">
+		<attachments chance="0.50">
+			<item name="ACOGOptic" chance="0.15" />
+			<item name="ACOGOptic_6x" chance="0.05" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="TF_ElcanSpecterDROptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDROptic_Black" chance="0.05" />
+			<item name="TF_ElcanSpecterDR_6xOptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDR_6xOptic_Black" chance="0.05" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+
+	<!-- OTHER WEAPON-->
+
+	<type name="TF_AN94">
+		<attachments chance="0.30">
+			<item name="KashtanOptic" chance="0.50" />
+			<item name="PSO11Optic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_AN94_PlasticBttstck" chance="1.0" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AK74_45Rnd" chance="0.15" />
+			<item name="TF_Mag_AK74_Plastic30Rnd" chance="0.85" />
+		</attachments>
+	</type>
+	<type name="TF_AN94M">
+		<attachments chance="0.30">
+			<item name="KashtanOptic" chance="0.15" />
+			<item name="PSO11Optic" chance="0.15" />
+			<item name="TF_PK122_ValdayOptic" chance="0.35" />
+			<item name="TF_OKP7Optic" chance="0.35" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_AN94_PlasticBttstck" chance="0.70" />
+			<item name="TF_AN94_AdapterBttstck" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_M4_CMMG_RIPBttstck" chance="0.50" />
+			<item name="TF_M4CraneBttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_AK74_45Rnd" chance="0.15" />
+			<item name="TF_Mag_AK74_Plastic30Rnd" chance="0.85" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_Harris_Bipod" chance="0.5" />
+			<item name="TF_Atlas_Bipod" chance="0.5" />
+		</attachments>
+	</type>
+	<type name="TF_Anzio20">
+		<attachments chance="1.00">
+			<item name="TF_Mag_Anzio20_3Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_MAR10">
+		<attachments chance="0.20">
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.15" />
+			<item name="ACOGOptic_6x" chance="0.05" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
+			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
+			<item name="TF_ElcanSpecterDROptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDROptic_Black" chance="0.05" />
+			<item name="TF_HAMROptic_Black" chance="0.10" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="TF_Mag_MAR10_10Rnd" chance="0.30" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_Harris_Bipod" chance="0.3" />
+			<item name="TF_Atlas_Bipod" chance="0.3" />
+			<item name="TF_AFG_RIS_Grip_Black" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_M4CraneBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="TF_MAR10_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_OTs_12_Tiss">
+		<attachments chance="0.30">
+			<item name="TF_Mag_OTs_14_Groza_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AKS74U_Bttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_AKS74U_WoodHndgrd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_OTs_14_Groza">
+		<attachments chance="0.20">
+			<item name="TF_Mag_OTs_14_Groza_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TF_OTs_14_Groza_Barrel_Grip" chance="0.60" />
+			<item name="TF_OTs_14_Groza_Suppressor" chance="0.40" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="TF_OTs_14_GrozaOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_M79">
+		<attachments chance="0.20">
+			<item name="TF_DeltaPointOptic_Black" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_M79_AOR1">
+		<attachments chance="0.20">
+			<item name="TF_DeltaPointOptic_Black" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_VPO190">
+		<attachments chance="0.10">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="TF_Mag_VPO190_4Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_M240">
+		<attachments chance="0.30">
+			<item name="M68Optic" chance="0.20" />
+			<item name="TF_ElcanSpecterDROptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDROptic_Black" chance="0.05" />
+			<item name="TF_ElcanSpecterDR_6xOptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDR_6xOptic_Black" chance="0.05" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="TF_Mag_M240_50Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TF_M249">
+		<attachments chance="0.30">
+			<item name="M68Optic" chance="0.20" />
+			<item name="TF_ElcanSpecterDROptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDROptic_Black" chance="0.05" />
+			<item name="TF_ElcanSpecterDR_6xOptic_FDE" chance="0.05" />
+			<item name="TF_ElcanSpecterDR_6xOptic_Black" chance="0.05" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="TF_Mag_M249_200Rnd" chance="1.00" />
+		</attachments>
+	</type>
+
+	<!-- WEAR--> 
+	
+	<type name="TF_PMK4GasMask">
+		<cargo chance="0.2">
+			<item name="GasMask_Filter" />
+		</cargo>
+	</type>
+	<type name="TF_PMK4GasMask_OD">
+		<cargo chance="0.2">
+			<item name="GasMask_Filter" />
+		</cargo>
+	</type>
+	<type name="TF_6sh122Jacket_Spring">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="TF_6sh122Jacket_Autumn">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="TF_6sh122Jacket_Syrian">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="TF_6sh122Jacket_Syrian_EMR">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="TF_6sh122Jacket_Winter">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="TF_6sh122Pants_Spring">
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TF_6sh122Pants_Autumn">
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TF_6sh122Pants_Syrian">
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TF_6sh122Pants_Syrian_EMR">
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TF_6sh122Pants_Winter">
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TF_CargoPantsShort_Black">
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="TF_CargoPantsShort_MARPAT">
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="TF_G3CombatShirt_RG">
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="TF_G3CombatShirt_MC">
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="TF_G3CombatShirt_WD">
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="TF_G3CombatPants_RG">
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TF_G3CombatPants_MC">
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TF_G3CombatPants_WD">
+		<cargo preset="mixArmy" />
+	</type>
+
+	<!-- VESTS -->
+
+	<type name="TF_IMTVVest">
+	</type>
+	<type name="TF_6B43Vest_EMR">
+	</type>
+	<type name="TF_6B43Vest_Syrian">
+	</type>
+	<type name="TF_6B23Vest_EMR">
+	</type>
+	<type name="TF_6B23Vest_GFlora">
+	</type>
+	<type name="TF_PlateCarrierVest_Coyote">
+	</type>
+	<type name="TF_AVSVest_Coyote">
+	</type>
+	<type name="TF_AVSVest_Tagilla">
+	</type>
+	<type name="TF_IMTVVest_Khaki">
+	</type>
+	<type name="TF_JPCVest_MC">
+	</type>
+	<type name="TF_JPCVest_Coyote">
+	</type>
+	<type name="TF_LVMBAVVest_KH">
+	</type>
+</spawnabletypes>	

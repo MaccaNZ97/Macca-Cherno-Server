@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+  <type name="Jeep_GladiatorF9_BOSS_Black">
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_Black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door1_camo_black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Cargo_Door2_Black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Codriver_Door_Black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Driver_Door_Black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Hood_Black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Jeep_GladiatorF9_Trunk_Black" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Crackers" chance="1" />
+    </attachments>
+    <attachments chance="1">
+      <item name="Wheel_Main" chance="1" />
+    </attachments>
+  </type>
+</spawnabletypes>

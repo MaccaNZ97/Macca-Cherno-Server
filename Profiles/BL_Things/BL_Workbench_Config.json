@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": "1",
+    "EnableCraftingOnWorkbench": 1,
+    "EnableCraftingWB_Fridge": 1,
+    "EnableCraftingWB_SolarPanel": 1,
+    "EnableCraftingWB_CoffeeMachine": 1,
+    "EnableCraftingWB_DeskLamp": 1,
+    "EnableCraftingWB_SpotLight": 1,
+    "EnableCraftingWB_FloorLamp": 1,
+    "EnableCraftingWB_FirewoodStorage": 1,
+    "EnableCraftingWB_Repairbench": 1
+}

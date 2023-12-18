@@ -1,0 +1,36 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Race Trace Novy Lug",
+    "Position": [
+        9270.3095703125,
+        238.0,
+        11385.0
+    ],
+    "Radius": 100.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {
+        "spur_kart_sign1": 0,
+        "spur_kart_sign2": 0,
+        "spur_kart_sign3": 0,
+        "spur_kart_wheel": 0,
+        "spur_kart_sign4": 0,
+        "spur_kart_seat": 0,
+        "spur_kart_engine": 0,
+        "carbattery": 0,
+        "battery9v": 0,
+        "spur_wonkytrolley": 0,
+        "expansionaircraftbattery": 0,
+        "waterproofbag_black": 0,
+        "truckbattery": 0,
+        "spur_kart_wheelrear": 0,
+        "spur_trolleykart": 0,
+        "spur_ekart_motor": 0,
+        "spur_trolley_e_kart_black": 0,
+        "spur_trolley_e_kart": 0,
+        "spur_kart_fueltank": 0,
+        "mavericks12v": 0,
+        "spur_trolleykart_black": 0,
+        "spur_kart_sign_tagged": 0
+    }
+}

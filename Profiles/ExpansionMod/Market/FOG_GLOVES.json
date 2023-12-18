@@ -1,0 +1,45 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG GLOVES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_gungloves_aor2",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_gungloves_black",
+        "fog_gungloves_cb",
+        "fog_gungloves_grey",
+        "fog_gungloves_m81",
+        "fog_gungloves_mc",
+        "fog_gungloves_mcb",
+        "fog_gungloves_rg",
+        "fog_gungloves_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_tactical_fingerless_gloves_black",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tactical_fingerless_gloves_green",
+        "fog_tactical_fingerless_gloves_tan",
+        "fog_tactical_fingerless_gloves_mc"
+      ]
+    }
+  ]
+}

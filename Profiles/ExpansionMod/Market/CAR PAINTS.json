@@ -1,0 +1,49 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Car Spray Cans",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "expansionspraycanblack",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "expansionspraycanblue",
+        "expansionspraycanblueline",
+        "expansionspraycancivilian",
+        "expansionspraycandahoman",
+        "expansionspraycandigital",
+        "expansionspraycanelliptical",
+        "expansionspraycanfurious",
+        "expansionspraycangraywatcher",
+        "expansionspraycangreen",
+        "expansionspraycangrey",
+        "expansionspraycanion",
+        "expansionspraycanjeans",
+        "expansionspraycanmedical",
+        "expansionspraycanpresident",
+        "expansionspraycanred",
+        "expansionspraycanshadow",
+        "expansionspraycanspeedy",
+        "expansionspraycansunset",
+        "expansionspraycanuber",
+        "expansionspraycanvrana",
+        "expansionspraycanwasp",
+        "expansionspraycanwave",
+        "expansionspraycanweeb",
+        "expansionspraycanwhite",
+        "expansionspraycanwine",
+        "expansionspraycanyellow"
+      ]
+    }
+  ],
+  "SortByDisplayName": true
+}

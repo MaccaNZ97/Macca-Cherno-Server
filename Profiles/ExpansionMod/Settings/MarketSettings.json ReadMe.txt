@@ -1,0 +1,2 @@
+Info: '$profile:ExpansionMod\Settings\MarketSettings.json' has moved to '$mission:expansion\settings\MarketSettings.json'.
+Feel free to delete this ReadMe file at your convenience.

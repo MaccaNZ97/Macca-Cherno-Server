@@ -1,0 +1,21 @@
+2023-12-07 11:45:41: == Sync Started by User Command
+2023-12-07 11:45:41: ConnectCloned connected to file:///D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus
+2023-12-07 11:45:41: ConnectCloned connected to file:///D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus
+2023-12-07 11:45:41: ConnectCloned connected to file:///D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus
+2023-12-07 11:45:42: ConnectCloned connected to smb://51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus
+2023-12-07 11:45:42: ConnectCloned connected to smb://51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus
+2023-12-07 11:45:42: ConnectCloned connected to smb://51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus
+2023-12-07 11:45:42: Create Folder //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/Boomlay
+2023-12-07 11:45:43: Copy New 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/Boomlay/Boomlay_Things_types.xml' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/Boomlay/Boomlay_Things_types.xml' (33,627)
+2023-12-07 11:45:43: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/cfgeconomycore.xml' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/cfgeconomycore.xml' (4,229)
+2023-12-07 11:45:43: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types_Noms.txt' (196)
+2023-12-07 11:45:43: Copy New 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/DBN/DBN_Novotor_types_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/DBN/DBN_Novotor_types_Noms.txt' (1,802)
+2023-12-07 11:45:43: Close Modified Folder (mod-time, acl): /Custom/Boomlay
+2023-12-07 11:45:44: Copy New 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/DBN/DBN_Raptor_types_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/DBN/DBN_Raptor_types_Noms.txt' (152)
+2023-12-07 11:45:44: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/Mavericks12v_types_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/Mavericks12v_types_Noms.txt' (14)
+2023-12-07 11:45:45: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/Vanilla Types/types_food_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/Vanilla Types/types_food_Noms.txt' (15)
+2023-12-07 11:45:45: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/Vanilla Types/types_other_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/Vanilla Types/types_other_Noms.txt' (3,897)
+2023-12-07 11:45:45: Copy Over 'D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/Custom/Vanilla Types/types_tools_Noms.txt' -> '//51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/Custom/Vanilla Types/types_tools_Noms.txt' (12)
+2023-12-07 11:45:45: Save State File D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2023-12-07 11:45:46: Save State File //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2023-12-07 11:45:53: == Sync Complete. Time: 00:00:12, Speed: 16.58 KB/s, OK: 10, Errors: 0

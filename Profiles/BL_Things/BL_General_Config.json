@@ -1,0 +1,17 @@
+{
+    "ConfigVersion": "1",
+    "CloseOnServerRestart": 1,
+    "CloseAfterSeconds": 60,
+    "DismantlePalletTools": [
+        "Hatchet",
+        "WoodAxe",
+        "FireFighterAxe",
+        "PickAxe",
+        "Crowbar"
+    ],
+    "DismantleFurnitureTools": [
+        "Screwdriver",
+        "Pliers"
+    ],
+    "ReturnResourcesWhenDismantle": 1
+}

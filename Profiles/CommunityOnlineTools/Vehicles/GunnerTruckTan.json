@@ -1,0 +1,23 @@
+{
+    "VehicleName": "GunnerTruckTan",
+    "DisplayName": "",
+    "Parts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "JLTVWheel",
+        "JLTVWheel",
+        "JLTVWheel",
+        "JLTVWheel",
+        "JLTVDoorDriverTan",
+        "JLTVDoorCoDriverTan",
+        "JLTVDoorBackLeftTan",
+        "JLTVDoorBackRightTan",
+        "JLTVHoodTan",
+        "JLTVRearGuardTan",
+        "CanisterGasoline",
+        "JLTVWheel"
+    ]
+}

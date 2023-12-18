@@ -1,0 +1,26 @@
+{
+  "m_Version": 11,
+  "DisplayName": "Forward Operator Gear",
+  "MinRequiredReputation": 5500,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": null,
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "FOG_SHIRTS",
+    "FOG_POUCHES_AND_ACCESSORIES",
+    "FOG_BAGS",
+    "FOG_PANTS",
+    "FOG_BELTS",
+    "FOG_HELMETS",
+    "FOG_SHOES",
+    "FOG_MASKS",
+    "FOG_GLOVES",
+    "FOG_MISC",
+    "FOG_VESTS"
+  ],
+  "Items": {}
+}
