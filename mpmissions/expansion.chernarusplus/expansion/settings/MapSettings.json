@@ -1,118 +1,103 @@
 {
-    "m_Version": 5,
-    "EnableMap": 1,
-    "UseMapOnMapItem": 1,
-    "ShowPlayerPosition": 1,
-    "ShowMapStats": 1,
-    "NeedPenItemForCreateMarker": 0,
-    "NeedGPSItemForCreateMarker": 0,
-    "CanCreateMarker": 1,
-    "CanCreate3DMarker": 1,
-    "CanOpenMapWithKeyBinding": 1,
-    "ShowDistanceOnPersonalMarkers": 1,
-    "EnableHUDGPS": 1,
-    "NeedGPSItemForKeyBinding": 0,
-    "NeedMapItemForKeyBinding": 1,
-    "EnableServerMarkers": 1,
-    "ShowNameOnServerMarkers": 1,
-    "ShowDistanceOnServerMarkers": 1,
-    "ServerMarkers": [
-        {
-            "m_UID": "ServerMarker_Trader_Green_Montain",
-            "m_Visibility": 6,
-            "m_Is3D": 1,
-            "m_Text": "Trader - Green Montain",
-            "m_IconName": "Trader",
-            "m_Color": -13710223,
-            "m_Position": [
-                3698.0,
-                405.0,
-                5988.0
-            ],
-            "m_Locked": 0,
-            "m_Persist": 0
-        },
-        {
-            "m_UID": "ServerMarker_Altar_Trader",
-            "m_Visibility": 6,
-            "m_Is3D": 1,
-            "m_Text": "Trader - Altar",
-            "m_IconName": "Trader",
-            "m_Color": -14161643,
-            "m_Position": [
-                8174.0,
-                474.0400085449219,
-                9091.9599609375
-            ],
-            "m_Locked": 1,
-            "m_Persist": 0
-        },
-        {
-            "m_UID": "FISH_TRADER",
-            "m_Visibility": 4,
-            "m_Is3D": 0,
-            "m_Text": "Fishing Trader",
-            "m_IconName": "Fishing",
-            "m_Color": -14069547,
-            "m_Position": [
-                3611.0,
-                1.6247079372406006,
-                2116.0
-            ],
-            "m_Locked": 0,
-            "m_Persist": 0
-        },
-        {
-            "m_UID": "Special Ops Trader",
-            "m_Visibility": 4,
-            "m_Is3D": 1,
-            "m_Text": "Special Ops Trader",
-            "m_IconName": "Trader",
-            "m_Color": -65536,
-            "m_Position": [
-                4046.0,
-                288.40521240234377,
-                12128.0
-            ],
-            "m_Locked": 1,
-            "m_Persist": 0
-        },
-        {
-            "m_UID": "Gorka Trader",
-            "m_Visibility": 4,
-            "m_Is3D": 1,
-            "m_Text": "Farrm-Hunt-Builder",
-            "m_IconName": "Bear",
-            "m_Color": -3003328,
-            "m_Position": [
-                9075.349609375,
-                244.97894287109376,
-                8035.58984375
-            ],
-            "m_Locked": 1,
-            "m_Persist": 0
-        },
-        {
-            "m_UID": "Race Track",
-            "m_Visibility": 4,
-            "m_Is3D": 0,
-            "m_Text": "Race Track",
-            "m_IconName": "Car",
-            "m_Color": -1,
-            "m_Position": [
-                9274.0,
-                238.80728149414063,
-                11385.0
-            ],
-            "m_Locked": 0,
-            "m_Persist": 0
-        }
-    ],
-    "EnableHUDCompass": 1,
-    "NeedCompassItemForHUDCompass": 1,
-    "NeedGPSItemForHUDCompass": 1,
-    "CompassColor": -1,
-    "CreateDeathMarker": 1,
-    "PlayerLocationNotifier": 1,
-    "CompassBadgesColor": -1946157056
+  "m_Version": 5,
+  "EnableMap": 1,
+  "UseMapOnMapItem": 1,
+  "ShowPlayerPosition": 1,
+  "ShowMapStats": 1,
+  "NeedPenItemForCreateMarker": 0,
+  "NeedGPSItemForCreateMarker": 0,
+  "CanCreateMarker": 1,
+  "CanCreate3DMarker": 1,
+  "CanOpenMapWithKeyBinding": 1,
+  "ShowDistanceOnPersonalMarkers": 1,
+  "EnableHUDGPS": 1,
+  "NeedGPSItemForKeyBinding": 0,
+  "NeedMapItemForKeyBinding": 1,
+  "EnableServerMarkers": 1,
+  "ShowNameOnServerMarkers": 1,
+  "ShowDistanceOnServerMarkers": 1,
+  "ServerMarkers": [
+    {
+      "m_UID": "ServerMarker_Trader_Green_Montain",
+      "m_Visibility": 6,
+      "m_Is3D": 1,
+      "m_Text": "Trader - Green Montain",
+      "m_IconName": "Trader",
+      "m_Color": -13710223,
+      "m_Position": [
+        3698,
+        405,
+        5988
+      ],
+      "m_Locked": 0,
+      "m_Persist": 0
+    },
+    {
+      "m_UID": "ServerMarker_Altar_Trader",
+      "m_Visibility": 6,
+      "m_Is3D": 1,
+      "m_Text": "Trader - Altar",
+      "m_IconName": "Trader",
+      "m_Color": -14161643,
+      "m_Position": [
+        8174,
+        474.040009,
+        9091.95996
+      ],
+      "m_Locked": 1,
+      "m_Persist": 0
+    },
+    {
+      "m_UID": "FISH_TRADER",
+      "m_Visibility": 4,
+      "m_Is3D": 0,
+      "m_Text": "Fishing Trader",
+      "m_IconName": "Fishing",
+      "m_Color": -14069547,
+      "m_Position": [
+        3611,
+        1.62470794,
+        2116
+      ],
+      "m_Locked": 0,
+      "m_Persist": 0
+    },
+    {
+      "m_UID": "Special Ops Trader",
+      "m_Visibility": 4,
+      "m_Is3D": 1,
+      "m_Text": "Special Ops Trader",
+      "m_IconName": "Trader",
+      "m_Color": -65536,
+      "m_Position": [
+        4046,
+        288.405212,
+        12128
+      ],
+      "m_Locked": 1,
+      "m_Persist": 0
+    },
+    {
+      "m_UID": "Gorka Trader",
+      "m_Visibility": 4,
+      "m_Is3D": 1,
+      "m_Text": "Farrm-Hunt-Builder",
+      "m_IconName": "Bear",
+      "m_Color": -3003328,
+      "m_Position": [
+        9075.34961,
+        244.978943,
+        8035.58984
+      ],
+      "m_Locked": 1,
+      "m_Persist": 0
+    }
+  ],
+  "EnableHUDCompass": 1,
+  "NeedCompassItemForHUDCompass": 1,
+  "NeedGPSItemForHUDCompass": 1,
+  "CompassColor": -1,
+  "CreateDeathMarker": 1,
+  "PlayerLocationNotifier": 1,
+  "CompassBadgesColor": -1946157056
 }

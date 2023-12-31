@@ -2,7 +2,7 @@
   "m_Version": 15,
   "Enabled": 1,
   "DespawnTime": 600.0,
-  "RespawnTime": -1.0,
+  "RespawnTime": 180.00,
   "MinDistRadius": 400.0,
   "MaxDistRadius": 1000.0,
   "DespawnRadius": 1100.0,
@@ -152,5 +152,41 @@
       "ClassName": "Wreck_SantasSleigh"
     }
   ],
-  "Patrols": []
+  "Patrols": [
+    {
+      "Name": "ZenoBase",
+      "Faction": "Shamans",
+      "Formation": "",
+      "FormationLooseness": 0.0,
+      "LoadoutFile": "UmbrellaCorp",
+      "NumberOfAI": -3,
+      "Behaviour": "HALT",
+      "Speed": "WALK",
+      "UnderThreatSpeed": "JOG",
+      "CanBeLooted": 0,
+      "UnlimitedReload": 1,
+      "SniperProneDistanceThreshold": 0.0,
+      "AccuracyMin": 0.60,
+      "AccuracyMax": 0.85,
+      "ThreatDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "MinDistRadius": -2.0,
+      "MaxDistRadius": -2.0,
+      "DespawnRadius": -2.200000047683716,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 5.0,
+      "Chance": 0.99,
+      "WaypointInterpolation": "",
+      "DespawnTime": 1.0,
+      "RespawnTime": -1.0,
+      "UseRandomWaypointAsStartPoint": 1,
+      "Waypoints": [
+        [
+          1444.05005,
+          171.977005,
+          5250.72998
+        ]
+      ]
+    }
+  ]
 }

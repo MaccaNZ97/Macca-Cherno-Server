@@ -94,7 +94,7 @@
   "EnableHUDNightvisionOverlay": 1,
   "DisableMagicCrosshair": 1,
   "EnableAutoRun": 1,
-  "UnlimitedStamina": 0,
+  "UnlimitedStamina": 1,
   "UseDeathScreen": 1,
   "UseDeathScreenStatistics": 1,
   "UseExpansionMainMenuLogo": 1,

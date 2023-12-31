@@ -1,7 +1,0 @@
-2023-12-07 11:30:13: -- Analysis Started by User Command
-2023-12-07 11:30:13: L: Reading State File D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
-2023-12-07 11:30:13: L: State file does not exist: D:/Github/Macca-Cherno-Server/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
-2023-12-07 11:30:13: R: Reading State File //51.161.199.40/servers/expansion-chernarusplus/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
-2023-12-07 11:30:29: Changes: 2,101, Conflicts: 0, CopyTime: 0, FixState: 303, Errors: 0, All: 2405
-2023-12-07 11:30:29: Right to Left: Copy File: 2101 
-2023-12-07 11:30:29: -- Analysis Complete. Time 00:00:16, Speed: 131 files/s

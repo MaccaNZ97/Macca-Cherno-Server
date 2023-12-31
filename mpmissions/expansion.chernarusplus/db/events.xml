@@ -29,14 +29,14 @@
     <saferadius>200</saferadius>
     <distanceradius>0</distanceradius>
     <cleanupradius>0</cleanupradius>
-    <flags deletable="0" init_random="0" remove_damaged="1"/>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
     <position>fixed</position>
     <limit>custom</limit>
     <active>1</active>
     <children>
-        <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_UrsusArctos"/>
+      <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_UrsusArctos" />
     </children>
-</event>
+  </event>
   <event name="AnimalCow">
     <nominal>7</nominal>
     <min>2</min>
@@ -68,15 +68,15 @@
     <saferadius>200</saferadius>
     <distanceradius>0</distanceradius>
     <cleanupradius>0</cleanupradius>
-    <flags deletable="0" init_random="0" remove_damaged="1"/>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
     <position>fixed</position>
     <limit>child</limit>
     <active>1</active>
     <children>
-        <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CervusElaphus"/>
-        <child lootmax="0" lootmin="0" max="3" min="1" type="Animal_CervusElaphusF"/>
+      <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CervusElaphus" />
+      <child lootmax="0" lootmin="0" max="3" min="1" type="Animal_CervusElaphusF" />
     </children>
-</event>
+  </event>
   <event name="AnimalGoat">
     <nominal>8</nominal>
     <min>1</min>
@@ -123,15 +123,15 @@
     <saferadius>200</saferadius>
     <distanceradius>0</distanceradius>
     <cleanupradius>0</cleanupradius>
-    <flags deletable="0" init_random="0" remove_damaged="1"/>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
     <position>fixed</position>
     <limit>child</limit>
     <active>1</active>
     <children>
-        <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CapreolusCapreolus"/>
-        <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_CapreolusCapreolusF"/>
+      <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CapreolusCapreolus" />
+      <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_CapreolusCapreolusF" />
     </children>
-</event>
+  </event>
   <event name="AnimalSheep">
     <nominal>5</nominal>
     <min>4</min>
@@ -159,32 +159,32 @@
     <saferadius>200</saferadius>
     <distanceradius>0</distanceradius>
     <cleanupradius>0</cleanupradius>
-    <flags deletable="0" init_random="0" remove_damaged="1"/>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
     <position>fixed</position>
     <limit>child</limit>
     <active>1</active>
     <children>
-        <child lootmax="0" lootmin="0" max="6" min="3" type="Animal_SusScrofa"/>
+      <child lootmax="0" lootmin="0" max="6" min="3" type="Animal_SusScrofa" />
     </children>
-</event>
-<event name="AnimalWolf">
-  <nominal>8</nominal>
-  <min>4</min>
-  <max>6</max>
-  <lifetime>180</lifetime>
-  <restock>0</restock>
-  <saferadius>200</saferadius>
-  <distanceradius>0</distanceradius>
-  <cleanupradius>0</cleanupradius>
-  <flags deletable="0" init_random="0" remove_damaged="1"/>
-  <position>fixed</position>
-  <limit>child</limit>
-  <active>1</active>
-  <children>
-      <child lootmax="0" lootmin="0" max="6" min="2" type="Animal_CanisLupus_Grey"/>
-      <child lootmax="0" lootmin="0" max="4" min="0" type="Animal_CanisLupus_White"/>
-  </children>
-</event>
+  </event>
+  <event name="AnimalWolf">
+    <nominal>8</nominal>
+    <min>4</min>
+    <max>6</max>
+    <lifetime>180</lifetime>
+    <restock>0</restock>
+    <saferadius>200</saferadius>
+    <distanceradius>0</distanceradius>
+    <cleanupradius>0</cleanupradius>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
+    <position>fixed</position>
+    <limit>child</limit>
+    <active>1</active>
+    <children>
+      <child lootmax="0" lootmin="0" max="6" min="2" type="Animal_CanisLupus_Grey" />
+      <child lootmax="0" lootmin="0" max="4" min="0" type="Animal_CanisLupus_White" />
+    </children>
+  </event>
   <event name="InfectedArmy">
     <nominal>50</nominal>
     <min>25</min>
@@ -676,7 +676,7 @@
     <flags deletable="0" init_random="0" remove_damaged="1" />
     <position>fixed</position>
     <limit>child</limit>
-    <active>1</active>
+    <active>0</active>
     <children>
       <child lootmax="8" lootmin="4" max="20" min="20" type="Bonfire" />
     </children>

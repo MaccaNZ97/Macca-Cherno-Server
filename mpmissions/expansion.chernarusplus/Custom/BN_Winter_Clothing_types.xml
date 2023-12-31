@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="BNGP_SnowCamo_Digital_Balaclava">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_Boots">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_EarShield">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_Facemask">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_GhillieGunwrap">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_GhillieHood">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_GhillieSuit">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_Gloves">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_Heavyplate">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_Holster">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_InfBackpack">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_Mich">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_MoabRush">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_NVG">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_OpsCore">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_Pants">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_PCU5">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_Plate">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_Pouches">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Digital_TacBelt">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_Balaclava">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_Boots">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_EarShield">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_Facemask">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_GhillieGunwrap">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_GhillieHood">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_GhillieSuit">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_Gloves">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_Heavyplate">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_Holster">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_InfBackpack">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_Mich">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_MoabRush">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_NVG">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_OpsCore">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_Pants">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_PCU5">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_Plate">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_Pouches">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_Multicam_TacBelt">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_OpsCore_Headphones">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="BNGP_SnowCamo_OpsCore_Mandible">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+</types>

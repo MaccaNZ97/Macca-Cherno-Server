@@ -797,9 +797,16 @@
     <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="7" x="13601" z="11153" r="80" />
   </territory>
   <territory color="4281088978">
-  <zone name="InfectedClowns" smin="8" smax="10" dmin="1" dmax="2" x="9588.46" z="13668.08" r="80" />
-  <zone name="InfectedClowns" smin="0" smax="0" dmin="2" dmax="4" x="6122.23" z="7620" r="80" />
-  <zone name="InfectedClowns" smin="0" smax="0" dmin="2" dmax="4" x="3225.88" z="12736.81" r="80" />
-</territory>
-
+    <zone name="InfectedClowns" smin="0" smax="0" dmin="1" dmax="2" x="9588.46" z="13668.08" r="80" />
+    <zone name="InfectedClowns" smin="0" smax="0" dmin="1" dmax="2" x="6122.23" z="7620" r="80" />
+    <zone name="InfectedClowns" smin="0" smax="0" dmin="1" dmax="2" x="3225.88" z="12736.81" r="80" />
+  </territory>
+  <territory color="4291015739">
+    <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="1441.12" z="9272.28" r="50" />
+    <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="6899.90" z="11413.31" r="50" />
+    <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="13434.78" z="3283.24" r="50" />
+    <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="9294.16" z="13484.84" r="50" />
+    <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11252.92" z="4287.65" r="50" />
+    <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="6536.09" z="5597.05" r="50" />
+  </territory>
 </territory-type>

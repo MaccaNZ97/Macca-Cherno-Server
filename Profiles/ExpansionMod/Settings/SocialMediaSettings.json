@@ -11,6 +11,16 @@
       "m_Label": "Discord",
       "m_Icon": "set:expansion_iconset image:icon_discord",
       "m_URL": "https://discord.gg/QhNH9HeKkz"
+    },
+    {
+      "m_Label": "Paypal",
+      "m_Icon": "set:expansion_iconset image:icon_PayPal",
+      "m_URL": "https://www.paypal.com/paypalme/MaccaNZAdmin"
+    },
+    {
+      "m_Label": "Patron",
+      "m_Icon": "set:expansion_iconset image:icon_Patron",
+      "m_URL": "https://www.patreon.com/user?u=52179875"
     }
   ]
 }

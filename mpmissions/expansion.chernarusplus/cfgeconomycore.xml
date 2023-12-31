@@ -42,6 +42,8 @@
     <file name="codelock_types.xml" type="types" />
     <file name="Mavericks12v_types.xml" type="types" />
     <file name="Boomlay_things_types.xml" type="types" />
+    <file name="Winter_charnarus_types.xml" type="types" />
+    <file name="BN_Winter_Clothing_types.xml" type="types" />
   </ce>
   <ce folder="Custom/Vanilla Types">
     <file name="types_clothes.xml" type="types" />
@@ -77,12 +79,6 @@
   <ce folder="Custom/Blacks">
     <file name="Blacks_FordRaptor_types.xml" type="types" />
   </ce>
-  <ce folder="Custom/AJ MODS">
-    <file name="AJ_Creatures_types.xml" type="types" />
-    <file name="AJ_Creatures_Events.xml" type="events" />
-    <file name="FOG_types.xml" type="types" />
-    <file name="FOG_spawnabletypes.xml" type="spawnabletypes" />
-  </ce>
   <ce folder="Custom/Flava">
     <file name="Flava_Tactical_types.xml" type="types" />
     <file name="TacticalFlava_spawnabletypes.xml" type="spawnabletypes" />
@@ -91,5 +87,11 @@
     <file name="DBN_Novotor_types.xml" type="types" />
     <file name="DBN_Raptor_spawnabletypes.xml" type="spawnabletypes" />
     <file name="DBN_Raptor_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/AJ MODS">
+    <file name="AJ_Creatures_types.xml" type="types" />
+    <file name="FOG_types.xml" type="types" />
+    <file name="FOG_spawnabletypes.xml" type="spawnabletypes" />
+    <file name="AJ_Creatures_events.xml" type="events" />
   </ce>
 </economycore>

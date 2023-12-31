@@ -1,7 +1,0 @@
-2023-12-14 13:24:53: -- Analysis Started by User Command
-2023-12-14 13:24:53: L: Reading State File //192.168.0.7/Macca/Github/Macca-Cherno-Server/Profiles/_gsdata_/_file_state_v4._gs
-2023-12-14 13:24:54: R: Reading State File //51.161.199.40/servers/expansion-chernarusplus/profiles/_gsdata_/_file_state_v4._gs
-2023-12-14 13:25:03: Changes: 7,472, Conflicts: 0, CopyTime: 0, FixState: 50, Errors: 0, All: 8213
-2023-12-14 13:25:03: Left to Right: Copy File: 1 
-2023-12-14 13:25:03: Right to Left: Copy File: 7471 
-2023-12-14 13:25:03: -- Analysis Complete. Time 00:00:10, Speed: 800 files/s

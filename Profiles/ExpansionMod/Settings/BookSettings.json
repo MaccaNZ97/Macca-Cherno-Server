@@ -235,6 +235,12 @@
       "URL": "https://www.youtube.com/watch?v=JOVqmhFLUnw",
       "IconName": "Homepage",
       "IconColor": -1
+    },
+    {
+      "Name": "Server Donation",
+      "URL": "https://www.patreon.com/user?u=52179875",
+      "IconName": "Patreon",
+      "IconColor": -1
     }
   ],
   "Descriptions": [
@@ -242,7 +248,7 @@
       "CategoryName": "General Info",
       "Descriptions": [
         {
-          "DescriptionText": "<p>Welcome to NZ Expansion Dayz PVE Server\r\n\r\nThis is a PVE Server based in Chernarus, Umbrella Corporation has taken over this area creating a Zombie outbreak.\r\n\r\nYou are tasked with getting setup and fighting back against Umbrella Corp and the killing the infected\r\n\r\nReport to the Green Mountain Trader to get your tasks.\r\n\r\nRules of engagement is identify your target and if unsure disengage!\r\n\r\nThere are some custom areas with loot and will be adding in more content as we go.\r\n\r\nAnyone breaking the PVE rules eg quite obvious PVPing will be perma banned.\r\n\r\nPlease join our Discord</p>"
+          "DescriptionText": "<p>Welcome to Macca's Expansion Dayz PVE Server\r\n\r\nThis is a PVE Server based in Chernarus, Umbrella Corporation has taken over this area creating a Zombie outbreak.\r\n\r\nYou are tasked with getting setup and fighting back against Umbrella Corp and the killing the infected\r\n\r\nReport to the Green Mountain Trader to get your tasks.\r\n\r\nRules of engagement is identify your target and if unsure disengage!\r\n\r\nThere are some custom areas with loot and will be adding in more content as we go.\r\n\r\nAnyone breaking the PVE rules eg quite obvious PVPing will be perma banned.\r\n\r\nPlease join our Discord</p>"
         }
       ]
     },

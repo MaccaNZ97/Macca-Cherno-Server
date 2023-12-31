@@ -3522,6 +3522,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionTractor_Blue">
     <nominal>0</nominal>
@@ -3532,6 +3533,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionTractor_Cover">
     <lifetime>3888000</lifetime>
@@ -3546,6 +3548,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionTractorBackWheel">
     <nominal>15</nominal>
@@ -3608,6 +3611,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUAZ_Black">
     <nominal>0</nominal>
@@ -3618,6 +3622,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUAZ_Cover">
     <lifetime>3888000</lifetime>
@@ -3632,6 +3637,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUAZCargo">
     <nominal>0</nominal>
@@ -3642,6 +3648,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUAZCargo_Black">
     <nominal>0</nominal>
@@ -3652,6 +3659,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUAZCargo_LightGreen">
     <nominal>0</nominal>
@@ -3662,6 +3670,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUAZCargoRoofless">
     <nominal>0</nominal>
@@ -3672,6 +3681,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUAZCargoRoofless_Black">
     <nominal>0</nominal>
@@ -3682,6 +3692,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUAZCargoRoofless_LightGreen">
     <nominal>0</nominal>
@@ -3692,6 +3703,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUAZDoorCargo1">
     <nominal>15</nominal>
@@ -3897,6 +3909,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUAZRoofless_Black">
     <nominal>0</nominal>
@@ -3907,6 +3920,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUAZRoofless_LightGreen">
     <nominal>0</nominal>
@@ -3917,6 +3931,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUAZWheel">
     <nominal>25</nominal>
@@ -3939,6 +3954,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUh1h_Civilian">
     <nominal>0</nominal>
@@ -3949,6 +3965,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUh1h_Cover">
     <lifetime>3888000</lifetime>
@@ -3963,6 +3980,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUh1h_Resistance">
     <nominal>0</nominal>
@@ -3973,6 +3991,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUh1h_Uber">
     <nominal>0</nominal>
@@ -3983,6 +4002,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUh1hDoor_1_1">
     <nominal>5</nominal>
@@ -4257,6 +4277,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionUtilityBoat_Cover">
     <lifetime>3888000</lifetime>
@@ -4271,10 +4292,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionVodnik_Cover">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionVodnikDoorCoDriver">
     <nominal>15</nominal>
@@ -4361,6 +4384,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionZodiacBoat_Cover">
     <lifetime>3888000</lifetime>
@@ -4375,6 +4399,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionZodiacBoat_Orange">
     <nominal>0</nominal>
@@ -4385,6 +4410,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Hatchback_02_BanditKitty">
     <nominal>0</nominal>
@@ -4395,6 +4421,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Hatchback_02_BlackRust">
     <nominal>0</nominal>
@@ -4405,6 +4432,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Hatchback_02_BlueRust">
     <nominal>0</nominal>
@@ -4415,10 +4443,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Hatchback_02_Cover">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Hatchback_02_Door_1_1_BanditKitty">
     <nominal>0</nominal>
@@ -4489,6 +4519,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Hatchback_02_RedRust">
     <nominal>0</nominal>
@@ -4499,6 +4530,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Hatchback_02_Trunk_BanditKitty">
     <nominal>0</nominal>
@@ -4662,6 +4694,7 @@
   <type name="OffroadHatchback_Cover">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="OffroadHatchback_Green">
     <nominal>0</nominal>
@@ -4672,6 +4705,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="OffroadHatchback_GreenRust">
     <nominal>0</nominal>
@@ -4682,6 +4716,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="OffroadHatchback_WhiteRust">
     <nominal>0</nominal>
@@ -4692,6 +4727,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Sedan_02_Blue">
     <nominal>0</nominal>
@@ -4702,6 +4738,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Sedan_02_BlueRust">
     <nominal>0</nominal>
@@ -4712,10 +4749,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Sedan_02_Cover">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Sedan_02_Door_1_1_Blue">
     <nominal>0</nominal>
@@ -4870,6 +4909,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Sedan_02_Hood_Blue">
     <nominal>0</nominal>
@@ -4916,6 +4956,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Sedan_02_Trunk_Blue">
     <nominal>0</nominal>
@@ -4962,6 +5003,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Sedan_02_YellowBright">
     <nominal>0</nominal>
@@ -4972,6 +5014,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Sedan_02_YellowRust">
     <nominal>0</nominal>
@@ -4982,6 +5025,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Truck_01_Covered_Black">
     <nominal>0</nominal>

@@ -5,5 +5,5 @@
   "TimeBetweenMissions": 3600000,
   "MinMissions": 1,
   "MaxMissions": 2,
-  "MinPlayersToStartMissions": 3
+  "MinPlayersToStartMissions": 1
 }

@@ -332,7 +332,7 @@
   "StartingGear": {
     "EnableStartingGear": 1,
     "UseUpperGear": 1,
-    "UsePantsGear": 0,
+    "UsePantsGear": 1,
     "UseBackpackGear": 1,
     "UseVestGear": 0,
     "UsePrimaryWeapon": 1,
@@ -376,7 +376,23 @@
         "Attachments": []
       }
     ],
-    "PantsGear": [],
+    "PantsGear": [
+      {
+        "ClassName": "Heatpack",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "TacticalBaconCan",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "SodaCan_Pipsi",
+        "Quantity": -1,
+        "Attachments": []
+      }
+    ],
     "BackpackGear": [],
     "VestGear": [],
     "PrimaryWeapon": {},

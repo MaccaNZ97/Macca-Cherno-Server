@@ -2,7 +2,7 @@
 <events>
   <event name="InfectedClowns">
     <nominal>4</nominal>
-    <min>4</min>
+    <min>1</min>
     <max>4</max>
     <lifetime>180</lifetime>
     <restock>0</restock>
@@ -14,17 +14,17 @@
     <limit>child</limit>
     <active>1</active>
     <children>
-      <child lootmax="5" lootmin="2" max="0" min="5" type="CDAJ_ZmbM_Clown" />
+      <child lootmax="5" lootmin="1" max="0" min="5" type="CDAJ_ZmbM_Clown" />
     </children>
   </event>
   <event name="InfectedHaunted">
-    <nominal>100</nominal>
-    <min>50</min>
-    <max>200</max>
-    <lifetime>3</lifetime>
+    <nominal>10</nominal>
+    <min>5</min>
+    <max>10</max>
+    <lifetime>180</lifetime>
     <restock>0</restock>
-    <saferadius>25</saferadius>
-    <distanceradius>200</distanceradius>
+    <saferadius>50</saferadius>
+    <distanceradius>100</distanceradius>
     <cleanupradius>100</cleanupradius>
     <flags deletable="0" init_random="0" remove_damaged="1" />
     <position>fixed</position>
@@ -33,7 +33,6 @@
     <children>
       <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_Mummy" />
       <child lootmax="5" lootmin="0" max="0" min="15" type="ZmbM_HermitSkinny_Black" />
-      <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_NBC_Yellow" />
       <child lootmax="5" lootmin="0" max="0" min="2" type="CDAJ_ZmbM_Dark_Heavy" />
       <child lootmax="5" lootmin="0" max="0" min="1" type="CDAJ_ZmbM_Demon" />
       <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_TribeDemon" />
@@ -42,7 +41,6 @@
       <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant_Bloody" />
       <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant_Pale" />
       <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_Mutant" />
-      <child lootmax="5" lootmin="0" max="0" min="5" type="CDAJ_ZmbM_Clown" />
     </children>
   </event>
   <event name="InfectedNBC">

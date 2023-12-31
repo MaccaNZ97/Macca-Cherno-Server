@@ -82,6 +82,17 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
+    },
+    {
+      "ClassName": "wolfpelt",
+      "MaxPriceThreshold": 2950,
+      "MinPriceThreshold": 2950,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
     }
   ]
 }
