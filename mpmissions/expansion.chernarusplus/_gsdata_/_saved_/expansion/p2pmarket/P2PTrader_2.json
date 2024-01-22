@@ -1,0 +1,38 @@
+{
+    "m_Version": 5,
+    "m_TraderID": 2,
+    "m_ClassName": "ExpansionP2PTraderAIBoris",
+    "m_Position": [
+        8177.31,
+        474.052,
+        9110.00
+    ],
+    "m_Orientation": [
+        300.1320037841797,
+        0.0,
+        0.0
+    ],
+    "m_LoadoutFile": "YellowKingLoadout",
+    "m_VehicleSpawnPosition": [
+        8174.0000,
+        474.0520,
+        9091.3600
+    ],
+    "m_WatercraftSpawnPosition": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_AircraftSpawnPosition": [
+        8178.8300,
+        478.3300,
+        9175.9300
+    ],
+    "m_DisplayName": "Unknown",
+    "m_DisplayIcon": "Deliver",
+    "m_Faction": "InvincibleObservers",
+    "m_Waypoints": [],
+    "m_EmoteID": 46,
+    "m_EmoteIsStatic": 0,
+    "m_IsGlobalTrader": 1
+}

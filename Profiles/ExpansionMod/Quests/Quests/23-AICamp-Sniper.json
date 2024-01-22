@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 23,
     "Type": 1,
     "Title": "Clear the Snipers",
@@ -44,12 +44,12 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 6,
             "ObjectiveType": 3
         },
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 3,
             "ObjectiveType": 8
         }
@@ -64,5 +64,7 @@
     "DeleteQuestItems": 0,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
 }

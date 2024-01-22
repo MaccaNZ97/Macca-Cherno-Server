@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 6,
     "ObjectiveType": 3,
     "ObjectiveText": "Find the Snipers",
     "TimeLimit": -1,
+    "Active": 1,
     "Position": [
         3914.6201171875,
         348.99798583984377,

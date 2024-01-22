@@ -1857,6 +1857,15 @@
           "Max": -1,
           "Min": 0,
           "Variants": []
+        },
+        {
+          "Name": "DNA_KeyCard_Purple_inactive",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
         }
       ],
       "Infected": [
@@ -1979,7 +1988,7 @@
             "BandageDressing",
             "BandageDressing"
           ],
-          "Chance": 2.440000057220459,
+          "Chance": 1,
           "QuantityPercent": -1,
           "Max": -1,
           "Min": 0,
@@ -2266,6 +2275,78 @@
           "Name": "IodineTincture",
           "Attachments": [],
           "Chance": 0.20000000298023225,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "EFT_inj_Propital",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "EFT_med_AFAK",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "EFT_med_Bandage",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "EFT_med_Bandage_army",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "EFT_med_GoldStar",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "EFT_med_IFAK",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "EFT_med_Salewa",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "EFT_med_Splint",
+          "Attachments": [],
+          "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
           "Min": 0,
@@ -2926,7 +3007,6 @@
         "ZmbM_ConstrWorkerNormal_Green",
         "ZmbM_ConstrWorkerNormal_Grey",
         "ZmbM_HeavyIndustryWorker",
-        "eAI_SurvivorM_Mirek|faction:Shamans,loadout:BanditLoadout,canbelooted:true",
         "CDAJ_ZmbM_Dark_Heavy",
         "CDAJ_ZmbM_Mutant_Bloody"
       ],
@@ -4952,9 +5032,7 @@
         "ZmbM_PatrolNormal_Summer",
         "eAI_SurvivorM_Mirek|faction:Shamans,loadout:BanditLoadout,canbelooted:true",
         "eAI_SurvivorM_Denis|faction:Shamans,loadout:BanditLoadout,canbelooted:true",
-        "eAI_SurvivorM_Boris|faction:Shamans,loadout:BanditLoadout,canbelooted:true",
-        "eAI_SurvivorM_Cyril|faction:Shamans,loadout:BanditLoadout,canbelooted:true",
-        "eAI_SurvivorM_Elias|faction:Shamans,loadout:BanditLoadout,canbelooted:true"
+        "eAI_SurvivorM_Boris|faction:Shamans,loadout:BanditLoadout,canbelooted:true"
       ],
       "ItemCount": 50,
       "InfectedCount": 55,

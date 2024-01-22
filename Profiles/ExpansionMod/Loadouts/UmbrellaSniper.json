@@ -186,7 +186,7 @@
           "SlotName": "Shoulder",
           "Items": [
             {
-              "ClassName": "BO_AS50_RedTiger",
+              "ClassName": "SNAFU_AS50_GUN",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -204,7 +204,7 @@
                   "SlotName": "",
                   "Items": [
                     {
-                      "ClassName": "BO_ShmidtBender25",
+                      "ClassName": "SNAFU_AKHuntingOptic",
                       "Chance": 1,
                       "Quantity": {
                         "Min": 1,
@@ -223,7 +223,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "BO_Mag_AS50_10rnd",
+                      "ClassName": "SNAFU_AS50_Mag",
                       "Chance": 1,
                       "Quantity": {
                         "Min": 0,
@@ -243,88 +243,6 @@
                     },
                     {
                       "ClassName": "SNAFU_50bmg_Suppressor_W",
-                      "Chance": 1,
-                      "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                      },
-                      "Health": [
-                        {
-                          "Min": 0.7,
-                          "Max": 1,
-                          "Zone": ""
-                        }
-                      ],
-                      "InventoryAttachments": [],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    }
-                  ]
-                }
-              ],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "M4A1_Green",
-              "Chance": 1,
-              "Quantity": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Health": [
-                {
-                  "Min": 0.7,
-                  "Max": 1,
-                  "Zone": ""
-                }
-              ],
-              "InventoryAttachments": [
-                {
-                  "SlotName": "",
-                  "Items": [
-                    {
-                      "ClassName": "Mag_CMAG_40Rnd",
-                      "Chance": 1,
-                      "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                      },
-                      "Health": [
-                        {
-                          "Min": 0.7,
-                          "Max": 1,
-                          "Zone": ""
-                        }
-                      ],
-                      "InventoryAttachments": [],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "M4_OEBttstck",
-                      "Chance": 1,
-                      "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                      },
-                      "Health": [
-                        {
-                          "Min": 0.7,
-                          "Max": 1,
-                          "Zone": ""
-                        }
-                      ],
-                      "InventoryAttachments": [],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "M4_RISHndgrd",
                       "Chance": 1,
                       "Quantity": {
                         "Min": 0,

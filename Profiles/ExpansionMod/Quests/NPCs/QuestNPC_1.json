@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 6,
     "ID": 1,
     "ClassName": "ExpansionQuestNPCPeter",
     "Position": [
@@ -29,5 +29,6 @@
     "NPCQuestStartEmoteID": 58,
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
-    "NPCType": 0
+    "NPCType": 0,
+    "Active": 1
 }

@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 24,
     "ObjectiveType": 10,
     "ObjectiveText": "Fertilize",
     "TimeLimit": -1,
+    "Active": 1,
     "ActionNames": [
         "ActionFertilizeSlot"
     ],

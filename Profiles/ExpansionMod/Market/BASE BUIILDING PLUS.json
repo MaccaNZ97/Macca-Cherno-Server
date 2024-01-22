@@ -63,8 +63,8 @@
     },
     {
       "ClassName": "bbp_cement_mixer_kit",
-      "MaxPriceThreshold": 550,
-      "MinPriceThreshold": 550,
+      "MaxPriceThreshold": 20550,
+      "MinPriceThreshold": 20250,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -457,6 +457,5 @@
       "SpawnAttachments": [],
       "Variants": []
     }
-  ],
-  "SortByDisplayName": true
+  ]
 }

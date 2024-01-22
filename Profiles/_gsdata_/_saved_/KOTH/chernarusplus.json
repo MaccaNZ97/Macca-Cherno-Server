@@ -1,7 +1,7 @@
 {
     "enabled": 1,
     "loggingLevel": 3,
-    "useLocationText": 0,
+    "useLocationText": 1,
     "useMapMarker": 1,
     "useNotifications": 1,
     "reduceProgressOnAbandoned": 1,
@@ -22,7 +22,7 @@
     "minPlayerCount": 1,
     "maxEnemyCount": 20,
     "minEnemyCount": 5,
-    "maxEvents": 2,
+    "maxEvents": 1,
     "minimumDeaths": 0,
     "minimumPlayers": 1,
     "maximumPlayers": 4,

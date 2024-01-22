@@ -1,0 +1,513 @@
+{
+    "Zombies": {
+        "Groups": {
+            "police": [
+                "ZmbM_PolicemanFat",
+                "ZmbF_PoliceWomanNormal",
+                "ZmbM_PolicemanSpecForce",
+                "ZmbM_PolicemanSpecForce_Heavy"
+            ],
+            "medic": [
+                "ZmbM_ParamedicNormal_Blue",
+                "ZmbM_ParamedicNormal_Green",
+                "ZmbM_ParamedicNormal_Red",
+                "ZmbM_ParamedicNormal_Black",
+                "ZmbF_ParamedicNormal_Blue",
+                "ZmbF_ParamedicNormal_Green",
+                "ZmbF_ParamedicNormal_Red",
+                "ZmbF_DoctorSkinny",
+                "ZmbM_DoctorFat",
+                "ZmbF_NurseFat",
+                "ZmbF_PatientOld",
+                "ZmbM_PatientSkinny",
+                "ZmbM_NBC_Yellow"
+            ],
+            "military": [
+                "ZmbM_usSoldier_normal_Woodland",
+                "ZmbM_usSoldier_normal_Desert",
+                "ZmbM_usSoldier_Heavy_Woodland",
+                "ZmbM_SoldierNormal",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_Summer",
+                "ZmbM_NBC_Grey",
+                "ZmbM_usSoldier_Officer_Convoy",
+                "ZmbM_usSoldier_Officer_Desert"
+            ]
+        },
+        "BreakingDoorsHandlerIsActive": {
+            "all": 1
+        },
+        "BreakingDoorsDestroyAfterOpenChancePercent": {
+            "all": 15.0
+        },
+        "BreakingDoorsOpenChancePercent": {
+            "all": 15.0
+        },
+        "BreakingDoorsOpenLockPickChancePercent": {
+            "all": 5.0
+        },
+        "BreakingDoorsLossInterestAfterHitChancePercent": {
+            "all": 5.0
+        },
+        "BreakingDoorsLossInterestAfterHitLockPickChancePercent": {
+            "all": 65.0
+        },
+        "BreakingDoorsBuildingSearchRangeMeters": {
+            "all": 5.0
+        },
+        "BreakingDoorsDoorSearchRangeMeters": {
+            "all": 2.0
+        },
+        "AttackPlayersUnconscious": {
+            "all": 0
+        },
+        "AttackAnimalsHandlerIsActive": {
+            "all": 1
+        },
+        "AttackAnimalsWolfs": {
+            "all": 1
+        },
+        "AttackAnimalsBears": {
+            "all": 1
+        },
+        "SearchHandlerIsActive": {
+            "all": 1
+        },
+        "SearchSphereRadiusIncreaseEverySeconds": {
+            "all": 0.10000000298023225
+        },
+        "SearchSphereDistanceToRadiusMultiplier": {
+            "all": 0.20000001192092898
+        },
+        "SearchSphereRadiusMin": {
+            "all": 0.0
+        },
+        "SearchSphereRadiusMax": {
+            "all": 20.0
+        },
+        "SmellsHandlerIsActive": {
+            "all": 0
+        },
+        "SmellsSphereRadius": {
+            "all": 1.0
+        },
+        "UpJumpHandlerIsActive": {
+            "all": 1
+        },
+        "UpJumpHeightMax": {
+            "all": 3.0
+        },
+        "DownJumpHandlerIsActive": {
+            "all": 1
+        },
+        "DownJumpHeightMax": {
+            "all": 10.0
+        },
+        "AttackCarHandlerIsActive": {
+            "all": 1
+        },
+        "AttackCarPlayersIsActive": {
+            "all": 1
+        },
+        "AttackCarPlayersDistanceMeters": {
+            "all": 2.0
+        },
+        "AttackCarElementsIsActive": {
+            "all": 1
+        },
+        "AttackCarElementsDistanceMeters": {
+            "all": 2.0
+        },
+        "AttackCarElementsByCollisionsIsActive": {
+            "all": 1
+        },
+        "AttackCarElementsByCollisionsPercentForOneHp": {
+            "all": 5.0
+        },
+        "AttackCarElementsMultiplierByCarClassId": {
+            "all": {
+                "OffroadHatchback_Blue": 0.800000011920929,
+                "OffroadHatchback_White": 0.800000011920929,
+                "OffroadHatchback": 0.800000011920929,
+                "Truck_01_Covered": 0.3499999940395355,
+                "Offroad_02": 0.20000000298023225,
+                "Truck_01_Covered_Blue": 0.3499999940395355,
+                "Truck_01_Covered_Orange": 0.3499999940395355,
+                "UA_Novator": 0.15,
+                "UA_Novator_2": 0.15,
+                "UA_Novator_3": 0.15,
+                "UA_Novator_AKPP": 0.15,
+                "UA_Novator_2_AKPP": 0.15,
+                "UA_Novator_3_AKPP": 0.15,
+                "UA_Novator_4_DOG": 0.15,
+                "UA_Novator_5_Homka": 0.15,
+                "UA_Novator_6_Instructor": 0.15,
+                "UA_Novator_7_Kacci": 0.15,
+                "UA_Novator_8_Pavlik": 0.15,
+                "Jeep_GladiatorF9_BOSS_Brown": 0.16,
+                "Jeep_GladiatorF9_BOSS_camo_black": 0.16,
+                "Jeep_GladiatorF9_BOSS_camo_blue": 0.16,
+                "Jeep_GladiatorF9_BOSS_camo_green": 0.16,
+                "Jeep_GladiatorF9_BOSS_camo_red": 0.16,
+                "Jeep_GladiatorF9_BOSS_DarkBlue": 0.16,
+                "Jeep_GladiatorF9_BOSS_DarkRed": 0.16,
+                "Jeep_GladiatorF9_BOSS_White": 0.16              
+
+            }
+        },
+        "AttackCarWindowDamagePercent": {
+            "all": 25.0
+        },
+        "AttackCarRadiatorDamagePercent": {
+            "all": 10.0
+        },
+        "AttackCarCarBatteryDamagePercent": {
+            "all": 10.0
+        },
+        "AttackCarPlugDamagePercent": {
+            "all": 25.0
+        },
+        "AttackCarEngineDamagePercent": {
+            "all": 0.10
+        },
+        "AttackCarLightsDamagePercent": {
+            "all": 50.0
+        },
+        "AttackCarFenderDamagePercent": {
+            "all": 10.0
+        },
+        "AttackCarBumperDamagePercent": {
+            "all": 10.0
+        },
+        "AttackCarHoodDamagePercent": {
+            "all": 10.0
+        },
+        "AttackCarFuelTankDamagePercent": {
+            "all": 5.0
+        },
+        "ReactHandlerIsActive": {
+            "all": 1
+        },
+        "ReactFireplaceVisual": {
+            "all": 1
+        },
+        "ReactFireplaceDayVisual": {
+            "all": 1
+        },
+        "ReactFlashlightsVisual": {
+            "all": 1
+        },
+        "ReactRoadflareVisual": {
+            "all": 1
+        },
+        "ReactChemlightVisual": {
+            "all": 1
+        },
+        "ReactPortableGasLampVisual": {
+            "all": 1
+        },
+        "ReactFlammablesVisual": {
+            "all": 1
+        },
+        "ReactSpotlightVisual": {
+            "all": 1
+        },
+        "ReactCarLightVisual": {
+            "all": 1
+        },
+        "ReactPowerGeneratorNoise": {
+            "all": 1
+        },
+        "ReactCarHornNoise": {
+            "all": 1
+        },
+        "ReactAlarmClockNoise": {
+            "all": 1
+        },
+        "ReactKitchenTimerNoise": {
+            "all": 1
+        },
+        "ReactFuelStationNoise": {
+            "all": 1
+        },
+        "ReactFireworksNoise": {
+            "all": 1
+        },
+        "ReactExplosiveItemNoise": {
+            "all": 1
+        },
+        "ReactCarEngineNoise": {
+            "all": 1
+        },
+        "ReactSmokeGrenadeVisual": {
+            "all": 1
+        },
+        "ReactScreamNoise": {
+            "all": 1
+        },
+        "ReactWeaponShotNoise": {
+            "all": 1
+        },
+        "ReactAndDestroyFlashlightsVisual": {
+            "all": 1
+        },
+        "ReactAndDestroyRoadflareVisual": {
+            "all": 1
+        },
+        "ReactAndDestroyChemlightVisual": {
+            "all": 1
+        },
+        "ReactAndDestroyPortableGasLampVisual": {
+            "all": 1
+        },
+        "ReactAndDestroyFlammablesVisual": {
+            "all": 1
+        },
+        "ReactAndDestroySpotlightVisual": {
+            "all": 1
+        },
+        "ReactAndDestroyFireplaceVisual": {
+            "all": 1
+        },
+        "ReactAndDestroyFireplaceDayVisual": {
+            "all": 1
+        },
+        "ReactAndDestroyCarLightVisual": {
+            "all": 1
+        },
+        "ReactAndDestroyFireworksNoise": {
+            "all": 1
+        },
+        "ReactAndDestroyPowerGeneratorNoise": {
+            "all": 1
+        },
+        "ReactAndDestroyAlarmClockNoise": {
+            "all": 1
+        },
+        "ReactAndDestroyKitchenTimerNoise": {
+            "all": 1
+        },
+        "ReactAndDestroySmokeGrenadeVisual": {
+            "all": 1
+        },
+        "DamageToPlayerHandlerIsActive": {
+            "all": 1
+        },
+        "DamageToPlayerHealthMultiplier": {
+            "police": 1.0,
+            "all": 0.5,
+            "medic": 0.5,
+            "military": 1.5
+        },
+        "DamageToPlayerShockMultiplier": {
+            "police": 1.0,
+            "all": 0.5,
+            "medic": 0.5,
+            "military": 1.25
+        },
+        "DamageToPlayerBleedingChancePercent": {
+            "police": 7.0,
+            "all": 5.0,
+            "medic": 10.0,
+            "military": 15.0
+        },
+        "DamageToPlayerInBlockHealth": {
+            "all": 0.0
+        },
+        "DamageToPlayerInBlockShock": {
+            "police": 7.0,
+            "all": 5.0,
+            "medic": 5.0,
+            "military": 10.0
+        },
+        "DamageToPlayerInBlockBleedingChancePercent": {
+            "all": 0.0
+        },
+        "DamageToZombieHandlerIsActive": {
+            "all": 1
+        },
+        "DamageToZombieHeadMeleeMultiplier": {
+            "all": 1.0
+        },
+        "DamageToZombieHeadRangeMultiplier": {
+            "all": 1.0
+        },
+        "DamageToZombieBodyMeleeMultiplier": {
+            "police": 0.110000001192092898,
+            "all": 0.1,
+            "medic": 0.10000001192092898,
+            "military": 0.30000001192092898
+        },
+        "DamageToZombieBodyRangeMultiplier": {
+            "police": 0.850000001192092898,
+            "all": 0.95,
+            "medic": 0.550000001192092898,
+            "military": 0.600000001192092898
+        },
+        "DamageToZombieFromCarsMultiplier": {
+            "police": 0.30000001192092898,
+            "all": 0.5,
+            "medic": 0.30000001192092898,
+            "military": 0.30000001192092898
+        },
+        "DamageToZombieFromExplosionsMultiplier": {
+            "police": 0.7000001192092898,
+            "all": 0.5,
+            "medic": 0.83000001192092898,
+            "military": 0.630000001192092898
+        },
+        "ResistContaminatedEffectHandlerIsActive": {
+            "all": 1
+        },
+        "ResistContaminatedEffect": {
+            "all": 0,
+            "ZmbM_NBC_Grey": 1,
+            "ZmbM_Mummy": 1,
+            "ZmbM_NBC_Yellow": 1
+        },
+
+        "SpeedHandlerIsActive": {"all": 1},
+        "SpeedLimitInSearchMode": {"all": 1.5},
+        "SpeedLimitInChaseMode": {"all":2.0},
+        
+        "AllowCrawling": {
+            "all": 1
+        },
+
+        "Zombies.SearchBodyToViewCargo": {
+        "all": 1
+    },
+    
+    "Zombies.SearchBodyToViewCargoSeconds": {
+        "all": 5.0
+    },
+        "ScreamHandlerIsActive": {
+            "all": 1
+        },
+        "ScreamAttractsZombiesInRadius": {
+            "all": 20.0
+        },
+        "ScreamChancePercent": {
+            "all": 15.0
+        },
+        "SearchBodyToViewCargo": {
+            "all": 1
+        },
+        "SearchBodyToViewCargoSeconds": {
+            "all": 3.0
+        },
+        "CanBeButchered": {
+            "all": 1
+        },
+        "ButcheringSeconds": {
+            "all": 20.0
+        },
+        "ItemsAfterButchering": {
+            "all": [
+                {
+                    "ClassId": "Bone",
+                    "DropChancePercent": 100.0,
+                    "QuantityInStackFromPercent": 16.0,
+                    "QuantityInStackToPercent": 84.0,
+                    "ConditionFrom": 2,
+                    "ConditionTo": 3
+                },
+                {
+                    "ClassId": "Rag",
+                    "DropChancePercent": 100.0,
+                    "QuantityInStackFromPercent": 9.0,
+                    "QuantityInStackToPercent": 74.0,
+                    "ConditionFrom": 2,
+                    "ConditionTo": 3
+                },
+                {
+                    "ClassId": "Guts",
+                    "DropChancePercent": 100.0,
+                    "QuantityInStackFromPercent": 30.0,
+                    "QuantityInStackToPercent": 100.0,
+                    "ConditionFrom": 2,
+                    "ConditionTo": 3
+                },
+                {
+                    "ClassId": "Guts",
+                    "DropChancePercent": 50.0,
+                    "QuantityInStackFromPercent": 30.0,
+                    "QuantityInStackToPercent": 100.0,
+                    "ConditionFrom": 2,
+                    "ConditionTo": 3
+                },
+                {
+                    "ClassId": "HumanSteakMeat",
+                    "DropChancePercent": 100.0,
+                    "QuantityInStackFromPercent": 30.0,
+                    "QuantityInStackToPercent": 100.0,
+                    "ConditionFrom": 2,
+                    "ConditionTo": 3
+                },
+                {
+                    "ClassId": "HumanSteakMeat",
+                    "DropChancePercent": 50.0,
+                    "QuantityInStackFromPercent": 30.0,
+                    "QuantityInStackToPercent": 100.0,
+                    "ConditionFrom": 2,
+                    "ConditionTo": 3
+                }
+            ]
+        },
+        "VisionRangeMultiplierDay": {
+            "all": 1.0
+        },
+        "VisionRangeMultiplierNight": {
+            "all": 0.200000011920929
+        }
+    },
+    "Players": {
+        "SmellsHandlerIsActive": 0,
+        "SmellLifetimeSeconds": 60.0,
+        "NoiseMultiplierDay": 1.0,
+        "NoiseMultiplierNight": 2.0,
+        "CamoClothingVisibilityMultipliers": {
+            "all": 1.0,
+            "GhillieHood_Tan": 0.800000011920929,
+            "GhillieHood_Woodland": 0.800000011920929,
+            "GhillieTop_Woodland": 0.800000011920929,
+            "GhillieSuit_Mossy": 0.800000011920929,
+            "GhillieHood_Mossy": 0.800000011920929,
+            "GhillieTop_Mossy": 0.800000011920929,
+            "GhillieSuit_Tan": 0.800000011920929,
+            "GhillieSuit_Woodland": 0.800000011920929,
+            "GhillieTop_Tan": 0.800000011920929
+        }
+    },
+    "Vehicles": {
+        "Noise": {
+            "Truck_01_Covered": {
+                "RpmMaxMeters": 150.0,
+                "RpmIdleMeters": 60.0
+            },
+            "all": {
+                "RpmMaxMeters": 120.0,
+                "RpmIdleMeters": 40.0
+            },
+            "Offroad_02": {
+                "RpmMaxMeters": 140.0,
+                "RpmIdleMeters": 50.0
+            },
+            "Truck_01_Covered_Blue": {
+                "RpmMaxMeters": 150.0,
+                "RpmIdleMeters": 60.0
+            },
+            "Truck_01_Covered_Orange": {
+                "RpmMaxMeters": 150.0,
+                "RpmIdleMeters": 60.0
+            }
+        }
+    },
+    "LossInterestToIrritantAfterSeconds": 180.0,
+    "LightInHouseMultiplier": 0.20000000298023225,
+    "SoundInHouseMultiplier": 0.6000000238418579,
+    "NavMeshChernarusFixes": [],
+    "NavMeshEnochFixes": []
+}

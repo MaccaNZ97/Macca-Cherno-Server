@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 7,
     "ObjectiveType": 4,
     "ObjectiveText": "Craft 10 Planks",
     "TimeLimit": -1,
+    "Active": 1,
     "Collections": [
         {
             "Amount": 10,
@@ -12,8 +13,6 @@
             "MinQuantityPercent": 0
         }
     ],
-    "MaxDistance": 10.0,
-    "MarkerName": "Deliver Planks",
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
     "NeedAnyCollection": 0

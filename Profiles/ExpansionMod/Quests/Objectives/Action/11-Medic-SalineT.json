@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 11,
     "ObjectiveType": 10,
     "ObjectiveText": "Give Saline",
     "TimeLimit": -1,
+    "Active": 1,
     "ActionNames": [
         "ActionGiveSalineSelf"
     ],

@@ -32,7 +32,11 @@
         "headlighth7",
         "headlighth7"
       ],
-      "Variants": []
+      "Variants": [
+        "civiliansedan_cover",
+        "civiliansedan_black",
+        "civiliansedan_wine"
+      ]
     },
     {
       "ClassName": "expansion_landrover",
@@ -65,7 +69,14 @@
         "expansion_landrover_wheel",
         "expansion_landrover_wheel"
       ],
-      "Variants": []
+      "Variants": [
+        "expansion_landrover_blue",
+        "expansion_landrover_green",
+        "expansion_landrover_grey",
+        "expansion_landrover_orange",
+        "expansion_landrover_red",
+        "expansion_landrover_yellow"
+      ]
     },
     {
       "ClassName": "expansionbus",
@@ -86,7 +97,11 @@
         "carradiator",
         "glowplug"
       ],
-      "Variants": []
+      "Variants": [
+        "expansionbus_cover",
+        "expansionbus_red",
+        "expansionbus_weeb"
+      ]
     },
     {
       "ClassName": "expansiontractor",
@@ -108,7 +123,11 @@
         "sparkplug",
         "carbattery"
       ],
-      "Variants": []
+      "Variants": [
+        "expansiontractor_blue",
+        "expansiontractor_cover",
+        "expansiontractor_green"
+      ]
     },
     {
       "ClassName": "expansionuaz",
@@ -138,6 +157,42 @@
         "expansionuazroofless",
         "expansionuazcargo",
         "expansionuazcargoroofless"
+      ]
+    },
+    {
+      "ClassName": "hatchback_02",
+      "MaxPriceThreshold": 19550,
+      "MinPriceThreshold": 18550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "hatchback_02_door_1_1",
+        "hatchback_02_door_1_2",
+        "hatchback_02_door_2_1",
+        "hatchback_02_door_2_2",
+        "hatchback_02_hood",
+        "hatchback_02_trunk",
+        "hatchback_02_wheel",
+        "hatchback_02_wheel",
+        "hatchback_02_wheel",
+        "hatchback_02_wheel",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "pipewrench",
+        "blowtorch"
+      ],
+      "Variants": [
+        "hatchback_02_banditkitty",
+        "hatchback_02_blackrust",
+        "hatchback_02_bluerust",
+        "hatchback_02_cover",
+        "hatchback_02_red",
+        "hatchback_02_redrust",
+        "hatchback_02_black",
+        "hatchback_02_blue"
       ]
     },
     {
@@ -172,8 +227,8 @@
     },
     {
       "ClassName": "offroadhatchback",
-      "MaxPriceThreshold": 28000,
-      "MinPriceThreshold": 28000,
+      "MaxPriceThreshold": 13500,
+      "MinPriceThreshold": 13250,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -232,7 +287,18 @@
         "headlighth7",
         "headlighth7"
       ],
-      "Variants": []
+      "Variants": [
+        "sedan_02_blue",
+        "sedan_02_bluerust",
+        "sedan_02_cover",
+        "sedan_02_greyrust",
+        "sedan_02_redrust",
+        "sedan_02_yellow",
+        "sedan_02_yellowbright",
+        "sedan_02_yellowrust",
+        "sedan_02_grey",
+        "sedan_02_red"
+      ]
     },
     {
       "ClassName": "truck_01_covered",
@@ -258,7 +324,18 @@
         "headlighth7",
         "headlighth7"
       ],
-      "Variants": []
+      "Variants": [
+        "truck_01_covered_black",
+        "truck_01_covered_cover",
+        "truck_01_covered_lime",
+        "truck_01_covered_red",
+        "truck_01_covered_white",
+        "truck_01_covered_wine",
+        "truck_01_covered_yellow",
+        "truck_01_covered_yellowbright",
+        "truck_01_covered_blue",
+        "truck_01_covered_orange"
+      ]
     }
   ]
 }

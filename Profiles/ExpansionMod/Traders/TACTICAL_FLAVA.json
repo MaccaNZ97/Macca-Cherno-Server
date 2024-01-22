@@ -1,5 +1,5 @@
 {
-  "m_Version": 11,
+  "m_Version": 12,
   "DisplayName": "TACTICAL_FLAVA",
   "MinRequiredReputation": 15000,
   "MaxRequiredReputation": 2147483647,
@@ -9,8 +9,12 @@
   "Currencies": [
     "expansionbanknotehryvnia"
   ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
   "Categories": [
+    "AMMO",
     "BATTERY",
+    "NIGHT VISION",
     "TACTICAL FLAVA ACCESSORIES",
     "TACTICALFLAVA_ATTACMENTS",
     "TACTICALFLAVA_VEST",
@@ -21,8 +25,7 @@
     "TACTICALFLAVA_SCOPES",
     "TACTICAL FLAVA MAGS",
     "TACTICALFLAVA_NVG",
-    "NIGHT VISION",
-    "AMMO"
+    "ADVANCED SCOPES"
   ],
   "Items": {}
 }

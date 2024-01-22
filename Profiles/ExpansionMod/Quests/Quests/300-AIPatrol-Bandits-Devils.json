@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 300,
     "Type": 1,
     "Title": "Clear Patrol - Bandits at Devils Castle",
@@ -40,7 +40,7 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 1,
             "ObjectiveType": 7
         }
@@ -55,5 +55,7 @@
     "DeleteQuestItems": 0,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
 }

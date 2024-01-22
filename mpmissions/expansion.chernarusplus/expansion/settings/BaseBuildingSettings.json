@@ -62,7 +62,7 @@
         403,
         6003.6001
       ],
-      "Radius": 1000,
+      "Radius": 250,
       "Items": [
         "Fireplace",
         "FishNetTrap",
@@ -80,7 +80,7 @@
         341.089996,
         10380
       ],
-      "Radius": 1500,
+      "Radius": 1000,
       "Items": [
         "BearTrap",
         "TripwireTrap",
@@ -101,7 +101,7 @@
         140,
         12600
       ],
-      "Radius": 750,
+      "Radius": 400,
       "Items": [
         "BearTrap",
         "FishNetTrap",
@@ -118,11 +118,13 @@
   "CodelockAttachMode": 2,
   "DismantleFlagMode": -1,
   "FlagMenuMode": 1,
+  "OverrideVanillaEntityPlacement": 0,
   "EnableVirtualStorage": 1,
   "VirtualStorageExcludedContainers": [
     "ExpansionAirdropContainerBase",
     "KOTH_CHEST",
     "DNA_Crate_Yellow",
-    "DNA_Crate_Red"
+    "DNA_Crate_Red",
+    "FD_Crate"
   ]
 }

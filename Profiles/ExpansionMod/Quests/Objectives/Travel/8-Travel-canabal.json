@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 8,
     "ObjectiveType": 3,
     "ObjectiveText": "Get to the Canabal Camp",
     "TimeLimit": -1,
+    "Active": 1,
     "Position": [
         5231.009765625,
         302.34600830078127,

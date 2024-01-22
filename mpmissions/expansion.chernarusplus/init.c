@@ -1,20 +1,34 @@
 void main()
 {
-	CreateHive();
-	GetHive().InitOffline();
-	int year, month, day, hour, minute;
-	GetGame().GetWorld().GetDate( year, month, day, hour, minute );
+	//INIT ECONOMY--------------------------------------
+	Hive ce = CreateHive();
+	if ( ce )
+		ce.InitOffline();
 
-	//Change here the dates for whatever months you desire
-    if ( month < 12 )
-    {
-    	year = 2011;
-        month = 12;
-        day = 25;
-		
-		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
+	//DATE RESET AFTER ECONOMY INIT-------------------------
+	int year, month, day, hour, minute;
+	int reset_month = 7, reset_day = 01;
+	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
+
+	if ((month == reset_month) && (day < reset_day))
+	{
+		GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
 	}
-} 
+	else
+	{
+		if ((month == reset_month + 1) && (day > reset_day))
+		{
+			GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
+		}
+		else
+		{
+			if ((month < reset_month) || (month > reset_month + 1))
+			{
+				GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
+			}
+		}
+	}
+}
 
 class CustomMission: MissionServer
 {
@@ -119,7 +133,6 @@ class CustomMission: MissionServer
 		itemClothing = player.FindAttachmentBySlotName( "Feet" );
 	}
 };
-
 
 Mission CreateCustomMission(string path)
 {

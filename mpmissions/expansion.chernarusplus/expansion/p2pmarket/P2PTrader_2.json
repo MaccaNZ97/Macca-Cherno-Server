@@ -1,22 +1,22 @@
 {
-    "m_Version": 5,
+    "m_Version": 7,
     "m_TraderID": 2,
     "m_ClassName": "ExpansionP2PTraderAIBoris",
     "m_Position": [
-        8177.31,
-        474.052,
-        9110.00
+        8177.31005859375,
+        474.052001953125,
+        9110.0
     ],
     "m_Orientation": [
-        300.1320037841797,
+        300.13201904296877,
         0.0,
         0.0
     ],
     "m_LoadoutFile": "YellowKingLoadout",
     "m_VehicleSpawnPosition": [
-        8174.0000,
-        474.0520,
-        9091.3600
+        8174.0,
+        474.052001953125,
+        9091.3603515625
     ],
     "m_WatercraftSpawnPosition": [
         0.0,
@@ -24,9 +24,9 @@
         0.0
     ],
     "m_AircraftSpawnPosition": [
-        8178.8300,
-        478.3300,
-        9175.9300
+        8178.830078125,
+        478.3299865722656,
+        9175.9296875
     ],
     "m_DisplayName": "Unknown",
     "m_DisplayIcon": "Deliver",
@@ -34,5 +34,10 @@
     "m_Waypoints": [],
     "m_EmoteID": 46,
     "m_EmoteIsStatic": 0,
-    "m_IsGlobalTrader": 1
+    "m_IsGlobalTrader": 1,
+    "m_Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "m_DisplayCurrencyValue": 1,
+    "m_DisplayCurrencyName": ""
 }

@@ -1,13 +1,14 @@
 {
-  "ObjectiveText": "Use a Blood Bag",
-  "TimeLimit": -1,
-  "ActionNames": [
-    "ActionCollectBloodSelf"
-  ],
-  "AllowedClassNames": [],
-  "ExcludedClassNames": [],
-  "ExecutionAmount": 1,
-  "ConfigVersion": 22,
-  "ID": 2,
-  "ObjectiveType": 10
+    "ConfigVersion": 26,
+    "ID": 2,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Use a Blood Bag",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionCollectBloodSelf"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
 }

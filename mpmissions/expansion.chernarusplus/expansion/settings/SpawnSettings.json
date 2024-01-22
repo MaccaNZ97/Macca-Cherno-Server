@@ -280,36 +280,18 @@
   "StartingClothing": {
     "EnableCustomClothing": 1,
     "SetRandomHealth": 0,
-    "Headgear": [
+    "Headgear": [],
+    "Glasses": [
       "Headtorch_Black"
     ],
-    "Glasses": [],
     "Masks": [],
     "Tops": [
-      "TShirt_Green",
-      "TShirt_Blue",
-      "TShirt_Black",
-      "TShirt_Beige",
-      "TShirt_Red",
-      "TShirt_OrangeWhiteStripes",
-      "TShirt_White",
-      "TShirt_Red",
-      "TShirt_Grey",
-      "TShirt_RedBlackStripes"
+      "Tshirt_10thAnniversary"
     ],
     "Vests": [],
     "Gloves": [],
     "Pants": [
-      "CanvasPants_Beige",
-      "CanvasPants_Blue",
-      "CanvasPants_Grey",
-      "CanvasPants_Red",
-      "CanvasPants_Violet",
-      "CanvasPantsMidi_Beige",
-      "CanvasPantsMidi_Blue",
-      "CanvasPantsMidi_Grey",
-      "CanvasPantsMidi_Red",
-      "CanvasPantsMidi_Violet"
+      "CargoPants_Black"
     ],
     "Belts": [],
     "Shoes": [
@@ -378,31 +360,32 @@
     ],
     "PantsGear": [
       {
-        "ClassName": "Heatpack",
-        "Quantity": -1,
-        "Attachments": []
-      },
-      {
-        "ClassName": "TacticalBaconCan",
-        "Quantity": -1,
-        "Attachments": []
-      },
-      {
         "ClassName": "SodaCan_Pipsi",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Mag_Glock_15Rnd",
         "Quantity": -1,
         "Attachments": []
       }
     ],
     "BackpackGear": [],
     "VestGear": [],
-    "PrimaryWeapon": {},
+    "PrimaryWeapon": {
+      "ClassName": "SN_Glock19",
+      "Quantity": 1,
+      "Attachments": [
+        "Mag_Glock_15Rnd"
+      ]
+    },
     "SecondaryWeapon": {
       "ClassName": "NailedBaseballBat",
       "Quantity": -1,
       "Attachments": []
     }
   },
-  "UseLoadouts": 1,
+  "UseLoadouts": 0,
   "MaleLoadouts": [
     {
       "Loadout": "PlayerSurvivorLoadout",

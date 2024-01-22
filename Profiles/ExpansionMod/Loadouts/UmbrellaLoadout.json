@@ -162,7 +162,7 @@
               "InventoryCargo": [],
               "ConstructionPartsBuilt": [],
               "Sets": []
-            }            
+            }
           ],
           "ConstructionPartsBuilt": [],
           "Sets": []
@@ -223,19 +223,6 @@
               "Sets": []
             },
             {
-              "ClassName": "CP_CannabisBrickFuture",
-              "Chance": 0.10000000149011612,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },            
-            {
               "ClassName": "epinephrine",
               "Chance": 0.10000000149011612,
               "Quantity": {
@@ -247,7 +234,7 @@
               "InventoryCargo": [],
               "ConstructionPartsBuilt": [],
               "Sets": []
-            },            
+            },
             {
               "ClassName": "anticheminjector",
               "Chance": 0.10000000149011612,

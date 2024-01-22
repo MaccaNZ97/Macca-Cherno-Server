@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 4,
     "ObjectiveType": 10,
     "ObjectiveText": "Complete CPR",
     "TimeLimit": -1,
+    "Active": 1,
     "ActionNames": [
         "ActionCPR"
     ],

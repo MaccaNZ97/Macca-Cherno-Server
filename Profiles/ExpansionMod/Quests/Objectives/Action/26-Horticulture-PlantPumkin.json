@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 26,
     "ObjectiveType": 10,
     "ObjectiveText": "Plant pumkin seeds:",
     "TimeLimit": -1,
+    "Active": 1,
     "ActionNames": [
         "ActionPlantSeed"
     ],

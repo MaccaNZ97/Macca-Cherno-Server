@@ -213,32 +213,6 @@
       "InventoryCargo": [],
       "ConstructionPartsBuilt": [],
       "Sets": []
-    },
-    {
-      "ClassName": "BO_Propital",
-      "Chance": 1,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "BO_Mag_PP1901_30rnd",
-      "Chance": 1,
-      "Quantity": {
-        "Min": 1,
-        "Max": 1
-      },
-      "Health": [],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
     }
   ],
   "ConstructionPartsBuilt": [],
@@ -268,7 +242,7 @@
               "SlotName": "Shoulder",
               "Items": [
                 {
-                  "ClassName": "BO_PP1901",
+                  "ClassName": "pp19",
                   "Chance": 1.0,
                   "Quantity": {
                     "Min": 0.0,
@@ -280,21 +254,8 @@
                       "SlotName": "",
                       "Items": [
                         {
-                          "ClassName": "BO_MAG_PP1901_30rnd",
+                          "ClassName": "Mag_PP19_64Rnd",
                           "Chance": 1.0,
-                          "Quantity": {
-                            "Min": 0.0,
-                            "Max": 0.0
-                          },
-                          "Health": [],
-                          "InventoryAttachments": [],
-                          "InventoryCargo": [],
-                          "ConstructionPartsBuilt": [],
-                          "Sets": []
-                        },
-                        {
-                          "ClassName": "BO_PP1901_Bttstck",
-                          "Chance": 0.5,
                           "Quantity": {
                             "Min": 0.0,
                             "Max": 0.0
@@ -317,7 +278,7 @@
           ],
           "InventoryCargo": [
             {
-              "ClassName": "BO_Mag_PP1901_30rnd",
+              "ClassName": "Mag_PP19_64Rnd",
               "Chance": 1.0,
               "Quantity": {
                 "Min": 0.0,
@@ -330,7 +291,7 @@
               "Sets": []
             },
             {
-              "ClassName": "BO_Mag_PP1901_30rnd",
+              "ClassName": "Mag_PP19_64Rnd",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,

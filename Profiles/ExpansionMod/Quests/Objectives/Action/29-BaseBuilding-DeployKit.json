@@ -1,13 +1,14 @@
 {
-  "ObjectiveText": "Deploy BBP Kit",
-  "TimeLimit": -1,
-  "ActionNames": [
-    "ActionRaiseFlag"
-  ],
-  "AllowedClassNames": [],
-  "ExcludedClassNames": [],
-  "ExecutionAmount": 1,
-  "ConfigVersion": 22,
-  "ID": 29,
-  "ObjectiveType": 10
+    "ConfigVersion": 26,
+    "ID": 29,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Deploy BBP Kit",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionRaiseFlag"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
 }

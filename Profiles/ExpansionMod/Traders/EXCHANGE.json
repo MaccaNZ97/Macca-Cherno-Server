@@ -1,16 +1,18 @@
 {
-  "m_Version": 11,
-  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EXCHANGE",
-  "MinRequiredReputation": 0,
-  "MaxRequiredReputation": 2147483647,
-  "RequiredFaction": "",
-  "RequiredCompletedQuestID": -1,
-  "TraderIcon": "Trader",
-  "Currencies": [
-    "expansionbanknotehryvnia"
-  ],
-  "Categories": [
-    "EXCHANGE"
-  ],
-  "Items": {}
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EXCHANGE",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Trader",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "EXCHANGE"
+    ],
+    "Items": {}
 }

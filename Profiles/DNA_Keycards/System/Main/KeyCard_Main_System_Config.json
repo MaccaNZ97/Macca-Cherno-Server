@@ -16,7 +16,7 @@
         },
         {
             "dna_Option": "(2) Yellow Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
-            "dna_Setting": 7
+            "dna_Setting": 14
         },
         {
             "dna_Option": "(3) Green Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
@@ -500,10 +500,7 @@
             "dna_Location": "2477.506104 193.734024 5134.868652",
             "dna_Rotation": "-82.330093 0.0 0.0"
         },
-        {
-            "dna_Location": "3679.509521 402.681061 5993.528809",
-            "dna_Rotation": "-165.283295 0.0 0.0"
-        },
+     
         {
             "dna_Location": "9528.343750 311.056122 8799.223633",
             "dna_Rotation": "174.108322 0.0 0.0"

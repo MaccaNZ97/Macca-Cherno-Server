@@ -6,37 +6,108 @@
   "EnableServerRulesTab": 1,
   "EnableTerritoryTab": 1,
   "EnableBookMenu": 1,
-  "CreateBookmarks": 0,
+  "CreateBookmarks": 1,
   "RuleCategories": [
     {
       "CategoryName": "General",
       "Rules": [
         {
-          "RuleParagraph": "1.1.",
+          "RuleParagraph": "1.1",
           "RuleText": "Insults, discrimination, extremist and racist statements or texts are taboo."
         },
         {
-          "RuleParagraph": "1.2.",
+          "RuleParagraph": "1.2",
           "RuleText": "We reserve the right to exclude people from the server who share extremist or racist ideas or who clearly disturb the server harmony."
         },
         {
-          "RuleParagraph": "1.3.",
+          "RuleParagraph": "1.3",
           "RuleText": "Decisions of the team members, both the supporter and the admin are to be accepted without discussion."
         },
         {
-          "RuleParagraph": "1.4.",
+          "RuleParagraph": "1.4",
           "RuleText": "Provocations and toxic behavior will not be tolerated and punished! Be friendly to fellow players and your team, both in chat and in voice!"
         },
         {
-          "RuleParagraph": "1.5.",
+          "RuleParagraph": "1.5",
           "RuleText": "The use of external programs, scripts and cheats is not tolerated and is punished with a permanent exclusion."
+        },
+        {
+          "RuleParagraph": "1.6",
+          "RuleText": "Overarching Rule Dont Be a Dick!\r\n\r\nServer is PVE be friendly and have some fun!"
+        }
+      ]
+    },
+    {
+      "CategoryName": "Vehicle Rules",
+      "Rules": [
+        {
+          "RuleParagraph": "2.1",
+          "RuleText": "Vehicles where possible should be parked in your garage (Flag) or at Trader Garage (Parking sign push \"F\")\r\n"
+        },
+        {
+          "RuleParagraph": "2.2",
+          "RuleText": "Vehicles left at traders are automatically deleted by the Server (Excludes Spec Ops)\r\n\r\nLog a ticket to get it replaced"
+        },
+        {
+          "RuleParagraph": "2.3",
+          "RuleText": "Vehicles left in a military zone will be placed in a naughty zone. Log a Ticket to recover it."
+        },
+        {
+          "RuleParagraph": "2.4",
+          "RuleText": "No stealing vehicles or taking stuff from vehicles regardless of where it is"
+        },
+        {
+          "RuleParagraph": "2.5",
+          "RuleText": "Using vehicles as a weapon is frowned upon dont make me code them to blow up on hitting a Zombie. This excludes driving down the road."
+        },
+        {
+          "RuleParagraph": "2.6",
+          "RuleText": "Helicopters are considered to be vehicles\r\n"
+        }
+      ]
+    },
+    {
+      "CategoryName": "Base Building Rules",
+      "Rules": [
+        {
+          "RuleParagraph": "3.1",
+          "RuleText": "No building inside Umbrella patroled zones eg near Military Sites"
+        },
+        {
+          "RuleParagraph": "3.2",
+          "RuleText": "Bases need to be secured with a code lock"
+        },
+        {
+          "RuleParagraph": "3.3",
+          "RuleText": "You can only have 2 bases\r\nThat includes your base and any other group that you are a member of.\r\n\r\nTo be clear two spawn points only!\r\n"
+        },
+        {
+          "RuleParagraph": "3.4",
+          "RuleText": "ExpansionCodelocks only work on Expansion Doors and gates. \r\n\r\nFor all other lockable items use Codelocks.\r\nThis includes Vanilla BB, BBP and non expansion Storage like MMG. \r\n\r\nBasically you only really need codelocks on your building as there is no raiding"
+        }
+      ]
+    },
+    {
+      "CategoryName": "PVP",
+      "Rules": [
+        {
+          "RuleParagraph": "4.1",
+          "RuleText": "No PVP this means directly, indirectly and assisted sucides.\r\n\r\nSo no landmines, tripwires with grenades be they flash or HE\r\n\r\nAnyone caught doing the above risks getting their ATM and Reputation wiped. \r\nContinued or blantant disregards to these rules will get you banned.\r\n"
+        },
+        {
+          "RuleParagraph": "4.2",
+          "RuleText": "Excludes Admin killing cheaters and those that do not read the rules"
+        },
+        {
+          "RuleParagraph": "4.3",
+          "RuleText": "Excludes events where no one outside said event can interacte with."
         }
       ]
     }
   ],
   "DisplayServerSettingsInServerInfoTab": 1,
   "ShowHaBStats": 1,
-  "ShowPlayerFaction": 0,
+  "ShowPlayerFaction": 1,
   "SettingCategories": [
     {
       "CategoryName": "Base-Building Settings",
@@ -89,21 +160,6 @@
       ]
     },
     {
-      "CategoryName": "Territory Settings",
-      "Settings": [
-        {
-          "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
-          "SettingText": "",
-          "SettingValue": ""
-        },
-        {
-          "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
-          "SettingText": "",
-          "SettingValue": ""
-        }
-      ]
-    },
-    {
       "CategoryName": "Map Settings",
       "Settings": [
         {
@@ -112,7 +168,7 @@
           "SettingValue": ""
         },
         {
-          "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+          "SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
           "SettingText": "",
           "SettingValue": ""
         }
@@ -132,62 +188,59 @@
           "SettingValue": ""
         }
       ]
+    },
+    {
+      "CategoryName": "Territory Settings",
+      "Settings": [
+        {
+          "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+          "SettingText": "",
+          "SettingValue": ""
+        }
+      ]
     }
   ],
   "Links": [
     {
-      "Name": "Homepage",
-      "URL": "https://www.google.com/",
-      "IconName": "Homepage",
-      "IconColor": -14473430
-    },
-    {
-      "Name": "Feedback",
-      "URL": "https://www.google.com/",
-      "IconName": "Forums",
-      "IconColor": -14473430
-    },
-    {
       "Name": "Discord",
-      "URL": "https://www.google.com/",
+      "URL": "https://discord.gg/QhNH9HeKkz",
       "IconName": "Discord",
-      "IconColor": -9270822
+      "IconColor": -14860831
     },
     {
-      "Name": "Patreon",
-      "URL": "https://www.patreon.com/dayzexpansion",
-      "IconName": "Patreon",
-      "IconColor": -432044
-    },
-    {
-      "Name": "Steam",
-      "URL": "https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222",
-      "IconName": "Steam",
-      "IconColor": -14006434
-    },
-    {
-      "Name": "Reddit",
-      "URL": "https://www.reddit.com/r/ExpansionProject/",
-      "IconName": "Reddit",
-      "IconColor": -12386303
-    },
-    {
-      "Name": "GitHub",
-      "URL": "https://github.com/salutesh/DayZ-Expansion-Scripts/wiki",
-      "IconName": "GitHub",
-      "IconColor": -16777216
-    },
-    {
-      "Name": "YouTube",
-      "URL": "https://www.youtube.com/channel/UCZNgSvIEWfru963tQZOAVJg",
+      "Name": "Expansion Base Building Guide",
+      "URL": "https://www.youtube.com/watch?v=YczIiNG513I",
       "IconName": "YouTube",
-      "IconColor": -65536
+      "IconColor": -783850
     },
     {
-      "Name": "Twitter",
-      "URL": "https://twitter.com/DayZExpansion",
-      "IconName": "Twitter",
-      "IconColor": -14835214
+      "Name": "Base Building Plus Guide",
+      "URL": "https://www.youtube.com/watch?v=Z2KjfaeaHNc&list=PLOVV6CTMV9G9q-vcHrK7f1UnOppxz2lrW",
+      "IconName": "YouTube",
+      "IconColor": -1
+    },
+    {
+      "Name": "Vanilla Base Building Guide",
+      "URL": "https://www.youtube.com/watch?v=-lwNJHISIc8&list=PLOVV6CTMV9G-4diA8_gbxS_WK3ZIaXyA6",
+      "IconName": "YouTube",
+      "IconColor": -1
+    },
+    {
+      "Name": "Boomlay Things",
+      "URL": "https://www.youtube.com/watch?v=JOVqmhFLUnw",
+      "IconName": "Homepage",
+      "IconColor": -1
+    },
+    {
+      "Name": "Server Donation",
+      "URL": "https://www.patreon.com/user?u=52179875",
+      "IconName": "Patreon",
+      "IconColor": -1
     }
   ],
   "Descriptions": [
@@ -195,27 +248,23 @@
       "CategoryName": "General Info",
       "Descriptions": [
         {
-          "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-        },
-        {
-          "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-        },
-        {
-          "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+          "DescriptionText": "<p>Welcome to Macca's Expansion Dayz PVE Server\r\n\r\nThis is a PVE Server based in Chernarus, Umbrella Corporation has taken over this area creating a Zombie outbreak.\r\n\r\nYou are tasked with getting setup and fighting back against Umbrella Corp and the killing the infected\r\n\r\nReport to the Green Mountain Trader to get your tasks.\r\n\r\nRules of engagement is identify your target and if unsure disengage!\r\n\r\nThere are some custom areas with loot and will be adding in more content as we go.\r\n\r\nAnyone breaking the PVE rules eg quite obvious PVPing will be perma banned.\r\n\r\nPlease join our Discord</p>"
         }
       ]
     },
     {
-      "CategoryName": "Mod Info",
+      "CategoryName": "Vehicles",
       "Descriptions": [
         {
-          "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-        },
+          "DescriptionText": "<p>Cars trucks and Helicopters can be purchased from the two traders.\r\n\r\nThey must be secured on logging out at either your base or the Trader Garages.\r\n\r\nYour Flag is your garage at your base\r\nThe Parking sign is the flag at the Trader\r\n\r\nEnsure you read the Vehicle Rules</p>"
+        }
+      ]
+    },
+    {
+      "CategoryName": "Base Building",
+      "Descriptions": [
         {
-          "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-        },
-        {
-          "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+          "DescriptionText": "<p>You can use Vanilla, BBP and Expansion Base Building.\r\n\r\nExpansion Codelocks workonly on Expansion Building. Use Codelocks  on all other items including MMG storage.\r\n\r\nEnsure you create a territory before raising flag.\r\n\r\nYour flag doubles as a virtual garage\r\n\r\nRead up about bloomlay things as it has a work bench to craft other items including solar panels and a repair bench.</p>"
         }
       ]
     }
@@ -224,153 +273,178 @@
     {
       "CategoryName": "Accessories",
       "Results": [
-        "Armband_",
-        "Armband_White",
-        "EyePatch_Improvised"
+        "armband_",
+        "armband_white",
+        "eyepatch_improvised"
       ]
     },
     {
       "CategoryName": "Backpacks",
       "Results": [
-        "CourierBag",
-        "FurCourierBag",
-        "FurImprovisedBag",
-        "ImprovisedBag",
-        "LeatherSack_Brown"
+        "courierbag",
+        "furcourierbag",
+        "furimprovisedbag",
+        "improvisedbag",
+        "leathersack_brown"
       ]
     },
     {
       "CategoryName": "Base-Building",
       "Results": [
-        "ExpansionBarbedWireKit",
-        "FenceKit",
-        "ExpansionFloorKit",
-        "ExpansionHelipadKit",
-        "ExpansionHescoKit",
-        "ExpansionRampKit",
-        "ShelterKit",
-        "ExpansionStairKit",
-        "TerritoryFlagKit",
-        "ExpansionWallKit",
-        "WatchtowerKit"
+        "expansionbarbedwirekit",
+        "fencekit",
+        "expansionfloorkit",
+        "expansionhelipadkit",
+        "expansionhescokit",
+        "expansionrampkit",
+        "shelterkit",
+        "expansionstairkit",
+        "territoryflagkit",
+        "expansionwallkit",
+        "watchtowerkit"
       ]
     },
     {
       "CategoryName": "Camouflage",
       "Results": [
-        "Camonet",
-        "GhillieAtt_Tan",
-        "GhillieAtt_Mossy",
-        "GhillieAtt_Woodland",
-        "GhillieBushrag_Tan",
-        "GhillieBushrag_Mossy",
-        "GhillieBushrag_Woodland",
-        "GhillieHood_Tan",
-        "GhillieHood_Mossy",
-        "GhillieHood_Woodland",
-        "GhillieSuit_Tan",
-        "GhillieSuit_Mossy",
-        "GhillieSuit_Woodland",
-        "GhillieTop_Tan",
-        "GhillieTop_Mossy",
-        "GhillieTop_Woodland"
+        "camonet",
+        "ghillieatt_tan",
+        "ghillieatt_mossy",
+        "ghillieatt_woodland",
+        "ghilliebushrag_tan",
+        "ghilliebushrag_mossy",
+        "ghilliebushrag_woodland",
+        "ghilliehood_tan",
+        "ghilliehood_mossy",
+        "ghilliehood_woodland",
+        "ghilliesuit_tan",
+        "ghilliesuit_mossy",
+        "ghilliesuit_woodland",
+        "ghillietop_tan",
+        "ghillietop_mossy",
+        "ghillietop_woodland"
       ]
     },
     {
       "CategoryName": "Cooking",
       "Results": [
-        "Fireplace",
-        "Firewood",
-        "HandDrillKit"
+        "fireplace",
+        "firewood",
+        "handdrillkit"
       ]
     },
     {
       "CategoryName": "Fishing",
       "Results": [
-        "Bait",
-        "BoneBait",
-        "BoneHook",
-        "ImprovisedFishingRod"
+        "bait",
+        "bonebait",
+        "bonehook",
+        "improvisedfishingrod"
       ]
     },
     {
       "CategoryName": "Food",
       "Results": [
-        "CarpFilletMeat",
-        "MackerelFilletMeat",
-        "ExpansionMilkBottle",
-        "Potato",
-        "SlicedPumpkin"
+        "carpfilletmeat",
+        "mackerelfilletmeat",
+        "expansionmilkbottle",
+        "potato",
+        "slicedpumpkin"
       ]
     },
     {
       "CategoryName": "Horticulture",
       "Results": [
-        "PepperSeeds",
-        "PumpkinSeeds",
-        "TomatoSeeds",
-        "ZucchiniSeeds"
+        "pepperseeds",
+        "pumpkinseeds",
+        "tomatoseeds",
+        "zucchiniseeds"
       ]
     },
     {
       "CategoryName": "Lights",
       "Results": [
-        "LongTorch",
-        "Torch"
+        "longtorch",
+        "torch"
       ]
     },
     {
       "CategoryName": "Medical Supplies",
       "Results": [
-        "BloodBagIV",
-        "SalineBagIV",
-        "Splint"
+        "bloodbagiv",
+        "salinebagiv",
+        "splint"
       ]
     },
     {
       "CategoryName": "Melee Weapons",
       "Results": [
-        "NailedBaseballBat",
-        "StoneKnife"
+        "nailedbaseballbat",
+        "stoneknife"
       ]
     },
     {
       "CategoryName": "Storage",
       "Results": [
-        "WoodenCrate"
+        "woodencrate"
       ]
     },
     {
       "CategoryName": "Supplies",
       "Results": [
-        "BoarPelt",
-        "BurlapSack",
-        "BurlapStrip",
-        "LongWoodenStick",
-        "ExpansionLumber1",
-        "ExpansionLumber1_5",
-        "ExpansionLumber3",
-        "Nails",
-        "Netting",
-        "Rag",
-        "Rope",
-        "SharpWoodenStick",
-        "SmallStone",
-        "TannedLeather",
-        "WoodenPlank",
-        "WoodenStick"
+        "boarpelt",
+        "burlapsack",
+        "burlapstrip",
+        "longwoodenstick",
+        "expansionlumber1",
+        "expansionlumber1_5",
+        "expansionlumber3",
+        "nails",
+        "netting",
+        "rag",
+        "rope",
+        "sharpwoodenstick",
+        "smallstone",
+        "tannedleather",
+        "woodenplank",
+        "woodenstick"
       ]
     },
     {
       "CategoryName": "Weapon Modifications",
       "Results": [
-        "SawedoffIzh18Shotgun"
+        "sawedoffizh18shotgun"
       ]
     },
     {
       "CategoryName": "Weapon Attachments",
       "Results": [
-        "ImprovisedSuppressor"
+        "improvisedsuppressor"
+      ]
+    },
+    {
+      "CategoryName": "Boomlay Things",
+      "Results": [
+        "bl_old_crate",
+        "bl_rain_collector_Kit",
+        "bl_stove_barrel_Kit",
+        "bl_special_item_Kit",
+        "bl_pallet_table_Kit",
+        "bl_pallet_sofa_Kit",
+        "bl_pallet_cabinet_Kit",
+        "bl_pallet_bed_Kit",
+        "bl_pallet_box_Kit",
+        "bl_pallet_frame_solo",
+        "bl_pallet"
+      ]
+    },
+    {
+      "CategoryName": "Farming",
+      "Results": [
+        "bbp_chicken_fencekit",
+        "bbp_chicken_gatekit",
+        "bbp_pigpenkit",
+        "bbpchickencoopkit"
       ]
     }
   ]

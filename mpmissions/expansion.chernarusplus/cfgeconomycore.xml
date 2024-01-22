@@ -44,6 +44,9 @@
     <file name="Boomlay_things_types.xml" type="types" />
     <file name="Winter_charnarus_types.xml" type="types" />
     <file name="BN_Winter_Clothing_types.xml" type="types" />
+    <file name="FD_Missions_types.xml" type="types" />
+    <file name="EFT_Medicals_types.xml" type="types" />
+    <file name="Advanced_Scopes_types.xml" type="types" />
   </ce>
   <ce folder="Custom/Vanilla Types">
     <file name="types_clothes.xml" type="types" />
@@ -93,5 +96,6 @@
     <file name="FOG_types.xml" type="types" />
     <file name="FOG_spawnabletypes.xml" type="spawnabletypes" />
     <file name="AJ_Creatures_events.xml" type="events" />
+    <file name="AJ_Creatures_spawnabletypes.xml" type="spawnabletypes" />
   </ce>
 </economycore>

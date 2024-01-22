@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 7,
     "ObjectiveType": 3,
     "ObjectiveText": "Travel to Gorka Camp",
     "TimeLimit": -1,
+    "Active": 1,
     "Position": [
         9073.580078125,
         244.66600036621095,

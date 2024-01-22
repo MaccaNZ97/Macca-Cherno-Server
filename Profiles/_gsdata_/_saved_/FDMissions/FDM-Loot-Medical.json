@@ -1,0 +1,262 @@
+{
+    "lootSets": [
+        {
+            "name": "AK74",
+            "items": [
+                {
+                    "name": "AK74",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "AK74_Hndgrd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "Mag_AK74_30Rnd",
+                            "quantity": 20,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "AK74_WoodBttstck",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "KobraOptic",
+                            "quantity": -1,
+                            "attachments": [
+                                {
+                                    "name": "Battery9V",
+                                    "quantity": 50,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "AKM",
+            "items": [
+                {
+                    "name": "AKM",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "Mag_AKM_Drum75Rnd",
+                            "quantity": 20,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "AK_RailHndgrd",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "AK_PlasticBttstck",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "PSO1Optic",
+                            "quantity": -1,
+                            "attachments": [
+                                {
+                                    "name": "Battery9V",
+                                    "quantity": 50,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Ammo Pouch",
+            "items": [
+                {
+                    "name": "PlateCarrierPouches",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": [
+                        {
+                            "name": "Ammo_556x45",
+                            "quantity": 15,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "Ammo_556x45",
+                            "quantity": 15,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "Ammo_556x45",
+                            "quantity": 15,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "Ammo_556x45",
+                            "quantity": 15,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "Ammo_308Win",
+                            "quantity": 10,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "Ammo_308Win",
+                            "quantity": 10,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "Ammo_308Win",
+                            "quantity": 10,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "Ammo_308Win",
+                            "quantity": 10,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "LoadedPlate",
+            "items": [
+                {
+                    "name": "PlateCarrierVest",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "PlateCarrierHolster",
+                            "quantity": -1,
+                            "attachments": [
+                                {
+                                    "name": "FNX45",
+                                    "quantity": -1,
+                                    "attachments": [
+                                        {
+                                            "name": "PistolSuppressor",
+                                            "quantity": -1,
+                                            "attachments": [],
+                                            "cargo": []
+                                        },
+                                        {
+                                            "name": "Mag_FNX45_15Rnd",
+                                            "quantity": -1,
+                                            "attachments": [],
+                                            "cargo": []
+                                        },
+                                        {
+                                            "name": "FNP45_MRDSOptic",
+                                            "quantity": -1,
+                                            "attachments": [
+                                                {
+                                                    "name": "Battery9v",
+                                                    "quantity": -1,
+                                                    "attachments": [],
+                                                    "cargo": []
+                                                }
+                                            ],
+                                            "cargo": []
+                                        }
+                                    ],
+                                    "cargo": []
+                                }
+                            ],
+                            "cargo": []
+                        },
+                        {
+                            "name": "PlateCarrierPouches",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": [
+                                {
+                                    "name": "Mag_FNX45_15Rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "Mag_FNX45_15Rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "Mag_FNX45_15Rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "Mag_FNX45_15Rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                },
+                                {
+                                    "name": "Mag_FNX45_15Rnd",
+                                    "quantity": -1,
+                                    "attachments": [],
+                                    "cargo": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "M18SmokeGrenade_Red",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "M18SmokeGrenade_Green",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "M18SmokeGrenade_Purple",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "M18SmokeGrenade_White",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                }
+            ]
+        }
+    ]
+}

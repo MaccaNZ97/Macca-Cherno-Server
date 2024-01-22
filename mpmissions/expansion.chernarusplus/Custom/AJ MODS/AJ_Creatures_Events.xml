@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
   <event name="InfectedClowns">
-    <nominal>4</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <max>4</max>
     <lifetime>180</lifetime>
-    <restock>0</restock>
+    <restock>1440</restock>
     <saferadius>100</saferadius>
     <distanceradius>0</distanceradius>
     <cleanupradius>100</cleanupradius>
@@ -45,7 +45,7 @@
   </event>
   <event name="InfectedNBC">
     <nominal>50</nominal>
-    <min>25</min>
+    <min>35</min>
     <max>250</max>
     <lifetime>3</lifetime>
     <restock>0</restock>

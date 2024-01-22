@@ -1,5 +1,5 @@
 {
-  "m_Version": 11,
+  "m_Version": 12,
   "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
   "MinRequiredReputation": 0,
   "MaxRequiredReputation": 2147483647,
@@ -9,6 +9,8 @@
   "Currencies": [
     "expansionbanknotehryvnia"
   ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
   "Categories": [
     "OPTICS:3",
     "BAYONETS:3",
@@ -26,12 +28,13 @@
     "SNIPER_RIFLES",
     "SHOTGUNS",
     "SNAFU_AMMO",
-    "MAGAZINES:3",
     "TACTICAL FLAVA ACCESSORIES:2",
-    "TACTICAL FLAVA MAGS:2",
-    "TACTICALFLAVA_SCOPES:2",
+    "MAGAZINES:3",
+    "TACTICALFLAVA_WEAPONS:2",
     "TACTICAL FLAVA SUPRESSORS:2",
-    "TACTICALFLAVA_WEAPONS:2"
+    "TACTICALFLAVA_SCOPES:2",
+    "TACTICAL FLAVA MAGS:2",
+    "AMMO"
   ],
   "Items": {
     "expansion_awm": 2,

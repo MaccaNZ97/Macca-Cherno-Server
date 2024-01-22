@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+  <type name="CDAJ_ZmbM_Dark_Heavy">
+    <attachments chance="1">
+      <item name="TF_MICH2000Helmet_Black" chance="1" />
+      <item name="TF_6B23Vest_EMR" chance="1" />
+    </attachments>
+    <cargo preset="mixArmy" />
+    <cargo preset="RedHigh" />
+  </type>
+  <type name="CDAJ_ZmbM_Clown">
+    <cargo preset="YellowHigh" />
+    <cargo preset="YellowLow" />
+  </type>
+  <type name="CDAJ_ZmbM_Demon">
+    <cargo preset="RedHigh" />
+    <cargo preset="YellowHigh" />
+  </type>
+  <type name="CDAJ_ZmbM_LostInfected">
+    <cargo preset="YellowLow" />
+    <cargo preset="foodArmy" />
+  </type>
+  <type name="CDAJ_ZmbM_Mutant">
+    <cargo preset="YellowLow" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="CDAJ_ZmbM_Mutant_Bloody">
+    <cargo preset="YellowLow" />
+    <cargo preset="YellowHigh" />
+  </type>
+  <type name="CDAJ_ZmbM_Mutant_Pale">
+    <cargo preset="YellowHigh" />
+    <cargo preset="YellowLow" />
+  </type>
+</spawnabletypes>

@@ -4,6 +4,6 @@
   "InitialMissionStartDelay": 300000,
   "TimeBetweenMissions": 3600000,
   "MinMissions": 1,
-  "MaxMissions": 2,
+  "MaxMissions": 1,
   "MinPlayersToStartMissions": 1
 }

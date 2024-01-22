@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 20,
+    "ConfigVersion": 21,
     "ID": 2,
     "Type": 1,
     "Title": "A favor for Steve...",
@@ -56,12 +56,12 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 2,
             "ObjectiveType": 3
         },
         {
-            "ConfigVersion": 22,
+            "ConfigVersion": 26,
             "ID": 1,
             "ObjectiveType": 2
         }
@@ -78,5 +78,7 @@
     "DeleteQuestItems": 0,
     "SequentialObjectives": 1,
     "FactionReputationRequirements": {},
-    "FactionReputationRewards": {}
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
 }

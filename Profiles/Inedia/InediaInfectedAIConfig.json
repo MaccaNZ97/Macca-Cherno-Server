@@ -39,6 +39,20 @@
         "BreakingDoorsHandlerIsActive": {
             "all": 1
         },
+        "BreakingDoorsRestrictedDoors": {
+            "all": {
+                "evg_outsideDoor": [],
+                "evg_gate": [],
+                "KeyCard_Door_Base": [],
+                "evg_barDoor": [],
+                "evg_simpleDoor1": [],
+                "DNA_Lockout_ColourBase": [],
+                "DNA_Strongroom_ColourBase": [],
+                "evg_simpleDoor2": [],
+                "DNA_Door_NoLock_ColourBase": [],
+                "evg_simpleDoor3": []
+            }
+        },
         "BreakingDoorsDestroyAfterOpenChancePercent": {
             "all": 15.0
         },
@@ -67,10 +81,10 @@
             "all": 1
         },
         "AttackAnimalsWolfs": {
-            "all": 1
+            "all": 0
         },
         "AttackAnimalsBears": {
-            "all": 1
+            "all": 0
         },
         "SearchHandlerIsActive": {
             "all": 1
@@ -99,11 +113,33 @@
         "UpJumpHeightMax": {
             "all": 3.0
         },
+        "UpJumpImpulseDamageChancePercent": {
+            "all": 50.0
+        },
+        "UpJumpChancePercent": {
+            "all": 50.0
+        },
+        
         "DownJumpHandlerIsActive": {
             "all": 1
         },
         "DownJumpHeightMax": {
             "all": 10.0
+        },
+        "FallHandlerIsActive": {
+            "all": 1
+        },
+        "FallHandlerLegBreakHeightMin": {
+            "all": 3.0
+        },
+        "FallHandlerLegBreakHeightMax": {
+            "all": 15.0
+        },
+        "FallHandlerDeathHeightMin": {
+            "all": 10.0
+        },
+        "FallHandlerDeathHeightMax": {
+            "all": 20.0
         },
         "AttackCarHandlerIsActive": {
             "all": 1
@@ -170,7 +206,7 @@
             "all": 25.0
         },
         "AttackCarEngineDamagePercent": {
-            "all": 10.0
+            "all": 0.01
         },
         "AttackCarLightsDamagePercent": {
             "all": 50.0
@@ -369,8 +405,8 @@
         },
 
         "SpeedHandlerIsActive": {"all": 1},
-        "SpeedLimitInSearchMode": {"all": 1.0},
-        "SpeedLimitInChaseMode": {"all":2.0},
+        "SpeedLimitInSearchMode": {"all": 2.5},
+        "SpeedLimitInChaseMode": {"all":2.5},
         
         "AllowCrawling": {
             "all": 1
@@ -468,6 +504,20 @@
         "SmellLifetimeSeconds": 60.0,
         "NoiseMultiplierDay": 1.0,
         "NoiseMultiplierNight": 2.0,
+        "NoiseMultiplierCrouchNight": 1.0,
+        "QuietDoorOpeningMechanicRestrictedBuildings": [
+            "DNA_Door_NoLock_ColourBase",
+            "DNA_Lockout_ColourBase",
+            "DNA_Strongroom_ColourBase",
+            "KeyCard_Door_Base",
+            "evg_simpleDoor1",
+            "evg_simpleDoor2",
+            "evg_simpleDoor3",
+            "evg_outsideDoor",
+            "evg_barDoor",
+            "evg_gate"
+        ],
+        
         "CamoClothingVisibilityMultipliers": {
             "all": 1.0,
             "GhillieHood_Tan": 0.800000011920929,

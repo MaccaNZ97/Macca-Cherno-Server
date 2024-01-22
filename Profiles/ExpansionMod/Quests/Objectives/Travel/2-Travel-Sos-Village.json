@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 2,
     "ObjectiveType": 3,
     "ObjectiveText": "Get to Sosnovka Village",
     "TimeLimit": -1,
+    "Active": 1,
     "Position": [
         2596.699951171875,
         306.1000061035156,

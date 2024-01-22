@@ -1,9 +1,10 @@
 {
-    "ConfigVersion": 22,
+    "ConfigVersion": 26,
     "ID": 28,
     "ObjectiveType": 10,
     "ObjectiveText": "Chop Down 10 Trees",
     "TimeLimit": -1,
+    "Active": 1,
     "ActionNames": [
         "ActionMineTree"
     ],

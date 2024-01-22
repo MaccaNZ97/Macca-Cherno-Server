@@ -466,7 +466,6 @@
   <attachments chance="0.80" name="hatsArmy">
     <item name="TankerHelmet" chance="0.10" />
     <item name="PilotkaCap" chance="0.10" />
-    <!-- <item name="GorkaHelmet" chance="0.10" /> Problem with animation of chin cover -->
     <item name="MilitaryBeret_Red" chance="0.10" />
     <item name="MilitaryBeret_UN" chance="0.10" />
     <item name="MilitaryBeret_NZ" chance="0.10" />
@@ -489,18 +488,18 @@
   </attachments>
   <attachments chance="0.15" name="bagsArmy">
     <item name="AssaultBag_Green" chance="0.10" />
-			<item name="AssaultBag_Ttsko" chance="0.10" />
-			<item name="AssaultBag_Black" chance="0.10" />
-			<item name="TortillaBag" chance="0.05" />
-			<item name="SmershBag" chance="0.05" />
-			<item name="CoyoteBag_Brown" chance="0.05" />
-			<item name="CoyoteBag_Green" chance="0.05" />
-			<item name="AliceBag_Camo" chance="0.05" />
-			<item name="AliceBag_Green" chance="0.05" />
-			<item name="AliceBag_Black" chance="0.05" />
-			<item name="TF_CamelBakBag_EMR" chance="0.10" />
-			<item name="TF_CamelBakBag_OD" chance="0.10" />
-			<item name="TF_CamelBakBag_Tan" chance="0.10" />
+    <item name="AssaultBag_Ttsko" chance="0.10" />
+    <item name="AssaultBag_Black" chance="0.10" />
+    <item name="TortillaBag" chance="0.05" />
+    <item name="SmershBag" chance="0.05" />
+    <item name="CoyoteBag_Brown" chance="0.05" />
+    <item name="CoyoteBag_Green" chance="0.05" />
+    <item name="AliceBag_Camo" chance="0.05" />
+    <item name="AliceBag_Green" chance="0.05" />
+    <item name="AliceBag_Black" chance="0.05" />
+    <item name="TF_CamelBakBag_EMR" chance="0.10" />
+    <item name="TF_CamelBakBag_OD" chance="0.10" />
+    <item name="TF_CamelBakBag_Tan" chance="0.10" />
   </attachments>
   <attachments chance="1.00" name="HeavyArmorArmy">
     <item name="PlateCarrierVest" chance="0.80" />
@@ -509,8 +508,8 @@
   </attachments>
   <attachments chance="1.00" name="HeavyHelmetArmy">
     <item name="TF_MICH2000Helmet" chance="0.33" />
-			<item name="TF_MICH2000Helmet_Khaku" chance="0.33" />
-			<item name="TF_MICH2000Helmet_Black" chance="0.33" />
+    <item name="TF_MICH2000Helmet_Khaku" chance="0.33" />
+    <item name="TF_MICH2000Helmet_Black" chance="0.33" />
   </attachments>
   <attachments chance="1.00" name="OfficerHatArmy">
     <item name="OfficerHat" chance="1.00" />
@@ -521,7 +520,6 @@
   </attachments>
   <attachments chance="1.00" name="vestsPolice">
     <item name="PoliceVest" chance="0.25" />
-    
   </attachments>
   <attachments chance="0.20" name="hatsPrisoner">
     <item name="PrisonerCap" chance="1.00" />
@@ -785,20 +783,14 @@
     <item name="Mag_STANAG_60Rnd" chance="0.05" />
     <item name="Mag_AKM_Drum75Rnd" chance="0.05" />
   </cargo>
-
-
-  <!-- Start of DNA KEYCARD Entries-->
-  
-<cargo chance="0.01" name="YellowLow">
+  <cargo chance="0.20" name="YellowLow">
     <item name="DNA_KeyCard_Yellow_Inactive" chance="1.00" />
-</cargo>
-<cargo chance="0.02" name="YellowHigh">
+  </cargo>
+  <cargo chance="0.05" name="YellowHigh">
     <item name="DNA_KeyCard_Yellow_Inactive" chance="0.75" />
     <item name="DNA_KeyCard_Red_Inactive" chance="0.25" />
-</cargo>
-<cargo chance="0.05" name="RedHigh">
+  </cargo>
+  <cargo chance="0.05" name="RedHigh">
     <item name="DNA_KeyCard_Red_Inactive" chance="1.00" />
-</cargo>
- <!-- End of DNA KEYCARD Entries-->
-
+  </cargo>
 </randompresets>

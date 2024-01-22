@@ -1,0 +1,6 @@
+{
+    "dna_ConfigDescription": "This section of configs is used to fill smol crates and other crates we may add in the future that you place with editor",
+    "dna_ConfigDescriptionCont": "(or whatever you choose to use). If you are already using the smol crates and loading them another way, you can leave",
+    "dna_ConfigDescriptionCont2": "the setting below to false (0) and it will not interfere with your current setup. Set below to true (1) to use configs.",
+    "dna_UseConfig": 1
+}

@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 5,
+    "ConfigVersion": 6,
     "ID": 2,
     "ClassName": "ExpansionQuestNPCAIElias",
     "Position": [
@@ -29,5 +29,6 @@
     "NPCQuestStartEmoteID": 58,
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
-    "NPCType": 2
+    "NPCType": 2,
+    "Active": 1
 }

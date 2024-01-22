@@ -144,7 +144,7 @@
   </type>
   <type name="bl_extension_cable_reel">
     <nominal>5</nominal>
-    <lifetime>14400</lifetime>
+    <lifetime>1209600</lifetime>
     <restock>0</restock>
     <min>4</min>
     <quantmin>-1</quantmin>
