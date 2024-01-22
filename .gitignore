@@ -1,4 +1,6 @@
-*/_gsdata/*
+_gsdata/
 *.log
 *._gs
 *.bak
+*.exe
+CommunityOnlineTools/
