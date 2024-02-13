@@ -1,0 +1,28 @@
+{
+  "ConfigVersion": 6,
+  "ID": 9,
+  "ClassName": "ExpansionQuestNPCAISeth",
+  "Position": [
+    7413.72,
+    15.2201,
+    2279.11
+  ],
+  "Orientation": [
+    -178.541,
+    0,
+    0
+  ],
+  "NPCName": "CARRIER HELI PILOT",
+  "DefaultNPCText": "Need a lift? Select your destination",
+  "Waypoints": [],
+  "NPCEmoteID": 46,
+  "NPCEmoteIsStatic": 0,
+  "NPCLoadoutFile": "PilotNPCExtraction",
+  "NPCInteractionEmoteID": 1,
+  "NPCQuestCancelEmoteID": 60,
+  "NPCQuestStartEmoteID": 58,
+  "NPCQuestCompleteEmoteID": 39,
+  "NPCFaction": "InvincibleObservers",
+  "NPCType": 2,
+  "Active": 1
+}

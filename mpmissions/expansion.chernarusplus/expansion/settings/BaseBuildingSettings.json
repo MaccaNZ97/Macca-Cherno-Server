@@ -27,7 +27,8 @@
     "GardenPlot",
     "WatchtowerKit",
     "FenceKit",
-    "HydraulicJack"
+    "HydraulicJack",
+    "rag_car_jack"
   ],
   "DeployableInsideAEnemyTerritory": [
     "ExpansionSatchel",
@@ -36,7 +37,10 @@
     "FishNetTrap",
     "RabbitSnareTrap",
     "SmallFishTrap",
-    "TripwireTrap"
+    "TripwireTrap",
+    "rag_car_jack",
+    "HydraulicJack",
+    "TrafficCone"
   ],
   "CanCraftVanillaBasebuilding": 1,
   "CanCraftExpansionBasebuilding": 1,

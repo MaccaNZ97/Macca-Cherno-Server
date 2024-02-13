@@ -171,25 +171,25 @@
                 "Offroad_02": 0.20000000298023225,
                 "Truck_01_Covered_Blue": 0.3499999940395355,
                 "Truck_01_Covered_Orange": 0.3499999940395355,
-                "UA_Novator": 0.15,
-                "UA_Novator_2": 0.15,
-                "UA_Novator_3": 0.15,
-                "UA_Novator_AKPP": 0.15,
-                "UA_Novator_2_AKPP": 0.15,
-                "UA_Novator_3_AKPP": 0.15,
-                "UA_Novator_4_DOG": 0.15,
-                "UA_Novator_5_Homka": 0.15,
-                "UA_Novator_6_Instructor": 0.15,
-                "UA_Novator_7_Kacci": 0.15,
-                "UA_Novator_8_Pavlik": 0.15,
-                "Jeep_GladiatorF9_BOSS_Brown": 0.16,
-                "Jeep_GladiatorF9_BOSS_camo_black": 0.16,
-                "Jeep_GladiatorF9_BOSS_camo_blue": 0.16,
-                "Jeep_GladiatorF9_BOSS_camo_green": 0.16,
-                "Jeep_GladiatorF9_BOSS_camo_red": 0.16,
-                "Jeep_GladiatorF9_BOSS_DarkBlue": 0.16,
-                "Jeep_GladiatorF9_BOSS_DarkRed": 0.16,
-                "Jeep_GladiatorF9_BOSS_White": 0.16              
+                "UA_Novator": 0.05,
+                "UA_Novator_2": 0.05,
+                "UA_Novator_3": 0.05,
+                "UA_Novator_AKPP": 0.05,
+                "UA_Novator_2_AKPP": 0.05,
+                "UA_Novator_3_AKPP": 0.05,
+                "UA_Novator_4_DOG": 0.05,
+                "UA_Novator_5_Homka": 0.05,
+                "UA_Novator_6_Instructor": 0.05,
+                "UA_Novator_7_Kacci": 0.05,
+                "UA_Novator_8_Pavlik": 0.05,
+                "Jeep_GladiatorF9_BOSS_Brown": 0.10,
+                "Jeep_GladiatorF9_BOSS_camo_black": 0.10,
+                "Jeep_GladiatorF9_BOSS_camo_blue": 0.10,
+                "Jeep_GladiatorF9_BOSS_camo_green": 0.10,
+                "Jeep_GladiatorF9_BOSS_camo_red": 0.10,
+                "Jeep_GladiatorF9_BOSS_DarkBlue": 0.10,
+                "Jeep_GladiatorF9_BOSS_DarkRed": 0.10,
+                "Jeep_GladiatorF9_BOSS_White": 0.10              
 
             }
         },
@@ -359,7 +359,7 @@
             "military": 10.0
         },
         "DamageToPlayerInBlockBleedingChancePercent": {
-            "all": 0.0
+            "all": 0.05
         },
         "DamageToZombieHandlerIsActive": {
             "all": 1
@@ -367,6 +367,11 @@
         "DamageToZombieHeadMeleeMultiplier": {
             "all": 1.0
         },
+        "Zombies.StunToPlayerChancePercent": {
+            "all":0.50
+        },
+        
+        "DamageToZombieShockToStun": {"all":0.05},
         "DamageToZombieHeadRangeMultiplier": {
             "all": 1.0
         },

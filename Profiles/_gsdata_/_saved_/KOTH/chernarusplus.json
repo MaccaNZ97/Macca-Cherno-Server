@@ -1,0 +1,318 @@
+{
+    "enabled": 1,
+    "loggingLevel": 3,
+    "useLocationText": 1,
+    "useMapMarker": 1,
+    "useNotifications": 1,
+    "reduceProgressOnAbandoned": 1,
+    "reduceProgressOnDeathFromOutside": 1,
+    "requireFlagConstruction": 0,
+    "estimateLocation": 0,
+    "celebrateWin": 1,
+    "punishLoss": 0,
+    "baseCaptureTime": 900.0,
+    "maxTimeBetweenEvents": 1200.0,
+    "minTimeBetweenEvents": 600.0,
+    "playerTimeMultiplier": 1.5,
+    "timeDespawn": 1200.0,
+    "timeLimit": 0.0,
+    "timeStart": 30.0,
+    "timeSpawn": 120.0,
+    "timeZoneCooldown": 120.0,
+    "minPlayerCount": 1,
+    "maxEnemyCount": 20,
+    "minEnemyCount": 5,
+    "maxEvents": 1,
+    "minimumDeaths": 0,
+    "minimumPlayers": 1,
+    "maximumPlayers": 4,
+    "rewardCount": 2,
+    "flagClassname": "Flag_DayZ",
+    "enemies": [
+        "ZmbM_PatrolNormal_Autumn",
+        "Gil_ZmbM_armyofficer",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Desert",
+        "ZmbM_usSoldier_normal_Woodland",
+        "Animal_UrsusArctos",
+        "Animal_CanisLupus_Grey"
+    ],
+    "lootCrate": "KOTH_Chest",
+    "crateLifeTime": 0,
+    "lootSets": [],
+    "zones": [
+        {
+            "zoneName": "Tisy Military Sniper Mission",
+            "zonePosition": [
+                1677.66259765625,
+                451.06866455078127,
+                14348.9033203125
+            ],
+            "zoneRadius": 50,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        66.2347412109375,
+                        52.639156341552737,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": [
+                "Tisy Pack"
+            ]
+        },
+        {
+            "zoneName": "Grozovy Military Scout Mission",
+            "zonePosition": [
+                3669.1611328125,
+                363.0124816894531,
+                14802.7626953125
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        239.34432983398438,
+                        290.564208984375,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": [
+                "Builder Pack"
+            ]
+        },
+        {
+            "zoneName": "Kamensk Military Treasure Mission",
+            "zonePosition": [
+                7105.1611328125,
+                355.0124816894531,
+                14582.7626953125
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        287.36285400390627,
+                        317.3917236328125,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": [
+                "Treasure Pack"
+            ]
+        },
+        {
+            "zoneName": "Novy Lug Military Medical Supplies",
+            "zonePosition": [
+                9559.1611328125,
+                242.01248168945313,
+                11802.7626953125
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        148.57525634765626,
+                        293.4250183105469,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": [
+                "Medic Pack"
+            ]
+        },
+        {
+            "zoneName": "Krasno Airfield Scout Mission",
+            "zonePosition": [
+                11871.1611328125,
+                140.01248168945313,
+                12552.7626953125
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        68.24684143066406,
+                        352.7122497558594,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": [
+                "Scout Pack"
+            ]
+        },
+        {
+            "zoneName": "Staroye Military Scout Mission",
+            "zonePosition": [
+                10408.5,
+                275.86700439453127,
+                5814.47998046875
+            ],
+            "zoneRadius": 20,
+            "baseCaptureTime": -1.0,
+            "playerTimeMultiplier": -1.0,
+            "timeDespawn": -1.0,
+            "timeLimit": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": -1,
+            "minEnemyCount": -1,
+            "minimumDeaths": -1,
+            "minimumPlayers": -1,
+            "maximumPlayers": -1,
+            "rewardCount": -1,
+            "flagClassname": "",
+            "objects": [
+                {
+                    "classname": "Wreck_Mi8",
+                    "position": [
+                        15.0,
+                        0.0,
+                        5.0
+                    ],
+                    "orientation": [
+                        241.9844207763672,
+                        327.33740234375,
+                        0.0
+                    ],
+                    "absolutePlacement": 0,
+                    "alignToTerrain": 1,
+                    "placeOnSurface": 1
+                }
+            ],
+            "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": [
+                "Scout Pack"
+            ]
+        }
+    ]
+}

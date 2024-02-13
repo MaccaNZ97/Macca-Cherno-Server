@@ -1,0 +1,28 @@
+{
+  "ConfigVersion": 6,
+  "ID": 7,
+  "ClassName": "ExpansionQuestNPCAIMaria",
+  "Position": [
+    7433.49,
+    15.2345,
+    2207.53
+  ],
+  "Orientation": [
+    -23.5091,
+    0,
+    0
+  ],
+  "NPCName": "MEDICAL NPC",
+  "DefaultNPCText": "Medical Quest Provider",
+  "Waypoints": [],
+  "NPCEmoteID": 46,
+  "NPCEmoteIsStatic": 0,
+  "NPCLoadoutFile": "NBCLoadout",
+  "NPCInteractionEmoteID": 1,
+  "NPCQuestCancelEmoteID": 60,
+  "NPCQuestStartEmoteID": 58,
+  "NPCQuestCompleteEmoteID": 39,
+  "NPCFaction": "InvincibleObservers",
+  "NPCType": 2,
+  "Active": 1
+}

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 12,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Travel to River",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10352.400390625,
+        49.348899841308597,
+        3618.909912109375
+    ],
+    "MaxDistance": -1.0,
+    "MarkerName": "River",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

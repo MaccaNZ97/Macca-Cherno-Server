@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "Travel to Stary Sobar ",
+  "TimeLimit": -1,
+  "Active": 0,
+  "Position": [
+    6362.56,
+    288.441,
+    7482.43
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "Polinta Pobeda",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 26,
+  "ID": 14,
+  "ObjectiveType": 3
+}

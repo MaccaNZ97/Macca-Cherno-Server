@@ -5,27 +5,11 @@
   "CircleZones": [
     {
       "Center": [
-        3728.27002,
-        403,
-        6003.6001
+        7411.25977,
+        15.2187996,
+        2270.80005
       ],
-      "Radius": 500
-    },
-    {
-      "Center": [
-        8175.58008,
-        474.519989,
-        9095.40039
-      ],
-      "Radius": 250
-    },
-    {
-      "Center": [
-        3610.77002,
-        4.18868017,
-        2114.96997
-      ],
-      "Radius": 100
+      "Radius": 200
     }
   ],
   "PolygonZones": [],
@@ -36,9 +20,5 @@
   "ItemLifetimeInSafeZone": 7200.0,
   "EnableForceSZCleanupVehicles": 1,
   "VehicleLifetimeInSafeZone": 28800,
-  "ForceSZCleanup_ExcludedItems": [
-    "mmg_trashcan_green",
-    "mmg_trashcan_red",
-    "HM_Workbench_Static"
-  ]
+  "ForceSZCleanup_ExcludedItems": []
 }

@@ -47,6 +47,8 @@
     <file name="FD_Missions_types.xml" type="types" />
     <file name="EFT_Medicals_types.xml" type="types" />
     <file name="Advanced_Scopes_types.xml" type="types" />
+    <file name="DayZ_MiniFigurines_V2_types.xml" type="types" />
+    <file name="TrailBrozer_types.xml" type="types" />
   </ce>
   <ce folder="Custom/Vanilla Types">
     <file name="types_clothes.xml" type="types" />
@@ -97,5 +99,8 @@
     <file name="FOG_spawnabletypes.xml" type="spawnabletypes" />
     <file name="AJ_Creatures_events.xml" type="events" />
     <file name="AJ_Creatures_spawnabletypes.xml" type="spawnabletypes" />
+  </ce>
+  <ce folder="Custom/RAGS">
+    <file name="Rags_Immersive_Vehicles_types.xml" type="types" />
   </ce>
 </economycore>

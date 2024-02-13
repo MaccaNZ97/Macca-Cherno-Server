@@ -1,0 +1,28 @@
+{
+  "ConfigVersion": 6,
+  "ID": 8,
+  "ClassName": "ExpansionQuestNPCAIFrida",
+  "Position": [
+    7428.81,
+    15.2188,
+    2232.44
+  ],
+  "Orientation": [
+    -23.509100,
+    0,
+    0
+  ],
+  "NPCName": "MILITARY NPC",
+  "DefaultNPCText": "Military Quest Provider",
+  "Waypoints": [],
+  "NPCEmoteID": 46,
+  "NPCEmoteIsStatic": 0,
+  "NPCLoadoutFile": "NBCLoadout",
+  "NPCInteractionEmoteID": 1,
+  "NPCQuestCancelEmoteID": 60,
+  "NPCQuestStartEmoteID": 58,
+  "NPCQuestCompleteEmoteID": 39,
+  "NPCFaction": "InvincibleObservers",
+  "NPCType": 2,
+  "Active": 1
+}

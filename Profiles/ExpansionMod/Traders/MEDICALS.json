@@ -1,20 +1,21 @@
 {
-    "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_MEDICALS",
-    "MinRequiredReputation": 0,
-    "MaxRequiredReputation": 2147483647,
-    "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Medic Box",
-    "Currencies": [
-        "expansionbanknotehryvnia"
-    ],
-    "DisplayCurrencyValue": 1,
-    "DisplayCurrencyName": "",
-    "Categories": [
-        "MEDICAL"
-    ],
-    "Items": {
-        "battery9v": 3
-    }
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_TRADER_MEDICALS",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Medic Box",
+  "Currencies": [
+    "expansionbanknotehryvnia",
+    "expansiongoldbar"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "Categories": [
+    "MEDICAL"
+  ],
+  "Items": {
+    "battery9v": 3
+  }
 }

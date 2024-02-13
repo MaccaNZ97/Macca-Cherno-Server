@@ -26,7 +26,7 @@
             "DamagePercent": 0,
             "HealthPercent": 0,
             "QuestID": -1,
-            "Chance": 1.0
+            "Chance": 0.0
         }
     ],
     "NeedToSelectReward": 0,
@@ -34,17 +34,15 @@
     "RandomRewardAmount": 0,
     "RewardsForGroupOwnerOnly": 0,
     "QuestGiverIDs": [
-        3,
-        5
+        14
     ],
     "QuestTurnInIDs": [
-        3,
-        5
+        14
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
+            "ConfigVersion": 27,
             "ID": 5,
             "ObjectiveType": 4
         }

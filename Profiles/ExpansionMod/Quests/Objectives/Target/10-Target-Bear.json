@@ -1,0 +1,30 @@
+{
+    "ConfigVersion": 27,
+    "ID": 10,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill Bear with Crossbow",
+    "TimeLimit": -1,
+    "Active": 0,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": 0.0,
+    "Amount": 1,
+    "ClassNames": [
+        "Animal_UrsusArctos"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [
+        "Mosin9130",
+        "Mosin9130_Black",
+        "Mosin9130_Camo",
+        "Mosin9130_Green"
+    ],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

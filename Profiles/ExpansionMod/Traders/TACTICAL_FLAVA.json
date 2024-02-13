@@ -7,11 +7,13 @@
   "RequiredCompletedQuestID": -1,
   "TraderIcon": "Trader",
   "Currencies": [
-    "expansionbanknotehryvnia"
+    "expansionbanknotehryvnia",
+    "expansiongoldbar"
   ],
   "DisplayCurrencyValue": 1,
   "DisplayCurrencyName": "",
   "Categories": [
+    "ADVANCED SCOPES",
     "AMMO",
     "BATTERY",
     "NIGHT VISION",
@@ -24,8 +26,7 @@
     "TACTICALFLAVA_BACKPACK",
     "TACTICALFLAVA_SCOPES",
     "TACTICAL FLAVA MAGS",
-    "TACTICALFLAVA_NVG",
-    "ADVANCED SCOPES"
+    "TACTICALFLAVA_NVG"
   ],
   "Items": {}
 }

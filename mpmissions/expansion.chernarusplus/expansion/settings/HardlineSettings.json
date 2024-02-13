@@ -29,7 +29,8 @@
     "ZombieBase": 20,
     "PlayerBase": -100,
     "Animal_UrsusMaritimus": 50,
-    "ZmbM_NBC_Yellow": 20
+    "ZmbM_NBC_Yellow": 20,
+    "CDAJ_ZmbM_Demon": 0
   },
   "ItemRarity": {
     "ak101_black": 3,

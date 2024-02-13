@@ -1,0 +1,157 @@
+#STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES contains and item which has varients not in the types : akm : *** missing item type (bo_akm)***
+#STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES contains and item which has varients not in the types : akm : *** missing item type (bo_akm_fde)***
+#STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES contains and item which has varients not in the types : fal : *** missing item type (bo_fnfal)***
+#STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES contains and item which has varients not in the types : famas : *** missing item type (bo_famas)***
+#STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES contains and item not in the types : *** missing item type (m1903optic)***
+#STR_EXPANSION_MARKET_CATEGORY_BACKPACKS contains and item which has varients not in the types : coyotebag_brown : *** missing item type (expansioncoyoteblack)***
+#STR_EXPANSION_MARKET_CATEGORY_BACKPACKS contains and item which has varients not in the types : tortillabag : *** missing item type (expansiondeserttortilla)***
+#STR_EXPANSION_MARKET_CATEGORY_BANDANAS contains and item not in the types : *** missing item type (bandana_blue)***
+#STR_EXPANSION_MARKET_CATEGORY_BANDANAS contains and item which has varients not in the types : *** missing item type (bandana_blue)*** : *** missing item type (bandana_pink)***
+#STR_EXPANSION_MARKET_CATEGORY_BANDANAS contains and item which has varients not in the types : *** missing item type (bandana_blue)*** : *** missing item type (bandana_yellow)***
+#STR_EXPANSION_MARKET_CATEGORY_BOOTS & #STR_EXPANSION_MARKET_CATEGORY_SHOES contains and item not in the types : *** missing item type (ballerinas_blue)***
+#STR_EXPANSION_MARKET_CATEGORY_BOOTS & #STR_EXPANSION_MARKET_CATEGORY_SHOES contains and item which has varients not in the types : *** missing item type (ballerinas_blue)*** : *** missing item type (ballerinas_red)***
+#STR_EXPANSION_MARKET_CATEGORY_BOOTS & #STR_EXPANSION_MARKET_CATEGORY_SHOES contains and item which has varients not in the types : *** missing item type (ballerinas_blue)*** : *** missing item type (ballerinas_white)***
+#STR_EXPANSION_MARKET_CATEGORY_BOOTS & #STR_EXPANSION_MARKET_CATEGORY_SHOES contains and item which has varients not in the types : *** missing item type (ballerinas_blue)*** : *** missing item type (ballerinas_yellow)***
+#STR_EXPANSION_MARKET_CATEGORY_BOOTS & #STR_EXPANSION_MARKET_CATEGORY_SHOES contains and item not in the types : *** missing item type (ballerinas_red)***
+#STR_EXPANSION_MARKET_CATEGORY_BOOTS & #STR_EXPANSION_MARKET_CATEGORY_SHOES contains and item not in the types : *** missing item type (ballerinas_white)***
+#STR_EXPANSION_MARKET_CATEGORY_BOOTS & #STR_EXPANSION_MARKET_CATEGORY_SHOES contains and item not in the types : *** missing item type (ballerinas_yellow)***
+#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS contains and item not in the types : *** missing item type (bo_mcxspear_bttstck_tan)***
+#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS contains and item not in the types : *** missing item type (bo_mcxtacops_bttstck_black)***
+#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS contains and item not in the types : *** missing item type (bo_mcxtacops_bttstck_fde)***
+#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS contains and item not in the types : *** missing item type (bo_mk18bttstck)***
+#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS contains and item which has varients not in the types : *** missing item type (bo_mk18bttstck)*** : *** missing item type (bo_mk18bttstck_fde)***
+#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS contains and item not in the types : *** missing item type (bo_mk18bttstck_fde)***
+#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS contains and item not in the types : *** missing item type (bo_mk23_lam)***
+#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS contains and item not in the types : *** missing item type (bo_pp1901_bttstck)***
+#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS contains and item not in the types : *** missing item type (bo_sa58_buttstock)***
+#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS contains and item not in the types : *** missing item type (bo_sopmodbttstck)***
+#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS contains and item which has varients not in the types : *** missing item type (bo_sopmodbttstck)*** : *** missing item type (bo_sopmodbttstck_fde)***
+#STR_EXPANSION_MARKET_CATEGORY_BUTTSTOCKS contains and item not in the types : *** missing item type (bo_sopmodbttstck_fde)***
+#STR_EXPANSION_MARKET_CATEGORY_COATS & #STR_EXPANSION_MARKET_CATEGORY_JACKETS contains and item which has varients not in the types : ridersjacket_black : *** missing item type (expansionridersjacketbrown)***
+#STR_EXPANSION_MARKET_CATEGORY_COATS & #STR_EXPANSION_MARKET_CATEGORY_JACKETS contains and item which has varients not in the types : ridersjacket_black : *** missing item type (expansionridersjacketdarkblue)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item not in the types : *** missing item type (bo_militarycrate_brown)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_militarycrate_brown)*** : *** missing item type (bo_militarycrate_green)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_militarycrate_brown)*** : *** missing item type (bo_militarycrate_grey)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_militarycrate_brown)*** : *** missing item type (bo_militarycrate_olive)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_militarycrate_brown)*** : *** missing item type (bo_militarycrate_tan)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item not in the types : *** missing item type (bo_militarycratelarge_brown)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_militarycratelarge_brown)*** : *** missing item type (bo_militarycratelarge_green)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_militarycratelarge_brown)*** : *** missing item type (bo_militarycratelarge_grey)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_militarycratelarge_brown)*** : *** missing item type (bo_militarycratelarge_olive)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_militarycratelarge_brown)*** : *** missing item type (bo_militarycratelarge_tan)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item not in the types : *** missing item type (bo_militarycratesmall_brown)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_militarycratesmall_brown)*** : *** missing item type (bo_militarycratesmall_green)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_militarycratesmall_brown)*** : *** missing item type (bo_militarycratesmall_grey)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_militarycratesmall_brown)*** : *** missing item type (bo_militarycratesmall_olive)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_militarycratesmall_brown)*** : *** missing item type (bo_militarycratesmall_tan)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item not in the types : *** missing item type (bo_seacontainer_kitbox_blue)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_seacontainer_kitbox_blue)*** : *** missing item type (bo_seacontainer_kitbox_green)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_seacontainer_kitbox_blue)*** : *** missing item type (bo_seacontainer_kitbox_red)***
+#STR_EXPANSION_MARKET_CATEGORY_CONTAINERS contains and item which has varients not in the types : *** missing item type (bo_seacontainer_kitbox_blue)*** : *** missing item type (bo_seacontainer_kitbox_yellow)***
+#STR_EXPANSION_MARKET_CATEGORY_DRINKS contains and item not in the types : *** missing item type (vodka)***
+#STR_EXPANSION_MARKET_CATEGORY_EXPLOSIVES & #STR_EXPANSION_MARKET_CATEGORY_GRENADES contains and item not in the types : *** missing item type (expansion_m18smokegrenade_teargas)***
+#STR_EXPANSION_MARKET_CATEGORY_EXPLOSIVES & #STR_EXPANSION_MARKET_CATEGORY_GRENADES contains and item not in the types : *** missing item type (expansionsupplysignal)***
+#STR_EXPANSION_MARKET_CATEGORY_EXPLOSIVES & #STR_EXPANSION_MARKET_CATEGORY_GRENADES contains and item which has varients not in the types : m18smokegrenade_red : *** missing item type (expansion_m18smokegrenade_teargas)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_anyoneincherno)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_australia)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_belgium)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_biohazard)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_blue)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_borduria)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_brazil)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_canada)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_cdf)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_chedaki)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_chernarus)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_china)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_czechia)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_dayzblack)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_dayzwhite)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_doubleaxe)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_expansion)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_fari)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_finland)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_france)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_germany)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_gibraltar)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_green)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_grenade)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_ireland)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_japan)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_latvia)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_livonia)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_luxembourg)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_mexico)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_napa)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_nato)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_netherlands)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_newzealand)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_norway)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_nuevorico)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_offwithhead)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_orange)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_pink)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_pirate)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_poland)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_portugal)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_purple)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_rainbow)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_red)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_russia)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_scotland)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_sicily)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_southafrica)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_southkorea)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_spain)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_srilanka)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_sweden)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_switzerland)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_uk)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_un)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_usa)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_wales)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_white)***
+#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_yellow)***
+#STR_EXPANSION_MARKET_CATEGORY_FRUIT_AND_VEGETABLES contains and item not in the types : *** missing item type (amanitamushroom)***
+#STR_EXPANSION_MARKET_CATEGORY_FRUIT_AND_VEGETABLES contains and item not in the types : *** missing item type (psilocybemushroom)***
+#STR_EXPANSION_MARKET_CATEGORY_GLOVES contains and item which has varients not in the types : tacticalgloves_black : *** missing item type (expansiontacticalglovesdesert)***
+#STR_EXPANSION_MARKET_CATEGORY_HANDGUARDS contains and item not in the types : *** missing item type (bo_aradapter_9mm)***
+#STR_EXPANSION_MARKET_CATEGORY_HANDGUARDS contains and item not in the types : *** missing item type (bo_glockpdwkit)***
+#STR_EXPANSION_MARKET_CATEGORY_HANDGUARDS contains and item not in the types : *** missing item type (bo_mcxtacops_handguard)***
+#STR_EXPANSION_MARKET_CATEGORY_HATS & #STR_EXPANSION_MARKET_CATEGORY_HOODS contains and item which has varients not in the types : cowboyhat_brown : *** missing item type (expansioncowboyhatgator)***
+#STR_EXPANSION_MARKET_CATEGORY_HATS & #STR_EXPANSION_MARKET_CATEGORY_HOODS contains and item which has varients not in the types : cowboyhat_brown : *** missing item type (expansioncowboyhatsnake)***
+#STR_EXPANSION_MARKET_CATEGORY_HATS & #STR_EXPANSION_MARKET_CATEGORY_HOODS contains and item which has varients not in the types : cowboyhat_brown : *** missing item type (expansioncowboyhatrattlesnake)***
+#STR_EXPANSION_MARKET_CATEGORY_HELICOPTER contains and item not in the types : *** missing item type (expansionbiggyrocopter)***
+#STR_EXPANSION_MARKET_CATEGORY_HELMETS contains and item which has varients not in the types : gorkahelmet : *** missing item type (gorkahelmet_black)***
+#STR_EXPANSION_MARKET_CATEGORY_HELMETS contains and item which has varients not in the types : mich2001helmet : *** missing item type (expansionmich2001desert)***
+#STR_EXPANSION_MARKET_CATEGORY_HELMETS contains and item which has varients not in the types : zsh3pilothelmet : *** missing item type (zsh3pilothelmet_green)***
+#STR_EXPANSION_MARKET_CATEGORY_HELMETS contains and item which has varients not in the types : zsh3pilothelmet : *** missing item type (zsh3pilothelmet_black)***
+#STR_EXPANSION_MARKET_CATEGORY_HELMETS contains and item not in the types : *** missing item type (zsh3pilothelmet_black)***
+#STR_EXPANSION_MARKET_CATEGORY_HELMETS contains and item not in the types : *** missing item type (zsh3pilothelmet_green)***
+#STR_EXPANSION_MARKET_CATEGORY_KNIFES contains and item not in the types : *** missing item type (dh_ramboknife)***
+#STR_EXPANSION_MARKET_CATEGORY_LAUNCHERS contains and item not in the types : *** missing item type (bo_chinalake)***
+#STR_EXPANSION_MARKET_CATEGORY_LAUNCHERS contains and item not in the types : *** missing item type (bo_m32_black)***
+#STR_EXPANSION_MARKET_CATEGORY_LAUNCHERS contains and item not in the types : *** missing item type (bo_m32_tan)***
+#STR_EXPANSION_MARKET_CATEGORY_LAUNCHERS contains and item which has varients not in the types : *** missing item type (bo_m32_tan)*** : *** missing item type (bo_m32_black)***
+#STR_EXPANSION_MARKET_CATEGORY_LIQUIDS contains and item not in the types : *** missing item type (engineoil)***
+#STR_EXPANSION_MARKET_CATEGORY_MAGAZINES contains and item not in the types : *** missing item type (mag_cz550_4rnd)***
+#STR_EXPANSION_MARKET_CATEGORY_MAGAZINES contains and item not in the types : *** missing item type (mag_stanagcoupled_30rnd)***
+#STR_EXPANSION_MARKET_CATEGORY_MEDICALS contains and item not in the types : *** missing item type (syringe)***
+#STR_EXPANSION_MARKET_CATEGORY_MEELE_WEAPONS contains and item not in the types : *** missing item type (cattleprod)***
+#STR_EXPANSION_MARKET_CATEGORY_MEELE_WEAPONS contains and item not in the types : *** missing item type (stunbaton)***
+#STR_EXPANSION_MARKET_CATEGORY_SHOTGUNS contains and item which has varients not in the types : expansion_benellim4 : *** missing item type (bo_benellim4)***
+#STR_EXPANSION_MARKET_CATEGORY_SUBMACHINE_GUNS contains and item which has varients not in the types : aks74u : *** missing item type (bo_aks74u)***
+BASE ITEMS contains and item not in the types : *** missing item type (hm_locker_kit)***
+BASE ITEMS contains and item not in the types : *** missing item type (hm_shelf_kit)***
+BASE ITEMS contains and item not in the types : *** missing item type (hm_table_kit)***
+BASE ITEMS contains and item not in the types : *** missing item type (hm_tag1_barrel)***
+BASE ITEMS contains and item not in the types : *** missing item type (hm_toolbox_kit)***
+BASE ITEMS contains and item not in the types : *** missing item type (hm_trash_kit)***
+BASE ITEMS contains and item not in the types : *** missing item type (hm_trolley_kit)***
+FOG PANTS contains and item which has varients not in the types : fog_mtf_pants_grey : *** missing item type (fog_mtf_pants_fk)***
+FOG SHIRTS contains and item not in the types : *** missing item type (fog_tactical_hoodie_black)***
+MMG STORAGE contains and item not in the types : *** missing item type (mmg_raidsaw)***
+SNAFU BIPODS contains and item not in the types : *** missing item type (snafu_bipod)***
+SNAFU SUPPRESSORS contains and item not in the types : *** missing item type (gcgn_m1garand_muzzle)***
+SNAFU WEAPONS contains and item not in the types : *** missing item type ()***
+TACTICAL FLAVA WEAPONS contains and item not in the types : *** missing item type (tf_anzio20)***

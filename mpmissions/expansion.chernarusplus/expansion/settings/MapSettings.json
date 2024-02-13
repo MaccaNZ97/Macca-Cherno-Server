@@ -18,51 +18,6 @@
   "ShowDistanceOnServerMarkers": 1,
   "ServerMarkers": [
     {
-      "m_UID": "ServerMarker_Trader_Green_Montain",
-      "m_Visibility": 6,
-      "m_Is3D": 1,
-      "m_Text": "Trader - Green Montain",
-      "m_IconName": "Trader",
-      "m_Color": -13710223,
-      "m_Position": [
-        3698,
-        405,
-        5988
-      ],
-      "m_Locked": 0,
-      "m_Persist": 0
-    },
-    {
-      "m_UID": "ServerMarker_Altar_Trader",
-      "m_Visibility": 6,
-      "m_Is3D": 1,
-      "m_Text": "Trader - Altar",
-      "m_IconName": "Trader",
-      "m_Color": -14161643,
-      "m_Position": [
-        8174,
-        474.040009,
-        9091.95996
-      ],
-      "m_Locked": 1,
-      "m_Persist": 0
-    },
-    {
-      "m_UID": "FISH_TRADER",
-      "m_Visibility": 4,
-      "m_Is3D": 0,
-      "m_Text": "Fishing Trader",
-      "m_IconName": "Fishing",
-      "m_Color": -14069547,
-      "m_Position": [
-        3611,
-        1.62470794,
-        2116
-      ],
-      "m_Locked": 0,
-      "m_Persist": 0
-    },
-    {
       "m_UID": "Special Ops Trader",
       "m_Visibility": 4,
       "m_Is3D": 1,
@@ -81,7 +36,7 @@
       "m_UID": "Gorka Trader",
       "m_Visibility": 4,
       "m_Is3D": 1,
-      "m_Text": "Farrm-Hunt-Builder",
+      "m_Text": "Gorka Trader Camp",
       "m_IconName": "Bear",
       "m_Color": -3003328,
       "m_Position": [
@@ -91,6 +46,66 @@
       ],
       "m_Locked": 1,
       "m_Persist": 0
+    },
+    {
+      "m_UID": "NATO CARRIER",
+      "m_Visibility": 6,
+      "m_Is3D": 1,
+      "m_Text": "NATO CARRIER",
+      "m_IconName": "Trader",
+      "m_Color": -1,
+      "m_Position": [
+        7411.22998,
+        15.2187996,
+        2270.80005
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Pustoshka Extraction",
+      "m_Visibility": 6,
+      "m_Is3D": 0,
+      "m_Text": "Extraction + Car Dealer",
+      "m_IconName": "Helicopter",
+      "m_Color": -1,
+      "m_Position": [
+        2992.5,
+        342.160004,
+        7462.5
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Altar Extraction",
+      "m_Visibility": 6,
+      "m_Is3D": 0,
+      "m_Text": "Extraction + Car Dealer",
+      "m_IconName": "Helicopter",
+      "m_Color": -1,
+      "m_Position": [
+        8090.02002,
+        458.862,
+        9330.61035
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
+    {
+      "m_UID": "Klen Extraction",
+      "m_Visibility": 6,
+      "m_Is3D": 0,
+      "m_Text": "Extraction",
+      "m_IconName": "Helicopter",
+      "m_Color": -1,
+      "m_Position": [
+        10920.2002,
+        233.906006,
+        11664.9004
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
     }
   ],
   "EnableHUDCompass": 1,

@@ -1426,7 +1426,6 @@
     <category name="weapons" />
     <usage name="ContaminatedArea" />
     <usage name="Military" />
-    <value name="Tier3" />
     <value name="Tier4" />
     <value name="Unique" />
   </type>
@@ -1938,9 +1937,7 @@
     <category name="weapons" />
     <usage name="ContaminatedArea" />
     <usage name="Military" />
-    <value name="Tier3" />
     <value name="Tier4" />
-    <value name="Unique" />
   </type>
   <type name="SNAFU_AS50_Mag">
     <nominal>1</nominal>

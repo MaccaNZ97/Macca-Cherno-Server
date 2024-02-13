@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "Travel to water hole",
+  "TimeLimit": -1,
+  "Active": 0,
+  "Position": [
+    8883,
+    272,
+    8275
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "Water Hole",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 26,
+  "ID": 13,
+  "ObjectiveType": 3
+}

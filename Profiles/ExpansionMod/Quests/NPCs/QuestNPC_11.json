@@ -1,0 +1,34 @@
+{
+  "ConfigVersion": 6,
+  "ID": 11,
+  "ClassName": "ExpansionQuestNPCAIKeiko",
+  "Position": [
+    7427.6,
+    15.2188,
+    2235.37
+  ],
+  "Orientation": [
+    -98.0557,
+    0,
+    0
+  ],
+  "NPCName": "CAPTAIN GEB",
+  "DefaultNPCText": "Ahoy, there, Matey! Lookin’ to do a little fishin’, are ye’? ",
+  "Waypoints": [
+    [
+      7427.6,
+      15.2188,
+      2235.37
+    ]
+  ],
+  "NPCEmoteID": 46,
+  "NPCEmoteIsStatic": 0,
+  "NPCLoadoutFile": "FisherNPC",
+  "NPCInteractionEmoteID": 1,
+  "NPCQuestCancelEmoteID": 60,
+  "NPCQuestStartEmoteID": 58,
+  "NPCQuestCompleteEmoteID": 39,
+  "NPCFaction": "InvincibleObservers",
+  "NPCType": 2,
+  "Active": 1
+}

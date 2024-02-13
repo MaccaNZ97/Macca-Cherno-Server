@@ -1,15 +1,12 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 6,
     "ObjectiveType": 11,
     "ObjectiveText": "Craft Territory Flag",
     "TimeLimit": -1,
     "Active": 1,
     "ItemNames": [
-        "BBP_Gate_Kit",
-        "BBP_Ramp_Kit",
-        "BBP_Stair_Kit",
-        "BBP_Roof_Kit"
+        "TerritoryFlagKit"
     ],
     "ExecutionAmount": 1
 }

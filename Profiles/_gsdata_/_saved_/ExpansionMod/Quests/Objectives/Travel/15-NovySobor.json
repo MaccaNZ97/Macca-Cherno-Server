@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "Travel to Novy Sobar",
+  "TimeLimit": -1,
+  "Active": 0,
+  "Position": [
+    7071.18,
+    264.196,
+    7296.93
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 26,
+  "ID": 15,
+  "ObjectiveType": 3
+}

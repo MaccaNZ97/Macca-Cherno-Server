@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 1,
     "ObjectiveType": 6,
     "ObjectiveText": "Find the location of the treasure",
@@ -27,11 +27,13 @@
             6246.3701171875
         ]
     ],
+    "LootItemsAmount": 2,
+    "MaxDistance": 10.0,
     "Loot": [
         {
             "Name": "Zucchini",
-            "Attachments": [],
             "Chance": 0.30000001192092898,
+            "Attachments": [],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
@@ -39,14 +41,12 @@
         },
         {
             "Name": "MoneyRuble",
-            "Attachments": [],
             "Chance": 0.30000001192092898,
+            "Attachments": [],
             "QuantityPercent": -1,
             "Max": -1,
             "Min": 0,
             "Variants": []
         }
-    ],
-    "LootItemsAmount": 2,
-    "MaxDistance": 10.0
+    ]
 }

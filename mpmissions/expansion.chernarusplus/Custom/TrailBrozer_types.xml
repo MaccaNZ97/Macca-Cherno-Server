@@ -1,0 +1,2545 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="Trailbrozer_Abstractcamo">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Abstractcamo_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Abstractred">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Abstractred_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_black">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_black_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Blue">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Blue_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Branchcamo">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Branchcamo_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Brown">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Brown_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Browncamo">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Browncamo_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Brownfaux">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Brownfaux_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Daisy">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Daisy_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Gray">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Gray_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Greenpoly">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Greenpoly_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Grey">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Grey_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Hellokitty">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Hellokitty_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Hexcamo">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Hexcamo_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Khaki">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Khaki_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Leafcamo">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Leafcamo_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Nightmare">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Nightmare_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Olive">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Olive_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Pfrogcamo">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Pfrogcamo_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Pink">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Pink_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Pusheen">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Pusheen_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Realtreecamo">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Realtreecamo_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Red">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Red_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Redrust">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Redrust_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Salmon">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Salmon_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_UScamo">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_UScamo_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_white">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Whiterust">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Trailbrozer_Whiterust_Auto">
+    <nominal>0</nominal>
+    <lifetime>1209600</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="TrailBrozerWheel">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_abstractblue">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_abstractcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_abstractred">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_black">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_blue">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_branchcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_brown">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_browncamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_brownfaux">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_daisy">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_gray">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_greenpoly">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_Grey">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_hellokitty">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_hexcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_khaki">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_leafcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_New">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_nightmare">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_olive">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_pfrogcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_pink">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_pusheen">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_realtreecamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_red">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_redrust">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_salmon">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_uscamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_white">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo1_whiterust">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_abstractblue">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_abstractcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_abstractred">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_black">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_blue">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_branchcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_brown">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_browncamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_brownfaux">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_daisy">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_gray">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_greenpoly">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_Grey">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_hellokitty">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_hexcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_khaki">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_leafcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_New">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_nightmare">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_olive">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_pfrogcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_pink">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_pusheen">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_realtreecamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_red">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_redrust">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_salmon">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_uscamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_white">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_cargo2_whiterust">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_abstractblue">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_abstractcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_abstractred">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_black">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_blue">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_branchcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_brown">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_browncamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_brownfaux">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_daisy">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_gray">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_greenpoly">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_Grey">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_hellokitty">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_hexcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_khaki">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_leafcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_New">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_nightmare">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_olive">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_pfrogcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_pink">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_pusheen">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_realtreecamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_red">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_redrust">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_salmon">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_uscamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_white">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_codriver_whiterust">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_abstractblue">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_abstractcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_abstractred">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_black">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_blue">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_branchcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_brown">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_browncamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_brownfaux">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_daisy">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_gray">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_greenpoly">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_Grey">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_hellokitty">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_hexcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_khaki">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_leafcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_New">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_nightmare">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_olive">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_pfrogcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_pink">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_pusheen">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_realtreecamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_red">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_redrust">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_salmon">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_uscamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_White">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_driver_whiterust">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_abstractblue">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_abstractcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_abstractred">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_black">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_blue">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_branchcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_brown">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_browncamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_brownfaux">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_daisy">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_gray">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_greenpoly">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_Grey">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_hellokitty">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_hexcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_khaki">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_leafcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_New">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_nightmare">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_olive">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_pfrogcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_pink">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_pusheen">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_realtreecamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_red">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_redrust">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_salmon">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_uscamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_white">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_hood_whiterust">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_abstractblue">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_abstractcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_abstractred">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_black">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_blue">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_branchcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_brown">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_browncamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_brownfaux">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_daisy">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_gray">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_greenpoly">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_Grey">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_hellokitty">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_hexcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_khaki">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_leafcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_New">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_nightmare">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_olive">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_pfrogcamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_pink">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_pusheen">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_realtreecamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_red">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_redrust">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_salmon">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_uscamo">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_white">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+  <type name="Trailbrozer_doors_trunk_whiterust">
+    <nominal>0</nominal>
+    <lifetime>1440</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
+  </type>
+</types>

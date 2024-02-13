@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="Avengers_Display">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="Avengers_Display_Kit">
+    <nominal>15</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="GC_AntMan_Figurine">
+    <nominal>15</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="GC_BlackPanther_Figurine">
+    <nominal>15</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="GC_CaptainAmerica_Figurine">
+    <nominal>15</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="GC_DeadPool_Figurine">
+    <nominal>15</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="GC_Hulk_Smash_Figurine">
+    <nominal>15</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="GC_Iam_Groot_Figurine">
+    <nominal>15</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="GC_Rocket_New_Figurine">
+    <nominal>15</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="GC_Skateboard">
+    <nominal>15</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+  <type name="GC_Vision_Figurine">
+    <nominal>15</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Coast" />
+    <usage name="Farm" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Medic" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+  </type>
+</types>

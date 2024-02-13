@@ -1,0 +1,28 @@
+{
+  "ConfigVersion": 6,
+  "ID": 10,
+  "ClassName": "ExpansionQuestNPCAILinda",
+  "Position": [
+    2961.03,
+    347.848,
+    7463.06
+  ],
+  "Orientation": [
+    0,
+    0,
+    0
+  ],
+  "NPCName": "GMT EXTRACTION PILOT",
+  "DefaultNPCText": "Need a lift?",
+  "Waypoints": [],
+  "NPCEmoteID": 46,
+  "NPCEmoteIsStatic": 0,
+  "NPCLoadoutFile": "PilotNPCExtraction",
+  "NPCInteractionEmoteID": 1,
+  "NPCQuestCancelEmoteID": 60,
+  "NPCQuestStartEmoteID": 58,
+  "NPCQuestCompleteEmoteID": 39,
+  "NPCFaction": "InvincibleObservers",
+  "NPCType": 2,
+  "Active": 1
+}

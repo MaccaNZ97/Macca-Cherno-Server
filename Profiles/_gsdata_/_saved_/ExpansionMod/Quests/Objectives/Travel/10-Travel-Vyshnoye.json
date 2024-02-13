@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "Travel to Vyshnoye",
+  "TimeLimit": -1,
+  "Active": 0,
+  "Position": [
+    6580,
+    329,
+    6173
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "Vyshnoye",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 26,
+  "ID": 10,
+  "ObjectiveType": 3
+}

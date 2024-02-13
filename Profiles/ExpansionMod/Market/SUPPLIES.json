@@ -7,9 +7,9 @@
   "IsExchange": 0,
   "Items": [
     {
-      "ClassName": "bl_repair_anvil",
-      "MaxPriceThreshold": 1500,
-      "MinPriceThreshold": 1500,
+      "ClassName": "barbedwire",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

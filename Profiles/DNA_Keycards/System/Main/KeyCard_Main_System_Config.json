@@ -52,11 +52,11 @@
         },
         {
             "dna_Option": "(11) Red Strongrooms Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
-            "dna_Setting": 1
+            "dna_Setting": 3
         },
         {
             "dna_Option": "(12) Yellow Card Usage Allotment",
-            "dna_Setting": 1
+            "dna_Setting": 2
         },
         {
             "dna_Option": "(13) Green Card Usage Allotment",
@@ -599,20 +599,17 @@
     ],
     "m_DNARed_Strongroom_Locations": [
         {
-            "dna_Location": "4516.67 345.115 9518.64",
-            "dna_Rotation": "150.984 -0.000000 -0.000000"
+            "dna_Location": "973.316 460.065 14677.1",
+            "dna_Rotation": "153.984 -0.000000 -0.000000"
         },
         {
             "dna_Location": "1875.35 455.21 13728.1",
             "dna_Rotation": "47.3809 -0.000000 -0.000000"
         },
         {
-            "dna_Location": "11890.000 143.823 12473.3",
-            "dna_Rotation": "-67.0952 -0.000000 -0.000000"
-        },
-        {
-            "dna_Location": "13491.205078 12.745518 2837.097412",
-            "dna_Rotation": "-170.082199 -0.000000 -0.000000"
+            "dna_Location": "840.096 473.577 14715.2",
+            "dna_Rotation": "-152.399 -0.000000 -0.000000"
         }
     ]
+        
 }

@@ -1,0 +1,67 @@
+{
+  "ConfigVersion": 21,
+  "ID": 903,
+  "Type": 1,
+  "Title": "Cray & Bluegill",
+  "Descriptions": [
+    "Ho! Back already, are ye’?\r\n\r\nMayhaps ye’ be needin’ more of a challenge, eh?\r\nWell, make yer’ way over to Kometa and dip yer line in Topolka Dam  and see how ye’ go at catchin’ a Crayfish and also a Bluegill.\r\n\r\nI'll give ye’ ₽400 for the Cray and ₽600 for the Bluegill.\r\n\r\nTight lines, Matey!\r\n",
+    "Travel to Topolka Dam \r\nCatch 1 Crayfish\r\nCatch 1 Bluegill\r\n",
+    "Topolka Cray & Bluegill"
+  ],
+  "ObjectiveText": "Catch 1 Crayfish & 1 Bluegill from Topolka Dam  near Kometa",
+  "FollowUpQuest": 905,
+  "Repeatable": 0,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [
+    {
+      "ClassName": "geb_MetalRubberWormBait",
+      "Amount": 1
+    }
+  ],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 3400,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 1,
+  "QuestGiverIDs": [
+    11
+  ],
+  "QuestTurnInIDs": [
+    11
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 26,
+      "ID": 12,
+      "ObjectiveType": 4
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 400,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 0
+}

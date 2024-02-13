@@ -1,0 +1,28 @@
+{
+  "ConfigVersion": 6,
+  "ID": 14,
+  "ClassName": "ExpansionQuestNPCAITaiki",
+  "Position": [
+    9077.55,
+    245.389,
+    8035.96
+  ],
+  "Orientation": [
+    0,
+    0,
+    0
+  ],
+  "NPCName": "Zuri The Hunter",
+  "DefaultNPCText": "Hunting is my Game what you want?",
+  "Waypoints": [],
+  "NPCEmoteID": 46,
+  "NPCEmoteIsStatic": 0,
+  "NPCLoadoutFile": "GorkaLoadout",
+  "NPCInteractionEmoteID": 1,
+  "NPCQuestCancelEmoteID": 60,
+  "NPCQuestStartEmoteID": 58,
+  "NPCQuestCompleteEmoteID": 39,
+  "NPCFaction": "InvincibleObservers",
+  "NPCType": 2,
+  "Active": 1
+}

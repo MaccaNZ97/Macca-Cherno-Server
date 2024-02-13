@@ -1,0 +1,65 @@
+{
+  "ConfigVersion": 21,
+  "ID": 4,
+  "Type": 1,
+  "Title": "Clear Canabal Camp",
+  "Descriptions": [
+    "\"Can you believe it? One of our hunting parties found a camp of Canabals... We are willing to pay if you can deal with them\",\r\n        \r\n\r\n\r\n",
+    "\"Eleminate all of the Canabals at the camp.\"",
+    " \"Nice work! Hopefully thats the last of those fkrs, here is your payment.\""
+  ],
+  "ObjectiveText": "Kill all Canabals at the marked location.",
+  "FollowUpQuest": -1,
+  "Repeatable": 1,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 1,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 1,
+  "IsGroupQuest": 1,
+  "ObjectSetFileName": "bandit2",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 5500,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 0,
+  "QuestGiverIDs": [
+    8
+  ],
+  "QuestTurnInIDs": [],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 26,
+      "ID": 8,
+      "ObjectiveType": 3
+    },
+    {
+      "ConfigVersion": 26,
+      "ID": 1,
+      "ObjectiveType": 8
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 2000,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 1,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

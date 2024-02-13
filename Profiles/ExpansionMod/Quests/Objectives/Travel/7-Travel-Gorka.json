@@ -1,5 +1,5 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 7,
     "ObjectiveType": 3,
     "ObjectiveText": "Travel to Gorka Camp",
@@ -13,6 +13,6 @@
     "MaxDistance": -1.0,
     "MarkerName": "Gorka Camp",
     "ShowDistance": 1,
-    "TriggerOnEnter": 0,
+    "TriggerOnEnter": 1,
     "TriggerOnExit": 0
 }

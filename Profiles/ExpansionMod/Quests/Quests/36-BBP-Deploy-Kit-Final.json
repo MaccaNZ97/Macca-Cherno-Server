@@ -14,7 +14,7 @@
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 0,
+    "Autocomplete": 1,
     "IsGroupQuest": 0,
     "ObjectSetFileName": "",
     "QuestItems": [],
@@ -40,7 +40,7 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
+            "ConfigVersion": 27,
             "ID": 29,
             "ObjectiveType": 10
         }
@@ -49,7 +49,9 @@
     "ReputationReward": 5000,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
-        35
+        30,
+        31,
+        32
     ],
     "RequiredFaction": "",
     "FactionReward": "",

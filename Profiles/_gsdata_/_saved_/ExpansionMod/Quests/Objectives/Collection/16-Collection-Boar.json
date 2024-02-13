@@ -1,0 +1,21 @@
+{
+  "ObjectiveText": "Wild Boar",
+  "TimeLimit": -1,
+  "Collections": [
+    {
+      "Amount": 1,
+      "ClassName": "WildboarPelt",
+      "QuantityPercent": 100,
+      "MinQuantityPercent": 100
+    }
+  ],
+  "MaxDistance": 0,
+  "MarkerName": "",
+  "ShowDistance": 0,
+  "AddItemsToNearbyMarketZone": 0,
+  "NeedAnyCollection": 0,
+  "Active": 0,
+  "ConfigVersion": 26,
+  "ID": 16,
+  "ObjectiveType": 4
+}

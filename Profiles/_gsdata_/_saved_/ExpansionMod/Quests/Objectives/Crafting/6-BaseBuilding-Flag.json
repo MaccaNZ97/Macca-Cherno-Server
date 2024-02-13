@@ -1,0 +1,12 @@
+{
+  "ObjectiveText": "Craft Territory Flag",
+  "TimeLimit": -1,
+  "ItemNames": [
+    "TerritoryFlagKit"
+  ],
+  "ExecutionAmount": 1,
+  "Active": 1,
+  "ConfigVersion": 26,
+  "ID": 6,
+  "ObjectiveType": 11
+}

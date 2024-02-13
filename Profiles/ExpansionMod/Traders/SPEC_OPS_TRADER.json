@@ -1,0 +1,49 @@
+{
+  "m_Version": 12,
+  "DisplayName": "SPEC_OPS_TRADER",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansionbanknotehryvnia",
+    "expansiongoldbar"
+  ],
+  "DisplayCurrencyValue": 0,
+  "DisplayCurrencyName": null,
+  "Categories": [
+    "ASSAULT_RIFLES",
+    "AMMO_BOXES",
+    "BUTTSTOCKS",
+    "EXPLOSIVES_AND_GRENADES",
+    "HANDGUARDS",
+    "LAUNCHERS",
+    "MAGAZINES",
+    "MELEE_WEAPONS",
+    "OPTICS",
+    "PISTOLS",
+    "SHOTGUNS",
+    "SNIPER_RIFLES",
+    "SUBMACHINE_GUNS",
+    "ADVANCED SCOPES",
+    "AMMO",
+    "GUN MUZZLES",
+    "SNAFU_AMMO",
+    "SNAFU_BIPODS",
+    "SNAFU_EXTRAS",
+    "SNAFU_GRIPS",
+    "SNAFU_HANDGUARDS",
+    "SNAFU_MAGS",
+    "SNAFU_SCOPES",
+    "SNAFU_STOCKS",
+    "SNAFU_SUPPRESSORS",
+    "SNAFU_WEAPONS"
+  ],
+  "Items": {
+    "gcgn_vityaz_mag": 3,
+    "tlrlight": 3,
+    "universallight": 3,
+    "battery9v": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ObjectiveText": "Show me the gold bar for the ride",
+  "TimeLimit": -1,
+  "Collections": [
+    {
+      "Amount": 1,
+      "ClassName": "ExpansionGoldBar",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    }
+  ],
+  "MaxDistance": 50,
+  "MarkerName": "",
+  "ShowDistance": 0,
+  "AddItemsToNearbyMarketZone": 0,
+  "Active": 1,
+  "ConfigVersion": 26,
+  "ID": 8,
+  "ObjectiveType": 5
+}

@@ -56,30 +56,6 @@
       ]
     },
     {
-      "SlotName": "Back",
-      "Items": [
-        {
-          "ClassName": "TCP_CoyoteBagUmbrella",
-          "Chance": 1,
-          "Quantity": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Health": [
-            {
-              "Min": 0.7,
-              "Max": 1,
-              "Zone": ""
-            }
-          ],
-          "InventoryAttachments": [],
-          "InventoryCargo": [],
-          "ConstructionPartsBuilt": [],
-          "Sets": []
-        }
-      ]
-    },
-    {
       "SlotName": "Feet",
       "Items": [
         {
@@ -1312,34 +1288,7 @@
               ]
             }
           ],
-          "InventoryCargo": [
-            {
-              "ClassName": "Mag_FAL_20Rnd",
-              "Chance": 1.0,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            },
-            {
-              "ClassName": "Mag_FAL_20Rnd",
-              "Chance": 0.15000000596046449,
-              "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "Health": [],
-              "InventoryAttachments": [],
-              "InventoryCargo": [],
-              "ConstructionPartsBuilt": [],
-              "Sets": []
-            }
-          ],
+          "InventoryCargo": [],
           "ConstructionPartsBuilt": [],
           "Sets": []
         }

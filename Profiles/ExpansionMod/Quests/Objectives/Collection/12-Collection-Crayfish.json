@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 27,
+    "ID": 12,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Catch 1 Crayfish & 1 Bluegill from Topolka Dam  near Kometa",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "geb_Crayfish",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Bluegill",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

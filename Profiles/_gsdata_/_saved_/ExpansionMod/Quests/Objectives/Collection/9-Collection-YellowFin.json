@@ -1,0 +1,21 @@
+{
+  "ObjectiveText": "Catch 1 Yellow Fin Tuna at Cape Glova",
+  "TimeLimit": -1,
+  "Collections": [
+    {
+      "Amount": 1,
+      "ClassName": "geb_Yellowfintuna",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    }
+  ],
+  "MaxDistance": 0,
+  "MarkerName": "",
+  "ShowDistance": 0,
+  "AddItemsToNearbyMarketZone": 0,
+  "NeedAnyCollection": 0,
+  "Active": 0,
+  "ConfigVersion": 26,
+  "ID": 9,
+  "ObjectiveType": 4
+}

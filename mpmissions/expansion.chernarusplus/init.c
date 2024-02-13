@@ -30,8 +30,62 @@ void main()
 	}
 }
 
+
+
+
 class CustomMission: MissionServer
 {
+//This is the script to TP GMT to Trader
+	override void Expansion_OnQuestCompletion(ExpansionQuest quest)
+    {
+     auto trace = EXTrace.Start(EXTrace.NAMALSKADVENTURE, this);   
+        PlayerBase player = quest.GetPlayer();
+        if (!player)
+            return;
+        
+        switch (quest.GetQuestConfig().GetID())
+        {
+            //! Teleports the player after tuning-in quest with ID 1001 Destination Trader
+            case 1001:
+            {
+                array<vector> teleportPositions1 = {"7403.7 15.2188 2268.64","7416 15.2188 2259.11"};
+                vector ori1 = player.GetOrientation();
+                DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions1.GetRandomElement(), ori1);
+            }
+            break;            
+        
+		//! Teleports the player after tuning-in quest with ID 1002 Destination GMT
+            case 1002:
+            {
+                array<vector> teleportPositions2 = {"2989.55 342.098 7460.82", "2989.62 342.496 7483.88"};
+                vector ori2 = player.GetOrientation();
+                DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions2.GetRandomElement(), ori2);
+            }
+			break;
+			//! Teleports the player after tuning-in quest with ID 1003 Destination Altar
+            case 1003:
+            {
+                array<vector> teleportPositions3 = {"8168.96 474.052 9095.81", "8157.56 474.052 9087.04"};
+                vector ori3 = player.GetOrientation();
+                DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions3.GetRandomElement(), ori3);
+            }
+			break;
+			//! Teleports the player after tuning-in quest with ID 1004 Destination Klen
+            case 1004:
+            {
+                array<vector> teleportPositions4 = {"10969.2 232.79 11700.2", "10958.7 233.402 11690.6"};
+                vector ori4 = player.GetOrientation();
+                DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions4.GetRandomElement(), ori4);
+            }
+			break;
+		}
+
+        super.Expansion_OnQuestCompletion(quest);
+    }
+
+
+	
+
  //! Steve's code.
     protected int m_MoneyToAdd = 500; // money to add
 	protected int m_MoneyAddTimer = 30; // time in minutes

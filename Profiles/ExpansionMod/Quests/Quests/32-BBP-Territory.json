@@ -9,7 +9,7 @@
         "Great work your now ready for the next quest"
     ],
     "ObjectiveText": "Short objective desctiption text.",
-    "FollowUpQuest": 33,
+    "FollowUpQuest": 36,
     "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
@@ -45,7 +45,7 @@
     "IsAchievement": 0,
     "Objectives": [
         {
-            "ConfigVersion": 26,
+            "ConfigVersion": 27,
             "ID": 6,
             "ObjectiveType": 11
         }
@@ -54,6 +54,7 @@
     "ReputationReward": 500,
     "ReputationRequirement": -1,
     "PreQuestIDs": [
+        30,
         31
     ],
     "RequiredFaction": "",

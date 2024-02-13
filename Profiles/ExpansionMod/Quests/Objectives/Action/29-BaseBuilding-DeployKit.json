@@ -1,8 +1,8 @@
 {
-    "ConfigVersion": 26,
+    "ConfigVersion": 27,
     "ID": 29,
     "ObjectiveType": 10,
-    "ObjectiveText": "Deploy BBP Kit",
+    "ObjectiveText": "Raise a Flag using a Territory Kit",
     "TimeLimit": -1,
     "Active": 1,
     "ActionNames": [

@@ -1,15 +1,20 @@
 {
-  "m_Version": 2,
-  "EnableGlobalChat": 1,
-  "EnablePartyChat": 1,
-  "EnableTransportChat": 1,
-  "ChatColors": {
-    "SystemChatColor": "BA45BAFF",
-    "AdminChatColor": "C0392BFF",
-    "GlobalChatColor": "0EEA71FF",
-    "DirectChatColor": "000000FF",
-    "TransportChatColor": "FFCE09FF",
-    "PartyChatColor": "FFCE09FF",
-    "TransmitterChatColor": "F9FF49FF"
-  }
+    "m_Version": 3,
+    "EnableGlobalChat": 1,
+    "EnablePartyChat": 1,
+    "EnableTransportChat": 1,
+    "ChatColors": {
+        "SystemChatColor": "BA45BAFF",
+        "AdminChatColor": "C0392BFF",
+        "GlobalChatColor": "0EEA71FF",
+        "DirectChatColor": "000000FF",
+        "TransportChatColor": "FFCE09FF",
+        "PartyChatColor": "FFCE09FF",
+        "TransmitterChatColor": "F9FF49FF",
+        "StatusMessageColor": "4B77BEFF",
+        "ActionMessageColor": "F7CA18FF",
+        "FriendlyMessageColor": "2ECC71FF",
+        "ImportantMessageColor": "F22613FF",
+        "DefaultMessageColor": "FFFFFFFF"
+    }
 }

@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "Travel to Cape Golova",
+  "TimeLimit": -1,
+  "Active": 0,
+  "Position": [
+    8270.66,
+    3.65706,
+    2375.32
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "Cap Golova",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 26,
+  "ID": 11,
+  "ObjectiveType": 3
+}

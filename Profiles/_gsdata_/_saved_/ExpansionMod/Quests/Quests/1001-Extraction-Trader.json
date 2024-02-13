@@ -1,0 +1,53 @@
+{
+  "ConfigVersion": 21,
+  "ID": 1001,
+  "Type": 1,
+  "Title": "Extraction to Trader",
+  "Descriptions": [
+    "Need a Ride to Trader?\r\n\r\nHop on in.",
+    "Ride is pretty fast to hang on",
+    "Thanks"
+  ],
+  "ObjectiveText": "Flight to GMT",
+  "FollowUpQuest": -1,
+  "Repeatable": 1,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 1,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 0,
+  "QuestGiverIDs": [
+    10,
+    12,
+    13
+  ],
+  "QuestTurnInIDs": [],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 26,
+      "ID": 8,
+      "ObjectiveType": 5
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 0,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}
