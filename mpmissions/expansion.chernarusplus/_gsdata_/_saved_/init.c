@@ -1,5 +1,6 @@
 void main()
 {
+	
 	//INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
 	if ( ce )
@@ -7,7 +8,7 @@ void main()
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
-	int reset_month = 7, reset_day = 01;
+	int reset_month = 07, reset_day = 01;
 	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
 
 	if ((month == reset_month) && (day < reset_day))
@@ -65,7 +66,7 @@ class CustomMission: MissionServer
 			//! Teleports the player after tuning-in quest with ID 1003 Destination Altar
             case 1003:
             {
-                array<vector> teleportPositions3 = {"8093.82 458.862 9326.36", "8099.01 458.761 9329.34"};
+                array<vector> teleportPositions3 = {"8168.96 474.052 9095.81", "8157.56 474.052 9087.04"};
                 vector ori3 = player.GetOrientation();
                 DayZPlayerSyncJunctures.ExpansionTeleport(player, teleportPositions3.GetRandomElement(), ori3);
             }

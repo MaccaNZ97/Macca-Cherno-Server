@@ -183,11 +183,11 @@
     },
     {
       "ClassName": "mmg_old_safe_green",
-      "MaxPriceThreshold": 0,
-      "MinPriceThreshold": 0,
+      "MaxPriceThreshold": 12500,
+      "MinPriceThreshold": 12400,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
@@ -305,6 +305,5 @@
       "SpawnAttachments": [],
       "Variants": []
     }
-  ],
-  "SortByDisplayName": true
+  ]
 }

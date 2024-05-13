@@ -1,34 +1,23 @@
 {
-    "m_Version": 12,
-    "DisplayName": "CLOTHING",
-    "MinRequiredReputation": 0,
-    "MaxRequiredReputation": 2147483647,
-    "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Questionmark",
-    "Currencies": [
-        "expansionbanknotehryvnia"
-    ],
-    "DisplayCurrencyValue": 1,
-    "DisplayCurrencyName": "",
-    "Categories": [
-        "BACKPACKS",
-        "ARMBANDS",
-        "BOOTS_AND_SHOES",
-        "EYEWEAR",
-        "HELMETS",
-        "BANDANAS",
-        "CAPS",
-        "COATS_AND_JACKETS",
-        "PANTS_AND_SHORTS",
-        "HATS_AND_HOODS",
-        "BLOUSES_AND_SUITS",
-        "WINTER CLOTHING",
-        "SHIRTS_AND_TSHIRTS",
-        "BELTS",
-        "SWEATERS_AND_HOODIES",
-        "SKIRTS_AND_DRESSES",
-        "GLOVES"
-    ],
-    "Items": {}
+  "m_Version": 12,
+  "DisplayName": "CLOTHING",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Questionmark",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "Categories": [
+    "COATS_AND_JACKETS",
+    "PANTS_AND_SHORTS",
+    "BLOUSES_AND_SUITS",
+    "SHIRTS_AND_TSHIRTS",
+    "SWEATERS_AND_HOODIES",
+    "SKIRTS_AND_DRESSES"
+  ],
+  "Items": {}
 }

@@ -35,6 +35,7 @@
     <active>1</active>
     <children>
       <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_UrsusArctos" />
+      <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_UrsusArctos_Crackhead" />
     </children>
   </event>
   <event name="AnimalCow">
@@ -231,6 +232,24 @@
       <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_Officer_Desert" />
       <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Desert" />
       <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Woodland" />
+    </children>
+  </event>
+  <event name="InfectedBonfire">
+    <nominal>50</nominal>
+    <min>25</min>
+    <max>250</max>
+    <lifetime>3</lifetime>
+    <restock>0</restock>
+    <saferadius>100</saferadius>
+    <distanceradius>5</distanceradius>
+    <cleanupradius>100</cleanupradius>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
+    <position>player</position>
+    <limit>child</limit>
+    <active>1</active>
+    <children>
+      <child lootmax="4" lootmin="2" max="0" min="50" type="ZmbF_MilkMaidOld_Black" />
+      <child lootmax="2" lootmin="2" max="0" min="50" type="ZmbM_FirefighterNormal" />
     </children>
   </event>
   <event name="InfectedCity">
@@ -623,10 +642,11 @@
     <cleanupradius>100</cleanupradius>
     <flags deletable="0" init_random="0" remove_damaged="0" />
     <position>fixed</position>
-    <limit>mixed</limit>
+    <limit>child</limit>
     <active>1</active>
     <children>
-      <child lootmax="0" lootmin="0" max="50" min="30" type="PileOfWoodenPlanks" />
+      <child lootmax="0" lootmin="0" max="1" min="1" type="PileOfWoodenPlanks" />
+      <child lootmax="0" lootmin="0" max="1" min="1" type="StaticObj_Misc_Pallet" />
     </children>
   </event>
   <event name="Loot">

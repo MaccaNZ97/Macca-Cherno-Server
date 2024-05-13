@@ -147,31 +147,7 @@
             "name": "Medic Pack",
             "items": [
                 {
-                    "name": "BO_Grizzly",
-                    "quantity": -1,
-                    "attachments": [],
-                    "cargo": []
-                },
-                {
-                    "name": "BO_Propital",
-                    "quantity": -1,
-                    "attachments": [],
-                    "cargo": []
-                },
-                {
-                    "name": "BO_CMSKit",
-                    "quantity": -1,
-                    "attachments": [],
-                    "cargo": []
-                },
-                {
                     "name": "Epinephrine",
-                    "quantity": -1,
-                    "attachments": [],
-                    "cargo": []
-                },
-                {
-                    "name": "BO_Ibuprofen",
                     "quantity": -1,
                     "attachments": [],
                     "cargo": []
@@ -179,6 +155,48 @@
                 {
                     "name": "TetracyclineAntibiotics",
                     "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "SM_Med_FirstAid_Box",
+                    "quantity": 1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "SM_Med_FirstAidKit_AFAK",
+                    "quantity": 400,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "SM_Med_FirstAidKit_AI2",
+                    "quantity": 100,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "SM_Med_FirstAidKit_Car",
+                    "quantity": 220,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "SM_Med_FirstAidKit_Grizzly",
+                    "quantity": 1800,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "SM_Med_FirstAidKit_IFAK",
+                    "quantity": 300,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "SM_Med_FirstAidKit_Salewa",
+                    "quantity": 400,
                     "attachments": [],
                     "cargo": []
                 }

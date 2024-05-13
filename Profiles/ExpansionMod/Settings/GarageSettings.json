@@ -14,7 +14,8 @@
   "EntityWhitelist": [
     "ExpansionParkingMeter",
     "ATSGroundMountDSParking",
-    "TerritoryFlag"
+    "TerritoryFlag",
+    "Macca_Garage_Sign"
   ],
   "EnableGroupFeatures": 1,
   "GroupStoreMode": 0,

@@ -1,0 +1,42 @@
+{
+    "configVersionDontChange": "1.1",
+    "onFootWarning": "You have entered a no fly zone, vehicles started in this zone will be destroyed!",
+    "notificationTextStationaryVehicleDestroyed": "Your vehicle is within a no-fly zone. It has been destroyed!",
+    "notificationTextExitingNoFlyZone": "You have now left the no-fly zone. You can fly aircraft here!",
+    "generalNotificationLengthSeconds": 5,
+    "adminsExemptFromNoFlyZone": 1,
+    "admins": [
+        {
+            "name": "A name to help you remember who this admin is?",
+            "adminSteamGUID": "The player GUID from VPP admin tools or your server logs."
+        },
+        {
+            "name": "A name to help you remember who this admin is?",
+            "adminSteamGUID": "The player GUID from VPP admin tools or your server logs."
+        },
+        {
+            "name": "A name to help you remember who this admin is?",
+            "adminSteamGUID": "yfP5FjkGQUgCAyfUA5v8lQAaM9ayMVwhrsYM-IJf2c3="
+        }
+    ],
+    "vehicles": [
+        {
+            "vehicleClassName": "EXT_"
+        },
+        {
+            "vehicleClassName": "ExpansionGyrocopter"
+        },
+        {
+            "vehicleClassName": "ExpansionMerlin"
+        },
+        {
+            "vehicleClassName": "ExpansionMh6"
+        },
+        {
+            "vehicleClassName": "ExpansionUh1h"
+        },
+        {
+            "vehicleClassName": "ExpansionbigGyrocopter"
+        }
+    ]
+}

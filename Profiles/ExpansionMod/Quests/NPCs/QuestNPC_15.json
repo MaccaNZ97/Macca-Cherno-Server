@@ -1,0 +1,28 @@
+{
+  "ConfigVersion": 6,
+  "ID": 15,
+  "ClassName": "ExpansionQuestNPCDenis",
+  "Position": [
+    13430.2,
+    98.7152,
+    3316.58
+  ],
+  "Orientation": [
+    -121,
+    0,
+    0
+  ],
+  "NPCName": "DEA Operative",
+  "DefaultNPCText": "Nothing to see here move along!",
+  "Waypoints": [],
+  "NPCEmoteID": 46,
+  "NPCEmoteIsStatic": 0,
+  "NPCLoadoutFile": "CartelLoadout",
+  "NPCInteractionEmoteID": 1,
+  "NPCQuestCancelEmoteID": 60,
+  "NPCQuestStartEmoteID": 58,
+  "NPCQuestCompleteEmoteID": 39,
+  "NPCFaction": "InvincibleObservers",
+  "NPCType": 2,
+  "Active": 1
+}

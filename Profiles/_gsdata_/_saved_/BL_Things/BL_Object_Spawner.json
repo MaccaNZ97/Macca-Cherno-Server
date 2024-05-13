@@ -1,0 +1,36 @@
+{
+    "ConfigVersion": "1",
+    "Use_Object_Spawner": 0,
+    "Objects_To_Spawn": [
+        {
+            "ObjDescription": "Example Stove",
+            "ObjName": "BarrelHoles_bl_stove",
+            "position": [
+                14145.7998046875,
+                3.4000000953674318,
+                13174.099609375
+            ],
+            "orientation": [
+                153.0,
+                0.0,
+                0.0
+            ],
+            "auto_ignite": 1
+        },
+        {
+            "ObjDescription": "Another Example Stove",
+            "ObjName": "BarrelHoles_bl_stove",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "auto_ignite": 0
+        }
+    ]
+}

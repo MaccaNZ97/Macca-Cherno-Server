@@ -7,41 +7,6 @@
   "IsExchange": 0,
   "Items": [
     {
-      "ClassName": "bo_chinalake",
-      "MaxPriceThreshold": 60000,
-      "MinPriceThreshold": 60000,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 5,
-      "MinStockThreshold": 1,
-      "QuantityPercent": 5,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "bo_m32_black",
-      "MaxPriceThreshold": 130000,
-      "MinPriceThreshold": 130000,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 5,
-      "MinStockThreshold": 1,
-      "QuantityPercent": 5,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "bo_m32_tan",
-      "MaxPriceThreshold": 30000,
-      "MinPriceThreshold": 30000,
-      "SellPricePercent": 15,
-      "MaxStockThreshold": 5,
-      "MinStockThreshold": 1,
-      "QuantityPercent": 5,
-      "SpawnAttachments": [],
-      "Variants": [
-        "bo_m32_black"
-      ]
-    },
-    {
       "ClassName": "expansionlaw",
       "MaxPriceThreshold": 15000,
       "MinPriceThreshold": 15000,
@@ -85,6 +50,5 @@
       "SpawnAttachments": [],
       "Variants": []
     }
-  ],
-  "SortByDisplayName": true
+  ]
 }

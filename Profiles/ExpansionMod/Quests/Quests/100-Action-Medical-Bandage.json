@@ -1,61 +1,79 @@
 {
-    "ConfigVersion": 21,
-    "ID": 100,
-    "Type": 1,
-    "Title": "Field Medic - Bandage",
-    "Descriptions": [
-        "",
-        "",
-        ""
-    ],
-    "ObjectiveText": "Use a bandage",
-    "FollowUpQuest": 101,
-    "Repeatable": 1,
-    "IsDailyQuest": 1,
-    "IsWeeklyQuest": 0,
-    "CancelQuestOnPlayerDeath": 0,
-    "Autocomplete": 1,
-    "IsGroupQuest": 0,
-    "ObjectSetFileName": "",
-    "QuestItems": [],
-    "Rewards": [
-        {
-            "ClassName": "ExpansionBanknoteHryvnia",
-            "Amount": 50,
-            "Attachments": [],
-            "DamagePercent": 0,
-            "HealthPercent": 0,
-            "QuestID": -1,
-            "Chance": 0.0
-        }
-    ],
-    "NeedToSelectReward": 0,
-    "RandomReward": 0,
-    "RandomRewardAmount": 0,
-    "RewardsForGroupOwnerOnly": 0,
-    "QuestGiverIDs": [
-        7
-    ],
-    "QuestTurnInIDs": [],
-    "IsAchievement": 0,
-    "Objectives": [
-        {
-            "ConfigVersion": 27,
-            "ID": 1,
-            "ObjectiveType": 10
-        }
-    ],
-    "QuestColor": 0,
-    "ReputationReward": 100,
-    "ReputationRequirement": 0,
-    "PreQuestIDs": [],
-    "RequiredFaction": "",
-    "FactionReward": "",
-    "PlayerNeedQuestItems": 0,
-    "DeleteQuestItems": 0,
-    "SequentialObjectives": 1,
-    "FactionReputationRequirements": {},
-    "FactionReputationRewards": {},
-    "SuppressQuestLogOnCompetion": 0,
-    "Active": 1
+  "ConfigVersion": 22,
+  "ID": 100,
+  "Type": 1,
+  "Title": "Field Medic - Bandage",
+  "Descriptions": [
+    "Bandage stop bleeding always ensure they are not damaged or wet.\r\n\r\nTo complete the quest get your self cut then use the bandage to seal the beed",
+    "Learning to use bandages and having it in your hotbar will save your life.",
+    "Congrats on knowing how to bandage"
+  ],
+  "ObjectiveText": "Use a bandage",
+  "FollowUpQuest": 101,
+  "Repeatable": 0,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 1,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [
+    {
+      "ClassName": "BandageDressing",
+      "Amount": 1
+    }
+  ],
+  "Rewards": [
+    {
+      "ClassName": "BloodBagEmpty",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    },
+    {
+      "ClassName": "StartKitIV",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 0,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    7
+  ],
+  "QuestTurnInIDs": [
+    7
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 27,
+      "ID": 1,
+      "ObjectiveType": 10
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 100,
+  "ReputationRequirement": 0,
+  "PreQuestIDs": [
+    1,
+    202
+  ],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 1,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
 }

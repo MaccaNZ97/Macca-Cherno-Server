@@ -69,6 +69,41 @@
         "fog_zypher_boots_tan_nosocks",
         "fog_zypher_boots_tan_socks"
       ]
+    },
+    {
+      "ClassName": "fog_defconvans_shoes_black",
+      "MaxPriceThreshold": 650,
+      "MinPriceThreshold": 650,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_defconvans_shoes_blue",
+        "fog_defconvans_shoes_cb",
+        "fog_defconvans_shoes_grey",
+        "fog_defconvans_shoes_khk",
+        "fog_defconvans_shoes_mc",
+        "fog_defconvans_shoes_mcal",
+        "fog_defconvans_shoes_mcb",
+        "fog_defconvans_shoes_mct",
+        "fog_defconvans_shoes_red",
+        "fog_defconvans_shoes_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_zypher_boots_cb_nosocks",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_zypher_boots_cb_socks"
+      ]
     }
   ]
 }

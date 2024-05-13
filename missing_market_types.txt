@@ -1,3 +1,4 @@
+#STR_EXPANSION_MARKET_CATEGORY_Arma 2 Heli contains and item not in the types : *** missing item type (ext_uh60m_merv)***
 #STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES contains and item which has varients not in the types : akm : *** missing item type (bo_akm)***
 #STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES contains and item which has varients not in the types : akm : *** missing item type (bo_akm_fde)***
 #STR_EXPANSION_MARKET_CATEGORY_ASSAULT_RIFLES contains and item which has varients not in the types : fal : *** missing item type (bo_fnfal)***
@@ -52,66 +53,6 @@
 #STR_EXPANSION_MARKET_CATEGORY_EXPLOSIVES & #STR_EXPANSION_MARKET_CATEGORY_GRENADES contains and item not in the types : *** missing item type (expansion_m18smokegrenade_teargas)***
 #STR_EXPANSION_MARKET_CATEGORY_EXPLOSIVES & #STR_EXPANSION_MARKET_CATEGORY_GRENADES contains and item not in the types : *** missing item type (expansionsupplysignal)***
 #STR_EXPANSION_MARKET_CATEGORY_EXPLOSIVES & #STR_EXPANSION_MARKET_CATEGORY_GRENADES contains and item which has varients not in the types : m18smokegrenade_red : *** missing item type (expansion_m18smokegrenade_teargas)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_anyoneincherno)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_australia)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_belgium)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_biohazard)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_blue)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_borduria)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_brazil)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_canada)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_cdf)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_chedaki)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_chernarus)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_china)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_czechia)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_dayzblack)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_dayzwhite)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_doubleaxe)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_expansion)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_fari)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_finland)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_france)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_germany)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_gibraltar)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_green)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_grenade)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_ireland)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_japan)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_latvia)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_livonia)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_luxembourg)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_mexico)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_napa)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_nato)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_netherlands)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_newzealand)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_norway)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_nuevorico)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_offwithhead)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_orange)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_pink)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_pirate)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_poland)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_portugal)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_purple)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_rainbow)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_red)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_russia)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_scotland)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_sicily)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_southafrica)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_southkorea)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_spain)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_srilanka)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_sweden)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_switzerland)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_uk)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_un)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_usa)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_wales)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_white)***
-#STR_EXPANSION_MARKET_CATEGORY_FLAGS contains and item not in the types : *** missing item type (expansion_flag_yellow)***
 #STR_EXPANSION_MARKET_CATEGORY_FRUIT_AND_VEGETABLES contains and item not in the types : *** missing item type (amanitamushroom)***
 #STR_EXPANSION_MARKET_CATEGORY_FRUIT_AND_VEGETABLES contains and item not in the types : *** missing item type (psilocybemushroom)***
 #STR_EXPANSION_MARKET_CATEGORY_GLOVES contains and item which has varients not in the types : tacticalgloves_black : *** missing item type (expansiontacticalglovesdesert)***
@@ -121,7 +62,6 @@
 #STR_EXPANSION_MARKET_CATEGORY_HATS & #STR_EXPANSION_MARKET_CATEGORY_HOODS contains and item which has varients not in the types : cowboyhat_brown : *** missing item type (expansioncowboyhatgator)***
 #STR_EXPANSION_MARKET_CATEGORY_HATS & #STR_EXPANSION_MARKET_CATEGORY_HOODS contains and item which has varients not in the types : cowboyhat_brown : *** missing item type (expansioncowboyhatsnake)***
 #STR_EXPANSION_MARKET_CATEGORY_HATS & #STR_EXPANSION_MARKET_CATEGORY_HOODS contains and item which has varients not in the types : cowboyhat_brown : *** missing item type (expansioncowboyhatrattlesnake)***
-#STR_EXPANSION_MARKET_CATEGORY_HELICOPTER contains and item not in the types : *** missing item type (expansionbiggyrocopter)***
 #STR_EXPANSION_MARKET_CATEGORY_HELMETS contains and item which has varients not in the types : gorkahelmet : *** missing item type (gorkahelmet_black)***
 #STR_EXPANSION_MARKET_CATEGORY_HELMETS contains and item which has varients not in the types : mich2001helmet : *** missing item type (expansionmich2001desert)***
 #STR_EXPANSION_MARKET_CATEGORY_HELMETS contains and item which has varients not in the types : zsh3pilothelmet : *** missing item type (zsh3pilothelmet_green)***
@@ -141,17 +81,106 @@
 #STR_EXPANSION_MARKET_CATEGORY_MEELE_WEAPONS contains and item not in the types : *** missing item type (stunbaton)***
 #STR_EXPANSION_MARKET_CATEGORY_SHOTGUNS contains and item which has varients not in the types : expansion_benellim4 : *** missing item type (bo_benellim4)***
 #STR_EXPANSION_MARKET_CATEGORY_SUBMACHINE_GUNS contains and item which has varients not in the types : aks74u : *** missing item type (bo_aks74u)***
-BASE ITEMS contains and item not in the types : *** missing item type (hm_locker_kit)***
-BASE ITEMS contains and item not in the types : *** missing item type (hm_shelf_kit)***
-BASE ITEMS contains and item not in the types : *** missing item type (hm_table_kit)***
-BASE ITEMS contains and item not in the types : *** missing item type (hm_tag1_barrel)***
-BASE ITEMS contains and item not in the types : *** missing item type (hm_toolbox_kit)***
-BASE ITEMS contains and item not in the types : *** missing item type (hm_trash_kit)***
-BASE ITEMS contains and item not in the types : *** missing item type (hm_trolley_kit)***
+#STR_EXPANSION_MARKET_CATEGORY_VEHICLE_PARTS contains and item not in the types : *** missing item type (rag_car_jack)***
 FOG PANTS contains and item which has varients not in the types : fog_mtf_pants_grey : *** missing item type (fog_mtf_pants_fk)***
 FOG SHIRTS contains and item not in the types : *** missing item type (fog_tactical_hoodie_black)***
 MMG STORAGE contains and item not in the types : *** missing item type (mmg_raidsaw)***
 SNAFU BIPODS contains and item not in the types : *** missing item type (snafu_bipod)***
 SNAFU SUPPRESSORS contains and item not in the types : *** missing item type (gcgn_m1garand_muzzle)***
-SNAFU WEAPONS contains and item not in the types : *** missing item type ()***
 TACTICAL FLAVA WEAPONS contains and item not in the types : *** missing item type (tf_anzio20)***
+TRAIL BROZER SUV contains and item which has varients not in the types : trailbrozer_white : *** missing item type (trailbrozer_white_auto)***
+TRAIL BROZER SUV PARTS contains and item not in the types : *** missing item type (trailbrozer_wheel)***
+VAGNER CAR PARTS contains and item which has varients not in the types : audi_rs6_doors_cargo1 : *** missing item type (audi_rs6_doors_cargo1_blue)***
+VAGNER CAR PARTS contains and item which has varients not in the types : audi_rs6_doors_cargo2 : *** missing item type (audi_rs6_doors_cargo2_blue)***
+VAGNER CAR PARTS contains and item which has varients not in the types : audi_rs6_doors_codriver : *** missing item type (audi_rs6_doors_codriver_blue)***
+VAGNER CAR PARTS contains and item which has varients not in the types : audi_rs6_doors_driver : *** missing item type (audi_rs6_doors_driver_blue)***
+VAGNER CAR PARTS contains and item which has varients not in the types : audi_rs6_doors_hood : *** missing item type (audi_rs6_doors_hood_blue)***
+VAGNER CAR PARTS contains and item which has varients not in the types : audi_rs6_wheel : *** missing item type (audi_rs6_wheel_black)***
+VAGNER CAR PARTS contains and item which has varients not in the types : audi_rs6_wheel : *** missing item type (audi_rs6_wheel_white)***
+VAGNER CAR PARTS contains and item which has varients not in the types : audi_rs6_wheel : *** missing item type (audi_rs6_wheel_red)***
+VAGNER CAR PARTS contains and item which has varients not in the types : audi_rs6_wheel : *** missing item type (audi_rs6_wheel_blue)***
+VAGNER CAR PARTS contains and item which has varients not in the types : audi_rs6_wheel : *** missing item type (audi_rs6_wheel_chrome)***
+VAGNER CAR PARTS contains and item which has varients not in the types : bmw_x5_wheel : *** missing item type (bmw_x5_wheel_black)***
+VAGNER CAR PARTS contains and item which has varients not in the types : bmw_x5_wheel : *** missing item type (bmw_x5_wheel_red)***
+VAGNER CAR PARTS contains and item which has varients not in the types : bmw_x5_wheel : *** missing item type (bmw_x5_wheel_blue)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (citroen2cv_doors_tent)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (grate)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (kamaz_4350_doors_cargo1)***
+VAGNER CAR PARTS contains and item which has varients not in the types : *** missing item type (kamaz_4350_doors_cargo1)*** : *** missing item type (kamaz_4350_doors_cargo1_black)***
+VAGNER CAR PARTS contains and item which has varients not in the types : *** missing item type (kamaz_4350_doors_cargo1)*** : *** missing item type (kamaz_4350_doors_cargo1_flora)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (kamaz_4350_doors_cargo2)***
+VAGNER CAR PARTS contains and item which has varients not in the types : *** missing item type (kamaz_4350_doors_cargo2)*** : *** missing item type (kamaz_4350_doors_cargo2_black)***
+VAGNER CAR PARTS contains and item which has varients not in the types : *** missing item type (kamaz_4350_doors_cargo2)*** : *** missing item type (kamaz_4350_doors_cargo2_flora)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (kamaz_4350_doors_cargo3)***
+VAGNER CAR PARTS contains and item which has varients not in the types : *** missing item type (kamaz_4350_doors_cargo3)*** : *** missing item type (kamaz_4350_doors_cargo3_black)***
+VAGNER CAR PARTS contains and item which has varients not in the types : *** missing item type (kamaz_4350_doors_cargo3)*** : *** missing item type (kamaz_4350_doors_cargo3_flora)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (kart_wheel)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (kart_wheel2)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (lightbar)***
+VAGNER CAR PARTS contains and item which has varients not in the types : offroadrangerover_doors_cargo1 : *** missing item type (offroadrangerover_doors_cargo1_police)***
+VAGNER CAR PARTS contains and item which has varients not in the types : offroadrangerover_doors_cargo2 : *** missing item type (offroadrangerover_doors_cargo2_police)***
+VAGNER CAR PARTS contains and item which has varients not in the types : offroadrangerover_doors_codriver : *** missing item type (offroadrangerover_doors_codriver_police)***
+VAGNER CAR PARTS contains and item which has varients not in the types : offroadrangerover_doors_driver : *** missing item type (offroadrangerover_doors_driver_police)***
+VAGNER CAR PARTS contains and item which has varients not in the types : offroadrangerover_doors_hood : *** missing item type (offroadrangerover_doors_hood_police)***
+VAGNER CAR PARTS contains and item which has varients not in the types : offroadrangerover_doors_trunk : *** missing item type (offroadrangerover_doors_trunk_police)***
+VAGNER CAR PARTS contains and item which has varients not in the types : raptor_doors_cargo1 : *** missing item type (raptor_doors_cargo1_body_fire)***
+VAGNER CAR PARTS contains and item which has varients not in the types : raptor_doors_cargo2 : *** missing item type (raptor_doors_cargo2_body_fire)***
+VAGNER CAR PARTS contains and item which has varients not in the types : raptor_doors_codriver : *** missing item type (raptor_doors_codriver_body_fire)***
+VAGNER CAR PARTS contains and item which has varients not in the types : raptor_doors_driver : *** missing item type (raptor_doors_driver_body_fire)***
+VAGNER CAR PARTS contains and item which has varients not in the types : raptor_doors_hood : *** missing item type (raptor_doors_hood_body_fire)***
+VAGNER CAR PARTS contains and item which has varients not in the types : raptor_doors_trunk : *** missing item type (raptor_doors_trunk_body_fire)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_cargo1 : *** missing item type (tlc_200doors_cargo1_blue)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_cargo1 : *** missing item type (tlc_200doors_cargo1_red)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_cargo1 : *** missing item type (tlc_200doors_cargo1_white)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_cargo2 : *** missing item type (tlc_200doors_cargo2_blue)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_cargo2 : *** missing item type (tlc_200doors_cargo2_red)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_cargo2 : *** missing item type (tlc_200doors_cargo2_white)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_cargo3 : *** missing item type (tlc_200doors_cargo3_blue)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_cargo3 : *** missing item type (tlc_200doors_cargo3_red)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_cargo3 : *** missing item type (tlc_200doors_cargo3_white)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_cargo4 : *** missing item type (tlc_200doors_cargo4_blue)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_cargo4 : *** missing item type (tlc_200doors_cargo4_red)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_cargo4 : *** missing item type (tlc_200doors_cargo4_white)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_codriver : *** missing item type (tlc_200doors_codriver_blue)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_codriver : *** missing item type (tlc_200doors_codriver_red)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_codriver : *** missing item type (tlc_200doors_codriver_white)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_driver : *** missing item type (tlc_200doors_driver_blue)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_driver : *** missing item type (tlc_200doors_driver_red)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_driver : *** missing item type (tlc_200doors_driver_white)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_hood : *** missing item type (tlc_200doors_hood_blue)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_hood : *** missing item type (tlc_200doors_hood_red)***
+VAGNER CAR PARTS contains and item which has varients not in the types : tlc_200_doors_hood : *** missing item type (tlc_200doors_hood_white)***
+VAGNER CAR PARTS contains and item which has varients not in the types : uaz_3909_doors_hood : *** missing item type (uaz_3909_doors_hood_beige)***
+VAGNER CAR PARTS contains and item which has varients not in the types : uaz_3909_doors_hood : *** missing item type (uaz_3909_doors_hood_medic)***
+VAGNER CAR PARTS contains and item which has varients not in the types : uaz_3909_doors_hood : *** missing item type (uaz_3909_doors_hood_police)***
+VAGNER CAR PARTS contains and item which has varients not in the types : uaz_3909_doors_hood : *** missing item type (uaz_3909_doors_hood_mchs)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (velociraptor6x6_doors_cargo1_sadist)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (velociraptor6x6_doors_cargo2_sadist)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (velociraptor6x6_doors_codriver_sadist)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (velociraptor6x6_doors_driver_sadist)***
+VAGNER CAR PARTS contains and item which has varients not in the types : velociraptor6x6_doors_hood : *** missing item type (velociraptor6x6_doors_hood_kkk)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (velociraptor6x6_doors_hood_sadist)***
+VAGNER CAR PARTS contains and item not in the types : *** missing item type (velociraptor6x6_doors_trunk_sadist)***
+Vagner Civilian Cars contains and item which has varients not in the types : audi_rs6 : *** missing item type (audi_rs6_blue)***
+Vagner Civilian Cars contains and item which has varients not in the types : audi_rs6_black : *** missing item type (audi_rs6_blue)***
+Vagner Civilian Cars contains and item not in the types : *** missing item type (audi_rs6_blue)***
+Vagner Civilian Cars contains and item which has varients not in the types : *** missing item type (audi_rs6_blue)*** : *** missing item type (audi_rs6_blue)***
+Vagner Civilian Cars contains and item which has varients not in the types : audi_rs6_chrome : *** missing item type (audi_rs6_blue)***
+Vagner Civilian Cars contains and item which has varients not in the types : audi_rs6_red : *** missing item type (audi_rs6_blue)***
+Vagner Civilian Cars contains and item which has varients not in the types : audi_rs6_white : *** missing item type (audi_rs6_blue)***
+Vagner Civilian Cars contains and item which has varients not in the types : buggy : *** missing item type (buggy_black)***
+Vagner Civilian Cars contains and item not in the types : *** missing item type (buggy_black)***
+Vagner Civilian Cars contains and item which has varients not in the types : *** missing item type (buggy_black)*** : *** missing item type (buggy_black)***
+Vagner Civilian Cars contains and item which has varients not in the types : buggy_blue : *** missing item type (buggy_black)***
+Vagner Civilian Cars contains and item which has varients not in the types : buggy_red : *** missing item type (buggy_black)***
+Vagner Civilian Cars contains and item which has varients not in the types : buggy_yellow : *** missing item type (buggy_black)***
+Vagner Civilian Cars contains and item which has varients not in the types : offroadrangerover : *** missing item type (offroadrangerover_police)***
+Vagner Civilian Cars contains and item which has varients not in the types : offroadrangerover_blue : *** missing item type (offroadrangerover_police)***
+Vagner Civilian Cars contains and item which has varients not in the types : offroadrangerover_green : *** missing item type (offroadrangerover_police)***
+Vagner Civilian Cars contains and item not in the types : *** missing item type (offroadrangerover_police)***
+Vagner Civilian Cars contains and item which has varients not in the types : *** missing item type (offroadrangerover_police)*** : *** missing item type (offroadrangerover_police)***
+Vagner Civilian Cars contains and item which has varients not in the types : offroadrangerover_red : *** missing item type (offroadrangerover_police)***
+Vagner Civilian Cars contains and item which has varients not in the types : offroadrangerover_yellow : *** missing item type (offroadrangerover_police)***
+Vagner Military Cars contains and item not in the types : *** missing item type (zil130_green_rust)***
+Vagner Military Cars contains and item which has varients not in the types : *** missing item type (zil130_green_rust)*** : *** missing item type (zil130_green_rust)***
+Vagner Military Cars contains and item which has varients not in the types : zil130_rust : *** missing item type (zil130_green_rust)***

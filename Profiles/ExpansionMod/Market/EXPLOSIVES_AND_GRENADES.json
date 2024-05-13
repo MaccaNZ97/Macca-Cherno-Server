@@ -7,31 +7,9 @@
   "IsExchange": 0,
   "Items": [
     {
-      "ClassName": "expansion_m18smokegrenade_teargas",
-      "MaxPriceThreshold": 520,
-      "MinPriceThreshold": 520,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "expansionsatchel",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "expansionsupplysignal",
-      "MaxPriceThreshold": 2000000,
-      "MinPriceThreshold": 2000000,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -86,7 +64,7 @@
         "m18smokegrenade_yellow",
         "m18smokegrenade_purple",
         "m18smokegrenade_white",
-        "expansion_m18smokegrenade_teargas"
+        "*** missing item type (expansion_m18smokegrenade_teargas)***"
       ]
     },
     {
@@ -157,6 +135,5 @@
       "SpawnAttachments": [],
       "Variants": []
     }
-  ],
-  "SortByDisplayName": true
+  ]
 }

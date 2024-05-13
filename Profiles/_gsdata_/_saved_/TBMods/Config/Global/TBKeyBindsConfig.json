@@ -1,0 +1,11 @@
+{
+    "version": "1",
+    "isInitialized": 1,
+    "keyBinds": [
+        {
+            "name": "UAInputOpenTBRevive",
+            "defaultKey": 23,
+            "useServerKeyBind": 0
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+  "ConfigVersion": 22,
+  "ID": 19,
+  "Type": 203,
+  "Title": "Lision Officer Meet the Operations Officer",
+  "Descriptions": [
+    "Report to the Operations Officer for assignments!",
+    "Report to the Operational Officer",
+    ""
+  ],
+  "ObjectiveText": "Report to the Operational Officer",
+  "FollowUpQuest": -1,
+  "Repeatable": 0,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [
+    {
+      "ClassName": "ExpansionQuestItemPaper",
+      "Amount": 1
+    }
+  ],
+  "Rewards": [],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": -1,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    3
+  ],
+  "QuestTurnInIDs": [
+    8
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 27,
+      "ID": 5,
+      "ObjectiveType": 5
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 0,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 1,
+  "Active": 1
+}

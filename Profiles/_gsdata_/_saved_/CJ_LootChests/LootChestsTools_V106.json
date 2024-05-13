@@ -1,0 +1,142 @@
+{
+  "LCTools": [
+    {
+      "name": "SledgeHammer",
+      "time": 5,
+      "dmg": 50,
+      "desc": ""
+    },
+    {
+      "name": "Crowbar",
+      "time": 30,
+      "dmg": 25,
+      "desc": ""
+    },
+    {
+      "name": "Lockpick",
+      "time": 60,
+      "dmg": 25,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key1",
+      "time": 3,
+      "dmg": 10,
+      "desc": "Black Key|This key will open a military crate inside the Tisy Headquarters Building!"
+    },
+    {
+      "name": "CJ_Key2",
+      "time": 3,
+      "dmg": 10,
+      "desc": "Military Key|This key will open a military crate inside the Tisy Headquarters Building!"
+    },
+    {
+      "name": "CJ_Key3",
+      "time": 3,
+      "dmg": 10,
+      "desc": "Tisy HQ Key|This key will open a military crate inside the Tisy Headquarters Building!"
+    },
+    {
+      "name": "CJ_Key4",
+      "time": 5,
+      "dmg": 10,
+      "desc": "Tisy Arena Of Death|This key will open upto 5  military crates inside the Tisy Arena of Death"
+    },
+    {
+      "name": "CJ_Key5",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key6",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key7",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key8",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key9",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key10",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key11",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key12",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key101",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key102",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key103",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key200",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key201",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key202",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key203",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    },
+    {
+      "name": "CJ_Key204",
+      "time": 3,
+      "dmg": 10,
+      "desc": ""
+    }
+  ]
+}

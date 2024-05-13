@@ -1,25 +1,25 @@
 {
-    "m_Version": 1,
-    "Enabled": 1,
-    "Weight": 134.0,
-    "MissionMaxTime": 1200,
-    "MissionName": "Random_NEAF",
-    "Difficulty": 0,
-    "Objective": 0,
-    "Reward": "",
-    "ShowNotification": 1,
-    "Height": 450.0,
-    "Speed": 25.0,
-    "Container": "Random",
-    "FallSpeed": 0.0,
-    "DropLocation": {
-        "x": 12159.0,
-        "z": 12583.0,
-        "Name": "NEAF",
-        "Radius": 50.0
-    },
-    "Infected": [],
-    "ItemCount": -1,
-    "InfectedCount": -1,
-    "Loot": []
+  "m_Version": 1,
+  "Enabled": 1,
+  "Weight": 134.0,
+  "MissionMaxTime": 1200,
+  "MissionName": "Random_NEAF",
+  "Difficulty": 0,
+  "Objective": 0,
+  "Reward": "",
+  "ShowNotification": 1,
+  "Height": 450.0,
+  "Speed": 25.0,
+  "Container": "Random",
+  "FallSpeed": 0.0,
+  "DropLocation": {
+    "x": 12159.0,
+    "z": 12583.0,
+    "Name": "NEAF",
+    "Radius": 50.0
+  },
+  "Loot": [],
+  "Infected": [],
+  "ItemCount": -1,
+  "InfectedCount": -1
 }

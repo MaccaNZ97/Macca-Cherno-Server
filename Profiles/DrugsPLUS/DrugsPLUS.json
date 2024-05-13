@@ -1,0 +1,18 @@
+{
+    "dp_configVersion": 200,
+    "dp_removeAfterHarvest": 1,
+    "coca_growtime": 8.0,
+    "coca_cropcount": 2,
+    "cocaSeed_count": 9,
+    "cocaineHueIntensity": 70.0,
+    "cocaineRadBlurXPower": 1,
+    "cocaineRadBlurYPower": 1,
+    "cocaineEffectTime": 120,
+    "allowcokeenergybuff": 1,
+    "allowunlimitedstamina": 1,
+    "vodkaHueIntensity": 55.0,
+    "vodkaRadBlurXPower": 3,
+    "vodkaRadBlurYPower": 3,
+    "vodkaEffectTime": 120,
+    "magicmushroomEffectTime": 120
+}

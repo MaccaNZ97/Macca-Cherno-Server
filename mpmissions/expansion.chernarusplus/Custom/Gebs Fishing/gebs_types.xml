@@ -67,12 +67,8 @@
     <category name="food" />
   </type>
   <type name="geb_BambooFishingNet">
-    <nominal>5</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>2</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -82,12 +78,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_BigGameFishingLine">
-    <nominal>8</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>3</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -145,12 +137,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_BlueFishingRod">
-    <nominal>5</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>1</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -160,12 +148,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_BlueFishKnife">
-    <nominal>3</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>1</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -267,12 +251,8 @@
     <category name="food" />
   </type>
   <type name="geb_BlueTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -304,45 +284,29 @@
     <category name="food" />
   </type>
   <type name="geb_BoneFieldCricketBait">
-    <nominal>0</nominal>
     <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="tools" />
   </type>
   <type name="geb_BoneGrassHopperBait">
-    <nominal>0</nominal>
     <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="tools" />
   </type>
   <type name="geb_BoneGrubWormBait">
-    <nominal>0</nominal>
     <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="tools" />
   </type>
   <type name="geb_BoneRubberWormBait">
-    <nominal>0</nominal>
     <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="tools" />
@@ -414,12 +378,8 @@
     <category name="food" />
   </type>
   <type name="geb_BrownTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -451,12 +411,8 @@
     <category name="food" />
   </type>
   <type name="geb_BugContainer">
-    <nominal>5</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>2</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -466,12 +422,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_CamoTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -569,12 +521,8 @@
     <category name="food" />
   </type>
   <type name="geb_FieldCricket">
-    <nominal>15</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -606,12 +554,8 @@
     <category name="food" />
   </type>
   <type name="geb_FlyFishingLine">
-    <nominal>8</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>3</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -621,12 +565,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_FunGreenTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -636,12 +576,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_FunPurpleTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -651,12 +587,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_FunRedTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -666,12 +598,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_FunYellowTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -681,12 +609,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_GrassHopper">
-    <nominal>15</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -733,12 +657,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_GreenFishingRod">
-    <nominal>5</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>1</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -748,12 +668,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_GreenFishKnife">
-    <nominal>3</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>1</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -778,12 +694,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_GreenTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -793,12 +705,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_GrubWorm">
-    <nominal>15</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -973,12 +881,8 @@
     <category name="food" />
   </type>
   <type name="geb_LightBlueTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -988,12 +892,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_LimeTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1036,12 +936,8 @@
     <category name="food" />
   </type>
   <type name="geb_Lure1">
-    <nominal>8</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>3</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1051,12 +947,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_Lure2">
-    <nominal>8</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>3</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1066,12 +958,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_Lure3">
-    <nominal>8</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>3</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1081,12 +969,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_Lure4">
-    <nominal>8</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>3</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1118,45 +1002,29 @@
     <category name="food" />
   </type>
   <type name="geb_MetalFieldCricketBait">
-    <nominal>0</nominal>
     <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="tools" />
   </type>
   <type name="geb_MetalGrassHopperBait">
-    <nominal>0</nominal>
     <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="tools" />
   </type>
   <type name="geb_MetalGrubWormBait">
-    <nominal>0</nominal>
     <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="tools" />
   </type>
   <type name="geb_MetalHook">
-    <nominal>10</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>2</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1166,12 +1034,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_MetalHookBobber1">
-    <nominal>10</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>2</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1181,12 +1045,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_MetalHookBobber2">
-    <nominal>10</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>2</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1196,12 +1056,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_MetalHookBobber3">
-    <nominal>10</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>2</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1211,12 +1067,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_MetalHookBobber4">
-    <nominal>10</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>2</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1226,23 +1078,15 @@
     <usage name="Village" />
   </type>
   <type name="geb_MetalRubberWormBait">
-    <nominal>0</nominal>
     <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="tools" />
   </type>
   <type name="geb_MetalWormBait">
-    <nominal>0</nominal>
     <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="tools" />
@@ -1259,12 +1103,8 @@
     <category name="food" />
   </type>
   <type name="geb_MinnowBucket">
-    <nominal>3</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>1</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1329,12 +1169,8 @@
     <category name="food" />
   </type>
   <type name="geb_OldBlueTackleBox">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1344,12 +1180,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_OldGreenTackleBox">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1359,12 +1191,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_OldPurpleTackleBox">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1374,12 +1202,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_OldRedTackleBox">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1389,12 +1213,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_OrangeFishKnife">
-    <nominal>3</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>1</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1404,12 +1224,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_OrangeTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1463,12 +1279,8 @@
     <category name="food" />
   </type>
   <type name="geb_PinkTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1493,12 +1305,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_PurpleFishingRod">
-    <nominal>5</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>1</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1508,12 +1316,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_PurpleFishKnife">
-    <nominal>3</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>1</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1538,12 +1342,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_PurpleTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1568,12 +1368,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_RedFishingRod">
-    <nominal>5</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>1</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1583,12 +1379,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_RedFishKnife">
-    <nominal>3</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>1</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1635,12 +1427,8 @@
     <category name="food" />
   </type>
   <type name="geb_RedTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1672,12 +1460,8 @@
     <category name="food" />
   </type>
   <type name="geb_RubberWorm">
-    <nominal>15</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1709,12 +1493,8 @@
     <category name="food" />
   </type>
   <type name="geb_SaltwaterFishingLine">
-    <nominal>8</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>3</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1856,12 +1636,8 @@
     <category name="food" />
   </type>
   <type name="geb_SmallTackle">
-    <nominal>5</nominal>
     <lifetime>106800</lifetime>
-    <restock>0</restock>
-    <min>2</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1871,12 +1647,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_SpinnerBait1">
-    <nominal>8</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>3</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1886,12 +1658,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_SpinnerBait2">
-    <nominal>8</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>3</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1901,12 +1669,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_SpinnerBait3">
-    <nominal>8</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>3</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -1916,12 +1680,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_SpinnerBait4">
-    <nominal>8</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>3</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -2030,12 +1790,8 @@
     <category name="food" />
   </type>
   <type name="geb_WormContainer">
-    <nominal>10</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>2</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -2067,12 +1823,8 @@
     <category name="food" />
   </type>
   <type name="geb_YellowFishKnife">
-    <nominal>3</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>1</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
@@ -2082,12 +1834,8 @@
     <usage name="Village" />
   </type>
   <type name="geb_YellowTackle">
-    <nominal>0</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />

@@ -2,8 +2,8 @@
   "ClassName": "",
   "Chance": 1,
   "Quantity": {
-    "Min": 0,
-    "Max": 0
+    "Min": 1,
+    "Max": 2
   },
   "Health": [],
   "InventoryAttachments": [
@@ -86,8 +86,8 @@
           "ClassName": "TCP_UmbrellaGloves",
           "Chance": 1,
           "Quantity": {
-            "Min": 0,
-            "Max": 0
+            "Min": 1,
+            "Max": 2
           },
           "Health": [
             {
@@ -110,8 +110,8 @@
           "ClassName": "MilitaryBelt",
           "Chance": 1,
           "Quantity": {
-            "Min": 0,
-            "Max": 0
+            "Min": 1,
+            "Max": 2
           },
           "Health": [
             {
@@ -134,8 +134,8 @@
           "ClassName": "TCP_UmbrellaPants",
           "Chance": 1,
           "Quantity": {
-            "Min": 0,
-            "Max": 0
+            "Min": 1,
+            "Max": 2
           },
           "Health": [
             {
@@ -181,8 +181,8 @@
       "ClassName": "BandageDressing",
       "Chance": 1,
       "Quantity": {
-        "Min": 0,
-        "Max": 0
+        "Min": 1,
+        "Max": 2
       },
       "Health": [],
       "InventoryAttachments": [],
@@ -197,8 +197,8 @@
       "ClassName": "",
       "Chance": 1,
       "Quantity": {
-        "Min": 0,
-        "Max": 0
+        "Min": 1,
+        "Max": 2
       },
       "Health": [],
       "InventoryAttachments": [],
@@ -1281,7 +1281,21 @@
                       ]
                     }
                   ],
-                  "InventoryCargo": [],
+                  "InventoryCargo": [
+                    {
+                      "ClassName": "Mag_FAL_20Rnd",
+                      "Chance": 1,
+                      "Quantity": {
+                        "Min": 1,
+                        "Max": 2
+                      },
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ],
                   "ConstructionPartsBuilt": [],
                   "Sets": []
                 }

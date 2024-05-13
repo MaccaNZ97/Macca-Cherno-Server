@@ -25,6 +25,42 @@
       ]
     },
     {
+      "ClassName": "fog_vest_cpc_aor1",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_cpc_aor2",
+        "fog_vest_cpc_atacs",
+        "fog_vest_cpc_black",
+        "fog_vest_cpc_cb",
+        "fog_vest_cpc_mc",
+        "fog_vest_cpc_mca",
+        "fog_vest_cpc_mcal",
+        "fog_vest_cpc_mcb",
+        "fog_vest_cpc_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_vest_d3crx_black",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_d3crx_cb",
+        "fog_vest_d3crx_grey",
+        "fog_vest_d3crx_rg"
+      ]
+    },
+    {
       "ClassName": "fog_vest_fcpc_black",
       "MaxPriceThreshold": 25000,
       "MinPriceThreshold": 25000,
@@ -39,7 +75,12 @@
         "fog_vest_fcpc_m81",
         "fog_vest_fcpc_mc",
         "fog_vest_fcpc_mcb",
-        "fog_vest_fcpc_rg"
+        "fog_vest_fcpc_rg",
+        "fog_vest_fcpc_aor1",
+        "fog_vest_fcpc_aor2",
+        "fog_vest_fcpc_mca",
+        "fog_vest_fcpc_mcal",
+        "fog_vest_fcpc_mct"
       ]
     },
     {
@@ -79,6 +120,24 @@
       ]
     },
     {
+      "ClassName": "fog_vest_lbt6094_aor1",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 18000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_vest_lbt6094_aor2",
+        "fog_vest_lbt6094_black",
+        "fog_vest_lbt6094_blue",
+        "fog_vest_lbt6094_cb",
+        "fog_vest_lbt6094_mc",
+        "fog_vest_lbt6094_rg"
+      ]
+    },
+    {
       "ClassName": "fog_vest_lv119_black",
       "MaxPriceThreshold": 12500,
       "MinPriceThreshold": 12500,
@@ -90,7 +149,10 @@
       "Variants": [
         "fog_vest_lv119_cb",
         "fog_vest_lv119_mc",
-        "fog_vest_lv119_rg"
+        "fog_vest_lv119_rg",
+        "fog_vest_lv119_m81",
+        "fog_vest_lv119_mcb",
+        "fog_vest_lv119_od"
       ]
     },
     {
@@ -137,7 +199,12 @@
         "fog_vest_osprey_cb",
         "fog_vest_osprey_grey",
         "fog_vest_osprey_mc",
-        "fog_vest_osprey_rg"
+        "fog_vest_osprey_rg",
+        "fog_vest_osprey_m81",
+        "fog_vest_osprey_mc_black",
+        "fog_vest_osprey_mcal",
+        "fog_vest_osprey_mcb",
+        "fog_vest_osprey_mct"
       ]
     },
     {
@@ -182,7 +249,10 @@
       "Variants": [
         "fog_vest_tactec_cb",
         "fog_vest_tactec_rg",
-        "fog_vest_tactec_grey"
+        "fog_vest_tactec_grey",
+        "fog_vest_tactec_mc",
+        "fog_vest_tactec_mcb",
+        "fog_vest_tactec_od"
       ]
     },
     {

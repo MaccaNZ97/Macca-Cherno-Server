@@ -1,0 +1,212 @@
+{
+    "Version": 2,
+    "notification": [
+        {
+            "Spatial_Name": "Group Bandit Patrol",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 2,
+            "MessageTitle": "Bandits!",
+            "MessageText": [
+                "Bandits nearby be on guard",
+                "Bandits detected Detected",
+                "Bandits about"
+            ]
+        },
+        {
+            "Spatial_Name": "Friendly Group",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "Freindly Forces",
+            "MessageText": [
+                "Freindlies nearby",
+                "Forces Detected: Friendly"
+            ]
+        },
+        {
+            "Spatial_Name": "Zeno Military",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "Zeno Umbrella Defence",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        },
+        {
+            "Spatial_Name": "Novy Lug Military",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "Novy Lug Umbrella Patrol",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        },
+        {
+            "Spatial_Name": "Mishinio Military",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "Mishinio Umbrella Patrol",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        },
+        {
+            "Spatial_Name": "Staroye Military",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "Staroye Umbrella Patrol",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        },
+        {
+            "Spatial_Name": "Krasno Military",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "Krasno Umbrella Patrol",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        },
+        {
+            "Spatial_Name": "VMC Military",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "VMC Umbrella Patrol",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        },
+        {
+            "Spatial_Name": "Tisy Military",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "Tisy Umbrella Patrol",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        },
+        {
+            "Spatial_Name": "NWAF Nth Tents",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "NWAF Umbrella Patrol",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        },
+        {
+            "Spatial_Name": "NWAF Sth Tents",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "NWAF Umbrella Patrol",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        },
+        {
+            "Spatial_Name": "NWAF MH WEst",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "NWAF Umbrella Patrol",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        },
+        {
+            "Spatial_Name": "NWAF ATC",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "NWAF Umbrella Patrol",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        },
+        {
+            "Spatial_Name": "Basha Military",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "Basha Military Umbrella Patrol",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        },
+        {
+            "Spatial_Name": "Kamensk Military",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "Basha Military Umbrella Patrol",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        },
+        {
+            "Spatial_Name": "Pavlova Military",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.2999999523162842,
+            "MessageType": 4,
+            "MessageTitle": "Basha Military Umbrella Patrol",
+            "MessageText": [
+                "Enemies nearby",
+                "Umbrella Corp Detected",
+                "Hostiles about"
+            ]
+        }
+    ]
+}

@@ -16,19 +16,19 @@
         },
         {
             "dna_Option": "(2) Yellow Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
-            "dna_Setting": 14
+            "dna_Setting": 24
         },
         {
             "dna_Option": "(3) Green Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
-            "dna_Setting": 0
+            "dna_Setting": 24
         },
         {
             "dna_Option": "(4) Blue Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
-            "dna_Setting": 0
+            "dna_Setting": 5
         },
         {
             "dna_Option": "(5) Purple Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
-            "dna_Setting": 3
+            "dna_Setting": 13
         },
         {
             "dna_Option": "(6) Red Crates Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
@@ -36,15 +36,15 @@
         },
         {
             "dna_Option": "(7) Yellow Strongrooms Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
-            "dna_Setting": 0
+            "dna_Setting": 1
         },
         {
             "dna_Option": "(8) Green Strongrooms Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
-            "dna_Setting": 0
+            "dna_Setting": 1
         },
         {
             "dna_Option": "(9) Blue Strongrooms Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
-            "dna_Setting": 0
+            "dna_Setting": 6
         },
         {
             "dna_Option": "(10) Purple Strongrooms Spawn Count (If static or off, ignore setting. 0 to turn off this tier, don't set higher than number of available positions",
@@ -124,7 +124,7 @@
         },
         {
             "dna_Option": "(29) Green Strongrooms spawn this many bears when opened - (0 = off - 3 =  max)",
-            "dna_Setting": 1
+            "dna_Setting": 3
         },
         {
             "dna_Option": "(30) Green Strongrooms spawn this many infected when opened - (0 = off - 20 =  max)",
@@ -140,23 +140,23 @@
         },
         {
             "dna_Option": "(33) Blue Strongrooms spawn this many wolves when opened - (0 = off - 10 =  max)",
-            "dna_Setting": 0
+            "dna_Setting": 5
         },
         {
             "dna_Option": "(34) Blue Strongrooms spawn this many bears when opened - (0 = off - 6 =  max)",
-            "dna_Setting": 0
+            "dna_Setting": 2
         },
         {
             "dna_Option": "(35) Blue Strongrooms spawn this many infected when opened - (0 = off - 40 =  max)",
-            "dna_Setting": 0
+            "dna_Setting": 10
         },
         {
             "dna_Option": "(36) Blue Strongrooms alarm toggle - (0 = Off - 1 = On)",
-            "dna_Setting": 0
+            "dna_Setting": 10
         },
         {
             "dna_Option": "(37) Blue Strongrooms notification radius - (0 = Disabled - Max 2000m - 2001+ shows full server)",
-            "dna_Setting": 0
+            "dna_Setting": 6
         },
         {
             "dna_Option": "(38) Purple Strongrooms spawn this many wolves when opened - (0 = off - 5 =  max)",
@@ -168,7 +168,7 @@
         },
         {
             "dna_Option": "(40) Purple Strongrooms spawn this many infected when opened - (0 = off - 20 =  max)",
-            "dna_Setting": 20
+            "dna_Setting": 10
         },
         {
             "dna_Option": "(41) Purple Strongrooms alarm toggle - (0 = Off - 1 = On)",
@@ -474,6 +474,7 @@
             "dna_Location": "4576.237305 233.226135 4510.930664",
             "dna_Rotation": "0.0 0.0 0.0"
         }
+        
     ],
     "m_DNAPurple_Crate_Locations": [
         {
@@ -521,8 +522,27 @@
             "dna_Location": "11069.965820 235.207550 12486.441406",
             "dna_Rotation": "27.0 0.0 0.0"
         }
+     
+
     ],
     "m_DNABlue_Crate_Locations": [
+        {
+            "dna_Location": "4768.2 340.409 9945.68",
+            "dna_Rotation": "-144.0 0.0 0.0"
+        },
+        
+        {
+            "dna_Location": "4793.69 340.982 9899.47",
+            "dna_Rotation": "-120.33 0.0 0.0"
+        },
+        {
+            "dna_Location": "4799.66 345.082 9889.64",
+            "dna_Rotation": "-29.3177.0 0.0 0.0"
+        },
+        {
+            "dna_Location": "4794.56 345.082 9898.41",
+            "dna_Rotation": "148.301 0.0 0.0"
+        }
     ],
     "m_DNARed_Crate_Locations": [{
         "dna_Location": "850.74 437.4 15122.1",
@@ -542,16 +562,22 @@
     }
     ],
     "m_DNAYellow_Strongroom_Locations": [
+    
     ],
     "m_DNAGreen_Strongroom_Locations": [
+        {
+            "dna_Location": "4768.05 354.164 9883",
+            "dna_Rotation": "152.625 0.0 0.0"
+        }
+        
     ],
     "m_DNABlue_Strongroom_Locations": [
         {
             "dna_Location": "6332.952148 306.958160 7719.134766",
-            "dna_Rotation": "-51.866974 0.0 0.0"
+            "dna_Rotation": "-39.4202 0.0 0.0"
         },
         {
-            "dna_Location": "5019.385254 15.489090 2405.341553",
+            "dna_Location": "5150.22 15.8495 2340.22",
             "dna_Rotation": "138.746399 0.0 0.0"
         },
         {
@@ -598,18 +624,21 @@
         }
     ],
     "m_DNARed_Strongroom_Locations": [
+       
         {
-            "dna_Location": "973.316 460.065 14677.1",
-            "dna_Rotation": "153.984 -0.000000 -0.000000"
+            "dna_Location": "1663.53 457.929 14187.8",
+            "dna_Rotation": "81.0000 -0.000000 -0.000000"
         },
         {
-            "dna_Location": "1875.35 455.21 13728.1",
-            "dna_Rotation": "47.3809 -0.000000 -0.000000"
+            "dna_Location": "13633 50.1638 2960.69",
+            "dna_Rotation": "54.0000 -0.000000 -0.000000"
         },
         {
-            "dna_Location": "840.096 473.577 14715.2",
-            "dna_Rotation": "-152.399 -0.000000 -0.000000"
+            "dna_Location": "4725.64 354.087 9902.55",
+            "dna_Rotation": "-114.504 0.0 0.0"
         }
+     
+       
     ]
         
 }

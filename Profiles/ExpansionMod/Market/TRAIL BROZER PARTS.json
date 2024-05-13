@@ -1987,7 +1987,7 @@
       "Variants": []
     },
     {
-      "ClassName": "Trailbrozer_wheel",
+      "ClassName": "trailbrozer_wheel",
       "MaxPriceThreshold": 250,
       "MinPriceThreshold": 250,
       "SellPricePercent": -1,

@@ -1,0 +1,24 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Unoffical Car Parts",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansionbanknotehryvnia",
+    "expansiongoldbar"
+  ],
+  "DisplayCurrencyValue": 0,
+  "DisplayCurrencyName": null,
+  "Categories": [
+    "CONTAINERS",
+    "BATTERY",
+    "TOOLS",
+    "LIQUIDS"
+  ],
+  "Items": {
+    "smallgascanister": 3
+  }
+}

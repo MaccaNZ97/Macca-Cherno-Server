@@ -42,8 +42,8 @@
         "mag_akm_30rnd"
       ],
       "Variants": [
-        "bo_akm",
-        "bo_akm_fde"
+        "*** missing item type (bo_akm)***",
+        "*** missing item type (bo_akm_fde)***"
       ]
     },
     {
@@ -111,7 +111,7 @@
         "mag_fal_20rnd"
       ],
       "Variants": [
-        "bo_fnfal"
+        "*** missing item type (bo_fnfal)***"
       ]
     },
     {
@@ -126,7 +126,7 @@
         "mag_famas_25rnd"
       ],
       "Variants": [
-        "bo_famas"
+        "*** missing item type (bo_famas)***"
       ]
     },
     {
@@ -140,17 +140,6 @@
       "SpawnAttachments": [
         "mag_stanag_30rnd"
       ],
-      "Variants": []
-    },
-    {
-      "ClassName": "m1903optic",
-      "MaxPriceThreshold": 1500,
-      "MinPriceThreshold": 1500,
-      "SellPricePercent": 25,
-      "MaxStockThreshold": 55,
-      "MinStockThreshold": 0,
-      "QuantityPercent": 50,
-      "SpawnAttachments": [],
       "Variants": []
     },
     {

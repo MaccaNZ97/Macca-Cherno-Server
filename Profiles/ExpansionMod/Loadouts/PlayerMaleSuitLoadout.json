@@ -2,8 +2,8 @@
     "ClassName": "",
     "Chance": 1.0,
     "Quantity": {
-        "Min": 0.0,
-        "Max": 0.0
+        "Min": 1.0,
+        "Max": 2.0
     },
     "Health": [],
     "InventoryAttachments": [
@@ -14,8 +14,8 @@
                     "ClassName": "ManSuit_Blue",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -33,8 +33,8 @@
                     "ClassName": "ManSuit_Brown",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -52,8 +52,8 @@
                     "ClassName": "ManSuit_DarkGrey",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -71,8 +71,8 @@
                     "ClassName": "ManSuit_Khaki",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -90,8 +90,8 @@
                     "ClassName": "ManSuit_LightGrey",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -109,8 +109,8 @@
                     "ClassName": "ManSuit_White",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -128,8 +128,8 @@
                     "ClassName": "ManSuit_Black",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -152,8 +152,8 @@
                     "ClassName": "SlacksPants_Blue",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -171,8 +171,8 @@
                     "ClassName": "SlacksPants_Brown",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -190,8 +190,8 @@
                     "ClassName": "SlacksPants_DarkGrey",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -209,8 +209,8 @@
                     "ClassName": "SlacksPants_Khaki",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -228,8 +228,8 @@
                     "ClassName": "SlacksPants_LightGrey",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -247,8 +247,8 @@
                     "ClassName": "SlacksPants_White",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -266,8 +266,8 @@
                     "ClassName": "SlacksPants_Black",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -290,8 +290,8 @@
                     "ClassName": "DressShoes_White",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -309,8 +309,8 @@
                     "ClassName": "DressShoes_Beige",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -328,8 +328,8 @@
                     "ClassName": "DressShoes_Black",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -347,8 +347,8 @@
                     "ClassName": "DressShoes_Brown",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -366,8 +366,8 @@
                     "ClassName": "DressShoes_Sunburst",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
+                        "Min": 1.0,
+                        "Max": 2.0
                     },
                     "Health": [
                         {
@@ -389,8 +389,8 @@
             "ClassName": "Apple",
             "Chance": 0.10000000149011612,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 1.0,
+                "Max": 2.0
             },
             "Health": [],
             "InventoryAttachments": [],
@@ -402,8 +402,8 @@
             "ClassName": "BandageDressing",
             "Chance": 0.15000000596046449,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 1.0,
+                "Max": 2.0
             },
             "Health": [],
             "InventoryAttachments": [],

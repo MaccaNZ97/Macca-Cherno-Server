@@ -62,120 +62,6 @@
       "Variants": []
     },
     {
-      "ClassName": "bo_mcxspear_bttstck_tan",
-      "MaxPriceThreshold": 550,
-      "MinPriceThreshold": 550,
-      "SellPricePercent": 75,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": 50,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "bo_mcxtacops_bttstck_black",
-      "MaxPriceThreshold": 550,
-      "MinPriceThreshold": 550,
-      "SellPricePercent": 75,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": 75,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "bo_mcxtacops_bttstck_fde",
-      "MaxPriceThreshold": 550,
-      "MinPriceThreshold": 550,
-      "SellPricePercent": 75,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": 75,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "bo_mk18bttstck",
-      "MaxPriceThreshold": 440,
-      "MinPriceThreshold": 440,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "bo_mk18bttstck_fde"
-      ]
-    },
-    {
-      "ClassName": "bo_mk18bttstck_fde",
-      "MaxPriceThreshold": 440,
-      "MinPriceThreshold": 440,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "bo_mk23_lam",
-      "MaxPriceThreshold": 440,
-      "MinPriceThreshold": 440,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "bo_pp1901_bttstck",
-      "MaxPriceThreshold": 440,
-      "MinPriceThreshold": 440,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "bo_sa58_buttstock",
-      "MaxPriceThreshold": 440,
-      "MinPriceThreshold": 440,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "bo_sopmodbttstck",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "bo_sopmodbttstck_fde"
-      ]
-    },
-    {
-      "ClassName": "bo_sopmodbttstck_fde",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "fal_foldingbttstck",
       "MaxPriceThreshold": 300,
       "MinPriceThreshold": 300,
@@ -277,6 +163,5 @@
       "SpawnAttachments": [],
       "Variants": []
     }
-  ],
-  "SortByDisplayName": true
+  ]
 }

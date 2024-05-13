@@ -26,12 +26,11 @@
     "FURNISHINGS",
     "GARDENING",
     "KITS",
-    "MMG_STORAGE"
+    "MMG_STORAGE:2"
   ],
   "Items": {
     "battery9v": 1,
     "carbattery": 1,
-    "mavericks12v": 1,
     "truckbattery": 1
   }
 }

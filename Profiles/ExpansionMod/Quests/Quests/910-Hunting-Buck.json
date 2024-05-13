@@ -1,0 +1,73 @@
+{
+  "ConfigVersion": 22,
+  "ID": 910,
+  "Type": 1,
+  "Title": "The Vyshnoye Buck",
+  "Descriptions": [
+    "Howdy, Partner! Great work!\r\n\r\nAlright, now let's get down to business: I need you to track down a special deer; a legend ‘round these parts: The Vyshnoye Buck. He's eluded Greg and I for near a decade, but I've got a good feelin’ ‘bout you, Partner.\r\n\r\nHe's usually spotted to the West or North West of Vyshnoye.\r\n\r\nBring me his pelt and I'll pay you ₽3000.\r\n\r\nRemember to take plenty of bolts for your crossbow and attach chicken feathers to ‘em for better accuracy.\r\n\r\nStraight shots, Partner!\r\n",
+    "\r\nTravel to Vyshnoye\r\nAcquire pristine buck pelt\r\n",
+    "\r\nTravel to Vyshnoye\r\nAcquire pristine buck pelt\r\n"
+  ],
+  "ObjectiveText": "Travel to Vyshnoye and bag The Legendary Vyshnoye Buck’s pelt in pristine condition ",
+  "FollowUpQuest": -1,
+  "Repeatable": 0,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    14
+  ],
+  "QuestTurnInIDs": [
+    14
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 27,
+      "ID": 10,
+      "ObjectiveType": 3
+    },
+    {
+      "ConfigVersion": 27,
+      "ID": 6,
+      "ObjectiveType": 2
+    },
+    {
+      "ConfigVersion": 27,
+      "ID": 5,
+      "ObjectiveType": 4
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 300,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

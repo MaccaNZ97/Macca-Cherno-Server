@@ -161,17 +161,6 @@
       "Variants": []
     },
     {
-      "ClassName": "mag_cz550_4rnd",
-      "MaxPriceThreshold": 250,
-      "MinPriceThreshold": 250,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "mag_cz61_20rnd",
       "MaxPriceThreshold": 200,
       "MinPriceThreshold": 200,
@@ -538,17 +527,6 @@
       "ClassName": "mag_stanag_60rnd",
       "MaxPriceThreshold": 960,
       "MinPriceThreshold": 960,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "mag_stanagcoupled_30rnd",
-      "MaxPriceThreshold": 440,
-      "MinPriceThreshold": 440,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

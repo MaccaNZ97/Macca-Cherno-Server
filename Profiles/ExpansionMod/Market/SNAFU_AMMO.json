@@ -19,8 +19,8 @@
     },
     {
       "ClassName": "gcgn_ammo_408chey",
-      "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 20,
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 200,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
     },
     {
       "ClassName": "gcgn_ammo_50cal",
-      "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 20,
+      "MaxPriceThreshold": 450,
+      "MinPriceThreshold": 450,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
     },
     {
       "ClassName": "snafu_ammo_127x55mm",
-      "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 20,
+      "MaxPriceThreshold": 650,
+      "MinPriceThreshold": 620,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
     },
     {
       "ClassName": "snafu_ammo_127x55mmap",
-      "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 20,
+      "MaxPriceThreshold": 650,
+      "MinPriceThreshold": 620,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
     },
     {
       "ClassName": "snafu_ammo_145cal",
-      "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 20,
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 600,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -96,8 +96,8 @@
     },
     {
       "ClassName": "snafu_ammo_338",
-      "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 20,
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 120,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -178,6 +178,17 @@
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ammobox_expansion_338_15rnd",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 130,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []

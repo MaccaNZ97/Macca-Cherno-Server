@@ -1,0 +1,47 @@
+{
+  "m_Version": 12,
+  "DisplayName": "VANILLA_PARTS",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansionbanknotehryvnia",
+    "expansiongoldbar"
+  ],
+  "DisplayCurrencyValue": 0,
+  "DisplayCurrencyName": null,
+  "Categories": [
+    "LIQUIDS",
+    "BATTERY",
+    "CAR PAINTS",
+    "VEHICLE_PARTS",
+    "CONTAINERS"
+  ],
+  "Items": {
+    "smallgascanister": 3,
+    "blowtorch": 1,
+    "crowbar": 1,
+    "expansionboltcutters": 1,
+    "expansionpropanetorch": 1,
+    "firefighteraxe": 1,
+    "fryingpan": 1,
+    "hacksaw": 1,
+    "hammer": 1,
+    "handsaw": 1,
+    "hatchet": 1,
+    "lockpick": 1,
+    "pickaxe": 1,
+    "pipewrench": 1,
+    "pitchfork": 1,
+    "pliers": 1,
+    "screwdriver": 1,
+    "shovel": 1,
+    "sickle": 1,
+    "sledgehammer": 1,
+    "trafficcone": 1,
+    "whetstone": 1,
+    "woodaxe": 1
+  }
+}

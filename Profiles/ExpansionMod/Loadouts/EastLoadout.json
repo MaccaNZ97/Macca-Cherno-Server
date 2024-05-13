@@ -349,8 +349,8 @@
                             "ClassName": "MakarovIJ70",
                             "Chance": 0.3400000035762787,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -362,8 +362,8 @@
                             "ClassName": "Mag_IJ70_8Rnd",
                             "Chance": 0.30000001192092898,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -375,8 +375,8 @@
                             "ClassName": "Mag_IJ70_8Rnd",
                             "Chance": 0.20000000298023225,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -388,8 +388,8 @@
                             "ClassName": "BandageDressing",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -401,8 +401,8 @@
                             "ClassName": "BandageDressing",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -414,8 +414,8 @@
                             "ClassName": "Chemlight_Green",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -427,8 +427,8 @@
                             "ClassName": "Chemlight_Green",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -440,8 +440,8 @@
                             "ClassName": "RDG2SmokeGrenade_Black",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -453,8 +453,8 @@
                             "ClassName": "RDG2SmokeGrenade_White",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -466,8 +466,8 @@
                             "ClassName": "Ammo_762x39",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -499,8 +499,8 @@
                             "ClassName": "MakarovIJ70",
                             "Chance": 0.3400000035762787,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -512,8 +512,8 @@
                             "ClassName": "Mag_IJ70_8Rnd",
                             "Chance": 0.30000001192092898,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -525,8 +525,8 @@
                             "ClassName": "Mag_IJ70_8Rnd",
                             "Chance": 0.20000000298023225,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -538,8 +538,8 @@
                             "ClassName": "BandageDressing",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -551,8 +551,8 @@
                             "ClassName": "BandageDressing",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -564,8 +564,8 @@
                             "ClassName": "Chemlight_Green",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -577,8 +577,8 @@
                             "ClassName": "Chemlight_Green",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -590,8 +590,8 @@
                             "ClassName": "RDG2SmokeGrenade_Black",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -603,8 +603,8 @@
                             "ClassName": "RDG2SmokeGrenade_White",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -616,8 +616,8 @@
                             "ClassName": "Ammo_762x39",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -649,8 +649,8 @@
                             "ClassName": "MakarovIJ70",
                             "Chance": 0.3400000035762787,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -662,8 +662,8 @@
                             "ClassName": "Mag_IJ70_8Rnd",
                             "Chance": 0.30000001192092898,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -675,8 +675,8 @@
                             "ClassName": "Mag_IJ70_8Rnd",
                             "Chance": 0.20000000298023225,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -688,8 +688,8 @@
                             "ClassName": "BandageDressing",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -701,8 +701,8 @@
                             "ClassName": "BandageDressing",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -714,8 +714,8 @@
                             "ClassName": "Chemlight_Green",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -727,8 +727,8 @@
                             "ClassName": "Chemlight_Green",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -740,8 +740,8 @@
                             "ClassName": "RDG2SmokeGrenade_Black",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -753,8 +753,8 @@
                             "ClassName": "RDG2SmokeGrenade_White",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -766,8 +766,8 @@
                             "ClassName": "Ammo_762x39",
                             "Chance": 0.10000000149011612,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -1149,8 +1149,8 @@
             "ClassName": "BandageDressing",
             "Chance": 0.15000000596046449,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 1.0,
+                "Max": 2.0
             },
             "Health": [],
             "InventoryAttachments": [],
@@ -1177,8 +1177,8 @@
                             "ClassName": "AK101",
                             "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [
@@ -1410,8 +1410,8 @@
                             "ClassName": "AK74",
                             "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [
@@ -1656,8 +1656,8 @@
                             "ClassName": "AKS74U",
                             "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [
@@ -1779,8 +1779,8 @@
                             "ClassName": "AKM",
                             "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [
@@ -2025,8 +2025,8 @@
                             "ClassName": "SVD",
                             "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [
@@ -2135,8 +2135,8 @@
                             "ClassName": "PP19",
                             "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [
@@ -2271,8 +2271,8 @@
                             "ClassName": "FAL",
                             "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 1.0,
+                                "Max": 2.0
                             },
                             "Health": [],
                             "InventoryAttachments": [

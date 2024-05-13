@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+
+<!--Underground Stash-->
+
+	<type name="UndergroundStash">
+       <cargo chance="1.00">
+        <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+       </cargo>
+   <cargo chance="1.00">
+        <item name="Winchester70_Black" chance="1.00" />
+       </cargo>
+   <cargo chance="1.00">
+        <item name="WitchHood_Black" chance="1.00" />
+       </cargo>
+   <cargo chance="1.00">
+        <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+       </cargo>
+   <cargo chance="1.00">
+        <item name="BalaclavaMask_Black" chance="1.00" />
+       </cargo>
+   <cargo chance="1.00">
+        <item name="TacticalGloves_Black" chance="1.00" />
+       </cargo>
+   <cargo chance="1.00">
+        <item name="CargoPants_Black" chance="1.00" />
+       </cargo>
+   <cargo chance="1.00">
+        <item name="TacticalShirt_Black" chance="1.00" />
+       </cargo>
+   <cargo chance="1.00">
+        <item name="AmmoBox_308Win_20Rnd" chance="1.00" />
+       </cargo>
+   <cargo chance="1.00">
+        <item name="JungleBoots_Black" chance="1.00" />
+       </cargo>
+   <cargo chance="1.00">
+        <item name="Headtorch_Black" chance="1.00" />
+       </cargo>
+   <cargo chance="1.00">
+        <item name="Rangefinder" chance="1.00" />
+       </cargo>
+   <cargo chance="1.00">
+        <item name="Rice" chance="1.00" />
+       </cargo>
+   <cargo chance="1.00">
+   <item name="HuntingOptic" chance="1.00" />
+       </cargo>
+    </type>
+</spawnabletypes>	

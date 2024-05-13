@@ -411,69 +411,6 @@
       "Variants": []
     },
     {
-      "ClassName": "bo_militarycrate_brown",
-      "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3500,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "bo_militarycrate_green",
-        "bo_militarycrate_grey",
-        "bo_militarycrate_olive",
-        "bo_militarycrate_tan"
-      ]
-    },
-    {
-      "ClassName": "bo_militarycratelarge_brown",
-      "MaxPriceThreshold": 4500,
-      "MinPriceThreshold": 4500,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "bo_militarycratelarge_green",
-        "bo_militarycratelarge_grey",
-        "bo_militarycratelarge_olive",
-        "bo_militarycratelarge_tan"
-      ]
-    },
-    {
-      "ClassName": "bo_militarycratesmall_brown",
-      "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2500,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "bo_militarycratesmall_green",
-        "bo_militarycratesmall_grey",
-        "bo_militarycratesmall_olive",
-        "bo_militarycratesmall_tan"
-      ]
-    },
-    {
-      "ClassName": "bo_seacontainer_kitbox_blue",
-      "MaxPriceThreshold": 35000,
-      "MinPriceThreshold": 35000,
-      "SellPricePercent": 25,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "bo_seacontainer_kitbox_green",
-        "bo_seacontainer_kitbox_red",
-        "bo_seacontainer_kitbox_yellow"
-      ]
-    },
-    {
       "ClassName": "expansionsafelarge",
       "MaxPriceThreshold": 16000,
       "MinPriceThreshold": 16000,
@@ -550,6 +487,5 @@
       "SpawnAttachments": [],
       "Variants": []
     }
-  ],
-  "SortByDisplayName": true
+  ]
 }

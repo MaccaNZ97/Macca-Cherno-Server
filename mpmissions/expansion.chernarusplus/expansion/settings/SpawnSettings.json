@@ -21,20 +21,27 @@
   "StartingClothing": {
     "EnableCustomClothing": 1,
     "SetRandomHealth": 0,
-    "Headgear": [],
-    "Glasses": [
-      "Headtorch_Black"
+    "Headgear": [
+      "BallisticHelmet_Black"
     ],
+    "Glasses": [],
     "Masks": [],
     "Tops": [
-      "Tshirt_10thAnniversary"
+      "Tshirt_10thAnniversary",
+      "FOG_Tshirt_Black",
+      "FOG_Tshirt_Black_Canoe",
+      "FOG_Tshirt_Black_CrimeCo"
     ],
     "Vests": [],
-    "Gloves": [],
+    "Gloves": [
+      "TacticalGloves_Black"
+    ],
     "Pants": [
       "CargoPants_Black"
     ],
-    "Belts": [],
+    "Belts": [
+      "MilitaryBelt"
+    ],
     "Shoes": [
       "AthleticShoes_Blue",
       "AthleticShoes_Grey",
@@ -84,11 +91,6 @@
         "Attachments": []
       },
       {
-        "ClassName": "Headtorch_Black",
-        "Quantity": -1,
-        "Attachments": []
-      },
-      {
         "ClassName": "HuntingKnife",
         "Quantity": -1,
         "Attachments": []
@@ -108,23 +110,44 @@
       {
         "ClassName": "Mag_Glock_15Rnd",
         "Quantity": -1,
+        "Attachments": [
+          "PistolSuppressor",
+          "Mag_Glock_15Rnd"
+        ]
+      }
+    ],
+    "BackpackGear": [
+      {
+        "ClassName": "HuntingKnife",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Mag_Glock_15Rnd",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "UniversalLight",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Battery9V",
+        "Quantity": -1,
         "Attachments": []
       }
     ],
-    "BackpackGear": [],
     "VestGear": [],
     "PrimaryWeapon": {
       "ClassName": "SN_Glock19",
       "Quantity": 1,
       "Attachments": [
-        "Mag_Glock_15Rnd"
+        "Mag_Glock_15Rnd",
+        "PistolSuppressor"
       ]
     },
-    "SecondaryWeapon": {
-      "ClassName": "NailedBaseballBat",
-      "Quantity": -1,
-      "Attachments": []
-    }
+    "SecondaryWeapon": {}
   },
   "UseLoadouts": 0,
   "MaleLoadouts": [

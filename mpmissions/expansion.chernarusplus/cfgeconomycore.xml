@@ -45,10 +45,15 @@
     <file name="Winter_charnarus_types.xml" type="types" />
     <file name="BN_Winter_Clothing_types.xml" type="types" />
     <file name="FD_Missions_types.xml" type="types" />
-    <file name="EFT_Medicals_types.xml" type="types" />
     <file name="Advanced_Scopes_types.xml" type="types" />
     <file name="DayZ_MiniFigurines_V2_types.xml" type="types" />
     <file name="TrailBrozer_types.xml" type="types" />
+    <file name="Medical_Sobar_types.xml" type="types" />
+    <file name="DriipyShoes_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Custom_Events">
+    <file name="Custom_events.xml" type="events" />
+    <file name="Custom_spawnabletypes.xml" type="spawnabletypes" />
   </ce>
   <ce folder="Custom/Vanilla Types">
     <file name="types_clothes.xml" type="types" />
@@ -101,6 +106,21 @@
     <file name="AJ_Creatures_spawnabletypes.xml" type="spawnabletypes" />
   </ce>
   <ce folder="Custom/RAGS">
-    <file name="Rags_Immersive_Vehicles_types.xml" type="types" />
+    <file name="Rags_HuntingCabin_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Drugs">
+    <file name="CannabisPlus_types.xml" type="types" />
+    <file name="Eazy_Drugs_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Blackouts">
+    <file name="Blackouts_CannabisPLus_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/DBO">
+    <file name="DBO_Creatures_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Huffys">
+    <file name="BIO_Hazard_Bears_types.xml" type="types" />
+    <file name="Horror_bears_types.xml" type="types" />
+    <file name="Cocaine_Bear_types.xml" type="types" />
   </ce>
 </economycore>

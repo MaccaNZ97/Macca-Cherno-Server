@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!-- 'reset' and 'enable' are a bool, and therefore supports: 0/1, true/false, yes/no -->
+<!-- 'reset' controls whether you want to load in the weather from storage or not (false by default) -->
+<!-- 'enable' controls whether this file is enabled or not (true by default) -->
+<weather reset="0" enable="1">
+    <overcast>
+        <!-- Initial conditions of the overcast (target value, time to change, how long will it stay) -->
+        <current actual="0.45" time="120" duration="240" />
+        <!-- What is the range of the overcast value (0..1) -->
+        <limits min="0.0" max="1.0" />
+        <!-- How long does it take for the overcast to change from one value to another (time in seconds) -->
+        <timelimits min="900" max="1800" />
+        <!-- How much should the overcast change (0..1) -->
+        <changelimits min="0.0" max="1.0" />
+    </overcast>
+    <fog>
+        <!-- Initial conditions of the fog (target value, time to change, how long will it stay) -->
+        <current actual="0.1" time="120" duration="240" />
+        <!-- What is the range of the fog value (0..1) -->
+        <limits min="0.0" max="1.0" />
+        <!-- How long does it take for the fog to change from one value to another (time in seconds) -->
+        <timelimits min="900" max="1800" />
+        <!-- How much should the fog change (0..1) -->
+        <changelimits min="0.0" max="1.0" />
+    </fog>
+    <rain>
+        <!-- Initial conditions of the rain (target value, time to change, how long will it stay), restricted by thresholds (see below) -->
+        <current actual="0.2" time="120" duration="240" /> <!-- Adjusted rain value to 0.2 (less rain) -->
+        <!-- What is the range of the rain value (0..1) -->
+        <limits min="0.0" max="1.0" />
+        <!-- How long does it take for the rain to change from one value to another (time in seconds) -->
+        <timelimits min="300" max="600" />
+        <!-- How much should the rain change (0..1) -->
+        <changelimits min="0.0" max="1.0" />
+    </rain>
+</weather>

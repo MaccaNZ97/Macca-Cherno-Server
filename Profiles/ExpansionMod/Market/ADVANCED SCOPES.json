@@ -150,39 +150,6 @@
       "Variants": []
     },
     {
-      "ClassName": "ad_leupoldmk4",
-      "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3250,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 110,
-      "MinStockThreshold": 20,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "ad_leupoldmk4_b13",
-      "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3250,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 110,
-      "MinStockThreshold": 20,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "ad_leupoldmk4_mosinmount",
-      "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3250,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 110,
-      "MinStockThreshold": 20,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "ad_m16a2",
       "MaxPriceThreshold": 3500,
       "MinPriceThreshold": 3250,

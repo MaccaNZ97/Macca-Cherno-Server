@@ -1,0 +1,66 @@
+{
+    "version": "3",
+    "isInitialized": 1,
+    "destroyDefibrillatorAfterUsage": 0,
+    "deleteDeadBodyTimeWhenHealedByPlayer": 5.0,
+    "minTimeBeforeKillButton": 5,
+    "revive": {
+        "maxWounds": 5,
+        "minWounds": 1,
+        "health": 0.5,
+        "blood": 0.5,
+        "shock": 0.0
+    },
+    "enableHospital": 0,
+    "minTimeBeforeHospital": 10,
+    "priceForReviveInHospital": 20000,
+    "reviveHospital": {
+        "maxWounds": 0,
+        "minWounds": 0,
+        "health": 1.0,
+        "blood": 1.0,
+        "shock": 1.0
+    },
+    "hospitalSpawnPoints": [
+        {
+            "id": "wk45kc8500",
+            "orientation": [
+                78.381,
+                0.0,
+                0.0
+            ],
+            "point": [
+                7435.18,
+                16.0786,
+                2208.01
+            ]
+        },
+        {
+            "id": "wk45kc8501",
+            "orientation": [
+                78.381,
+                0.0,
+                0.0
+            ],
+            "point": [
+                7435.18,
+                16.0786,
+                2208.01
+            ]
+        },
+        {
+            "id": "wk45kc8502",
+            "orientation": [
+                78.381,
+                0.0,
+                0.0
+            ],
+            "point": [
+                7435.18,
+                16.0786,
+                2208.01
+            ]
+        }
+
+    ]
+}

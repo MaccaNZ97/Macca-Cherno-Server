@@ -246,7 +246,7 @@
     <item name="RDG5Grenade" chance="0.25" />
   </cargo>
   <attachments chance="0.60" name="close_range_optics">
-    <item name="BO_Holosun_HS510C_Optic" chance="0.125" />
+    <item name="SNAFU_AKWalther" chance="0.125" />
     <item name="BO_VortexAMG_UH1_Optic" chance="0.125" />
     <item name="BO_RMR_Black" chance="0.125" />
     <item name="BO_RMR_FDE" chance="0.125" />
@@ -278,10 +278,7 @@
   </attachments>
   <attachments chance="0.60" name="long_range_scopes">
     <item name="HuntingOptic" chance="0.50" />
-    <item name="BO_HMOptic" chance="0.125" />
-    <item name="BO_LeupoldMk4" chance="0.125" />
-    <item name="BO_ShmidtBender25" chance="0.125" />
-    <item name="BO_Sight_4_6" chance="0.125" />
+    <item name="AD_LeupoldMk4_B13" chance="1" />
   </attachments>
   <attachments chance="0.60" name="hunting_scopes">
     <item name="HuntingOptic" chance="0.75" />

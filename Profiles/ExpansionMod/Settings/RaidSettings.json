@@ -43,6 +43,7 @@
   "LockRaidToolCycles": 5,
   "LockRaidToolDamagePercent": 100.0,
   "CanRaidLocksOnContainers": 0,
+  "LockOnContainerRaidUseSchedule": 1,
   "LockOnContainerRaidTools": [
     "ExpansionPropaneTorch"
   ],

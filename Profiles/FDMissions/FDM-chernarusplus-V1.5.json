@@ -12,15 +12,15 @@
     "minTimeBetweenMissions": 180.0,
     "notificationicon": "set:dayz_inventory image:Ambush",
     "mapMarkerPrefix": "[Umbrella Corp]",
-    "missionEndMsg": "Mission Name has been completed",
-    "missionFailMsg": "Nobody Cared about Mission Name",
+    "missionEndMsg": "Mission  has been completed",
+    "missionFailMsg": "Nobody Cared about Mission",
     "timeDespawn": 1500.0,
     "timeStart": 120.0,
     "timeSpawn": 180.0,
     "timeZoneCooldown": 120.0,
     "minPlayerCount": 1,
     "maxEnemyCount": 20,
-    "minEnemyCount": 30,
+    "minEnemyCount": 10,
     "enemyDeadToWin": 4,
     "maxMissions": 1,
     "rewardCount": 4,
@@ -50,7 +50,7 @@
     "lootSets": [],
     "zones": [
         {
-            "zoneName": "Operation Mockingbird",
+            "zoneName": "Operation Mockingbird (Pavlovo Very Hard)",
             "zonePosition": [
                 2125.860107421875,
                 91.60489654541016,
@@ -58,16 +58,16 @@
             ],
             "zoneRadius": 10,
             "enemySpawnRadius": 10,
-            "startMsg": "Operation Mockingbird Starting",
-            "missionEndMsg": "Operation Mockingbird",
-            "missionFailMsg": "Operation Mockingbird",
+            "startMsg": "Umbrella Supply Drop Seen  at Pavalovo, Need PMC's to  destroy the Supplies. Area is in Gas zone however scouts have spotted a Novator there for the taking",
+            "missionEndMsg": "Operation Mockingbird Sucessfull recovered supplies and Novator",
+            "missionFailMsg": "Operation Mockingbird failed Umbrella Corp drove off with the supplies!",
             "notificationicon": "",
             "mapMarkerPrefix": "",
             "timeDespawn": -1.0,
             "timeStart": -1.0,
-            "maxEnemyCount": -1,
-            "minEnemyCount": -1,
-            "enemyDeadToWin": -1,
+            "maxEnemyCount": 20,
+            "minEnemyCount": 20,
+            "enemyDeadToWin": 25,
             "rewardCount": -1,
             "aicanBeLooted": 1,
             "aiunlimitedReload": -1,
@@ -78,24 +78,24 @@
             "aiaccuracyMax": -1.0,
             "aithreatDistanceLimit": -1.0,
             "aidamageMultiplier": -1.0,
-            "ainumberOfAI": -1,
+            "ainumberOfAI": 5,
             "aiSpawnDistance": -1.0,
-            "ailoadout": "",
+            "ailoadout": "NBCFullLOadout",
             "vehicles": [
                 {
-                    "classname": "expansion_landrover",
-                    "attachment1": "expansion_landrover_wheel",
-                    "attachment2": "expansion_landrover_wheel",
-                    "attachment3": "expansion_landrover_wheel",
-                    "attachment4": "expansion_landrover_wheel",
-                    "attachment5": "expansion_landrover_wheel",
-                    "attachment6": "carbattery",
-                    "attachment7": "carradiator",
+                    "classname": "ua_novator",
+                    "attachment1": "ua_novator_doors_driver",
+                    "attachment2": "Wrench",
+                    "attachment3": "CanistorGasoline",
+                    "attachment4": "ua_novator_doors_codriver",
+                    "attachment5": "ua_novator_doors_cargo1",
+                    "attachment6": "ua_novator_doors_cargo2",
+                    "attachment7": "ua_novator_doors_trunk",
                     "attachment8": "sparkplug",
-                    "attachment9": "expansion_landrover_hood",
-                    "attachment10": "expansion_landrover_trunk",
-                    "attachment11": "expansion_landrover_driverdoor",
-                    "attachment12": "expansion_landrover_codriverdoor",
+                    "attachment9": "ua_novator_doors_hood",
+                    "attachment10": "ua_novator_f_wheel",
+                    "attachment11": "ua_novator_f_wheel",
+                    "attachment12": "ua_novator_r_wheel",
                     "position": [
                         -0.0,
                         0.0,
@@ -129,170 +129,15 @@
                     "placeOnSurface": 1
                 }
             ],
-            "enemies": [],
+            "enemies": [
+                "CDAJ_ZmbM_NBC_Green",
+                "CDAJ_ZmbM_NBC_Rainbow",
+                "CDAJ_ZmbM_NBC_Red",
+                "CDAJ_ZmbM_NBC_Space"
+            ],
             "lootCrate": "",
             "crateLifeTime": -1,
             "lootSets": []
-        },
-        {
-            "zoneName": "Land_Wreck_C130J_Cargo",
-            "zonePosition": [
-                13682.900390625,
-                1.510849952697754,
-                11207.0
-            ],
-            "zoneRadius": 10,
-            "enemySpawnRadius": 10,
-            "startMsg": "Land_Wreck_C130J_Cargo Starting",
-            "missionEndMsg": "",
-            "missionFailMsg": "",
-            "notificationicon": "",
-            "mapMarkerPrefix": "",
-            "timeDespawn": -1.0,
-            "timeStart": -1.0,
-            "maxEnemyCount": -1,
-            "minEnemyCount": -1,
-            "enemyDeadToWin": -1,
-            "rewardCount": -1,
-            "aicanBeLooted": 1,
-            "aiunlimitedReload": -1,
-            "aimovementSpeedLimit": -1.0,
-            "aimovementThreatSpeedLimit": -1.0,
-            "aisniperProneDistanceThreshold": -1.0,
-            "aiaccuracyMin": -1.0,
-            "aiaccuracyMax": -1.0,
-            "aithreatDistanceLimit": -1.0,
-            "aidamageMultiplier": -1.0,
-            "ainumberOfAI": -1,
-            "aiSpawnDistance": -1.0,
-            "ailoadout": "",
-            "vehicles": [
-                {
-                    "classname": "expansion_landrover",
-                    "attachment1": "expansion_landrover_wheel",
-                    "attachment2": "expansion_landrover_wheel",
-                    "attachment3": "expansion_landrover_wheel",
-                    "attachment4": "expansion_landrover_wheel",
-                    "attachment5": "expansion_landrover_wheel",
-                    "attachment6": "carbattery",
-                    "attachment7": "carradiator",
-                    "attachment8": "sparkplug",
-                    "attachment9": "expansion_landrover_hood",
-                    "attachment10": "expansion_landrover_trunk",
-                    "attachment11": "expansion_landrover_driverdoor",
-                    "attachment12": "expansion_landrover_codriverdoor",
-                    "position": [
-                        -0.0,
-                        0.0,
-                        -0.0
-                    ],
-                    "orientation": [
-                        350.1972961425781,
-                        291.1734313964844,
-                        0.0
-                    ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                }
-            ],
-            "objects": [
-                {
-                    "classname": "Land_Wreck_C130J_Cargo",
-                    "position": [
-                        13.852505683898926,
-                        4.413084506988525,
-                        4.6676530838012699
-                    ],
-                    "orientation": [
-                        -116.99996185302735,
-                        -2.204482316970825,
-                        -3.1574180126190187
-                    ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                },
-                {
-                    "classname": "Wreck_UH1Y",
-                    "position": [
-                        2.924779176712036,
-                        2.635476589202881,
-                        28.147136688232423
-                    ],
-                    "orientation": [
-                        0.0,
-                        -0.0,
-                        -0.0
-                    ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                },
-                {
-                    "classname": "ExpansionAirdropParticle",
-                    "position": [
-                        9.123990058898926,
-                        -0.16833579540252686,
-                        2.0172696113586427
-                    ],
-                    "orientation": [
-                        0.0,
-                        -0.0,
-                        -0.0
-                    ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                },
-                {
-                    "classname": "FDM_Box",
-                    "position": [
-                        2.0321996212005617,
-                        0.14995241165161134,
-                        -5.816722869873047
-                    ],
-                    "orientation": [
-                        0.0,
-                        -0.0,
-                        -0.0
-                    ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                },
-                {
-                    "classname": "FDM_Box",
-                    "position": [
-                        -1.1543231010437012,
-                        0.4951343536376953,
-                        4.8883562088012699
-                    ],
-                    "orientation": [
-                        0.0,
-                        -0.0,
-                        -0.0
-                    ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                }
-            ],
-            "enemies": [
-                "ZmbM_NBC_Grey",
-                "ZmbM_NBC_Yellow",
-                "CDAJ_ZmbM_NBC_Red",
-                "CDAJ_ZmbM_NBC_BlueLight",
-                "CDAJ_ZmbM_NBC_Rainbow"
-            ],
-            "lootCrate": "",
-            "crateLifeTime": -1,
-            "lootSets": [
-                "LootSet3_Snafu",
-                "LootSet4_Snafu",
-                "LootSet5_Medical",
-                "looset2_AMMO"
-            ]
         },
         {
             "zoneName": "Bandit Camp",
@@ -303,16 +148,16 @@
             ],
             "zoneRadius": 10,
             "enemySpawnRadius": 10,
-            "startMsg": "Bandit Camp Starting",
-            "missionEndMsg": "Bandit Camp Ended",
-            "missionFailMsg": "Bandit Camp",
+            "startMsg": "Alert Bandit Camp discovered with stolen Nato Supplies. Easy Mission",
+            "missionEndMsg": "Bandit Camp supplies successfully Recovered",
+            "missionFailMsg": "Mission Failed, Bandits successfully sold supplies to Umbrella Corp",
             "notificationicon": "",
             "mapMarkerPrefix": "",
             "timeDespawn": -1.0,
             "timeStart": -1.0,
-            "maxEnemyCount": -1,
-            "minEnemyCount": -1,
-            "enemyDeadToWin": -1,
+            "maxEnemyCount": 10,
+            "minEnemyCount": 10,
+            "enemyDeadToWin": 15,
             "rewardCount": -1,
             "aicanBeLooted": 1,
             "aiunlimitedReload": -1,
@@ -323,39 +168,10 @@
             "aiaccuracyMax": -1.0,
             "aithreatDistanceLimit": -1.0,
             "aidamageMultiplier": -1.0,
-            "ainumberOfAI": -1,
+            "ainumberOfAI": 5,
             "aiSpawnDistance": -1.0,
-            "ailoadout": "UmbrellaLoadoutspecops",
-            "vehicles": [
-                {
-                    "classname": "expansion_landrover",
-                    "attachment1": "expansion_landrover_wheel",
-                    "attachment2": "expansion_landrover_wheel",
-                    "attachment3": "expansion_landrover_wheel",
-                    "attachment4": "expansion_landrover_wheel",
-                    "attachment5": "expansion_landrover_wheel",
-                    "attachment6": "carbattery",
-                    "attachment7": "carradiator",
-                    "attachment8": "sparkplug",
-                    "attachment9": "expansion_landrover_hood",
-                    "attachment10": "expansion_landrover_trunk",
-                    "attachment11": "expansion_landrover_driverdoor",
-                    "attachment12": "expansion_landrover_codriverdoor",
-                    "position": [
-                        -5.0,
-                        0.0,
-                        -5.0
-                    ],
-                    "orientation": [
-                        51.395931243896487,
-                        343.40692138671877,
-                        0.0
-                    ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                }
-            ],
+            "ailoadout": "banditloadout",
+            "vehicles": [],
             "objects": [
                 {
                     "classname": "Campfire_WithHeat",
@@ -556,92 +372,7 @@
             "lootSets": []
         },
         {
-            "zoneName": "Military Compound",
-            "zonePosition": [
-                4719.60546875,
-                339.67266845703127,
-                9788.0732421875
-            ],
-            "zoneRadius": 10,
-            "enemySpawnRadius": 10,
-            "startMsg": "Military Compound Starting",
-            "missionEndMsg": "Military Compound",
-            "missionFailMsg": "Military Compound",
-            "notificationicon": "",
-            "mapMarkerPrefix": "",
-            "timeDespawn": -1.0,
-            "timeStart": -1.0,
-            "maxEnemyCount": -1,
-            "minEnemyCount": -1,
-            "enemyDeadToWin": -1,
-            "rewardCount": -1,
-            "aicanBeLooted": 1,
-            "aiunlimitedReload": -1,
-            "aimovementSpeedLimit": -1.0,
-            "aimovementThreatSpeedLimit": -1.0,
-            "aisniperProneDistanceThreshold": -1.0,
-            "aiaccuracyMin": -1.0,
-            "aiaccuracyMax": -1.0,
-            "aithreatDistanceLimit": -1.0,
-            "aidamageMultiplier": -1.0,
-            "ainumberOfAI": -1,
-            "aiSpawnDistance": -1.0,
-            "ailoadout": "UmbrellaLoadoutspecops",
-            "vehicles": [
-                {
-                    "classname": "expansion_landrover",
-                    "attachment1": "expansion_landrover_wheel",
-                    "attachment2": "expansion_landrover_wheel",
-                    "attachment3": "expansion_landrover_wheel",
-                    "attachment4": "expansion_landrover_wheel",
-                    "attachment5": "expansion_landrover_wheel",
-                    "attachment6": "carbattery",
-                    "attachment7": "carradiator",
-                    "attachment8": "sparkplug",
-                    "attachment9": "expansion_landrover_hood",
-                    "attachment10": "expansion_landrover_trunk",
-                    "attachment11": "expansion_landrover_driverdoor",
-                    "attachment12": "expansion_landrover_codriverdoor",
-                    "position": [
-                        -5.0,
-                        0.0,
-                        -5.0
-                    ],
-                    "orientation": [
-                        291.09307861328127,
-                        46.62789535522461,
-                        0.0
-                    ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                }
-            ],
-            "objects": [
-                {
-                    "classname": "StaticObj_ammoboxes_big",
-                    "position": [
-                        5.0,
-                        0.0,
-                        5.0
-                    ],
-                    "orientation": [
-                        241.98548889160157,
-                        12.17003345489502,
-                        0.0
-                    ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                }
-            ],
-            "enemies": [],
-            "lootCrate": "",
-            "crateLifeTime": -1,
-            "lootSets": []
-        },
-        {
-            "zoneName": "Zeleno Fort Umbrella Corp",
+            "zoneName": "Zeleno Fort Umbrella Corp (Expert/Group",
             "zonePosition": [
                 1441.4200439453126,
                 172.20199584960938,
@@ -649,16 +380,16 @@
             ],
             "zoneRadius": 10,
             "enemySpawnRadius": 10,
-            "startMsg": "Zeleno Fort Starting",
-            "missionEndMsg": "Zeleno Fort Umbrella Corp",
-            "missionFailMsg": "Zeleno Fort Umbrella Corp",
+            "startMsg": "Umbrella Corporations Spotted with Gryocopter at Zeno Fort. Kill all hostiles recover supplies and get a Grycopter",
+            "missionEndMsg": "PMC's successfully killed all hostile operatives and recovered Gryocopter",
+            "missionFailMsg": "Zeleno Fort Mission failed supplies and Grycopter not recovered in time!",
             "notificationicon": "Skull 1",
             "mapMarkerPrefix": "",
             "timeDespawn": -1.0,
             "timeStart": -1.0,
-            "maxEnemyCount": -1,
-            "minEnemyCount": -1,
-            "enemyDeadToWin": -1,
+            "maxEnemyCount": 20,
+            "minEnemyCount": 20,
+            "enemyDeadToWin": 26,
             "rewardCount": -1,
             "aicanBeLooted": 1,
             "aiunlimitedReload": -1,
@@ -671,13 +402,13 @@
             "aidamageMultiplier": -1.0,
             "ainumberOfAI": 6,
             "aiSpawnDistance": -1.0,
-            "ailoadout": "UmbrellaLoadoutspecops",
+            "ailoadout": "UmbrellaLoadout308",
             "vehicles": [
                 {
                     "classname": "expansionbiggyrocopter",
                     "attachment1": "expansionhelicopterbattery",
-                    "attachment2": "",
-                    "attachment3": "",
+                    "attachment2": "Wrench",
+                    "attachment3": "CanistorGasoline",
                     "attachment4": "",
                     "attachment5": "",
                     "attachment6": "",
@@ -729,24 +460,24 @@
             ]
         },
         {
-            "zoneName": "Ikea Riot",
+            "zoneName": "Military Road Block",
             "zonePosition": [
-                9315.66015625,
-                247.48800659179688,
-                11237.2998046875
+                5172.81005859375,
+                346.6180114746094,
+                8591.4697265625
             ],
             "zoneRadius": 10,
             "enemySpawnRadius": 10,
-            "startMsg": "Ikea Riot Starting",
-            "missionEndMsg": "Ikea Riot",
-            "missionFailMsg": "Ikea Riot",
+            "startMsg": "Umbrella Corp Road Block spotted near Kabino!. PMC's required to eliminate all hostiles.",
+            "missionEndMsg": "PMC succesfully cleared the roadblock",
+            "missionFailMsg": "Roadblock mission failed several Nato operatives killed",
             "notificationicon": "",
             "mapMarkerPrefix": "",
             "timeDespawn": -1.0,
             "timeStart": -1.0,
-            "maxEnemyCount": -1,
-            "minEnemyCount": -1,
-            "enemyDeadToWin": -1,
+            "maxEnemyCount": 0,
+            "minEnemyCount": 0,
+            "enemyDeadToWin": 6,
             "rewardCount": -1,
             "aicanBeLooted": 1,
             "aiunlimitedReload": -1,
@@ -757,225 +488,250 @@
             "aiaccuracyMax": -1.0,
             "aithreatDistanceLimit": -1.0,
             "aidamageMultiplier": -1.0,
-            "ainumberOfAI": -1,
+            "ainumberOfAI": 6,
             "aiSpawnDistance": -1.0,
-            "ailoadout": "UmbrellaLoadoutspecops",
-            "vehicles": [
-                {
-                    "classname": "OffroadHatchback",
-                    "attachment1": "hatchbackwheel",
-                    "attachment2": "hatchbackwheel",
-                    "attachment3": "hatchbackwheel",
-                    "attachment4": "hatchbackwheel",
-                    "attachment5": "hatchbackwheel",
-                    "attachment6": "carbattery",
-                    "attachment7": "carradiator",
-                    "attachment8": "sparkplug",
-                    "attachment9": "hatchbackhood",
-                    "attachment10": "hatchbacktrunk",
-                    "attachment11": "hatchbackdoors_driver",
-                    "attachment12": "hatchbackdoors_codriver",
-                    "position": [
-                        -5.0,
-                        0.0,
-                        -5.0
-                    ],
-                    "orientation": [
-                        231.08132934570313,
-                        22.856857299804689,
-                        0.0
-                    ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                }
-            ],
+            "ailoadout": "",
+            "vehicles": [],
             "objects": [
                 {
-                    "classname": "StaticObj_ammoboxes_big",
+                    "classname": "ExpansionRoadBarrierLong",
                     "position": [
-                        5.0,
-                        0.0,
-                        5.0
+                        5155.0009765625,
+                        347.146240234375,
+                        8603.2587890625
                     ],
                     "orientation": [
-                        143.1438751220703,
-                        341.4466857910156,
-                        0.0
+                        18.0,
+                        -0.5011699795722961,
+                        0.8009581565856934
                     ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                }
-            ],
-            "enemies": [],
-            "lootCrate": "",
-            "crateLifeTime": -1,
-            "lootSets": []
-        },
-        {
-            "zoneName": "Spec-Ops Camp",
-            "zonePosition": [
-                4942.376953125,
-                357.9510803222656,
-                5292.970703125
-            ],
-            "zoneRadius": 10,
-            "enemySpawnRadius": 10,
-            "startMsg": "Spec-Ops Camp Starting",
-            "missionEndMsg": "Spec-Ops Camp",
-            "missionFailMsg": "Spec-Ops Camp",
-            "notificationicon": "",
-            "mapMarkerPrefix": "",
-            "timeDespawn": -1.0,
-            "timeStart": -1.0,
-            "maxEnemyCount": -1,
-            "minEnemyCount": -1,
-            "enemyDeadToWin": -1,
-            "rewardCount": -1,
-            "aicanBeLooted": 1,
-            "aiunlimitedReload": -1,
-            "aimovementSpeedLimit": -1.0,
-            "aimovementThreatSpeedLimit": -1.0,
-            "aisniperProneDistanceThreshold": -1.0,
-            "aiaccuracyMin": -1.0,
-            "aiaccuracyMax": -1.0,
-            "aithreatDistanceLimit": -1.0,
-            "aidamageMultiplier": -1.0,
-            "ainumberOfAI": -1,
-            "aiSpawnDistance": -1.0,
-            "ailoadout": "UmbrellaLoadoutspecops",
-            "vehicles": [
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
                 {
-                    "classname": "OffroadHatchback",
-                    "attachment1": "hatchbackwheel",
-                    "attachment2": "hatchbackwheel",
-                    "attachment3": "hatchbackwheel",
-                    "attachment4": "hatchbackwheel",
-                    "attachment5": "hatchbackwheel",
-                    "attachment6": "carbattery",
-                    "attachment7": "carradiator",
-                    "attachment8": "sparkplug",
-                    "attachment9": "hatchbackhood",
-                    "attachment10": "hatchbacktrunk",
-                    "attachment11": "hatchbackdoors_driver",
-                    "attachment12": "hatchbackdoors_codriver",
+                    "classname": "ExpansionRoadBarrierLong",
                     "position": [
-                        -5.0,
-                        0.0,
-                        -5.0
+                        5164.923828125,
+                        347.0294494628906,
+                        8605.5419921875
                     ],
                     "orientation": [
-                        39.58633041381836,
-                        38.00900650024414,
-                        0.0
+                        35.99996566772461,
+                        -0.9549835324287415,
+                        -0.5051600933074951
                     ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                }
-            ],
-            "objects": [
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
                 {
-                    "classname": "StaticObj_ammoboxes_big",
+                    "classname": "ExpansionRoadBarrierLong",
                     "position": [
-                        5.0,
-                        0.0,
-                        5.0
+                        5153.9013671875,
+                        348.18670654296877,
+                        8572.0146484375
                     ],
                     "orientation": [
-                        324.8544921875,
-                        312.7670593261719,
-                        0.0
+                        0.0,
+                        -3.2037103176116945,
+                        1.6802037954330445
                     ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                }
-            ],
-            "enemies": [],
-            "lootCrate": "",
-            "crateLifeTime": -1,
-            "lootSets": []
-        },
-        {
-            "zoneName": "Military Supplies",
-            "zonePosition": [
-                2284.795166015625,
-                193.4204864501953,
-                4991.44921875
-            ],
-            "zoneRadius": 10,
-            "enemySpawnRadius": 10,
-            "startMsg": "Military Supplies Starting",
-            "missionEndMsg": "Military Supplies",
-            "missionFailMsg": "Military Supplies",
-            "notificationicon": "",
-            "mapMarkerPrefix": "",
-            "timeDespawn": -1.0,
-            "timeStart": -1.0,
-            "maxEnemyCount": -1,
-            "minEnemyCount": -1,
-            "enemyDeadToWin": -1,
-            "rewardCount": -1,
-            "aicanBeLooted": 1,
-            "aiunlimitedReload": -1,
-            "aimovementSpeedLimit": -1.0,
-            "aimovementThreatSpeedLimit": -1.0,
-            "aisniperProneDistanceThreshold": -1.0,
-            "aiaccuracyMin": -1.0,
-            "aiaccuracyMax": -1.0,
-            "aithreatDistanceLimit": -1.0,
-            "aidamageMultiplier": -1.0,
-            "ainumberOfAI": -1,
-            "aiSpawnDistance": -1.0,
-            "ailoadout": "UmbrellaLoadoutspecops",
-            "vehicles": [
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
                 {
-                    "classname": "OffroadHatchback",
-                    "attachment1": "hatchbackwheel",
-                    "attachment2": "hatchbackwheel",
-                    "attachment3": "hatchbackwheel",
-                    "attachment4": "hatchbackwheel",
-                    "attachment5": "hatchbackwheel",
-                    "attachment6": "carbattery",
-                    "attachment7": "carradiator",
-                    "attachment8": "sparkplug",
-                    "attachment9": "hatchbackhood",
-                    "attachment10": "hatchbacktrunk",
-                    "attachment11": "hatchbackdoors_driver",
-                    "attachment12": "hatchbackdoors_codriver",
+                    "classname": "ExpansionRoadBarrierLong",
                     "position": [
-                        -5.0,
-                        0.0,
-                        -5.0
+                        5158.1171875,
+                        347.7694091796875,
+                        8582.1650390625
                     ],
                     "orientation": [
-                        43.54781723022461,
-                        62.47071075439453,
-                        0.0
+                        0.0,
+                        -1.5272213220596314,
+                        0.840165913105011
                     ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                }
-            ],
-            "objects": [
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
                 {
-                    "classname": "StaticObj_ammoboxes_big",
+                    "classname": "ExpansionRoadBarrierLong",
                     "position": [
-                        5.0,
-                        0.0,
-                        5.0
+                        5166.28662109375,
+                        347.6422424316406,
+                        8582.5576171875
                     ],
                     "orientation": [
-                        44.89124298095703,
-                        319.7773742675781,
+                        -81.00000762939453,
+                        0.7056375741958618,
+                        1.8901996612548829
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Wreck_Uaz",
+                    "position": [
+                        5143.14453125,
+                        347.672607421875,
+                        8611.744140625
+                    ],
+                    "orientation": [
+                        -80.9999771118164,
+                        1.4099265336990357,
+                        -1.091468334197998
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "StaticObj_Wreck_HMMWV",
+                    "position": [
+                        5135.66943359375,
+                        347.8866271972656,
+                        8614.0478515625
+                    ],
+                    "orientation": [
+                        -81.00000762939453,
+                        0.504677414894104,
+                        -1.234800934791565
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Wreck_offroad02_aban1_DE",
+                    "position": [
+                        5128.1298828125,
+                        348.90338134765627,
+                        8616.740234375
+                    ],
+                    "orientation": [
+                        -72.00000762939453,
+                        -1.9999998807907105,
                         0.0
                     ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_wreck_hmmwv",
+                    "position": [
+                        5118.3857421875,
+                        347.69744873046877,
+                        8612.83203125
+                    ],
+                    "orientation": [
+                        -89.99995422363281,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Wreck_UH1Y",
+                    "position": [
+                        5132.33349609375,
+                        348.9165954589844,
+                        8627.970703125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "StaticObj_Roadblock_Pillbox",
+                    "position": [
+                        5166.0546875,
+                        347.335693359375,
+                        8588.1455078125
+                    ],
+                    "orientation": [
+                        144.00003051757813,
+                        1.7625826597213746,
+                        -2.5082366466522219
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "StaticObj_Roadblock_Pillbox",
+                    "position": [
+                        5167.34619140625,
+                        347.0438232421875,
+                        8598.2578125
+                    ],
+                    "orientation": [
+                        -126.0,
+                        0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "StaticObj_Misc_Barbedwire",
+                    "position": [
+                        5150.009765625,
+                        347.2724609375,
+                        8609.62109375
+                    ],
+                    "orientation": [
+                        -62.99997329711914,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "ExpansionProp_ZSU_Insurgent",
+                    "position": [
+                        5171.92626953125,
+                        348.1287536621094,
+                        8601.4765625
+                    ],
+                    "orientation": [
+                        -35.9999885559082,
+                        -0.5453215837478638,
+                        1.7180132865905762
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "ExpansionProp_2S6M_Tunguska",
+                    "position": [
+                        5176.7529296875,
+                        346.506591796875,
+                        8585.8603515625
+                    ],
+                    "orientation": [
+                        46.652366638183597,
+                        -2.740630865097046,
+                        -0.4572775065898895
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
                 }
             ],
             "enemies": [],
@@ -986,22 +742,22 @@
         {
             "zoneName": "Umbrella Supply Zone",
             "zonePosition": [
-                5590.64990234375,
-                322.3659973144531,
-                7928.52978515625
+                6329.02978515625,
+                332.7799987792969,
+                9598.2001953125
             ],
             "zoneRadius": 20,
             "enemySpawnRadius": 10,
-            "startMsg": "Umbrella Supply Zone Starting",
-            "missionEndMsg": "Umbrella Supply Zone",
-            "missionFailMsg": "Umbrella Supply Zone",
+            "startMsg": "Umbrella Corp Supply discovered, PMC's required to eliminate all hostile forces",
+            "missionEndMsg": "PMC's successfully killed all hostile operatives and recovered supplies",
+            "missionFailMsg": "Mission failed Hostiles managed to move supplies",
             "notificationicon": "Hammer",
             "mapMarkerPrefix": "",
             "timeDespawn": -1.0,
             "timeStart": -1.0,
-            "maxEnemyCount": -1,
-            "minEnemyCount": -1,
-            "enemyDeadToWin": -1,
+            "maxEnemyCount": 10,
+            "minEnemyCount": 10,
+            "enemyDeadToWin": 16,
             "rewardCount": -1,
             "aicanBeLooted": 1,
             "aiunlimitedReload": -1,
@@ -1012,39 +768,10 @@
             "aiaccuracyMax": -1.0,
             "aithreatDistanceLimit": -1.0,
             "aidamageMultiplier": -1.0,
-            "ainumberOfAI": -1,
+            "ainumberOfAI": 6,
             "aiSpawnDistance": -1.0,
-            "ailoadout": "UmbrellaLoadoutspecops",
-            "vehicles": [
-                {
-                    "classname": "OffroadHatchback",
-                    "attachment1": "hatchbackwheel",
-                    "attachment2": "hatchbackwheel",
-                    "attachment3": "hatchbackwheel",
-                    "attachment4": "hatchbackwheel",
-                    "attachment5": "hatchbackwheel",
-                    "attachment6": "carbattery",
-                    "attachment7": "carradiator",
-                    "attachment8": "sparkplug",
-                    "attachment9": "hatchbackhood",
-                    "attachment10": "hatchbacktrunk",
-                    "attachment11": "hatchbackdoors_driver",
-                    "attachment12": "hatchbackdoors_codriver",
-                    "position": [
-                        -5.0,
-                        0.0,
-                        -5.0
-                    ],
-                    "orientation": [
-                        142.24896240234376,
-                        343.2171325683594,
-                        0.0
-                    ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                }
-            ],
+            "ailoadout": "",
+            "vehicles": [],
             "objects": [
                 {
                     "classname": "bldr_mil_fortified_nest_watchtower",
@@ -1054,7 +781,7 @@
                         9589.3623046875
                     ],
                     "orientation": [
-                        -146.21865844726563,
+                        -146.21864318847657,
                         0.0,
                         0.0
                     ],
@@ -1071,7 +798,7 @@
                     ],
                     "orientation": [
                         157.29676818847657,
-                        0.3572045564651489,
+                        0.35704752802848818,
                         -2.9004666805267336
                     ],
                     "absolutePlacement": 1,
@@ -1087,7 +814,7 @@
                     ],
                     "orientation": [
                         157.3683624267578,
-                        0.3642483353614807,
+                        0.36408600211143496,
                         -2.900468587875366
                     ],
                     "absolutePlacement": 1,
@@ -1102,8 +829,8 @@
                         9635.0673828125
                     ],
                     "orientation": [
-                        -118.49832153320313,
-                        0.3214428126811981,
+                        -118.4983139038086,
+                        0.3213002383708954,
                         -2.900468587875366
                     ],
                     "absolutePlacement": 1,
@@ -1135,7 +862,7 @@
                     ],
                     "orientation": [
                         120.80119323730469,
-                        0.32542821764945986,
+                        0.32528188824653628,
                         -2.9004688262939455
                     ],
                     "absolutePlacement": 1,
@@ -1151,7 +878,7 @@
                     ],
                     "orientation": [
                         -75.54749298095703,
-                        0.3282533884048462,
+                        0.3281079828739166,
                         -2.9004666805267336
                     ],
                     "absolutePlacement": 1,
@@ -1166,8 +893,8 @@
                         9549.8515625
                     ],
                     "orientation": [
-                        -76.788818359375,
-                        0.3041609227657318,
+                        -76.78881072998047,
+                        0.3040255904197693,
                         -2.900468587875366
                     ],
                     "absolutePlacement": 1,
@@ -1177,14 +904,14 @@
                 {
                     "classname": "StaticObj_ammoboxes_big",
                     "position": [
-                        6329.02685546875,
-                        332.7797546386719,
-                        9598.2041015625
+                        6329.02978515625,
+                        332.7799987792969,
+                        9598.2001953125
                     ],
                     "orientation": [
-                        110.2237319946289,
-                        -0.0,
-                        -0.0
+                        110.2239990234375,
+                        0.0,
+                        0.0
                     ],
                     "absolutePlacement": 1,
                     "alignToTerrain": 0,
@@ -1198,7 +925,7 @@
                         9603.109375
                     ],
                     "orientation": [
-                        110.2237319946289,
+                        110.22372436523438,
                         -0.0,
                         -0.0
                     ],
@@ -1230,7 +957,7 @@
                         9590.2802734375
                     ],
                     "orientation": [
-                        110.2237319946289,
+                        110.22372436523438,
                         -0.0,
                         -0.0
                     ],
@@ -1289,16 +1016,16 @@
             ],
             "zoneRadius": 20,
             "enemySpawnRadius": 10,
-            "startMsg": "Ambulance Crash Starting",
-            "missionEndMsg": "Ambulance Crash",
-            "missionFailMsg": "Ambulance Crash",
+            "startMsg": "Nato Ambulance was ambushed by hostile forces, PMC's requried to kill all hostiles",
+            "missionEndMsg": "Ambulance Crash secured hostiles eliminated",
+            "missionFailMsg": "Ambulance Crash failed, wounded soliders have died!",
             "notificationicon": "Medic Box",
             "mapMarkerPrefix": "",
             "timeDespawn": -1.0,
             "timeStart": -1.0,
-            "maxEnemyCount": -1,
-            "minEnemyCount": -1,
-            "enemyDeadToWin": -1,
+            "maxEnemyCount": 15,
+            "minEnemyCount": 15,
+            "enemyDeadToWin": 20,
             "rewardCount": -1,
             "aicanBeLooted": 1,
             "aiunlimitedReload": -1,
@@ -1309,39 +1036,10 @@
             "aiaccuracyMax": -1.0,
             "aithreatDistanceLimit": -1.0,
             "aidamageMultiplier": -1.0,
-            "ainumberOfAI": -1,
+            "ainumberOfAI": 5,
             "aiSpawnDistance": -1.0,
             "ailoadout": "UmbrellaLoadoutspecops",
-            "vehicles": [
-                {
-                    "classname": "OffroadHatchback",
-                    "attachment1": "hatchbackwheel",
-                    "attachment2": "hatchbackwheel",
-                    "attachment3": "hatchbackwheel",
-                    "attachment4": "hatchbackwheel",
-                    "attachment5": "hatchbackwheel",
-                    "attachment6": "carbattery",
-                    "attachment7": "carradiator",
-                    "attachment8": "sparkplug",
-                    "attachment9": "hatchbackhood",
-                    "attachment10": "hatchbacktrunk",
-                    "attachment11": "hatchbackdoors_driver",
-                    "attachment12": "hatchbackdoors_codriver",
-                    "position": [
-                        -5.0,
-                        0.0,
-                        -5.0
-                    ],
-                    "orientation": [
-                        353.84637451171877,
-                        313.4613037109375,
-                        0.0
-                    ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                }
-            ],
+            "vehicles": [],
             "objects": [
                 {
                     "classname": "Land_TNL_DAmbulance",
@@ -1583,24 +1281,24 @@
             ]
         },
         {
-            "zoneName": "Refuge Camp",
+            "zoneName": "Nato Air Supply Crash",
             "zonePosition": [
-                8006.263671875,
-                339.50885009765627,
-                14627.8564453125
+                5003.1845703125,
+                339.6953125,
+                9372.30078125
             ],
             "zoneRadius": 10,
             "enemySpawnRadius": 10,
-            "startMsg": "Refuge Camp Starting",
-            "missionEndMsg": "Refuge Camp",
-            "missionFailMsg": "Refuge Camp",
+            "startMsg": "Nato Air Supply plane has crashed, PMC's needed to secure the site and eliminate all hostiles",
+            "missionEndMsg": "Nato Air Supply Crash site secured, supplies and wounded successfully recovered",
+            "missionFailMsg": "Nato Air Supply Crash site over-run by hostiles supplies are lost",
             "notificationicon": "",
             "mapMarkerPrefix": "",
             "timeDespawn": -1.0,
             "timeStart": -1.0,
-            "maxEnemyCount": -1,
-            "minEnemyCount": -1,
-            "enemyDeadToWin": -1,
+            "maxEnemyCount": 20,
+            "minEnemyCount": 20,
+            "enemyDeadToWin": 26,
             "rewardCount": -1,
             "aicanBeLooted": 1,
             "aiunlimitedReload": -1,
@@ -1611,58 +1309,3512 @@
             "aiaccuracyMax": -1.0,
             "aithreatDistanceLimit": -1.0,
             "aidamageMultiplier": -1.0,
-            "ainumberOfAI": -1,
+            "ainumberOfAI": 6,
             "aiSpawnDistance": -1.0,
             "ailoadout": "UmbrellaLoadoutspecops",
-            "vehicles": [
-                {
-                    "classname": "OffroadHatchback",
-                    "attachment1": "hatchbackwheel",
-                    "attachment2": "hatchbackwheel",
-                    "attachment3": "hatchbackwheel",
-                    "attachment4": "hatchbackwheel",
-                    "attachment5": "hatchbackwheel",
-                    "attachment6": "carbattery",
-                    "attachment7": "carradiator",
-                    "attachment8": "sparkplug",
-                    "attachment9": "hatchbackhood",
-                    "attachment10": "hatchbacktrunk",
-                    "attachment11": "hatchbackdoors_driver",
-                    "attachment12": "hatchbackdoors_codriver",
-                    "position": [
-                        -5.0,
-                        0.0,
-                        -5.0
-                    ],
-                    "orientation": [
-                        263.2555236816406,
-                        9.283347129821778,
-                        0.0
-                    ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
-                }
-            ],
+            "vehicles": [],
             "objects": [
                 {
-                    "classname": "StaticObj_ammoboxes_big",
+                    "classname": "Land_Wreck_C130J_Cargo",
                     "position": [
-                        5.0,
-                        0.0,
-                        5.0
+                        5007.33740234375,
+                        344.64556884765627,
+                        9359.619140625
                     ],
                     "orientation": [
-                        165.61451721191407,
-                        353.5793151855469,
-                        0.0
+                        0.0,
+                        -0.0,
+                        -0.0
                     ],
-                    "absolutePlacement": 0,
-                    "alignToTerrain": 1,
-                    "placeOnSurface": 1
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Wreck_Mi8_Crashed",
+                    "position": [
+                        5051.5361328125,
+                        341.12286376953127,
+                        9401.197265625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -1.4505774974822999,
+                        -1.6802035570144654
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "ExpansionWreckBmp1",
+                    "position": [
+                        5000.509765625,
+                        339.687255859375,
+                        9404.9892578125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.6877060532569885,
+                        0.38210606575012209
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
                 }
             ],
             "enemies": [],
+            "lootCrate": "",
+            "crateLifeTime": -1,
+            "lootSets": []
+        },
+        {
+            "zoneName": "Cartel Stash House",
+            "zonePosition": [
+                8294.349609375,
+                109.94100189208985,
+                12781.900390625
+            ],
+            "zoneRadius": 10,
+            "enemySpawnRadius": 10,
+            "startMsg": "NATO SPECOPS located at Cartel Stash House, seize all Drugs and equipment. Team has disabled their vehicles so you have a limited amount of time to get there!",
+            "missionEndMsg": "PMC's successfully killed all hostile operatives and seized all drug supplies",
+            "missionFailMsg": "PMC's failed to get their in time Cartel and move on",
+            "notificationicon": "",
+            "mapMarkerPrefix": "",
+            "timeDespawn": -1.0,
+            "timeStart": -1.0,
+            "maxEnemyCount": 0,
+            "minEnemyCount": 0,
+            "enemyDeadToWin": 6,
+            "rewardCount": -1,
+            "aicanBeLooted": 1,
+            "aiunlimitedReload": -1,
+            "aimovementSpeedLimit": -1.0,
+            "aimovementThreatSpeedLimit": -1.0,
+            "aisniperProneDistanceThreshold": -1.0,
+            "aiaccuracyMin": -1.0,
+            "aiaccuracyMax": -1.0,
+            "aithreatDistanceLimit": -1.0,
+            "aidamageMultiplier": -1.0,
+            "ainumberOfAI": 6,
+            "aiSpawnDistance": -1.0,
+            "ailoadout": "UmbrellaLoadoutspecops",
+            "vehicles": [],
+            "objects": [
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8307.9169921875,
+                        110.57701873779297,
+                        12760.5537109375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8299.9013671875,
+                        110.57701873779297,
+                        12760.5537109375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8286.9755859375,
+                        110.57701873779297,
+                        12760.5537109375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8278.9599609375,
+                        110.57701873779297,
+                        12760.5537109375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8270.94140625,
+                        110.57701873779297,
+                        12760.5537109375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8311.98828125,
+                        110.6301498413086,
+                        12764.5205078125
+                    ],
+                    "orientation": [
+                        -89.99995422363281,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8311.990234375,
+                        110.62999725341797,
+                        12772.5
+                    ],
+                    "orientation": [
+                        -90.0,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8311.98828125,
+                        110.6301498413086,
+                        12780.5517578125
+                    ],
+                    "orientation": [
+                        -89.99995422363281,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8311.98828125,
+                        110.6301498413086,
+                        12788.5615234375
+                    ],
+                    "orientation": [
+                        -89.99995422363281,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8311.98828125,
+                        110.6301498413086,
+                        12796.556640625
+                    ],
+                    "orientation": [
+                        -89.99995422363281,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8307.984375,
+                        110.58008575439453,
+                        12800.5751953125
+                    ],
+                    "orientation": [
+                        -179.99993896484376,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8300.21484375,
+                        110.58008575439453,
+                        12800.5751953125
+                    ],
+                    "orientation": [
+                        -179.9999237060547,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8292.228515625,
+                        110.58008575439453,
+                        12800.5751953125
+                    ],
+                    "orientation": [
+                        -179.9999237060547,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8284.458984375,
+                        110.58008575439453,
+                        12800.5751953125
+                    ],
+                    "orientation": [
+                        -179.99990844726563,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8276.4697265625,
+                        110.58008575439453,
+                        12800.5751953125
+                    ],
+                    "orientation": [
+                        -179.99989318847657,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8266.9091796875,
+                        110.51066589355469,
+                        12764.5595703125
+                    ],
+                    "orientation": [
+                        89.99995422363281,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8266.9091796875,
+                        110.51066589355469,
+                        12772.5107421875
+                    ],
+                    "orientation": [
+                        89.99995422363281,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8266.9091796875,
+                        110.51066589355469,
+                        12788.41015625
+                    ],
+                    "orientation": [
+                        89.99995422363281,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8266.9091796875,
+                        110.51066589355469,
+                        12780.458984375
+                    ],
+                    "orientation": [
+                        89.99995422363281,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8266.9091796875,
+                        110.51066589355469,
+                        12796.408203125
+                    ],
+                    "orientation": [
+                        89.99995422363281,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Wall_Tin7_8",
+                    "position": [
+                        8270.8896484375,
+                        110.58000183105469,
+                        12800.5380859375
+                    ],
+                    "orientation": [
+                        178.99993896484376,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Misc_Greenhouse",
+                    "position": [
+                        8269.6982421875,
+                        111.06094360351563,
+                        12763.12109375
+                    ],
+                    "orientation": [
+                        179.9998779296875,
+                        0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Container_1Aoh",
+                    "position": [
+                        8270.060546875,
+                        110.78740692138672,
+                        12795.01171875
+                    ],
+                    "orientation": [
+                        -90.00006866455078,
+                        0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Shed_Open_Small_Complete",
+                    "position": [
+                        8291.4990234375,
+                        111.3143081665039,
+                        12796.29296875
+                    ],
+                    "orientation": [
+                        89.99976348876953,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Shed_Open_Small_Complete",
+                    "position": [
+                        8307.8623046875,
+                        111.27794647216797,
+                        12779.8193359375
+                    ],
+                    "orientation": [
+                        179.9998779296875,
+                        0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_panels_concrete",
+                    "position": [
+                        8252.076171875,
+                        111.30982208251953,
+                        12763.8193359375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Panels_Concrete_Small",
+                    "position": [
+                        8293.48046875,
+                        109.59603118896485,
+                        12760.0
+                    ],
+                    "orientation": [
+                        90.0,
+                        -0.9999964237213135,
+                        0.9999997019767761
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Panels_Concrete_Small",
+                    "position": [
+                        8292.56640625,
+                        109.6385726928711,
+                        12764.18359375
+                    ],
+                    "orientation": [
+                        90.0,
+                        -0.9999949336051941,
+                        0.9999996423721314
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Panels_Concrete_Small",
+                    "position": [
+                        8291.787109375,
+                        109.78121185302735,
+                        12768.3408203125
+                    ],
+                    "orientation": [
+                        90.0,
+                        -0.9999935626983643,
+                        0.9999996423721314
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Panels_Concrete_Small",
+                    "position": [
+                        8290.5595703125,
+                        109.83899688720703,
+                        12772.599609375
+                    ],
+                    "orientation": [
+                        90.0,
+                        -1.499967336654663,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Wreck_Volha_Grey",
+                    "position": [
+                        8281.2724609375,
+                        110.17414855957031,
+                        12796.2353515625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Wreck_Volha_Grey",
+                    "position": [
+                        8284.7783203125,
+                        110.15151977539063,
+                        12796.1455078125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Wreck_Volha_Blue",
+                    "position": [
+                        8289.0732421875,
+                        110.20158386230469,
+                        12795.689453125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Wreck_hb02_aban1_black",
+                    "position": [
+                        8292.68359375,
+                        110.30339050292969,
+                        12795.7978515625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Wreck_sed02_aban2_red",
+                    "position": [
+                        8297.3544921875,
+                        110.22990417480469,
+                        12796.2587890625
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Wreck_sed02_aban2_grey",
+                    "position": [
+                        8301.2529296875,
+                        110.13118743896485,
+                        12795.9423828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_wreck_truck01_aban2_orange_DE",
+                    "position": [
+                        8306.91015625,
+                        109.42965698242188,
+                        12789.626953125
+                    ],
+                    "orientation": [
+                        80.9999771118164,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Wreck_hb02_aban2_red_DE",
+                    "position": [
+                        8307.478515625,
+                        110.10530853271485,
+                        12785.783203125
+                    ],
+                    "orientation": [
+                        89.99995422363281,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Wreck_hb01_aban2_white_DE",
+                    "position": [
+                        8307.400390625,
+                        110.31300354003906,
+                        12781.5
+                    ],
+                    "orientation": [
+                        85.9999771118164,
+                        0.0,
+                        -1.9999996423721314
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Wreck_hb02_aban2_blue_DE",
+                    "position": [
+                        8306.9169921875,
+                        110.08883666992188,
+                        12777.93359375
+                    ],
+                    "orientation": [
+                        96.5,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Garage_Small",
+                    "position": [
+                        8292.28515625,
+                        110.96862030029297,
+                        12763.4345703125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Shed_W5",
+                    "position": [
+                        8307.37109375,
+                        110.91069030761719,
+                        12795.9443359375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Wreck_Ikarus",
+                    "position": [
+                        8304.0517578125,
+                        110.70870208740235,
+                        12765.0771484375
+                    ],
+                    "orientation": [
+                        89.99995422363281,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_House_2W04_Yellow",
+                    "position": [
+                        8284.0,
+                        116.04396057128906,
+                        12776.7001953125
+                    ],
+                    "orientation": [
+                        -90.0,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12761.939453125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12761.939453125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12761.939453125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12761.939453125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.1484375,
+                        110.07728576660156,
+                        12763.234375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12764.4296875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12764.4296875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12764.4296875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12764.4296875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "ExpansionContainer1a",
+                    "position": [
+                        8270.2060546875,
+                        110.92023468017578,
+                        12798.462890625
+                    ],
+                    "orientation": [
+                        89.99995422363281,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12768.4140625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12768.4140625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12768.4140625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Misc_Greenhouse",
+                    "position": [
+                        8269.6982421875,
+                        111.06094360351563,
+                        12767.10546875
+                    ],
+                    "orientation": [
+                        179.9998779296875,
+                        0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12765.923828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12765.923828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12765.923828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12765.923828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.1484375,
+                        110.07728576660156,
+                        12767.21875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12768.4140625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12772.3984375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12772.3984375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12772.3984375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Misc_Greenhouse",
+                    "position": [
+                        8269.6982421875,
+                        111.06094360351563,
+                        12771.08984375
+                    ],
+                    "orientation": [
+                        179.9998779296875,
+                        0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12769.908203125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12769.908203125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12769.908203125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12769.908203125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.1484375,
+                        110.07728576660156,
+                        12771.203125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12772.3984375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12776.3828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12776.3828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12776.3828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Misc_Greenhouse",
+                    "position": [
+                        8269.6982421875,
+                        111.06094360351563,
+                        12775.07421875
+                    ],
+                    "orientation": [
+                        179.9998779296875,
+                        0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12773.892578125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12773.892578125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12773.892578125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12773.892578125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.1484375,
+                        110.07728576660156,
+                        12775.1875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12776.3828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12780.373046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12780.373046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Misc_Greenhouse",
+                    "position": [
+                        8269.6982421875,
+                        111.06094360351563,
+                        12779.064453125
+                    ],
+                    "orientation": [
+                        179.9998779296875,
+                        0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12777.8828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12777.8828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12777.8828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12777.8828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.1484375,
+                        110.07728576660156,
+                        12779.177734375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12780.373046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12780.373046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12780.3671875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12784.357421875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12784.357421875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Misc_Greenhouse",
+                    "position": [
+                        8269.6982421875,
+                        111.06094360351563,
+                        12783.048828125
+                    ],
+                    "orientation": [
+                        179.9998779296875,
+                        0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12781.8671875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12781.8671875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12781.8671875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12781.8671875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.1484375,
+                        110.07728576660156,
+                        12783.162109375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12784.357421875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12784.357421875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12784.3544921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12788.3447265625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12788.3447265625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Misc_Greenhouse",
+                    "position": [
+                        8269.6982421875,
+                        111.06094360351563,
+                        12787.0361328125
+                    ],
+                    "orientation": [
+                        179.9998779296875,
+                        0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12785.8544921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12785.8544921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12785.8544921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12785.8544921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.1484375,
+                        110.07728576660156,
+                        12787.1494140625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12788.3447265625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12788.3447265625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12792.3291015625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Misc_Greenhouse",
+                    "position": [
+                        8269.6982421875,
+                        111.06094360351563,
+                        12791.0205078125
+                    ],
+                    "orientation": [
+                        179.9998779296875,
+                        0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12789.8388671875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12789.8388671875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12789.8388671875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.08984375,
+                        110.07728576660156,
+                        12789.8388671875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8268.1484375,
+                        110.07728576660156,
+                        12791.1337890625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12792.3291015625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8270.08203125,
+                        110.07728576660156,
+                        12792.3291015625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8271.078125,
+                        110.07728576660156,
+                        12788.3388671875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8269.0859375,
+                        110.07728576660156,
+                        12792.3291015625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_plnt_t_malusDomestica_3s",
+                    "position": [
+                        8277.837890625,
+                        115.52079772949219,
+                        12761.5087890625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_plnt_t_malusDomestica_3s",
+                    "position": [
+                        8286.50390625,
+                        115.52079772949219,
+                        12761.5087890625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_plnt_t_pyrusCommunis_3s",
+                    "position": [
+                        8276.7822265625,
+                        115.64061737060547,
+                        12797.9169921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_plnt_t_FagusSylvatica_2f_cut",
+                    "position": [
+                        8310.19921875,
+                        115.24555969238281,
+                        12761.7099609375
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_power_pole_conc4_lamp_trail_r",
+                    "position": [
+                        8286.9296875,
+                        115.44599914550781,
+                        12769.0
+                    ],
+                    "orientation": [
+                        -179.9999542236328,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_power_pole_conc4_lamp_trail_r",
+                    "position": [
+                        8302.5380859375,
+                        112.68000030517578,
+                        12767.916015625
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_power_pole_conc4_lamp_trail_r",
+                    "position": [
+                        8287.01953125,
+                        115.13099670410156,
+                        12784.400390625
+                    ],
+                    "orientation": [
+                        -179.9999542236328,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_power_pole_conc4_lamp_trail_r",
+                    "position": [
+                        8302.5380859375,
+                        112.68000030517578,
+                        12791.822265625
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Misc_DogHouse",
+                    "position": [
+                        8286.1484375,
+                        110.58406829833985,
+                        12781.2822265625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "Land_Shed_W6",
+                    "position": [
+                        8307.1083984375,
+                        110.99028015136719,
+                        12771.7998046875
+                    ],
+                    "orientation": [
+                        90.0,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "StaticObj_Furniture_lab_teacher_bench",
+                    "position": [
+                        8304.16015625,
+                        109.66899871826172,
+                        12774.2001953125
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_workbench",
+                    "position": [
+                        8311.19921875,
+                        109.68000030517578,
+                        12771.7568359375
+                    ],
+                    "orientation": [
+                        -179.99996948242188,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.7412109375,
+                        113.25,
+                        12773.0
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99996948242188
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.7412109375,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999542236328
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.7412109375,
+                        113.25,
+                        12773.298828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999542236328
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.7412109375,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.7412109375,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999542236328
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.7412109375,
+                        113.25,
+                        12773.99609375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.7412109375,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.7412109375,
+                        113.25,
+                        12774.294921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.1396484375,
+                        113.25,
+                        12773.0
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999542236328
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.1396484375,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.1396484375,
+                        113.25,
+                        12773.298828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.1396484375,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.1396484375,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.1396484375,
+                        113.25,
+                        12773.99609375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.1396484375,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.1396484375,
+                        113.25,
+                        12774.294921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99990844726563
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_Shed_Open_Small_Complete",
+                    "position": [
+                        8274.9765625,
+                        114.5917739868164,
+                        12853.0380859375
+                    ],
+                    "orientation": [
+                        -135.00009155273438,
+                        0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.0498046875,
+                        113.25,
+                        12773.0
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999542236328
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.0498046875,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.0498046875,
+                        113.25,
+                        12773.298828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.0498046875,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.0498046875,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.0498046875,
+                        113.25,
+                        12773.99609375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.0498046875,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.0498046875,
+                        113.25,
+                        12774.294921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99990844726563
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.4482421875,
+                        113.25,
+                        12773.0
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.4482421875,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.4482421875,
+                        113.25,
+                        12773.298828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.4482421875,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99990844726563
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.4482421875,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.4482421875,
+                        113.25,
+                        12773.99609375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99990844726563
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.4482421875,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99990844726563
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8308.4482421875,
+                        113.25,
+                        12774.294921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99989318847657
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.5380859375,
+                        113.25,
+                        12773.0
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999542236328
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.5380859375,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.5380859375,
+                        113.25,
+                        12773.298828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.5380859375,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.5380859375,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.5380859375,
+                        113.25,
+                        12773.99609375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.5380859375,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.5380859375,
+                        113.25,
+                        12774.294921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99990844726563
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.9365234375,
+                        113.25,
+                        12773.0
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.9365234375,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.9365234375,
+                        113.25,
+                        12773.298828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.9365234375,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99990844726563
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.9365234375,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.9365234375,
+                        113.25,
+                        12773.99609375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99990844726563
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.9365234375,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99990844726563
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8309.9365234375,
+                        113.25,
+                        12774.294921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99989318847657
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.23828125,
+                        113.25,
+                        12773.0
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999542236328
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.23828125,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.23828125,
+                        113.25,
+                        12773.298828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.23828125,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.23828125,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.23828125,
+                        113.25,
+                        12773.99609375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.23828125,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.23828125,
+                        113.25,
+                        12774.294921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99990844726563
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.63671875,
+                        113.25,
+                        12773.0
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99993896484376
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.63671875,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.63671875,
+                        113.25,
+                        12773.298828125
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.63671875,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99990844726563
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.63671875,
+                        113.25,
+                        12773.498046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.9999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.63671875,
+                        113.25,
+                        12773.99609375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99990844726563
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.63671875,
+                        113.25,
+                        12773.796875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99990844726563
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "bldr_prop_Plant_Cannabis",
+                    "position": [
+                        8307.63671875,
+                        113.25,
+                        12774.294921875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        -179.99989318847657
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "CP_Workbench",
+                    "position": [
+                        8308.46484375,
+                        109.64546203613281,
+                        12773.76953125
+                    ],
+                    "orientation": [
+                        -89.99995422363281,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "CP_PlasticWrapper",
+                    "position": [
+                        8309.26953125,
+                        110.47899627685547,
+                        12773.7998046875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "CP_JointSkunk",
+                    "position": [
+                        8308.099609375,
+                        110.56999969482422,
+                        12773.599609375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        90.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "CP_CigarettePack_CannabisFuture",
+                    "position": [
+                        8308.4091796875,
+                        109.66989135742188,
+                        12773.27734375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.07637465745210648,
+                        1.7564857006072999
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "CP_CannabisSeedsPackKush",
+                    "position": [
+                        8306.75,
+                        109.7229995727539,
+                        12772.900390625
+                    ],
+                    "orientation": [
+                        -180.0,
+                        89.8863525390625,
+                        -89.99999237060547
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "CarBattery",
+                    "position": [
+                        8307.50390625,
+                        110.55767059326172,
+                        12773.5078125
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "CP_MediumBox",
+                    "position": [
+                        8306.3212890625,
+                        109.7153549194336,
+                        12774.0390625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "CP_SmallBox",
+                    "position": [
+                        8306.517578125,
+                        109.6857681274414,
+                        12774.287109375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                },
+                {
+                    "classname": "NetworkPointLight",
+                    "position": [
+                        8287.759765625,
+                        120.2757797241211,
+                        12784.400390625
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "absolutePlacement": 1,
+                    "alignToTerrain": 0,
+                    "placeOnSurface": 0
+                }
+            ],
+            "enemies": [
+                "Animal_CanisLupus_White",
+                "Animal_CanisLupus_Grey"
+            ],
             "lootCrate": "",
             "crateLifeTime": -1,
             "lootSets": []

@@ -18,9 +18,7 @@
         "aks74u_bttstck",
         "mag_ak74_30rnd"
       ],
-      "Variants": [
-        "bo_aks74u"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "cz61",

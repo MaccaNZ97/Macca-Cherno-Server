@@ -20,6 +20,7 @@
     </generator_params>
     <group_params>
       <enablegroups>false</enablegroups>
+      <groups_as_regular>true</groups_as_regular>
       <lifetime>0</lifetime>
       <counter>0</counter>
     </group_params>
@@ -45,6 +46,7 @@
     </generator_params>
     <group_params>
       <enablegroups>false</enablegroups>
+      <groups_as_regular>true</groups_as_regular>
       <lifetime>0</lifetime>
       <counter>0</counter>
     </group_params>
@@ -70,6 +72,7 @@
     </generator_params>
     <group_params>
       <enablegroups>false</enablegroups>
+      <groups_as_regular>false</groups_as_regular>
       <lifetime>0</lifetime>
       <counter>0</counter>
     </group_params>

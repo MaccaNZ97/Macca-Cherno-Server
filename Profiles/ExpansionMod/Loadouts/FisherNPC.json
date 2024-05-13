@@ -135,7 +135,7 @@
       "SlotName": "Legs",
       "Items": [
         {
-          "ClassName": "MVS_CombatPants_Black",
+          "ClassName": "FOG_MTF_Pants_MC",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,

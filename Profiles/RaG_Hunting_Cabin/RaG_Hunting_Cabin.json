@@ -1,0 +1,10 @@
+{
+    "CanCraftHuntingCabinKit": 1,
+    "RuinHammerAfterBuilt": 1,
+    "GiveBackMaterialsAfterDismantle": 1,
+    "GiveBackKitAfterDismantle": 1,
+    "NailAmount": 99,
+    "WoodenPlankAmount": 60,
+    "WoodenLogAmount": 20,
+    "StoneAmount": 32
+}

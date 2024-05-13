@@ -1,25 +1,25 @@
 {
-    "m_Version": 1,
-    "Enabled": 1,
-    "Weight": 374.0,
-    "MissionMaxTime": 1200,
-    "MissionName": "Random_Zelenogorsk",
-    "Difficulty": 0,
-    "Objective": 0,
-    "Reward": "",
-    "ShowNotification": 1,
-    "Height": 450.0,
-    "Speed": 25.0,
-    "Container": "ExpansionAirdropContainer_Military",
-    "FallSpeed": 0.0,
-    "DropLocation": {
-        "x": 1437.9300537109376,
-        "z": 5233.14990234375,
-        "Name": "Zelenogorsk Fort",
-        "Radius": 50.0
-    },
-    "Infected": [],
-    "ItemCount": -1,
-    "InfectedCount": -1,
-    "Loot": []
+  "m_Version": 1,
+  "Enabled": 1,
+  "Weight": 374.0,
+  "MissionMaxTime": 1200,
+  "MissionName": "Random_Zelenogorsk",
+  "Difficulty": 0,
+  "Objective": 0,
+  "Reward": "",
+  "ShowNotification": 1,
+  "Height": 450.0,
+  "Speed": 25.0,
+  "Container": "ExpansionAirdropContainer_Military",
+  "FallSpeed": 0.0,
+  "DropLocation": {
+    "x": 1437.9300537109376,
+    "z": 5233.14990234375,
+    "Name": "Zelenogorsk Fort",
+    "Radius": 50.0
+  },
+  "Loot": [],
+  "Infected": [],
+  "ItemCount": -1,
+  "InfectedCount": -1
 }

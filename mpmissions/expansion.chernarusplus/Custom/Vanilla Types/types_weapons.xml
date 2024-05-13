@@ -1785,8 +1785,15 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <usage name="Prison" />
+    <tag name="floor" />
+    <tag name="ground" />
     <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
+    <value name="Tier4" />
   </type>
   <type name="M4_T3NRDSOptic">
     <nominal>10</nominal>
@@ -1858,7 +1865,10 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
     <usage name="Military" />
+    <usage name="Prison" />
+    <value name="Tier4" />
     <value name="Unique" />
   </type>
   <type name="M9A1_Bayonet">
@@ -2404,7 +2414,7 @@
     <min>2</min>
     <quantmin>10</quantmin>
     <quantmax>100</quantmax>
-    <cost>1000</cost>
+    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />

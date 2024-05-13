@@ -73,17 +73,6 @@
       "Variants": []
     },
     {
-      "ClassName": "cattleprod",
-      "MaxPriceThreshold": 50,
-      "MinPriceThreshold": 50,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "mace",
       "MaxPriceThreshold": 150,
       "MinPriceThreshold": 150,
@@ -115,18 +104,6 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
-    },
-    {
-      "ClassName": "stunbaton",
-      "MaxPriceThreshold": 30,
-      "MinPriceThreshold": 30,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
     }
-  ],
-  "SortByDisplayName": true
+  ]
 }

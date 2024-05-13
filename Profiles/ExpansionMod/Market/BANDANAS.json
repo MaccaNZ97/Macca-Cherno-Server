@@ -7,23 +7,6 @@
   "IsExchange": 0,
   "Items": [
     {
-      "ClassName": "bandana_blue",
-      "MaxPriceThreshold": 12,
-      "MinPriceThreshold": 12,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "bandana_pink",
-        "bandana_yellow",
-        "bandana_redpattern",
-        "bandana_blackpattern",
-        "bandana_polkapattern"
-      ]
-    },
-    {
       "ClassName": "bandana_camopattern",
       "MaxPriceThreshold": 20,
       "MinPriceThreshold": 20,
@@ -45,6 +28,5 @@
       "SpawnAttachments": [],
       "Variants": []
     }
-  ],
-  "SortByDisplayName": true
+  ]
 }

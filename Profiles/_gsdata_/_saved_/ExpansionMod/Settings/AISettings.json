@@ -1,0 +1,23 @@
+{
+    "m_Version": 9,
+    "AccuracyMin": 0.30000001192092898,
+    "AccuracyMax": 0.44999998807907107,
+    "ThreatDistanceLimit": 1000.0,
+    "NoiseInvestigationDistanceLimit": 500.0,
+    "DamageMultiplier": 0.75,
+    "DamageReceivedMultiplier": 1.0,
+    "Admins": [
+        "76561197973441834"
+    ],
+    "MaximumDynamicPatrols": 35,
+    "Vaulting": 1,
+    "SniperProneDistanceThreshold": 800.0,
+    "Manners": 1,
+    "MemeLevel": 0,
+    "CanRecruitFriendly": 1,
+    "CanRecruitGuards": 1,
+    "PreventClimb": [],
+    "PlayerFactions": [
+        "West"
+    ]
+}

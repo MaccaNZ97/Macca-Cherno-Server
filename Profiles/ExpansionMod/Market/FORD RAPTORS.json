@@ -23,7 +23,7 @@
         "blacks_fordraptor_arrow_hood",
         "blacks_fordraptor_arrow_wheel",
         "glowplug",
-        "maverick12v",
+        "mavericks12v",
         "carradiator",
         "headlighth7",
         "headlighth7",
@@ -223,7 +223,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [
-        "sparkplug",
+        "glowplug",
         "mavericks12v",
         "carradiator",
         "headlighth7",
@@ -373,7 +373,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [
-        "sparkplug",
+        "glowplug",
         "mavericks12v",
         "carradiator",
         "headlighth7",
@@ -461,7 +461,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [
-        "sparkplug",
+        "glowplug",
         "mavericks12v",
         "carradiator",
         "headlighth7",
@@ -501,7 +501,7 @@
         "blacks_fordraptor_clawz_wheel",
         "blacks_fordraptor_clawz_wheel",
         "glowplug",
-        "maverick12v",
+        "mavericks12v",
         "carradiator",
         "headlighth7",
         "headlighth7"
@@ -529,7 +529,7 @@
         "blacks_fordraptor_dragon_wheel",
         "blacks_fordraptor_dragon_wheel",
         "glowplug",
-        "maverick12v",
+        "mavericks12v",
         "carradiator",
         "headlighth7",
         "headlighth7"
@@ -557,7 +557,7 @@
         "blacks_fordraptor_groot_wheel",
         "blacks_fordraptor_groot_wheel",
         "glowplug",
-        "maverick12v",
+        "mavericks12v",
         "carradiator",
         "headlighth7",
         "headlighth7"
@@ -585,7 +585,7 @@
         "blacks_fordraptor_groot2_wheel",
         "blacks_fordraptor_groot2_wheel",
         "glowplug",
-        "maverick12v",
+        "mavericks12v",
         "carradiator",
         "headlighth7",
         "headlighth7"
@@ -613,7 +613,7 @@
         "blacks_fordraptor_lightning_wheel",
         "blacks_fordraptor_lightning_wheel",
         "glowplug",
-        "maverick12v",
+        "mavericks12v",
         "carradiator",
         "headlighth7",
         "headlighth7"
@@ -641,7 +641,7 @@
         "blacks_fordraptor_solar_wheel",
         "blacks_fordraptor_solar_wheel",
         "glowplug",
-        "maverick12v",
+        "mavericks12v",
         "carradiator",
         "headlighth7",
         "headlighth7"
@@ -669,7 +669,7 @@
         "blacks_fordraptor_stand_wheel",
         "blacks_fordraptor_stand_wheel",
         "glowplug",
-        "maverick12v",
+        "mavericks12v",
         "carradiator",
         "headlighth7",
         "headlighth7"
@@ -697,7 +697,7 @@
         "blacks_fordraptor_swoosh_wheel",
         "blacks_fordraptor_swoosh_wheel",
         "glowplug",
-        "maverick12v",
+        "mavericks12v",
         "carradiator",
         "headlighth7",
         "headlighth7"
@@ -725,7 +725,7 @@
         "blacks_fordraptor_torn_wheel",
         "blacks_fordraptor_torn_wheel",
         "glowplug",
-        "maverick12v",
+        "mavericks12v",
         "carradiator",
         "headlighth7",
         "headlighth7"
@@ -753,7 +753,7 @@
         "blacks_fordraptor_unciv_wheel",
         "blacks_fordraptor_unciv_wheel",
         "glowplug",
-        "maverick12v",
+        "mavericks12v",
         "carradiator",
         "headlighth7",
         "headlighth7"
@@ -866,11 +866,11 @@
         "fordraptor_scorpio_black_cargo2",
         "fordraptor_scorpio_black_trunk",
         "fordraptor_scorpio_black_hood",
-        "fordraptor_scorpio_black_wheel",
-        "fordraptor_scorpio_black_wheel",
-        "fordraptor_scorpio_black_wheel",
-        "fordraptor_scorpio_black_wheel",
-        "fordraptor_scorpio_black_wheel"
+        "fordraptor_scorpio_wheel_black",
+        "fordraptor_scorpio_wheel_black",
+        "fordraptor_scorpio_wheel_black",
+        "fordraptor_scorpio_wheel_black",
+        "fordraptor_scorpio_wheel_black"
       ],
       "Variants": []
     },

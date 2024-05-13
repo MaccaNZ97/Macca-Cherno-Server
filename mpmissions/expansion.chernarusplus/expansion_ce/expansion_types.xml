@@ -193,13 +193,8 @@
     <usage name="Police" />
   </type>
   <type name="AmmoBox_Expansion_338_15rnd">
-    <nominal>10</nominal>
     <lifetime>10800</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
@@ -2096,98 +2091,49 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="donot_spawn" />
+    <category name="vehicles" />
   </type>
   <type name="Expansion_Landrover_Codriverdoor">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Codriverdoor_Blue">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Codriverdoor_Green">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Codriverdoor_Grey">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Codriverdoor_Orange">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Codriverdoor_Red">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Codriverdoor_Yellow">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_LandRover_Cover">
     <lifetime>3888000</lifetime>
@@ -2195,95 +2141,46 @@
     <category name="donot_spawn" />
   </type>
   <type name="Expansion_Landrover_Driverdoor">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Driverdoor_Blue">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Driverdoor_Green">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Driverdoor_Grey">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Driverdoor_Orange">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Driverdoor_Red">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Driverdoor_Yellow">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Green">
     <nominal>0</nominal>
@@ -2306,186 +2203,88 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Expansion_Landrover_Hood">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Hood_Blue">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Hood_Green">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Hood_Grey">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Hood_Orange">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Hood_Red">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Hood_Yellow">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Left">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Left_Blue">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Left_Green">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Left_Grey">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Left_Orange">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Left_Red">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Left_Yellow">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Orange">
     <nominal>0</nominal>
@@ -2508,290 +2307,136 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="Expansion_Landrover_Right">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Right_Blue">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Right_Green">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Right_Grey">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Right_Orange">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Right_Red">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Right_Yellow">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Trunk">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Trunk_Blue">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Trunk_Green">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Trunk_Grey">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Trunk_Orange">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Trunk_Red">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Trunk_Yellow">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Wheel">
-    <nominal>25</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>10</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Wheel_Blue">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>10</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Wheel_Green">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>10</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Wheel_Grey">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>10</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Wheel_Orange">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>10</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Wheel_Red">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>10</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Wheel_Ruined">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Wheel_Yellow">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>10</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Landrover_Yellow">
     <nominal>0</nominal>
@@ -2873,784 +2518,364 @@
     <value name="Tier2" />
   </type>
   <type name="Expansion_Mh6_Door_1_1">
-    <nominal>5</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_Blueline">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_Digital">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_Elliptical">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_Furious">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_GrayWatcher">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_Jeans">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_Resistance">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_Shadow">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_Sheriff">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_Speedy">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_Sunset">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_Vrana">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_Wasp">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_1_Wave">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2">
-    <nominal>5</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_Blueline">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_Digital">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_Elliptical">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_Furious">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_GrayWatcher">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_Jeans">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_Resistance">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_Shadow">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_Sheriff">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_Speedy">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_Sunset">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_Vrana">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_Wasp">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_1_2_Wave">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1">
-    <nominal>5</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_Blueline">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_Digital">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_Elliptical">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_Furious">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_GrayWatcher">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_Jeans">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_Resistance">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_Shadow">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_Sheriff">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_Speedy">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_Sunset">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_Vrana">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_Wasp">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_1_Wave">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2">
-    <nominal>5</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_Blueline">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_Digital">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_Elliptical">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_Furious">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_GrayWatcher">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_Jeans">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_Resistance">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_Shadow">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_Sheriff">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_Speedy">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_Sunset">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_Vrana">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_Wasp">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_Mh6_Door_2_2_Wave">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="Expansion_MP5">
     <nominal>20</nominal>
@@ -3765,10 +2990,10 @@
     <value name="Tier3" />
   </type>
   <type name="Expansion_VityazSN">
-    <nominal>20</nominal>
+    <nominal>0</nominal>
     <lifetime>10800</lifetime>
-    <restock>1200</restock>
-    <min>15</min>
+    <restock>900</restock>
+    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -3918,6 +3143,12 @@
     <category name="tools" />
     <usage name="Military" />
   </type>
+  <type name="ExpansionBarbedWireKit">
+    <lifetime>3888000</lifetime>
+    <quantmin>0</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+  </type>
   <type name="ExpansionBarrierGate">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
@@ -3935,6 +3166,17 @@
     <usage name="Hunting" />
     <usage name="Town" />
     <usage name="Village" />
+  </type>
+  <type name="expansionbiggyrocopter">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionBoltCutters">
     <nominal>0</nominal>
@@ -4209,7 +3451,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
   </type>
   <type name="ExpansionCone">
@@ -5163,7 +4405,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
   <type name="ExpansionToolBox">
     <nominal>0</nominal>
@@ -5370,199 +4612,94 @@
     <category name="vehicles" />
   </type>
   <type name="ExpansionUAZDoorCargo1">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorCargo1_Black">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorCargo1_LightGreen">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorCargo2">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorCargo2_Black">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorCargo2_LightGreen">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorCoDriver">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorCoDriver_Black">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorCoDriver_LightGreen">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorDriver">
-    <nominal>15</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>5</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorDriver_Black">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorDriver_LightGreen">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorHood">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorHood_Black">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZDoorHood_LightGreen">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUAZRoofless">
     <nominal>0</nominal>
@@ -5669,264 +4806,124 @@
     <category name="vehicles" />
   </type>
   <type name="ExpansionUh1hDoor_1_1">
-    <nominal>5</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_1_1_Civilian">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_1_1_Medical">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_1_1_Resistance">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_1_1_Uber">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_1_2">
-    <nominal>5</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_1_2_Civilian">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_1_2_Medical">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_1_2_Resistance">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_1_2_Uber">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_2_1">
-    <nominal>5</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_2_1_Civilian">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_2_1_Medical">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_2_1_Resistance">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_2_1_Uber">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_2_2">
-    <nominal>5</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_2_2_Civilian">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_2_2_Medical">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_2_2_Resistance">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hDoor_2_2_Uber">
-    <nominal>0</nominal>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
-    <tag name="floor" />
   </type>
   <type name="ExpansionUh1hWreck">
     <lifetime>120</lifetime>
@@ -6115,64 +5112,34 @@
     <category name="vehicles" />
   </type>
   <type name="Hatchback_02_Door_1_1_BanditKitty">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Hatchback_02_Door_1_2_BanditKitty">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Hatchback_02_Door_2_1_BanditKitty">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Hatchback_02_Door_2_2_BanditKitty">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Hatchback_02_Hood_BanditKitty">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Hatchback_02_Red">
     <nominal>0</nominal>
@@ -6197,16 +5164,16 @@
     <category name="vehicles" />
   </type>
   <type name="Hatchback_02_Trunk_BanditKitty">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
+  </type>
+  <type name="Macca_Garage_Sign">
+    <lifetime>3888000</lifetime>
+    <quantmin>0</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
   </type>
   <type name="Mag_Expansion_AWM_5Rnd">
     <nominal>20</nominal>
@@ -6351,6 +5318,19 @@
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
+  <type name="Mag_Vikhr_30Rnd">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
   <type name="Offroad_02_Cover">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
@@ -6421,148 +5401,76 @@
     <category name="vehicles" />
   </type>
   <type name="Sedan_02_Door_1_1_Blue">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Door_1_1_BlueRust">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Door_1_1_YellowBright">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Door_1_2_Blue">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Door_1_2_BlueRust">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Door_1_2_YellowBright">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Door_2_1_Blue">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Door_2_1_BlueRust">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Door_2_1_YellowBright">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Door_2_2_Blue">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Door_2_2_BlueRust">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Door_2_2_YellowBright">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_GreyRust">
     <nominal>0</nominal>
@@ -6576,40 +5484,22 @@
     <category name="vehicles" />
   </type>
   <type name="Sedan_02_Hood_Blue">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Hood_BlueRust">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Hood_YellowBright">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_RedRust">
     <nominal>0</nominal>
@@ -6623,40 +5513,22 @@
     <category name="vehicles" />
   </type>
   <type name="Sedan_02_Trunk_Blue">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Trunk_BlueRust">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Trunk_YellowBright">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Sedan_02_Yellow">
     <nominal>0</nominal>
@@ -6774,261 +5646,142 @@
     <category name="vehicles" />
   </type>
   <type name="Truck_01_Door_1_1_Black">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Door_1_1_Lime">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Door_1_1_Red">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Door_1_1_White">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Door_1_1_Wine">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Door_1_1_Yellow">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Door_1_1_YellowBright">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Door_2_1_Black">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Door_2_1_Lime">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Door_2_1_Red">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Door_2_1_White">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Door_2_1_Wine">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Door_2_1_Yellow">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Door_2_1_YellowBright">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Hood_Black">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Hood_Lime">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Hood_Red">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Hood_White">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Hood_Wine">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Hood_Yellow">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
   <type name="Truck_01_Hood_YellowBright">
-    <nominal>0</nominal>
     <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <usage name="Industrial" />
   </type>
-  <type name="ExpansionBarbedWireKit">
-    <lifetime>3888000</lifetime>
-    <quantmin>0</quantmin>
+  <type name="Vikhr">
+    <nominal>7</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>4</min>
+    <quantmin>30</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
   </type>
 </types>

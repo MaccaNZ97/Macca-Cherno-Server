@@ -9,7 +9,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -23,7 +23,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -37,7 +37,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -51,7 +51,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -65,7 +65,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -79,7 +79,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -93,16 +93,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="UA_Novator_7_Kacci ">
-    <nominal>0</nominal>
-    <lifetime>3888000</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="UA_Novator_2">
     <nominal>0</nominal>
@@ -113,6 +104,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="UA_Novator_2_AKPP">
     <nominal>0</nominal>
@@ -123,6 +115,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="UA_Novator_3">
     <nominal>0</nominal>
@@ -133,6 +126,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="UA_Novator_3_AKPP">
     <nominal>0</nominal>
@@ -143,6 +137,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="UA_Novator_4_DOG">
     <nominal>0</nominal>
@@ -153,6 +148,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="UA_Novator_5_Homka">
     <nominal>0</nominal>
@@ -163,6 +159,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="UA_Novator_6_Instructor">
     <nominal>0</nominal>
@@ -173,6 +170,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="UA_Novator_7_Kacci">
     <nominal>0</nominal>
@@ -183,6 +181,18 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
+  </type>
+  <type name="UA_Novator_7_Kacci ">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="UA_Novator_8_Pavlik">
     <nominal>0</nominal>
@@ -193,6 +203,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="UA_Novator_AKPP">
     <nominal>0</nominal>
@@ -203,6 +214,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="UA_Novator_doors_cargo1">
     <nominal>0</nominal>
@@ -213,7 +225,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -227,7 +239,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -241,7 +253,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -255,7 +267,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -269,7 +281,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -283,7 +295,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -297,7 +309,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -311,7 +323,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -325,7 +337,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -339,7 +351,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -353,7 +365,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -367,7 +379,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -381,7 +393,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -395,7 +407,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -409,7 +421,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -423,7 +435,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -437,7 +449,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -451,7 +463,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -465,7 +477,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -479,7 +491,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -493,7 +505,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -507,7 +519,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -521,7 +533,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -535,7 +547,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -549,7 +561,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -563,7 +575,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -577,7 +589,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -591,7 +603,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -605,7 +617,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -619,7 +631,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -633,7 +645,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -647,7 +659,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -661,7 +673,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -675,7 +687,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -689,7 +701,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -703,7 +715,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -717,7 +729,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -731,7 +743,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -745,7 +757,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -759,7 +771,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -773,7 +785,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -787,7 +799,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -801,7 +813,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -815,7 +827,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -829,7 +841,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -843,7 +855,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -857,7 +869,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -871,7 +883,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -885,7 +897,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -899,7 +911,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -913,7 +925,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -927,7 +939,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -941,7 +953,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -955,7 +967,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -969,7 +981,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -983,7 +995,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -997,7 +1009,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -1011,7 +1023,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -1025,7 +1037,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -1039,7 +1051,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -1053,7 +1065,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />
@@ -1067,7 +1079,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Industrial" />
     <tag name="floor" />

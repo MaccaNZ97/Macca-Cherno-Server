@@ -1,0 +1,33 @@
+{
+  "m_Version": 12,
+  "DisplayName": "DRUG DEALER",
+  "MinRequiredReputation": 5000,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansiongoldbar"
+  ],
+  "DisplayCurrencyValue": 0,
+  "DisplayCurrencyName": null,
+  "Categories": [
+    "DRUGS USERS"
+  ],
+  "Items": {
+    "cp_bagger": 1,
+    "cp_cannabisbrickblackfrost": 1,
+    "cp_cannabisbrickblue": 1,
+    "cp_cannabisbrickfuture": 1,
+    "cp_cannabisbrickkush": 1,
+    "cp_cannabisbricknomad": 1,
+    "cp_cannabisbrickskunk": 1,
+    "cp_cannabisbrickstardawg": 1,
+    "cp_cannabisseedspackskunk": 1,
+    "cp_emptybag": 1,
+    "cp_plasticroll": 1,
+    "cp_plasticwrapper": 1,
+    "cp_relief_balm": 1,
+    "cp_rollingpapers": 1
+  }
+}

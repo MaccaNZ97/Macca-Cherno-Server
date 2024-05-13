@@ -1,0 +1,103 @@
+{
+    "ConfigVersion": 27,
+    "ID": 4,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Cannibal Camp at Church",
+    "TimeLimit": -1,
+    "Active": 1,
+    "InfectedDeletionRadius": 500.0,
+    "AISpawns": [
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Cannibals",
+            "Waypoints": [
+                [
+                    6479.705078125,
+                    8.672529220581055,
+                    2369.06103515625
+                ],
+                [
+                    6474.26611328125,
+                    9.797943115234375,
+                    2364.7958984375
+                ],
+                [
+                    6444.4951171875,
+                    9.557991027832032,
+                    2401.239013671875
+                ],
+                [
+                    6462.623046875,
+                    8.002445220947266,
+                    2408.64794921875
+                ],
+                [
+                    6457.091796875,
+                    8.439817428588868,
+                    2356.073974609375
+                ],
+                [
+                    6551.080078125,
+                    9.854869842529297,
+                    2343.93994140625
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "BanditLoadout",
+            "Faction": "Shamans",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 0.20000000298023225,
+            "MaxAccuracy": 0.3499999940395355,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 100.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 1.0,
+            "ClassNames": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 50.0,
+            "MaxDistanceRadius": 150.0,
+            "DespawnRadius": 500.0
+        }
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "AllowedWeapons": [],
+    "AllowedDamageZones": []
+}

@@ -45,54 +45,6 @@
       "Variants": []
     },
     {
-      "ClassName": "ballerinas_blue",
-      "MaxPriceThreshold": 64,
-      "MinPriceThreshold": 64,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "ballerinas_red",
-        "ballerinas_white",
-        "ballerinas_yellow"
-      ]
-    },
-    {
-      "ClassName": "ballerinas_red",
-      "MaxPriceThreshold": 64,
-      "MinPriceThreshold": 64,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "ballerinas_white",
-      "MaxPriceThreshold": 64,
-      "MinPriceThreshold": 64,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "ballerinas_yellow",
-      "MaxPriceThreshold": 64,
-      "MinPriceThreshold": 64,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "combatboots_beige",
       "MaxPriceThreshold": 160,
       "MinPriceThreshold": 160,
@@ -436,6 +388,5 @@
         "workingboots_green"
       ]
     }
-  ],
-  "SortByDisplayName": true
+  ]
 }

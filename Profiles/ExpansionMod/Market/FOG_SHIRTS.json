@@ -38,35 +38,6 @@
       ]
     },
     {
-      "ClassName": "fog_crye_g3_shirt_black",
-      "MaxPriceThreshold": 550,
-      "MinPriceThreshold": 550,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_crye_g3_shirt_mc",
-        "fog_crye_g3_shirt_mcb",
-        "fog_crye_g3_shirt_mct",
-        "fog_crye_g3_shirt_mca",
-        "fog_crye_g3_shirt_mcal",
-        "fog_crye_g3_shirt_6cd",
-        "fog_crye_g3_shirt_aor1",
-        "fog_crye_g3_shirt_aor2",
-        "fog_crye_g3_shirt_cb",
-        "fog_crye_g3_shirt_rg",
-        "fog_crye_g3_shirt_dcu",
-        "fog_crye_g3_shirt_dtgr",
-        "fog_crye_g3_shirt_grey",
-        "fog_crye_g3_shirt_m81",
-        "fog_crye_g3_shirt_marpat",
-        "fog_crye_g3_shirt_rdbs",
-        "fog_crye_g3_shirt_tgr"
-      ]
-    },
-    {
       "ClassName": "fog_enhanced_pcu_black",
       "MaxPriceThreshold": 550,
       "MinPriceThreshold": 550,
@@ -78,7 +49,10 @@
       "Variants": [
         "fog_enhanced_pcu_grey",
         "fog_enhanced_pcu_tan",
-        "fog_enhanced_pcu_rg"
+        "fog_enhanced_pcu_rg",
+        "fog_enhanced_pcu_dnc",
+        "fog_enhanced_pcu_mc2",
+        "fog_enhanced_pcu_usmc"
       ]
     },
     {
@@ -207,42 +181,6 @@
       ]
     },
     {
-      "ClassName": "fog_jacket_softshell_black",
-      "MaxPriceThreshold": 550,
-      "MinPriceThreshold": 550,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_jacket_softshell_tan",
-        "fog_jacket_softshell_black",
-        "fog_jacket_softshell_erdl",
-        "fog_jacket_softshell_mc",
-        "fog_jacket_softshell_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_mtf_shirt_grey",
-      "MaxPriceThreshold": 550,
-      "MinPriceThreshold": 550,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_mtf_shirt_rg",
-        "fog_mtf_shirt_cb",
-        "fog_mtf_shirt_erdl",
-        "fog_mtf_shirt_mc",
-        "fog_mtf_shirt_mcb",
-        "fog_mtf_shirt_fk",
-        "fog_mtf_shirt_ts"
-      ]
-    },
-    {
       "ClassName": "fog_shirt_isof_jacket_black",
       "MaxPriceThreshold": 550,
       "MinPriceThreshold": 550,
@@ -314,7 +252,9 @@
         "fog_tactical_hoodie_mcb",
         "fog_tactical_hoodie_uwu",
         "fog_tactical_hoodie_rg",
-        "fog_tactical_hoodie_erdl"
+        "fog_tactical_hoodie_erdl",
+        "fog_tactical_hoodie_cb",
+        "fog_tactical_hoodie_erdl_blk"
       ]
     },
     {
@@ -358,6 +298,258 @@
         "fog_ufj_shirt_grey",
         "fog_ufj_shirt_erdl",
         "fog_ufj_shirt_erdl_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_buttonup_black",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_buttonup_cb",
+        "fog_buttonup_clouds",
+        "fog_buttonup_flamingo1",
+        "fog_buttonup_flamingo2",
+        "fog_buttonup_floral_bb",
+        "fog_buttonup_floral_bright",
+        "fog_buttonup_floral_bw",
+        "fog_buttonup_floral_dark",
+        "fog_buttonup_floral_md",
+        "fog_buttonup_floral_yr",
+        "fog_buttonup_grey",
+        "fog_buttonup_mc",
+        "fog_buttonup_mcb",
+        "fog_buttonup_red",
+        "fog_buttonup_rg",
+        "fog_buttonup_skinnypalms",
+        "fog_buttonup_sunsetpalms",
+        "fog_buttonup_waves"
+      ]
+    },
+    {
+      "ClassName": "fog_crye_g2_shirt_mc",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_crye_g3_shirt_alpf",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_crye_g3_shirt_black",
+        "fog_crye_g3_shirt_amcu",
+        "fog_crye_g3_shirt_blue",
+        "fog_crye_g3_shirt_btgr",
+        "fog_crye_g3_shirt_dnc",
+        "fog_crye_g3_shirt_dpm",
+        "fog_crye_g3_shirt_erdl_red",
+        "fog_crye_g3_shirt_kbtgr",
+        "fog_crye_g3_shirt_khk",
+        "fog_crye_g3_shirt_mc_blacktrim",
+        "fog_crye_g3_shirt_mc_fracu",
+        "fog_crye_g3_shirt_mc_patagonia",
+        "fog_crye_g3_shirt_pantera",
+        "fog_crye_g3_shirt_rg_blacktrim",
+        "fog_crye_g3_shirt_rtgr",
+        "fog_crye_g3_shirt_ucp",
+        "fog_crye_g3_shirt_6cd",
+        "fog_crye_g3_shirt_aor1",
+        "fog_crye_g3_shirt_aor2",
+        "fog_crye_g3_shirt_cb",
+        "fog_crye_g3_shirt_dcu",
+        "fog_crye_g3_shirt_dtgr",
+        "fog_crye_g3_shirt_grey",
+        "fog_crye_g3_shirt_m81",
+        "fog_crye_g3_shirt_marpat",
+        "fog_crye_g3_shirt_mc",
+        "fog_crye_g3_shirt_mca",
+        "fog_crye_g3_shirt_mcal",
+        "fog_crye_g3_shirt_mcb",
+        "fog_crye_g3_shirt_mct",
+        "fog_crye_g3_shirt_rdbs",
+        "fog_crye_g3_shirt_rg",
+        "fog_crye_g3_shirt_tgr"
+      ]
+    },
+    {
+      "ClassName": "fog_ghilliesuit_green",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ghilliesuit_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_jacket_softshell_cb",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_jacket_softshell_black",
+        "fog_jacket_softshell_grey",
+        "fog_jacket_softshell_mcb",
+        "fog_jacket_softshell_erdl",
+        "fog_jacket_softshell_mc",
+        "fog_jacket_softshell_rg",
+        "fog_jacket_softshell_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_mtf_shirt_black",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_mtf_shirt_grey",
+        "fog_mtf_shirt_blue",
+        "fog_mtf_shirt_khk",
+        "fog_mtf_shirt_cb",
+        "fog_mtf_shirt_erdl",
+        "fog_mtf_shirt_fk",
+        "fog_mtf_shirt_mc",
+        "fog_mtf_shirt_mcb",
+        "fog_mtf_shirt_rg",
+        "fog_mtf_shirt_ts"
+      ]
+    },
+    {
+      "ClassName": "fog_rugbyshirt_blk",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_rugbyshirt_cb",
+        "fog_rugbyshirt_khk",
+        "fog_rugbyshirt_mc",
+        "fog_rugbyshirt_mcb",
+        "fog_rugbyshirt_mct",
+        "fog_rugbyshirt_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_tshirt_grey",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tshirt_grey_chlaw_pinup"
+      ]
+    },
+    {
+      "ClassName": "fog_tshirt_tan_canoe",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tshirt_tan_crimeco",
+        "fog_tshirt_tan_fog_reaper",
+        "fog_tshirt_tan499"
+      ]
+    },
+    {
+      "ClassName": "fog_tshirt_white",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_ufj_shirt_mc",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ufj_shirt_black",
+        "fog_ufj_shirt_mcb",
+        "fog_ufj_shirt_cb",
+        "fog_ufj_shirt_erdl",
+        "fog_ufj_shirt_erdl_rg",
+        "fog_ufj_shirt_grey",
+        "fog_ufj_shirt_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_l9patagonia_black",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_l9patagonia_wdtgr",
+        "fog_l9patagonia_cb",
+        "fog_l9patagonia_m81",
+        "fog_l9patagonia_mc",
+        "fog_l9patagonia_mca",
+        "fog_l9patagonia_mcal",
+        "fog_l9patagonia_mcb",
+        "fog_l9patagonia_mct",
+        "fog_l9patagonia_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_shirt_isof_jacket_mc2",
+      "MaxPriceThreshold": 550,
+      "MinPriceThreshold": 550,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_shirt_isof_jacket_black",
+        "fog_shirt_isof_jacket_m81",
+        "fog_shirt_isof_jacket_mc"
       ]
     }
   ]

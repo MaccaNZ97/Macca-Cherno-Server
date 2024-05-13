@@ -389,8 +389,8 @@
             "ClassName": "Apple",
             "Chance": 0.10000000149011612,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 1.0,
+                "Max": 2.0
             },
             "Health": [],
             "InventoryAttachments": [],
@@ -402,8 +402,8 @@
             "ClassName": "BandageDressing",
             "Chance": 0.15000000596046449,
             "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 1.0,
+                "Max": 2.0
             },
             "Health": [],
             "InventoryAttachments": [],

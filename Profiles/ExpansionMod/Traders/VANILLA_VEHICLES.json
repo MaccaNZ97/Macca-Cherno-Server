@@ -1,0 +1,27 @@
+{
+  "m_Version": 12,
+  "DisplayName": "VANILLA_VEHICLES",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansionbanknotehryvnia",
+    "expansiongoldbar"
+  ],
+  "DisplayCurrencyValue": 0,
+  "DisplayCurrencyName": null,
+  "Categories": [
+    "BATTERY:3",
+    "TOOLS:3",
+    "LIQUIDS:3",
+    "VEHICLE_PARTS:3",
+    "CARS"
+  ],
+  "Items": {
+    "smallgascanister": 3,
+    "seachest": 3,
+    "woodencrate": 3
+  }
+}

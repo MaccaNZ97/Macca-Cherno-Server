@@ -1,6 +1,17 @@
 {
     "Triggers":
 	[
-		
+		{ 	
+            "_comments1": "GraveyardShift",
+            "_comments2": "from center coords",
+			"Position": [  10619.328125,
+                34.02191162109375,
+                2644.012939453125 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 35, 20, 35 ],
+			"EyeAccommodation": 0.8,
+			"Breadcrumbs": []
+		}
+
 	]
 }

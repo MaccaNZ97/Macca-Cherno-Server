@@ -51,39 +51,6 @@
       "Variants": []
     },
     {
-      "ClassName": "bo_aradapter_9mm",
-      "MaxPriceThreshold": 0,
-      "MinPriceThreshold": 0,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "bo_glockpdwkit",
-      "MaxPriceThreshold": 0,
-      "MinPriceThreshold": 0,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "bo_mcxtacops_handguard",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 500,
-      "SellPricePercent": 75,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": 75,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "m4_mphndgrd",
       "MaxPriceThreshold": 400,
       "MinPriceThreshold": 400,
@@ -138,6 +105,5 @@
       "SpawnAttachments": [],
       "Variants": []
     }
-  ],
-  "SortByDisplayName": true
+  ]
 }

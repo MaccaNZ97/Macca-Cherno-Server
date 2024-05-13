@@ -9,7 +9,7 @@
     {
       "ClassName": "anticheminjector",
       "MaxPriceThreshold": 15500,
-      "MinPriceThreshold": 15200,
+      "MinPriceThreshold": 14725,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -31,7 +31,7 @@
     {
       "ClassName": "bloodbagempty",
       "MaxPriceThreshold": 36,
-      "MinPriceThreshold": 36,
+      "MinPriceThreshold": 34,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -42,7 +42,7 @@
     {
       "ClassName": "bloodbagfull",
       "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
+      "MinPriceThreshold": 190,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -64,7 +64,7 @@
     {
       "ClassName": "charcoaltablets",
       "MaxPriceThreshold": 1500,
-      "MinPriceThreshold": 1404,
+      "MinPriceThreshold": 1425,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -75,8 +75,8 @@
     {
       "ClassName": "defibrillator",
       "MaxPriceThreshold": 1500,
-      "MinPriceThreshold": 1500,
-      "SellPricePercent": -1,
+      "MinPriceThreshold": 1425,
+      "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -97,96 +97,8 @@
     {
       "ClassName": "disinfectantspray",
       "MaxPriceThreshold": 16,
-      "MinPriceThreshold": 16,
+      "MinPriceThreshold": 15,
       "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "eft_inj_propital",
-      "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2250,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "eft_med_afak",
-      "MaxPriceThreshold": 13000,
-      "MinPriceThreshold": 12750,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "eft_med_bandage",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 130,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "eft_med_bandage_army",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 140,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "eft_med_goldstar",
-      "MaxPriceThreshold": 1950,
-      "MinPriceThreshold": 1920,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "eft_med_ifak",
-      "MaxPriceThreshold": 7500,
-      "MinPriceThreshold": 7250,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "eft_med_salewa",
-      "MaxPriceThreshold": 15500,
-      "MinPriceThreshold": 15250,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "eft_med_splint",
-      "MaxPriceThreshold": 550,
-      "MinPriceThreshold": 520,
-      "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -196,7 +108,7 @@
     {
       "ClassName": "epinephrine",
       "MaxPriceThreshold": 40,
-      "MinPriceThreshold": 40,
+      "MinPriceThreshold": 38,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -207,7 +119,7 @@
     {
       "ClassName": "firstaidkit",
       "MaxPriceThreshold": 40,
-      "MinPriceThreshold": 40,
+      "MinPriceThreshold": 38,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -218,7 +130,7 @@
     {
       "ClassName": "heatpack",
       "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 20,
+      "MinPriceThreshold": 19,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -229,7 +141,7 @@
     {
       "ClassName": "iodinetincture",
       "MaxPriceThreshold": 60,
-      "MinPriceThreshold": 60,
+      "MinPriceThreshold": 57,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -240,7 +152,7 @@
     {
       "ClassName": "morphine",
       "MaxPriceThreshold": 50,
-      "MinPriceThreshold": 50,
+      "MinPriceThreshold": 48,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -251,7 +163,7 @@
     {
       "ClassName": "painkillertablets",
       "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 20,
+      "MinPriceThreshold": 19,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -273,8 +185,85 @@
     {
       "ClassName": "salinebag",
       "MaxPriceThreshold": 30,
-      "MinPriceThreshold": 30,
+      "MinPriceThreshold": 29,
       "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sm_med_firstaid_box",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2375,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sm_med_firstaidkit_afak",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sm_med_firstaidkit_ai2",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1450,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sm_med_firstaidkit_car",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sm_med_firstaidkit_grizzly",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sm_med_firstaidkit_ifak",
+      "MaxPriceThreshold": 2850,
+      "MinPriceThreshold": 2790,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sm_med_firstaidkit_salewa",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 4250,
+      "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -284,7 +273,7 @@
     {
       "ClassName": "startkitiv",
       "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 20,
+      "MinPriceThreshold": 19,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -295,7 +284,7 @@
     {
       "ClassName": "syringe",
       "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 500,
+      "MinPriceThreshold": 475,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -306,7 +295,7 @@
     {
       "ClassName": "tetracyclineantibiotics",
       "MaxPriceThreshold": 1500,
-      "MinPriceThreshold": 1216,
+      "MinPriceThreshold": 1425,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -328,7 +317,7 @@
     {
       "ClassName": "vitaminbottle",
       "MaxPriceThreshold": 12,
-      "MinPriceThreshold": 12,
+      "MinPriceThreshold": 11,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

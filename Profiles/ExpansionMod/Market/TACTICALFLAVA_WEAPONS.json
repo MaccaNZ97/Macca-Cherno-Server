@@ -397,6 +397,17 @@
       ]
     },
     {
+      "ClassName": "tf_scar_20_shd",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 22000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
       "ClassName": "tf_scar_h_cqc_fde",
       "MaxPriceThreshold": 25000,
       "MinPriceThreshold": 21250,
@@ -499,17 +510,6 @@
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 10,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "tf_scar_20_shd",
-      "MaxPriceThreshold": 250,
-      "MinPriceThreshold": 220,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []

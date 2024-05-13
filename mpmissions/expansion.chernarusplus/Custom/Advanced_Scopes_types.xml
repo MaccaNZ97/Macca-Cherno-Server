@@ -10,7 +10,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
   </type>
   <type name="AD_ACOG_B13">
@@ -23,7 +31,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
   </type>
   <type name="AD_ACOG_MosinMount">
@@ -36,7 +52,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
   </type>
   <type name="AD_ACOG_RMR">
@@ -49,7 +73,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier4" />
   </type>
   <type name="AD_ACOG_RMR_B13">
@@ -62,7 +94,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier4" />
   </type>
   <type name="AD_ACOG_RMR_MosinMount">
@@ -75,7 +115,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier4" />
   </type>
   <type name="AD_B13Mount">
@@ -88,7 +136,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -102,7 +158,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
   </type>
   <type name="AD_DHF5_B13">
@@ -115,7 +179,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
   </type>
   <type name="AD_DHF5_MosinMount">
@@ -128,7 +200,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
   </type>
   <type name="AD_G33">
@@ -141,7 +221,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -155,7 +243,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -169,48 +265,17 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
-  </type>
-  <type name="AD_LeupoldMk4">
-    <nominal>3</nominal>
-    <lifetime>7200</lifetime>
-    <restock>1800</restock>
-    <min>2</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier3" />
-  </type>
-  <type name="AD_LeupoldMk4_B13">
-    <nominal>0</nominal>
-    <lifetime>7200</lifetime>
-    <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier3" />
-  </type>
-  <type name="AD_LeupoldMk4_MosinMount">
-    <nominal>0</nominal>
-    <lifetime>7200</lifetime>
-    <restock>1800</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="Military" />
-    <value name="Tier3" />
   </type>
   <type name="AD_M16A2">
     <nominal>0</nominal>
@@ -222,7 +287,14 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
     <value name="Tier2" />
     <value name="Tier3" />
   </type>
@@ -236,7 +308,13 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
     <usage name="Hunting" />
+    <usage name="Lunapark" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
     <value name="Tier2" />
     <value name="Tier3" />
   </type>
@@ -250,7 +328,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -264,7 +350,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -278,7 +372,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -292,7 +394,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier4" />
   </type>
   <type name="AD_NFATACR_1_8">
@@ -305,7 +415,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier4" />
   </type>
   <type name="AD_NFATACR_1_8_B13">
@@ -318,7 +436,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier4" />
   </type>
   <type name="AD_NFATACR_1_8_MosinMount">
@@ -331,7 +457,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier4" />
   </type>
   <type name="AD_NFATACR_B13">
@@ -344,7 +478,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier4" />
   </type>
   <type name="AD_NFATACR_MosinMount">
@@ -357,7 +499,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier4" />
   </type>
   <type name="AD_OKP7">
@@ -370,7 +520,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -384,7 +542,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -398,7 +564,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -412,7 +586,13 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
     <usage name="Hunting" />
+    <usage name="Lunapark" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
     <value name="Tier1" />
     <value name="Tier2" />
   </type>
@@ -426,7 +606,13 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
     <usage name="Hunting" />
+    <usage name="Lunapark" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
     <value name="Tier1" />
     <value name="Tier2" />
   </type>
@@ -440,7 +626,13 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
     <usage name="Hunting" />
+    <usage name="Lunapark" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
     <value name="Tier1" />
     <value name="Tier2" />
   </type>
@@ -454,7 +646,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -468,7 +668,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -482,7 +690,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -496,8 +712,14 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
     <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
     <value name="Tier1" />
     <value name="Tier2" />
     <value name="Tier3" />
@@ -512,7 +734,14 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
     <value name="Tier2" />
     <value name="Tier3" />
   </type>
@@ -526,7 +755,14 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
     <value name="Tier2" />
     <value name="Tier3" />
   </type>
@@ -540,7 +776,14 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
     <value name="Tier2" />
     <value name="Tier3" />
   </type>
@@ -554,7 +797,14 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
     <value name="Tier2" />
     <value name="Tier3" />
   </type>
@@ -568,7 +818,14 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
     <value name="Tier2" />
     <value name="Tier3" />
   </type>
@@ -582,7 +839,14 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
     <value name="Tier2" />
     <value name="Tier3" />
   </type>
@@ -596,7 +860,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
   </type>
   <type name="AD_SpecterDR_B13">
@@ -609,7 +881,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
   </type>
   <type name="AD_SpecterDR_MosinMount">
@@ -622,7 +902,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
   </type>
   <type name="AD_XPS34">
@@ -635,7 +923,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -649,7 +945,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -663,7 +967,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -677,7 +989,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -691,7 +1011,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
@@ -705,7 +1033,15 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
     <usage name="Military" />
+    <usage name="Police" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
   </type>

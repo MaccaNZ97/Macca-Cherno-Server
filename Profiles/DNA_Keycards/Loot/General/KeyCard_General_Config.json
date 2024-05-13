@@ -33,27 +33,57 @@
         {
             "dna_Tier": "purple",
             "dna_Category": "medical",
-            "dna_Type": "Grizzly_Medikit"
+            "dna_Type": "SM_Med_FirstAidKit_AI2"
         },
         {
             "dna_Tier": "purple",
             "dna_Category": "medical",
-            "dna_Type": "Grizzly_Medikit"
+            "dna_Type": "SM_Med_FirstAidKit_AFAK"
         },
         {
             "dna_Tier": "purple",
             "dna_Category": "medical",
-            "dna_Type": "Grizzly_Medikit"
+            "dna_Type": "SM_Med_FirstAidKit_Car"
         },
         {
             "dna_Tier": "purple",
             "dna_Category": "medical",
-            "dna_Type": "Grizzly_Medikit"
+            "dna_Type": "SM_Med_FirstAidKit_Grizzly"
         },
         {
             "dna_Tier": "purple",
             "dna_Category": "medical",
-            "dna_Type": "Grizzly_Medikit"
+            "dna_Type": "SM_Med_FirstAidKit_Salewa"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "food",
+            "dna_Type": "BoxCerealCrunchin"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "medical",
+            "dna_Type": "SM_Med_FirstAidKit_Grizzly"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "medical",
+            "dna_Type": "SM_Med_FirstAidKit_Grizzly"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "BoxCerealCrunchin"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
         }
    ]
 }

@@ -277,7 +277,7 @@
         "gorkahelmetvisor"
       ],
       "Variants": [
-        "gorkahelmet_black"
+        "*** missing item type (gorkahelmet_black)***"
       ]
     },
     {
@@ -338,7 +338,7 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "expansionmich2001desert"
+        "*** missing item type (expansionmich2001desert)***"
       ]
     },
     {
@@ -481,32 +481,9 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "zsh3pilothelmet_green",
-        "zsh3pilothelmet_black"
+        "*** missing item type (zsh3pilothelmet_green)***",
+        "*** missing item type (zsh3pilothelmet_black)***"
       ]
-    },
-    {
-      "ClassName": "zsh3pilothelmet_black",
-      "MaxPriceThreshold": 270,
-      "MinPriceThreshold": 270,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "zsh3pilothelmet_green",
-      "MaxPriceThreshold": 270,
-      "MinPriceThreshold": 270,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
     }
-  ],
-  "SortByDisplayName": true
+  ]
 }

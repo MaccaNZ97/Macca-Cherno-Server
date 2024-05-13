@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="SM_Med_FirstAid_Box">
+    <nominal>12</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+    <usage name="Medic" />
+  </type>
+  <type name="SM_Med_FirstAidKit_AFAK">
+    <nominal>8</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="SM_Med_FirstAidKit_AI2">
+    <nominal>30</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+  </type>
+  <type name="SM_Med_FirstAidKit_Car">
+    <nominal>20</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier2" />
+  </type>
+  <type name="SM_Med_FirstAidKit_Grizzly">
+    <nominal>4</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="ContaminatedArea" />
+    <tag name="shelves" />
+  </type>
+  <type name="SM_Med_FirstAidKit_IFAK">
+    <nominal>8</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="SM_Med_FirstAidKit_Salewa">
+    <nominal>6</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <tag name="shelves" />
+    <value name="Tier4" />
+  </type>
+</types>

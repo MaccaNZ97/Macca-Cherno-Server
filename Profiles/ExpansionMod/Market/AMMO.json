@@ -293,17 +293,6 @@
       "Variants": []
     },
     {
-      "ClassName": "ammo_expansion_338",
-      "MaxPriceThreshold": 50,
-      "MinPriceThreshold": 38,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1000,
-      "MinStockThreshold": 10,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "ammo_expansion_46x30",
       "MaxPriceThreshold": 25,
       "MinPriceThreshold": 19,
@@ -365,17 +354,6 @@
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "tf_ammo_338lm",
-      "MaxPriceThreshold": 45,
-      "MinPriceThreshold": 34,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 100,
-      "MinStockThreshold": 10,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []

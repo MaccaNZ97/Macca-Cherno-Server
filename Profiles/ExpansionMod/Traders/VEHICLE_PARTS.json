@@ -13,16 +13,16 @@
   "DisplayCurrencyName": "",
   "Categories": [
     "RAPTOR PARTS",
+    "TOOLS",
+    "LIQUIDS",
     "VEHICLE_PARTS",
     "VEHICLEKEYS",
+    "EXT_SPRAYCANS",
     "JEEP PARTS",
     "DBN NOVATOR PARTS",
     "TRAIL BROZER PARTS"
   ],
   "Items": {
-    "canistergasoline": 1,
-    "carbattery": 1,
-    "mavericks12v": 1,
-    "truckbattery": 1
+    "smallgascanister": 3
   }
 }

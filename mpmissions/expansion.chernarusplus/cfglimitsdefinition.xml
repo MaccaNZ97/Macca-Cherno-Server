@@ -13,6 +13,7 @@
         <category name="weaponaccessories"/>
         <category name="ammo"/>
         <category name="donot_spawn"/>
+        <category name="Military"/>
     </categories>
     <tags>
         <tag name="floor"/>
@@ -37,6 +38,7 @@
         <usage name="SeasonalEvent"/>
         <usage name="ContaminatedArea"/>
         <usage name="Historical"/>
+        <usage name="Civilian"/>
     </usageflags>
     <valueflags>
         <value name="Tier1"/>

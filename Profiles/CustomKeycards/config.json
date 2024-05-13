@@ -1,5 +1,197 @@
 {
     "KeycardDoor": [
+        {
+            "doorClassName": "evg_gate_wall2",
+            "doorPosition": [
+                4808.25,
+                341.74,
+                9883.3
+            ],
+            "doorRotation": [
+                107.5,
+                0.5,
+                0.0
+            ],
+            "autoCloseTime": 15.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_NWAF01"
+            ],
+            "damageToKeycard": 30.0,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "NWAF Entrance",
+            "secondsNotify": 5
+        },
+
+        {
+            "doorClassName": "evg_outsideDoor_Wall1",
+            "doorPosition": [
+                4788.98,
+                342.773,
+                9895.55
+            ],
+            "doorRotation": [
+                61.0223,
+                0.0,
+                0.0
+            ],
+            "autoCloseTime": 15.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_Blue"
+            ],
+            "damageToKeycard": 30.0,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "NWAF Building 1 Blue",
+            "secondsNotify": 5
+        },
+
+        {
+            "doorClassName": "evg_outsideDoor_Wall1",
+            "doorPosition": [
+                4766.21,
+                342.669,
+                9891.4
+            ],
+            "doorRotation": [
+                150.002,
+                0.0,
+                0.0
+            ],
+            "autoCloseTime": 15.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_Green"
+            ],
+            "damageToKeycard": 30.0,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "NWAF Building 2 Green Strongroom",
+            "secondsNotify": 5
+        },
+       
+        {
+            "doorClassName": "evg_outsideDoor_Wall2",
+            "doorPosition": [
+                4735.94,
+                342.781,
+                9904.01
+            ],
+            "doorRotation": [
+                -117,
+                0.0,
+                0.0
+            ],
+            "autoCloseTime": 15.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_Red"
+            ],
+            "damageToKeycard": 30.0,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "NWAF Building 3 Red Strongroom",
+            "secondsNotify": 5
+        },
+
+      
+
+        {
+            "doorClassName": "evg_outsideDoor",
+            "doorPosition": [
+                4764.89,
+                341.566,
+                9939.76
+            ],
+            "doorRotation": [
+                38.5,
+                0.0,
+                0.0
+            ],
+            "autoCloseTime": 15.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_NWAF02"
+            ],
+            "damageToKeycard": 30.0,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "NWAF Staff Quarters Last Barrack Purple",
+            "secondsNotify": 5
+        },
+
+        {
+            "doorClassName": "evg_outsideDoor",
+            "doorPosition": [
+               4769.32,
+                341.531,
+                9933.27
+            ],
+            "doorRotation": [
+                38.5,
+                0.0,
+                0.0
+            ],
+            "autoCloseTime": 15.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_NWAF03"
+            ],
+            "damageToKeycard": 30.0,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "NWAF Weapon Storage 2nd Barrack Purple",
+            "secondsNotify": 5
+        },
+
+       
+
+        {
+            "doorClassName": "evg_outsideDoor_Wall1",
+            "doorPosition": [
+                
+            ],
+            "doorRotation": [
+                61.0223,
+                0.0,
+                0.0
+            ],
+            "autoCloseTime": 15.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_Red"
+            ],
+            "damageToKeycard": 30.0,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "Tisy",
+            "secondsNotify": 5
+        },
+        {
+            "doorClassName": "evg_gate_Wall1",
+            "doorPosition": [
+                1312.83,
+                458.565,
+                14489.3
+            ],
+            "doorRotation": [
+                -64.93,
+                0.0,
+                -0.0
+            ],
+            "autoCloseTime": 300.0,
+            "itemsToOpenDoor": [
+                "evg_keycards_Tisy05"
+            ],
+            "damageToKeycard": 30.0,
+            "enableSwipeSound": 1,
+            "enableErrorSound": 1,
+            "enableCloseSound": 1,
+            "locationName": "Tisy_Arena_Of_Death_Entrance",
+            "secondsNotify": 5
+        }
        
     ]
 }

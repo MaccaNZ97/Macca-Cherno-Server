@@ -239,17 +239,6 @@
       "Variants": []
     },
     {
-      "ClassName": "ammobox_expansion_338_15rnd",
-      "MaxPriceThreshold": 850,
-      "MinPriceThreshold": 800,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 100,
-      "MinStockThreshold": 10,
-      "QuantityPercent": 75,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "ammobox_expansion_46x30_25rnd",
       "MaxPriceThreshold": 500,
       "MinPriceThreshold": 500,

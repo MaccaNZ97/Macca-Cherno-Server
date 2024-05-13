@@ -44,6 +44,22 @@
         "fog_mrb_belt_mct",
         "fog_mrb_belt_rg"
       ]
+    },
+    {
+      "ClassName": "fog_bison_belt_black",
+      "MaxPriceThreshold": 1250,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_bison_belt_cb",
+        "fog_bison_belt_mc",
+        "fog_bison_belt_mcb",
+        "fog_bison_belt_rg"
+      ]
     }
   ]
 }

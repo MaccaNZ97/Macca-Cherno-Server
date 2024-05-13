@@ -1,19 +1,45 @@
 {
-    "ConfigVersion": 27,
-    "ID": 10,
-    "ObjectiveType": 4,
-    "ObjectiveText": "Catch 1 Bluemarlin from Cape Glova\r\n",
-    "TimeLimit": -1,
-    "Active": 1,
-    "Collections": [
-        {
-            "Amount": 1,
-            "ClassName": "geb_Bluemarlin",
-            "QuantityPercent": 0,
-            "MinQuantityPercent": 0
-        }
-    ],
-    "ShowDistance": 0,
-    "AddItemsToNearbyMarketZone": 0,
-    "NeedAnyCollection": 0
+  "ObjectiveText": "Catch Large Game Fish from Ocean\r\n",
+  "TimeLimit": -1,
+  "Collections": [
+    {
+      "Amount": 20,
+      "ClassName": "geb_BluemarlinFilletMeat",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    },
+    {
+      "Amount": 1,
+      "ClassName": "geb_GreatwhitesharkFilletMeat",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    },
+    {
+      "Amount": 1,
+      "ClassName": "geb_LeopardsharkFilletMeat",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    },
+    {
+      "Amount": 1,
+      "ClassName": "geb_SailfishFilletMeat",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    },
+    {
+      "Amount": 1,
+      "ClassName": "geb_MahimahiFilletMeat",
+      "QuantityPercent": 0,
+      "MinQuantityPercent": 0
+    }
+  ],
+  "MaxDistance": 0,
+  "MarkerName": null,
+  "ShowDistance": 0,
+  "AddItemsToNearbyMarketZone": 0,
+  "NeedAnyCollection": 1,
+  "Active": 1,
+  "ConfigVersion": 27,
+  "ID": 10,
+  "ObjectiveType": 4
 }

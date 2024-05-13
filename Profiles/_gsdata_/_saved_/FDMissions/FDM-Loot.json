@@ -349,44 +349,38 @@
             "name": "LootSet5_Medical",
             "items": [
                 {
-                    "name": "EFT_med_AFAK",
-                    "quantity": 10,
+                    "name": "SM_Med_FirstAidKit_AFAK",
+                    "quantity": -1,
                     "attachments": [],
                     "cargo": []
                 },
                 {
-                    "name": "EFT_med_IFAK",
-                    "quantity": 10,
+                    "name": "SM_Med_FirstAidKit_AI2",
+                    "quantity": -1,
                     "attachments": [],
                     "cargo": []
                 },
                 {
-                    "name": "EFT_med_Salewa",
-                    "quantity": 10,
+                    "name": "SM_Med_FirstAidKit_Car",
+                    "quantity": -1,
                     "attachments": [],
                     "cargo": []
                 },
                 {
-                    "name": "EFT_med_Splint",
-                    "quantity": 10,
+                    "name": "SM_Med_FirstAidKit_Grizzly",
+                    "quantity": -1,
                     "attachments": [],
                     "cargo": []
                 },
                 {
-                    "name": "EFT_med_GoldStar",
-                    "quantity": 10,
+                    "name": "SM_Med_FirstAidKit_IFAK",
+                    "quantity": -1,
                     "attachments": [],
                     "cargo": []
                 },
                 {
-                    "name": "EFT_inj_Propital",
-                    "quantity": 10,
-                    "attachments": [],
-                    "cargo": []
-                },
-                {
-                    "name": "EFT_med_Bandage",
-                    "quantity": 10,
+                    "name": "SM_Med_FirstAidKit_Salewa",
+                    "quantity": 11,
                     "attachments": [],
                     "cargo": []
                 }

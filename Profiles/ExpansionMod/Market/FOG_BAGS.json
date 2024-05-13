@@ -50,7 +50,9 @@
       "Variants": [
         "fog_bag_drawbridge_cb",
         "fog_bag_drawbridge_rg",
-        "fog_bag_drawbridge_grey"
+        "fog_bag_drawbridge_grey",
+        "fog_bag_drawbridge_od",
+        "fog_bag_drawbridge_tan"
       ]
     },
     {
@@ -65,7 +67,9 @@
       "Variants": [
         "fog_bag_f4terminator_black",
         "fog_bag_f4terminator_rg",
-        "fog_bag_f4terminator_cb"
+        "fog_bag_f4terminator_cb",
+        "fog_bag_f4terminator_blacktiger",
+        "fog_bag_f4terminator_od"
       ]
     },
     {
@@ -119,7 +123,8 @@
         "fog_bag_trizip_atacsfg",
         "fog_bag_trizip_dcu",
         "fog_bag_trizip_erdl",
-        "fog_bag_trizip_mc"
+        "fog_bag_trizip_mc",
+        "fog_bag_trizip_od"
       ]
     },
     {
@@ -137,6 +142,17 @@
         "fog_bergen_rucksack_multicam",
         "fog_bergen_rucksack_erdl"
       ]
+    },
+    {
+      "ClassName": "fog_bag_6shbagt_blackemr",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
     }
   ]
 }

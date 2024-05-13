@@ -1,0 +1,98 @@
+{
+    "ConfigVersion": 27,
+    "ID": 5,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Kill all Police in area",
+    "TimeLimit": -1,
+    "Active": 1,
+    "InfectedDeletionRadius": 200.0,
+    "AISpawns": [
+        {
+            "NumberOfAI": 1,
+            "NPCName": "Quest Target",
+            "Waypoints": [
+                [
+                    6604.18896484375,
+                    6.500024795532227,
+                    2579.868896484375
+                ],
+                [
+                    6620.92578125,
+                    6.499996185302734,
+                    2547.51904296875
+                ],
+                [
+                    6633.0078125,
+                    6.511454105377197,
+                    2562.4189453125
+                ],
+                [
+                    6631.02783203125,
+                    7.950020790100098,
+                    2585.56591796875
+                ],
+                [
+                    6629.43017578125,
+                    7.815412998199463,
+                    2575.962890625
+                ]
+            ],
+            "Behaviour": 0,
+            "Formation": "RANDOM",
+            "Loadout": "YeetBrigadeLoadout",
+            "Faction": "Shamans",
+            "Speed": 0.0,
+            "ThreatSpeed": 3.0,
+            "MinAccuracy": 75.0,
+            "MaxAccuracy": 0.0,
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "ThreatDistanceLimit": 85.0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 1.0,
+            "ClassNames": [
+                "eAI_SurvivorF_Eva",
+                "eAI_SurvivorF_Frida",
+                "eAI_SurvivorF_Gabi",
+                "eAI_SurvivorF_Helga",
+                "eAI_SurvivorF_Irena",
+                "eAI_SurvivorF_Judy",
+                "eAI_SurvivorF_Keiko",
+                "eAI_SurvivorF_Linda",
+                "eAI_SurvivorF_Maria",
+                "eAI_SurvivorF_Naomi",
+                "eAI_SurvivorF_Baty",
+                "eAI_SurvivorM_Boris",
+                "eAI_SurvivorM_Cyril",
+                "eAI_SurvivorM_Denis",
+                "eAI_SurvivorM_Elias",
+                "eAI_SurvivorM_Francis",
+                "eAI_SurvivorM_Guo",
+                "eAI_SurvivorM_Hassan",
+                "eAI_SurvivorM_Indar",
+                "eAI_SurvivorM_Jose",
+                "eAI_SurvivorM_Kaito",
+                "eAI_SurvivorM_Lewis",
+                "eAI_SurvivorM_Manua",
+                "eAI_SurvivorM_Mirek",
+                "eAI_SurvivorM_Niki",
+                "eAI_SurvivorM_Oliver",
+                "eAI_SurvivorM_Peter",
+                "eAI_SurvivorM_Quinn",
+                "eAI_SurvivorM_Rolf",
+                "eAI_SurvivorM_Seth",
+                "eAI_SurvivorM_Taiki"
+            ],
+            "SniperProneDistanceThreshold": 300.0,
+            "RespawnTime": 1.0,
+            "DespawnTime": 1.0,
+            "MinDistanceRadius": 50.0,
+            "MaxDistanceRadius": 150.0,
+            "DespawnRadius": 500.0
+        }
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "AllowedWeapons": [],
+    "AllowedDamageZones": []
+}

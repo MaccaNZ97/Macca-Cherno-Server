@@ -141,31 +141,9 @@
       "Variants": []
     },
     {
-      "ClassName": "hydraulicjack",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "lockpick",
       "MaxPriceThreshold": 40,
       "MinPriceThreshold": 40,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "lugwrench",
-      "MaxPriceThreshold": 8,
-      "MinPriceThreshold": 8,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -262,17 +240,6 @@
       "Variants": []
     },
     {
-      "ClassName": "trafficcone",
-      "MaxPriceThreshold": 0,
-      "MinPriceThreshold": 0,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "whetstone",
       "MaxPriceThreshold": 10,
       "MinPriceThreshold": 10,
@@ -295,16 +262,15 @@
       "Variants": []
     },
     {
-      "ClassName": "wrench",
-      "MaxPriceThreshold": 6,
-      "MinPriceThreshold": 6,
-      "SellPricePercent": -1.0,
+      "ClassName": "trafficcone",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 140,
+      "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
     }
-  ],
-  "SortByDisplayName": true
+  ]
 }

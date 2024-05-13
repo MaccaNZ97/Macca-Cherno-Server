@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="Eazy_AssaultBag_Canabis_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_AssaultBag_DEA_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_Bandana_Canabis_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_BandanaMask_Canabis_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_BoonieHat_Fishing_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_CargoPants_DEA_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_FishingJacket_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_Hat_Police_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_Holster_Canabis_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_Holster_DEA_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_Holster_Police_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_Jacket_Police_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_mich2001_DEA_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_Pants_Fishing_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_Pants_Police_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_PlateCarrierVest_Canabis_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_PlateCarrierVest_DEA_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_PlateCarrierVest_Police_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_Pouches_Canabis_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_Pouches_DEA_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_Pouches_Police_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_Shirt_Police_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_TacticalShirt_DEA_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_tshirt_Alien_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_tshirt_Boobs_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_tshirt_Hentai_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_TTsKOJacket_Canabis_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Eazy_TTsKOPants_Canabis_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="EazyDrugs_POSH_CALI_RUNTZ">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="EazyDrugs_POSH_CBD_KOI">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="EazyDrugs_POSH_cbdGummy">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="EazyDrugs_POSH_Crack">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="EazyDrugs_POSH_Crystal">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="EazyDrugs_POSH_HEROIN">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="EazyDrugs_POSH_Individual">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="EazyDrugs_POSH_InsaneJoker">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="EazyDrugs_POSH_JackUp">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="EazyDrugs_POSH_JackUp">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="EazyDrugs_POSH_JokerV2">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="EazyDrugs_POSH_LAWeed">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="EazyDrugs_POSH_ParisWeed">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="EazyDrugs_POSH_Swissx">
+    <nominal>2</nominal>
+    <lifetime>3600</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>10</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Firefighter" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Police" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="Ez_PoshWinter_Milion_SmallBillboard">
+    <lifetime>7200000</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Ez_PoshWinter_Walmart_SmallBillboard">
+    <lifetime>7200000</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Ez_PoshWinter_Welcome_SmallBillboard">
+    <lifetime>7200000</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+  <type name="Mich2001Helmet_Canabis_PoshWinter">
+    <lifetime>7200</lifetime>
+    <quantmin>-1</quantmin>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+  </type>
+</types>

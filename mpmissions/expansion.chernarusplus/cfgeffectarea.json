@@ -29,34 +29,6 @@
       }
     },
     {
-      "AreaName": "TLH_RifyChemicalSpill_ExpandedArea",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "ContaminatedTrigger",
-      "Data": {
-        "Pos": [
-          13608,
-          0,
-          11145
-        ],
-        "Radius": 75,
-        "PosHeight": 10,
-        "NegHeight": 7,
-        "InnerRingCount": 1,
-        "InnerPartDist": 50,
-        "OuterRingToggle": 1,
-        "OuterPartDist": 60,
-        "OuterOffset": 0,
-        "VerticalLayers": 0,
-        "VerticalOffset": 0,
-        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-      },
-      "PlayerData": {
-        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
-      }
-    },
-    {
       "AreaName": "Ship-NE",
       "Type": "ContaminatedArea_Static",
       "TriggerType": "ContaminatedTrigger",
@@ -169,18 +141,18 @@
       }
     },
     {
-      "AreaName": "Tisy Military Base",
-      "Type": "ContaminatedArea_Static",
-      "TriggerType": "ContaminatedTrigger",
+      "AreaName": "BlackMarket",
+      "Type": "SpookyArea23",
+      "TriggerType": "SpookyTrigger23",
       "Data": {
         "Pos": [
-          1684.75,
-          451.742004,
-          14143
+          13463.0996,
+          83,
+          3307.8999
         ],
-        "Radius": 200,
-        "PosHeight": 11,
-        "NegHeight": 10,
+        "Radius": 150,
+        "PosHeight": 100,
+        "NegHeight": 0,
         "InnerRingCount": 2,
         "InnerPartDist": 50,
         "OuterRingToggle": 1,
@@ -188,12 +160,516 @@
         "OuterOffset": 0,
         "VerticalLayers": 0,
         "VerticalOffset": 0,
-        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+        "ParticleName": "graphics/particles/spooky_mist"
       },
       "PlayerData": {
-        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
-        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+        "AroundPartName": "",
+        "TinyPartName": "",
+        "PPERequesterType": "PPERequester_SpookyAreaTint"
+      }
+    },
+    {
+      "AreaName": "BM Bridge",
+      "Type": "SpookyArea23",
+      "TriggerType": "SpookyTrigger23",
+      "Data": {
+        "Pos": [
+          12996.2002,
+          6,
+          3185
+        ],
+        "Radius": 130,
+        "PosHeight": 100,
+        "NegHeight": 0,
+        "InnerRingCount": 4,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 40,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/spooky_mist"
+      },
+      "PlayerData": {
+        "AroundPartName": "",
+        "TinyPartName": "",
+        "PPERequesterType": "PPERequester_SpookyAreaTint"
+      }
+    },
+    {
+      "AreaName": "BM Nth",
+      "Type": "SpookyArea23",
+      "TriggerType": "SpookyTrigger23",
+      "Data": {
+        "Pos": [
+          13228.2998,
+          9,
+          3348.32007
+        ],
+        "Radius": 130,
+        "PosHeight": 100,
+        "NegHeight": 2,
+        "InnerRingCount": 4,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 40,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/spooky_mist"
+      },
+      "PlayerData": {
+        "AroundPartName": "",
+        "TinyPartName": "",
+        "PPERequesterType": "PPERequester_SpookyAreaTint"
+      }
+    },
+    {
+      "AreaName": "BM NW",
+      "Type": "SpookyArea23",
+      "TriggerType": "SpookyTrigger23",
+      "Data": {
+        "Pos": [
+          13171.2998,
+          31.0585995,
+          3228.72998
+        ],
+        "Radius": 130,
+        "PosHeight": 100,
+        "NegHeight": 2,
+        "InnerRingCount": 4,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 40,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/spooky_mist"
+      },
+      "PlayerData": {
+        "AroundPartName": "",
+        "TinyPartName": "",
+        "PPERequesterType": "PPERequester_SpookyAreaTint"
+      }
+    },
+    {
+      "AreaName": "BM StrongRoom",
+      "Type": "SpookyArea23",
+      "TriggerType": "SpookyTrigger23",
+      "Data": {
+        "Pos": [
+          13636.7998,
+          44.7549019,
+          2956.13989
+        ],
+        "Radius": 130,
+        "PosHeight": 100,
+        "NegHeight": 2,
+        "InnerRingCount": 4,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 40,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/spooky_mist"
+      },
+      "PlayerData": {
+        "AroundPartName": "",
+        "TinyPartName": "",
+        "PPERequesterType": "PPERequester_SpookyAreaTint"
+      }
+    },
+    {
+      "AreaName": "BM ShipBridge",
+      "Type": "SpookyArea23",
+      "TriggerType": "SpookyTrigger23",
+      "Data": {
+        "Pos": [
+          13245.0996,
+          5.51789999,
+          3039.23999
+        ],
+        "Radius": 130,
+        "PosHeight": 100,
+        "NegHeight": 2,
+        "InnerRingCount": 4,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 40,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/spooky_mist"
+      },
+      "PlayerData": {
+        "AroundPartName": "",
+        "TinyPartName": "",
+        "PPERequesterType": "PPERequester_SpookyAreaTint"
+      }
+    },
+    {
+      "AreaName": "GraveyardShiftMist",
+      "Type": "SpookyArea",
+      "TriggerType": "Effecttrigger",
+      "Data": {
+        "Pos": [
+          10620.3301,
+          0,
+          2645.75
+        ],
+        "Radius": 30,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 20,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 10,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/spooky_mist"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/spooky_mist",
+        "TinyPartName": "graphics/particles/spooky_mist",
+        "PPERequesterType": "PPERequester_DeathDarkening"
+      }
+    },
+    {
+      "AreaName": "GraveyardShiftMist2",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          10622.3301,
+          0,
+          2643.75
+        ],
+        "Radius": 30,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 25,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 5,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_ground"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/blood_bleeding_01",
+        "TinyPartName": "graphics/particles/env_fly_swarm_01",
+        "PPERequesterType": "PPERequester_ShockHitReaction"
+      }
+    },
+    {
+      "AreaName": "GraveyardShiftOrientation",
+      "Type": "SpookyArea",
+      "TriggerType": "SpookyTrigger",
+      "Data": {
+        "Pos": [
+          10622.3301,
+          0,
+          2643.75
+        ],
+        "Radius": 10,
+        "PosHeight": 10,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 10,
+        "OuterRingToggle": 0,
+        "OuterPartDist": 0,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/breath_vapour_heavy"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/blood_bleeding_01",
+        "TinyPartName": "graphics/particles/env_fly_swarm_01",
+        "PPERequesterType": "PPERequester_ShockHitReaction"
+      }
+    },
+    {
+      "AreaName": "SmokeStack1Cherno",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "EffectTrigger",
+      "Data": {
+        "Pos": [
+          7241.76025,
+          64.4811707,
+          3252.49463
+        ],
+        "Radius": 0,
+        "PosHeight": 0,
+        "NegHeight": 0,
+        "InnerRingCount": 0,
+        "InnerPartDist": 0,
+        "OuterRingToggle": 0,
+        "OuterPartDist": 0,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "",
+        "TinyPartName": "",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeStack2",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "EffectTrigger",
+      "Data": {
+        "Pos": [
+          7681.91211,
+          35.7242355,
+          3204.19824
+        ],
+        "Radius": 0,
+        "PosHeight": 0,
+        "NegHeight": 0,
+        "InnerRingCount": 0,
+        "InnerPartDist": 0,
+        "OuterRingToggle": 0,
+        "OuterPartDist": 0,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "",
+        "TinyPartName": "",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeStack3",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "EffectTrigger",
+      "Data": {
+        "Pos": [
+          10138.3652,
+          35.4187012,
+          1866.02161
+        ],
+        "Radius": 0,
+        "PosHeight": 0,
+        "NegHeight": 0,
+        "InnerRingCount": 0,
+        "InnerPartDist": 0,
+        "OuterRingToggle": 0,
+        "OuterPartDist": 0,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "",
+        "TinyPartName": "",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeStack4",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "EffectTrigger",
+      "Data": {
+        "Pos": [
+          10383.5322,
+          64.806488,
+          2542.18164
+        ],
+        "Radius": 0,
+        "PosHeight": 0,
+        "NegHeight": 0,
+        "InnerRingCount": 0,
+        "InnerPartDist": 0,
+        "OuterRingToggle": 0,
+        "OuterPartDist": 0,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeStack5",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "EffectTrigger",
+      "Data": {
+        "Pos": [
+          10434.0039,
+          35.6341209,
+          2593.0354
+        ],
+        "Radius": 0,
+        "PosHeight": 0,
+        "NegHeight": 0,
+        "InnerRingCount": 0,
+        "InnerPartDist": 0,
+        "OuterRingToggle": 0,
+        "OuterPartDist": 0,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "",
+        "TinyPartName": "",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeStack6",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "EffectTrigger",
+      "Data": {
+        "Pos": [
+          13118.1494,
+          41.5964508,
+          7076.23877
+        ],
+        "Radius": 0,
+        "PosHeight": 0,
+        "NegHeight": 0,
+        "InnerRingCount": 0,
+        "InnerPartDist": 0,
+        "OuterRingToggle": 0,
+        "OuterPartDist": 0,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeStack7",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "EffectTrigger",
+      "Data": {
+        "Pos": [
+          12919.0244,
+          64.5485916,
+          10004.7959
+        ],
+        "Radius": 0,
+        "PosHeight": 0,
+        "NegHeight": 0,
+        "InnerRingCount": 0,
+        "InnerPartDist": 0,
+        "OuterRingToggle": 0,
+        "OuterPartDist": 0,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "",
+        "TinyPartName": "",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeStack8",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "EffectTrigger",
+      "Data": {
+        "Pos": [
+          14178.1338,
+          38.3198509,
+          13071.7764
+        ],
+        "Radius": 0,
+        "PosHeight": 0,
+        "NegHeight": 0,
+        "InnerRingCount": 0,
+        "InnerPartDist": 0,
+        "OuterRingToggle": 0,
+        "OuterPartDist": 0,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/",
+        "TinyPartName": "graphics/particles/",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeStack9",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "EffectTrigger",
+      "Data": {
+        "Pos": [
+          12342.6045,
+          58.9360466,
+          14276.2832
+        ],
+        "Radius": 0,
+        "PosHeight": 0,
+        "NegHeight": 0,
+        "InnerRingCount": 0,
+        "InnerPartDist": 0,
+        "OuterRingToggle": 0,
+        "OuterPartDist": 0,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "",
+        "TinyPartName": "",
+        "PPERequesterType": ""
+      }
+    },
+    {
+      "AreaName": "SmokeStack10",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "EffectTrigger",
+      "Data": {
+        "Pos": [
+          11574.207,
+          78.7615433,
+          14508.709
+        ],
+        "Radius": 0,
+        "PosHeight": 0,
+        "NegHeight": 0,
+        "InnerRingCount": 0,
+        "InnerPartDist": 0,
+        "OuterRingToggle": 0,
+        "OuterPartDist": 0,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/smoke_heli_wreck_01"
+      },
+      "PlayerData": {
+        "AroundPartName": "",
+        "TinyPartName": "",
+        "PPERequesterType": ""
       }
     }
   ],

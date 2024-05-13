@@ -13,7 +13,7 @@
     0
   ],
   "NPCName": "CARRIER HELI PILOT",
-  "DefaultNPCText": "Need a lift? Select your destination",
+  "DefaultNPCText": "You have to have done the Liasion Quests to use my services",
   "Waypoints": [],
   "NPCEmoteID": 46,
   "NPCEmoteIsStatic": 0,

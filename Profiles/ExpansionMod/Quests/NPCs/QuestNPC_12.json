@@ -13,7 +13,7 @@
     0
   ],
   "NPCName": "KLEN EXTRACTION PILOT",
-  "DefaultNPCText": "Need a lift?",
+  "DefaultNPCText": "You have to have done the Liasion Quests to use my services",
   "Waypoints": [],
   "NPCEmoteID": 46,
   "NPCEmoteIsStatic": 0,

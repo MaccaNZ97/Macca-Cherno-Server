@@ -1,0 +1,74 @@
+{
+  "ConfigVersion": 22,
+  "ID": 1,
+  "Type": 1,
+  "Title": "Welcome to Nato PMC",
+  "Descriptions": [
+    "Welcome to Nato Carrier on Chernarus which has been over-run by Zombies Created by the Umbrella Corporation.\r\n\r\nUmbrella Corp are still active in the region so are Russian forces both are Hostile to Nato",
+    "Introduce yourself to the Liasion Officer to get access to other work and supplies",
+    "Liasion Officer is on the Carrier"
+  ],
+  "ObjectiveText": "Chat to the Liasion Officer",
+  "FollowUpQuest": -1,
+  "Repeatable": 0,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [
+    {
+      "ClassName": "ExpansionQuestItemPaper",
+      "Amount": 1
+    }
+  ],
+  "Rewards": [
+    {
+      "ClassName": "ChernarusMap",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    },
+    {
+      "ClassName": "TacticalBaconCan_Opened",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 250,
+  "RewardsForGroupOwnerOnly": 0,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [],
+  "QuestTurnInIDs": [
+    3
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 27,
+      "ID": 5,
+      "ObjectiveType": 5
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 0,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

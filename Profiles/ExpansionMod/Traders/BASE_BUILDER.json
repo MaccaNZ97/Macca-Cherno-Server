@@ -13,10 +13,10 @@
   "DisplayCurrencyName": "",
   "Categories": [
     "SUPPLIES",
+    "BASE ITEMS",
     "BASE BUILDING EXPANSION"
   ],
   "Items": {
-    "avengers_display_kit": 1,
     "battery9v": 1,
     "bbp_barbwire_fence_kit": 1,
     "bbp_blueprint": 1,
@@ -57,22 +57,8 @@
     "bbp_wallpaper_mural_2": 1,
     "bbp_window_kit": 1,
     "bbp_workbench_kit": 1,
-    "bl_pallet_bed_kit": 1,
-    "bl_pallet_box_kit": 1,
-    "bl_pallet_cabinet_kit": 1,
-    "bl_pallet_table_kit": 1,
-    "bl_rain_collector_kit": 1,
-    "bl_rain_collector_prefab_kit": 1,
-    "bl_special_item_kit": 1,
-    "bl_stove_barrel_kit": 1,
     "carbattery": 1,
     "codelock": 1,
-    "expansioncircuitboard_mk1": 1,
-    "expansioncircuitboard_mk2": 1,
-    "expansioncircuitboard_mk3": 1,
-    "expansionhescokit": 1,
-    "expansionparkingmeterkit": 1,
-    "mavericks12v": 1,
     "truckbattery": 1
   }
 }

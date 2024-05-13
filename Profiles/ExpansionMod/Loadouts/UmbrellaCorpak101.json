@@ -205,8 +205,8 @@
       "ClassName": "BandageDressing",
       "Chance": 1,
       "Quantity": {
-        "Min": 0,
-        "Max": 0
+        "Min": 1,
+        "Max": 2
       },
       "Health": [],
       "InventoryAttachments": [],

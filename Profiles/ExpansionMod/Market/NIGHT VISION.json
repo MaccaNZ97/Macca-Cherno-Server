@@ -7,39 +7,6 @@
   "IsExchange": 0,
   "Items": [
     {
-      "ClassName": "fog_gpnvg_elite",
-      "MaxPriceThreshold": 7500,
-      "MinPriceThreshold": 7500,
-      "SellPricePercent": 25,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 0,
-      "QuantityPercent": 25,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_gpnvg_tarzier",
-      "MaxPriceThreshold": 5500,
-      "MinPriceThreshold": 5500,
-      "SellPricePercent": 25,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 0,
-      "QuantityPercent": 25,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_gpnvg_tarzier_black",
-      "MaxPriceThreshold": 5500,
-      "MinPriceThreshold": 5500,
-      "SellPricePercent": 25,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 0,
-      "QuantityPercent": 25,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "fog_pvs31",
       "MaxPriceThreshold": 5500,
       "MinPriceThreshold": 5500,

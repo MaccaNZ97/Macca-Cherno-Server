@@ -224,21 +224,8 @@
       "ClassName": "BandageDressing",
       "Chance": 1,
       "Quantity": {
-        "Min": 0,
-        "Max": 0
-      },
-      "Health": [],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "BO_Propital",
-      "Chance": 1,
-      "Quantity": {
-        "Min": 0,
-        "Max": 0
+        "Min": 1,
+        "Max": 1
       },
       "Health": [],
       "InventoryAttachments": [],
@@ -246,6 +233,7 @@
       "ConstructionPartsBuilt": [],
       "Sets": []
     }
+   
   ],
   "ConstructionPartsBuilt": [],
   "Sets": [
