@@ -499,8 +499,8 @@
         "ParticleName": "graphics/particles/smoke_heli_wreck_01"
       },
       "PlayerData": {
-        "AroundPartName": "graphics/particles/",
-        "TinyPartName": "graphics/particles/",
+        "AroundPartName": "",
+        "TinyPartName": "",
         "PPERequesterType": ""
       }
     },
@@ -556,7 +556,7 @@
       },
       "PlayerData": {
         "AroundPartName": "",
-        "TinyPartName": "graphics/particles/",
+        "TinyPartName": "",
         "PPERequesterType": ""
       }
     },
@@ -611,8 +611,8 @@
         "ParticleName": "graphics/particles/smoke_heli_wreck_01"
       },
       "PlayerData": {
-        "AroundPartName": "graphics/particles/",
-        "TinyPartName": "graphics/particles/",
+        "AroundPartName": "",
+        "TinyPartName": "",
         "PPERequesterType": ""
       }
     },

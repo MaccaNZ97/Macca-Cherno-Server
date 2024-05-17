@@ -1,0 +1,105 @@
+{
+  "m_Version": 12,
+  "DisplayName": "SNAFU LMG's & LAUNCHERS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "gcgn_m249",
+      "MaxPriceThreshold": 60000,
+      "MinPriceThreshold": 52800,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 25,
+      "SpawnAttachments": [
+        "snafu_m249hg",
+        "snafu_m249stock",
+        "snafu_m249bipod",
+        "gcgn_m249_mag"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_m1918a2",
+      "MaxPriceThreshold": 48000,
+      "MinPriceThreshold": 42240,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 25,
+      "SpawnAttachments": [
+        "snafu_m1918a2_mag"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_pkp_black_gun",
+      "MaxPriceThreshold": 65000,
+      "MinPriceThreshold": 57200,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 25,
+      "SpawnAttachments": [],
+      "Variants": [
+        "snafu_pkp_nblack_gun"
+      ]
+    },
+    {
+      "ClassName": "snafu_rpk16_black",
+      "MaxPriceThreshold": 65000,
+      "MinPriceThreshold": 57200,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 25,
+      "SpawnAttachments": [
+        "snafu_huntingoptic",
+        "snafu_hnightforce",
+        "snafu_leupold_mark8",
+        "snafu_kahles",
+        "snafu_aimpoint_aco",
+        "snafu_aimpoint_m5",
+        "snafu_elcan",
+        "snafu_eotech_exps3",
+        "snafu_trijicon",
+        "snafu_aktango6t_black",
+        "snafu_kobra",
+        "snafu_standardized_suppressor_black",
+        "snafu_lstandardized_suppressor_black",
+        "snafu_rpk16_black_mag"
+      ],
+      "Variants": [
+        "snafu_rpk16_green",
+        "snafu_rpk16_tan"
+      ]
+    },
+    {
+      "ClassName": "snafu_u100",
+      "MaxPriceThreshold": 65000,
+      "MinPriceThreshold": 57200,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 25,
+      "SpawnAttachments": [
+        "snafu_u100_mag"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafurpd",
+      "MaxPriceThreshold": 58000,
+      "MinPriceThreshold": 51040,
+      "SellPricePercent": 35,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 25,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

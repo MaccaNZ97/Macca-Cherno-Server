@@ -7,6 +7,35 @@
   "IsExchange": 0,
   "Items": [
     {
+      "ClassName": "fog_arcteryx_balaclava_black",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_arcteryx_balaclava_cb",
+        "fog_arcteryx_balaclava_grey",
+        "fog_arcteryx_balaclava_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_avonm53_black",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_avonm53_clear",
+        "fog_avonm53_red"
+      ]
+    },
+    {
       "ClassName": "fog_ghost_headset_tan",
       "MaxPriceThreshold": 350,
       "MinPriceThreshold": 350,
@@ -22,8 +51,8 @@
       "MaxPriceThreshold": 350,
       "MinPriceThreshold": 350,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
@@ -63,8 +92,8 @@
       "MaxPriceThreshold": 350,
       "MinPriceThreshold": 350,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -90,35 +119,6 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
-    },
-    {
-      "ClassName": "fog_arcteryx_balaclava_black",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_arcteryx_balaclava_cb",
-        "fog_arcteryx_balaclava_grey",
-        "fog_arcteryx_balaclava_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_avonm53_black",
-      "MaxPriceThreshold": 0,
-      "MinPriceThreshold": 0,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_avonm53_clear",
-        "fog_avonm53_red"
-      ]
     }
   ]
 }

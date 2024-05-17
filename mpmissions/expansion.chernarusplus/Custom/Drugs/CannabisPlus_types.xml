@@ -9,56 +9,63 @@
     <usage name="Town" />
     <usage name="Village" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBagBlackFrost">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBagBlue">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBagFuture">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBagKush">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBagNomad">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBagS1">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBagSkunk">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBagStardawg">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBlackFrost">
     <lifetime>3600</lifetime>
@@ -69,6 +76,8 @@
     <usage name="Town" />
     <usage name="Village" />
     <tag name="shelves" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBlue">
     <lifetime>3600</lifetime>
@@ -79,54 +88,72 @@
     <usage name="Town" />
     <usage name="Village" />
     <tag name="shelves" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBrickBlackFrost">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBrickBlue">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBrickFuture">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBrickKush">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBrickNomad">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBrickS1">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBrickSkunk">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisBrickStardawg">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisFuture">
     <lifetime>3600</lifetime>
@@ -137,6 +164,8 @@
     <usage name="Town" />
     <usage name="Village" />
     <tag name="shelves" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisKush">
     <lifetime>3600</lifetime>
@@ -147,6 +176,8 @@
     <usage name="Town" />
     <usage name="Village" />
     <tag name="shelves" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisNomad">
     <lifetime>3600</lifetime>
@@ -157,36 +188,43 @@
     <usage name="Town" />
     <usage name="Village" />
     <tag name="shelves" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsBlackFrost">
     <lifetime>86400</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsBlue">
     <lifetime>86400</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsFuture">
     <lifetime>86400</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsKush">
     <lifetime>86400</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsNomad">
     <lifetime>86400</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsPackBlackFrost">
     <lifetime>7200</lifetime>
@@ -195,6 +233,7 @@
     <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsPackBlue">
     <lifetime>7200</lifetime>
@@ -203,6 +242,7 @@
     <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsPackFuture">
     <lifetime>7200</lifetime>
@@ -211,6 +251,7 @@
     <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsPackKush">
     <lifetime>7200</lifetime>
@@ -219,6 +260,7 @@
     <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsPackNomad">
     <lifetime>7200</lifetime>
@@ -227,6 +269,7 @@
     <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsPackS1">
     <lifetime>7200</lifetime>
@@ -235,6 +278,7 @@
     <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsPackSkunk">
     <lifetime>7200</lifetime>
@@ -243,6 +287,7 @@
     <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsPackStardawg">
     <lifetime>7200</lifetime>
@@ -251,24 +296,28 @@
     <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsS1">
     <lifetime>86400</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsSkunk">
     <lifetime>86400</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSeedsStardawg">
     <lifetime>86400</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisSkunk">
     <lifetime>3600</lifetime>
@@ -279,6 +328,8 @@
     <usage name="Town" />
     <usage name="Village" />
     <tag name="shelves" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CannabisStardawg">
     <lifetime>3600</lifetime>
@@ -289,6 +340,7 @@
     <usage name="Town" />
     <usage name="Village" />
     <tag name="shelves" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CigarettePack_CannabisBlackFrost">
     <lifetime>7200</lifetime>
@@ -297,7 +349,8 @@
     <category name="donot_spawn" />
     <usage name="Medic" />
     <tag name="shelves" />
-    <value name="Tier4" />
+    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CigarettePack_CannabisBlue">
     <lifetime>7200</lifetime>
@@ -307,6 +360,7 @@
     <usage name="Medic" />
     <tag name="shelves" />
     <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CigarettePack_CannabisFuture">
     <lifetime>7200</lifetime>
@@ -316,6 +370,7 @@
     <usage name="Medic" />
     <tag name="shelves" />
     <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CigarettePack_CannabisKush">
     <lifetime>7200</lifetime>
@@ -325,6 +380,7 @@
     <usage name="Medic" />
     <tag name="shelves" />
     <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CigarettePack_CannabisNomad">
     <lifetime>7200</lifetime>
@@ -334,6 +390,7 @@
     <usage name="Medic" />
     <tag name="shelves" />
     <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CigarettePack_CannabisSkunk">
     <lifetime>7200</lifetime>
@@ -343,6 +400,7 @@
     <usage name="Medic" />
     <tag name="shelves" />
     <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CigarettePack_CannabisStardawg">
     <lifetime>7200</lifetime>
@@ -352,6 +410,7 @@
     <usage name="Medic" />
     <tag name="shelves" />
     <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="CP_CigarettePack_Empty">
     <lifetime>7200</lifetime>
@@ -363,16 +422,19 @@
     <tag name="shelves" />
     <value name="Tier1" />
     <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_DriedCannabisPlant">
     <lifetime>7200</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_DryPost">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_DryPost_Kit">
     <lifetime>7200</lifetime>
@@ -384,6 +446,7 @@
     <usage name="Office" />
     <usage name="Prison" />
     <usage name="School" />
+    <value name="Tier5" />
   </type>
   <type name="CP_EmptyBag">
     <lifetime>7200</lifetime>
@@ -394,6 +457,9 @@
     <usage name="Town" />
     <usage name="Village" />
     <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="CP_JointBlackFrost">
     <lifetime>7200</lifetime>
@@ -404,6 +470,7 @@
     <tag name="shelves" />
     <value name="Tier1" />
     <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_JointBlue">
     <lifetime>7200</lifetime>
@@ -412,8 +479,7 @@
     <category name="donot_spawn" />
     <usage name="Medic" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_JointFuture">
     <lifetime>7200</lifetime>
@@ -424,6 +490,7 @@
     <tag name="shelves" />
     <value name="Tier1" />
     <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_JointKush">
     <lifetime>7200</lifetime>
@@ -432,8 +499,7 @@
     <category name="donot_spawn" />
     <usage name="Medic" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_JointNomad">
     <lifetime>7200</lifetime>
@@ -442,8 +508,7 @@
     <category name="donot_spawn" />
     <usage name="Medic" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_JointSkunk">
     <lifetime>7200</lifetime>
@@ -454,6 +519,7 @@
     <tag name="shelves" />
     <value name="Tier1" />
     <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_JointStardawg">
     <lifetime>7200</lifetime>
@@ -462,56 +528,63 @@
     <category name="donot_spawn" />
     <usage name="Medic" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_Plant_CannabisBlackFrost">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_Plant_CannabisBlue">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_Plant_CannabisFuture">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_Plant_CannabisKush">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_Plant_CannabisNomad">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_Plant_CannabisSkunk">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_Plant_CannabisStardawg">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_Plant_Tobacco">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_PlasticRoll">
     <lifetime>7200</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
-    <value name="Tier3" />
     <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="CP_PlasticWrapper">
     <lifetime>7200</lifetime>
@@ -522,8 +595,8 @@
     <usage name="Town" />
     <usage name="Village" />
     <tag name="shelves" />
-    <value name="Tier3" />
     <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="CP_Pouch">
     <nominal>0</nominal>
@@ -537,43 +610,50 @@
     <usage name="Office" />
     <usage name="Prison" />
     <usage name="School" />
-    <value name="Tier3" />
     <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="CP_RawBlackFrostCannabisPlant">
     <lifetime>7200</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_RawBlueCannabisPlant">
     <lifetime>7200</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_RawFutureCannabisPlant">
     <lifetime>7200</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_RawKushCannabisPlant">
     <lifetime>7200</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_RawNomadCannabisPlant">
     <lifetime>7200</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_RawSkunkCannabisPlant">
     <lifetime>7200</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_RawStardawgCannabisPlant">
     <lifetime>7200</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_Relief_Balm">
     <lifetime>7200</lifetime>
@@ -582,8 +662,8 @@
     <category name="donot_spawn" />
     <usage name="Medic" />
     <tag name="shelves" />
-    <value name="Tier3" />
     <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="CP_RollingPapers">
     <lifetime>7200</lifetime>
@@ -595,6 +675,7 @@
     <tag name="shelves" />
     <value name="Tier1" />
     <value name="Tier2" />
+    <value name="Tier5" />
   </type>
   <type name="CP_Tobacco">
     <lifetime>3600</lifetime>
@@ -605,12 +686,14 @@
     <usage name="Town" />
     <usage name="Village" />
     <tag name="shelves" />
+    <value name="Tier5" />
   </type>
   <type name="CP_TobaccoSeeds">
     <lifetime>86400</lifetime>
     <quantmin>-1</quantmin>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_TobaccoSeedsPack">
     <lifetime>7200</lifetime>
@@ -619,11 +702,13 @@
     <category name="donot_spawn" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="CP_Workbench">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="donot_spawn" />
+    <value name="Tier5" />
   </type>
   <type name="CP_Workbench_Kit">
     <lifetime>7200</lifetime>
@@ -635,7 +720,7 @@
     <usage name="Office" />
     <usage name="Prison" />
     <usage name="School" />
-    <value name="Tier3" />
     <value name="Tier4" />
+    <value name="Tier5" />
   </type>
 </types>

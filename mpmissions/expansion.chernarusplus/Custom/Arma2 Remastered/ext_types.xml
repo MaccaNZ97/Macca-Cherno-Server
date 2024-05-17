@@ -19,6 +19,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_AH1Z_Door_2_1">
     <nominal>0</nominal>
@@ -29,6 +30,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_AH1ZWreck">
     <nominal>0</nominal>
@@ -99,6 +101,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_AW159_BAF">
     <nominal>0</nominal>
@@ -119,6 +122,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_AW159_Marine">
     <nominal>0</nominal>
@@ -219,6 +223,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_KA52_door_1_1_Black">
     <nominal>0</nominal>
@@ -229,6 +234,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_KA52_door_1_1_Woodland">
     <nominal>0</nominal>
@@ -239,6 +245,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_KA52_door_2_1">
     <nominal>0</nominal>
@@ -249,6 +256,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_KA52_door_2_1_Black">
     <nominal>0</nominal>
@@ -259,6 +267,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_KA52_door_2_1_Woodland">
     <nominal>0</nominal>
@@ -269,6 +278,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_KA52_Woodland">
     <nominal>0</nominal>
@@ -289,6 +299,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_KA52FrontWheel">
     <nominal>0</nominal>
@@ -299,6 +310,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_KA52Wreck">
     <nominal>0</nominal>
@@ -329,6 +341,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_KA60_Door">
     <nominal>0</nominal>
@@ -339,6 +352,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_KA60_FrontWheel">
     <nominal>0</nominal>
@@ -349,6 +363,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_KA60Wreck">
     <nominal>0</nominal>
@@ -379,6 +394,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MerlinHC3_BAFWreck">
     <nominal>0</nominal>
@@ -399,6 +415,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MerlinHC3_Door_1_1">
     <nominal>0</nominal>
@@ -409,6 +426,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MerlinHC3_Door_2_1">
     <nominal>0</nominal>
@@ -419,6 +437,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MerlinHC3_FrontWheel">
     <nominal>0</nominal>
@@ -429,6 +448,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MH6">
     <nominal>0</nominal>
@@ -669,6 +689,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_1_1_ACR">
     <nominal>0</nominal>
@@ -679,6 +700,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_1_1_Chernarus">
     <nominal>0</nominal>
@@ -689,6 +711,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_1_1_ION">
     <nominal>0</nominal>
@@ -699,6 +722,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_1_1_Takistan">
     <nominal>0</nominal>
@@ -709,6 +733,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_1_1_UN">
     <nominal>0</nominal>
@@ -719,6 +744,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_2_1">
     <nominal>0</nominal>
@@ -729,6 +755,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_2_1_ACR">
     <nominal>0</nominal>
@@ -739,6 +766,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_2_1_Chernarus">
     <nominal>0</nominal>
@@ -749,6 +777,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_2_1_ION">
     <nominal>0</nominal>
@@ -759,6 +788,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_2_1_Takistan">
     <nominal>0</nominal>
@@ -769,6 +799,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_2_1_UN">
     <nominal>0</nominal>
@@ -779,6 +810,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_cargo_1">
     <nominal>0</nominal>
@@ -789,6 +821,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_cargo_1_ACR">
     <nominal>0</nominal>
@@ -799,6 +832,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_cargo_1_Chernarus">
     <nominal>0</nominal>
@@ -809,6 +843,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_cargo_1_ION">
     <nominal>0</nominal>
@@ -819,6 +854,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_cargo_1_Takistan">
     <nominal>0</nominal>
@@ -829,6 +865,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_cargo_1_UN">
     <nominal>0</nominal>
@@ -839,6 +876,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_cargo_2">
     <nominal>0</nominal>
@@ -849,6 +887,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_cargo_2_ACR">
     <nominal>0</nominal>
@@ -859,6 +898,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_cargo_2_Chernarus">
     <nominal>0</nominal>
@@ -869,6 +909,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_cargo_2_ION">
     <nominal>0</nominal>
@@ -879,6 +920,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_cargo_2_Takistan">
     <nominal>0</nominal>
@@ -889,6 +931,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_door_cargo_2_UN">
     <nominal>0</nominal>
@@ -899,6 +942,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_ION">
     <nominal>0</nominal>
@@ -939,6 +983,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_wheel_1_2">
     <nominal>0</nominal>
@@ -949,6 +994,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_wheel_2_1">
     <nominal>0</nominal>
@@ -959,6 +1005,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24_wheel_2_2">
     <nominal>0</nominal>
@@ -969,6 +1016,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_MI24Wreck">
     <nominal>0</nominal>
@@ -1789,6 +1837,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_Uh1hDoor_1_2_Takistan">
     <nominal>0</nominal>
@@ -1799,6 +1848,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH1Y">
     <nominal>0</nominal>
@@ -1829,6 +1879,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH1Y_door_1_1_ACR">
     <nominal>0</nominal>
@@ -1839,6 +1890,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH1Y_door_1_1_SAR">
     <nominal>0</nominal>
@@ -1849,6 +1901,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH1Y_door_1_1_USMC">
     <nominal>0</nominal>
@@ -1859,6 +1912,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH1Y_door_2_1">
     <nominal>0</nominal>
@@ -1869,6 +1923,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH1Y_door_2_1_ACR">
     <nominal>0</nominal>
@@ -1879,6 +1934,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH1Y_door_2_1_SAR">
     <nominal>0</nominal>
@@ -1889,6 +1945,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH1Y_door_2_1_USMC">
     <nominal>0</nominal>
@@ -1899,6 +1956,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH1Y_SAR">
     <nominal>0</nominal>
@@ -1949,6 +2007,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH60M_Door_1_1_Green">
     <nominal>0</nominal>
@@ -1959,6 +2018,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH60M_Door_1_1_MEV">
     <nominal>0</nominal>
@@ -1969,6 +2029,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH60M_Door_1_2">
     <nominal>0</nominal>
@@ -1979,6 +2040,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH60M_Door_1_2_Green">
     <nominal>0</nominal>
@@ -1989,6 +2051,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH60M_Door_1_2_MEV">
     <nominal>0</nominal>
@@ -1999,6 +2062,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH60M_Door_2_1">
     <nominal>0</nominal>
@@ -2009,6 +2073,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH60M_Door_2_1_Green">
     <nominal>0</nominal>
@@ -2019,6 +2084,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH60M_Door_2_1_MEV">
     <nominal>0</nominal>
@@ -2029,6 +2095,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH60M_Door_2_2">
     <nominal>0</nominal>
@@ -2039,6 +2106,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH60M_Door_2_2_Green">
     <nominal>0</nominal>
@@ -2049,6 +2117,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH60M_Door_2_2_MEV">
     <nominal>0</nominal>
@@ -2059,6 +2128,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
   </type>
   <type name="EXT_UH60M_Green">
     <nominal>0</nominal>

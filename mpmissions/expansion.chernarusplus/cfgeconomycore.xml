@@ -50,6 +50,7 @@
     <file name="TrailBrozer_types.xml" type="types" />
     <file name="Medical_Sobar_types.xml" type="types" />
     <file name="DriipyShoes_types.xml" type="types" />
+    <file name="ObjectFiles_types.xml" type="types" />
   </ce>
   <ce folder="Custom/Custom_Events">
     <file name="Custom_events.xml" type="events" />

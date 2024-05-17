@@ -403,6 +403,17 @@
       "Variants": []
     },
     {
+      "ClassName": "tf_platecarrierpouches_coyote",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
       "ClassName": "tf_platecarrierpouches_emr",
       "MaxPriceThreshold": 200,
       "MinPriceThreshold": 190,
@@ -426,17 +437,6 @@
         "tf_riflesling_brown",
         "tf_riflesling_od"
       ]
-    },
-    {
-      "ClassName": "tf_platecarrierpouches_coyote",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
     }
   ]
 }

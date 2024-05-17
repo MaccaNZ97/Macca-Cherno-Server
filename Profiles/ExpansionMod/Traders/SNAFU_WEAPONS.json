@@ -1,7 +1,7 @@
 {
   "m_Version": 12,
   "DisplayName": "SNAFU WEAPONS",
-  "MinRequiredReputation": 10000,
+  "MinRequiredReputation": 15000,
   "MaxRequiredReputation": 2147483647,
   "RequiredFaction": "",
   "RequiredCompletedQuestID": -1,
@@ -12,29 +12,20 @@
   "DisplayCurrencyValue": 1,
   "DisplayCurrencyName": "",
   "Categories": [
-    "SNAFU_WEAPONS",
-    "SNAFU_MAGS",
-    "LAUNCHERS",
+    "SNAFU_MAGS:3",
+    "ADVANCED SCOPES:3",
     "SNAFU_AMMO",
-    "SNAFU_EXTRAS",
-    "SNAFU_SUPPRESSORS",
-    "SNAFU_SCOPES",
-    "SNAFU_GRIPS",
-    "SNAFU_STOCKS",
-    "SNAFU_HANDGUARDS",
-    "SNAFU_BIPODS"
+    "LAUNCHERS:3",
+    "SNAFU_EXTRAS:3",
+    "SNAFU_SUPPRESSORS:3",
+    "SNAFU_SCOPES:3",
+    "SNAFU_GRIPS:3",
+    "SNAFU_STOCKS:3",
+    "SNAFU_HANDGUARDS:3",
+    "SNAFU_BIPODS:3"
   ],
   "Items": {
-    "snafu_eotech_exps3": 3,
-    "ak_plastichndgrd": 3,
     "battery9v": 3,
-    "fnp45_mrdsoptic": 3,
-    "mag_akm_drum75rnd": 3,
-    "mag_glock_15rnd": 3,
-    "mag_stanag_30rnd": 3,
-    "mag_stanag_60rnd": 3,
-    "mag_stanagcoupled_30rnd": 3,
-    "pistolsuppressor": 3,
     "tlrlight": 3,
     "universallight": 3
   }

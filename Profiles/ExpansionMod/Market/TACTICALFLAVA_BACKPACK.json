@@ -9,10 +9,10 @@
     {
       "ClassName": "tf_avsbag_coyote",
       "MaxPriceThreshold": 2520,
-      "MinPriceThreshold": 2510,
+      "MinPriceThreshold": 2218,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -20,10 +20,10 @@
     {
       "ClassName": "tf_avsbag_khaki",
       "MaxPriceThreshold": 2520,
-      "MinPriceThreshold": 2510,
+      "MinPriceThreshold": 2218,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -31,7 +31,7 @@
     {
       "ClassName": "tf_camelbakbag_black",
       "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2500,
+      "MinPriceThreshold": 2200,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -47,10 +47,10 @@
     {
       "ClassName": "tf_mapbag_coyote",
       "MaxPriceThreshold": 2520,
-      "MinPriceThreshold": 2510,
+      "MinPriceThreshold": 2218,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -58,10 +58,10 @@
     {
       "ClassName": "tf_mapbag_khaki",
       "MaxPriceThreshold": 2520,
-      "MinPriceThreshold": 2510,
+      "MinPriceThreshold": 2218,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []

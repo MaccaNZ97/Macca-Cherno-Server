@@ -250,6 +250,16 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
+  <type name="Animal_UrsusArctos_Crackhead">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
   <type name="Bonfire">
     <nominal>0</nominal>
     <lifetime>3</lifetime>
@@ -1217,6 +1227,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Truck_01_Covered_Blue">
     <nominal>0</nominal>
@@ -1227,6 +1238,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Truck_01_Covered_Orange">
     <nominal>0</nominal>
@@ -1237,6 +1249,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Watchtower">
     <nominal>0</nominal>
@@ -2925,16 +2938,6 @@
   <type name="ZmbM_VillagerOld_White">
     <nominal>0</nominal>
     <lifetime>1800</lifetime>
-    <restock>0</restock>
-    <min>1</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="Animal_UrsusArctos_Crackhead">
-    <nominal>0</nominal>
-    <lifetime>7200</lifetime>
     <restock>0</restock>
     <min>1</min>
     <quantmin>-1</quantmin>

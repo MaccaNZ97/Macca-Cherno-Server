@@ -17,12 +17,7 @@
   "Autocomplete": 0,
   "IsGroupQuest": 1,
   "ObjectSetFileName": "",
-  "QuestItems": [
-    {
-      "ClassName": "expansionbiggyrocopter",
-      "Amount": 1
-    }
-  ],
+  "QuestItems": [],
   "Rewards": [
     {
       "ClassName": "expansionbiggyrocopter",

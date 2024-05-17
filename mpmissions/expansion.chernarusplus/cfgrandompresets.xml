@@ -783,9 +783,10 @@
   <cargo chance="0.20" name="YellowLow">
     <item name="DNA_KeyCard_Yellow_Inactive" chance="1.00" />
   </cargo>
-  <cargo chance="0.05" name="YellowHigh">
-    <item name="DNA_KeyCard_Yellow_Inactive" chance="0.75" />
-    <item name="DNA_KeyCard_Red_Inactive" chance="0.25" />
+  <cargo chance="20" name="YellowHigh">
+    <item name="DNA_KeyCard_Yellow_Inactive" chance="0.25" />
+    <item name="DNA_KeyCard_blue_Inactive" chance="0.25" />
+    <item name="TF_NVGoggles_AVS9" chance="0.25" />
   </cargo>
   <cargo chance="0.05" name="RedHigh">
     <item name="DNA_KeyCard_Red_Inactive" chance="1.00" />

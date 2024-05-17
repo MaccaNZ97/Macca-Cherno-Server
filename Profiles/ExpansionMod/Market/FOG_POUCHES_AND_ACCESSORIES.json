@@ -59,6 +59,94 @@
       ]
     },
     {
+      "ClassName": "fog_big_patch_fbi",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_big_patch_fog_bb",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_big_patch_fog_bb_emb",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_big_patch_jtac",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_big_patch_medic",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_big_patch_shaka",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_big_patch_sog",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_big_patch_tacp",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
       "ClassName": "fog_comtac_iv_black",
       "MaxPriceThreshold": 300,
       "MinPriceThreshold": 300,
@@ -167,6 +255,23 @@
       ]
     },
     {
+      "ClassName": "fog_pouch_admin_spiritus_black",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_admin_spiritus_cb",
+        "fog_pouch_admin_spiritus_m81",
+        "fog_pouch_admin_spiritus_mc",
+        "fog_pouch_admin_spiritus_mcb",
+        "fog_pouch_admin_spiritus_rg"
+      ]
+    },
+    {
       "ClassName": "fog_pouch_belly_black",
       "MaxPriceThreshold": 300,
       "MinPriceThreshold": 300,
@@ -221,6 +326,25 @@
         "fog_pouch_esstac_cb",
         "fog_pouch_esstac_mc",
         "fog_pouch_esstac_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_pouch_fannypack_aor2",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_fannypack_black",
+        "fog_pouch_fannypack_cb",
+        "fog_pouch_fannypack_khk",
+        "fog_pouch_fannypack_m81",
+        "fog_pouch_fannypack_mc",
+        "fog_pouch_fannypack_mcb",
+        "fog_pouch_fannypack_rg"
       ]
     },
     {
@@ -305,6 +429,52 @@
       ]
     },
     {
+      "ClassName": "fog_pouch_mag_dope_aor1",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_mag_dope_aor2",
+        "fog_pouch_mag_dope_black",
+        "fog_pouch_mag_dope_cb",
+        "fog_pouch_mag_dope_grey",
+        "fog_pouch_mag_dope_m81",
+        "fog_pouch_mag_dope_mc",
+        "fog_pouch_mag_dope_mca",
+        "fog_pouch_mag_dope_mcal",
+        "fog_pouch_mag_dope_mcb",
+        "fog_pouch_mag_dope_mct",
+        "fog_pouch_mag_dope_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_pouch_mag_dw_aor1",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_mag_dw_aor2",
+        "fog_pouch_mag_dw_black",
+        "fog_pouch_mag_dw_cb",
+        "fog_pouch_mag_dw_grey",
+        "fog_pouch_mag_dw_m81",
+        "fog_pouch_mag_dw_mc",
+        "fog_pouch_mag_dw_mca",
+        "fog_pouch_mag_dw_mcal",
+        "fog_pouch_mag_dw_mcb",
+        "fog_pouch_mag_dw_mct",
+        "fog_pouch_mag_dw_rg"
+      ]
+    },
+    {
       "ClassName": "fog_pouch_mag_kangaroo_black",
       "MaxPriceThreshold": 300,
       "MinPriceThreshold": 300,
@@ -323,6 +493,89 @@
       ]
     },
     {
+      "ClassName": "fog_pouch_mag_ktar_aor1",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_mag_ktar_black",
+        "fog_pouch_mag_ktar_aor2",
+        "fog_pouch_mag_ktar_grey",
+        "fog_pouch_mag_ktar_m81",
+        "fog_pouch_mag_ktar_mca",
+        "fog_pouch_mag_ktar_mcal",
+        "fog_pouch_mag_ktar_mct",
+        "fog_pouch_mag_ktar_cb",
+        "fog_pouch_mag_ktar_mc",
+        "fog_pouch_mag_ktar_mcb",
+        "fog_pouch_mag_ktar_rg",
+        "fog_pouch_mag_ktar_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_pouch_mag_lv119_black",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_mag_lv119_cb",
+        "fog_pouch_mag_lv119_mc",
+        "fog_pouch_mag_lv119_mcb",
+        "fog_pouch_mag_lv119_od",
+        "fog_pouch_mag_lv119_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_pouch_mag_ssmk4_black",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_mag_ssmk4_cb",
+        "fog_pouch_mag_ssmk4_grey",
+        "fog_pouch_mag_ssmk4_m81",
+        "fog_pouch_mag_ssmk4_mc",
+        "fog_pouch_mag_ssmk4_mca",
+        "fog_pouch_mag_ssmk4_mct",
+        "fog_pouch_mag_ssmk4_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_pouch_mag_tear_aor1",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_mag_tear_black",
+        "fog_pouch_mag_tear_aor2",
+        "fog_pouch_mag_tear_grey",
+        "fog_pouch_mag_tear_m81",
+        "fog_pouch_mag_tear_mca",
+        "fog_pouch_mag_tear_mcal",
+        "fog_pouch_mag_tear_mct",
+        "fog_pouch_mag_tear_cb",
+        "fog_pouch_mag_tear_mc",
+        "fog_pouch_mag_tear_mcb",
+        "fog_pouch_mag_tear_rg"
+      ]
+    },
+    {
       "ClassName": "fog_pouch_singlemag_black",
       "MaxPriceThreshold": 300,
       "MinPriceThreshold": 300,
@@ -337,6 +590,53 @@
         "fog_pouch_singlemag_mcb",
         "fog_pouch_singlemag_rg"
       ]
+    },
+    {
+      "ClassName": "fog_pouch_tall_spiritus_black",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_tall_spiritus_cb",
+        "fog_pouch_tall_spiritus_m81",
+        "fog_pouch_tall_spiritus_mc",
+        "fog_pouch_tall_spiritus_mcb",
+        "fog_pouch_tall_spiritus_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_pouch_traumaroll_aor1",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pouch_traumaroll_black",
+        "fog_pouch_traumaroll_aor2",
+        "fog_pouch_traumaroll_tan",
+        "fog_pouch_traumaroll_cb",
+        "fog_pouch_traumaroll_mc",
+        "fog_pouch_traumaroll_mcb",
+        "fog_pouch_traumaroll_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_pvs31a_black",
+      "MaxPriceThreshold": 250,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
     },
     {
       "ClassName": "fog_rtgfb_holster_black",
@@ -364,6 +664,24 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
+        "fog_sas_holster_rg",
+        "fog_sas_holster_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_sas_holster_cb",
+      "MaxPriceThreshold": 250,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_sas_holster_black",
+        "fog_sas_holster_m81",
+        "fog_sas_holster_mc",
+        "fog_sas_holster_mcb",
         "fog_sas_holster_rg",
         "fog_sas_holster_tan"
       ]
@@ -542,324 +860,6 @@
         "fog_vest_phonecase1_tan",
         "fog_vest_phonecase1_grey",
         "fog_vest_phonecase1_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_big_patch_fbi",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 150,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_big_patch_fog_bb",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 150,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_big_patch_fog_bb_emb",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 150,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_big_patch_jtac",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 150,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_big_patch_medic",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 150,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_big_patch_shaka",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 150,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_big_patch_sog",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 150,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_big_patch_tacp",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 150,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_pouch_admin_spiritus_black",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_pouch_admin_spiritus_cb",
-        "fog_pouch_admin_spiritus_m81",
-        "fog_pouch_admin_spiritus_mc",
-        "fog_pouch_admin_spiritus_mcb",
-        "fog_pouch_admin_spiritus_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_pouch_fannypack_aor2",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_pouch_fannypack_black",
-        "fog_pouch_fannypack_cb",
-        "fog_pouch_fannypack_khk",
-        "fog_pouch_fannypack_m81",
-        "fog_pouch_fannypack_mc",
-        "fog_pouch_fannypack_mcb",
-        "fog_pouch_fannypack_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_pouch_mag_dope_aor1",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_pouch_mag_dope_aor2",
-        "fog_pouch_mag_dope_black",
-        "fog_pouch_mag_dope_cb",
-        "fog_pouch_mag_dope_grey",
-        "fog_pouch_mag_dope_m81",
-        "fog_pouch_mag_dope_mc",
-        "fog_pouch_mag_dope_mca",
-        "fog_pouch_mag_dope_mcal",
-        "fog_pouch_mag_dope_mcb",
-        "fog_pouch_mag_dope_mct",
-        "fog_pouch_mag_dope_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_pouch_mag_dw_aor1",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_pouch_mag_dw_aor2",
-        "fog_pouch_mag_dw_black",
-        "fog_pouch_mag_dw_cb",
-        "fog_pouch_mag_dw_grey",
-        "fog_pouch_mag_dw_m81",
-        "fog_pouch_mag_dw_mc",
-        "fog_pouch_mag_dw_mca",
-        "fog_pouch_mag_dw_mcal",
-        "fog_pouch_mag_dw_mcb",
-        "fog_pouch_mag_dw_mct",
-        "fog_pouch_mag_dw_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_pouch_mag_ktar_aor1",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_pouch_mag_ktar_black",
-        "fog_pouch_mag_ktar_aor2",
-        "fog_pouch_mag_ktar_grey",
-        "fog_pouch_mag_ktar_m81",
-        "fog_pouch_mag_ktar_mca",
-        "fog_pouch_mag_ktar_mcal",
-        "fog_pouch_mag_ktar_mct",
-        "fog_pouch_mag_ktar_cb",
-        "fog_pouch_mag_ktar_mc",
-        "fog_pouch_mag_ktar_mcb",
-        "fog_pouch_mag_ktar_rg",
-        "fog_pouch_mag_ktar_tan"
-      ]
-    },
-    {
-      "ClassName": "fog_pouch_mag_lv119_black",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_pouch_mag_lv119_cb",
-        "fog_pouch_mag_lv119_mc",
-        "fog_pouch_mag_lv119_mcb",
-        "fog_pouch_mag_lv119_od",
-        "fog_pouch_mag_lv119_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_pouch_mag_ssmk4_black",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_pouch_mag_ssmk4_cb",
-        "fog_pouch_mag_ssmk4_grey",
-        "fog_pouch_mag_ssmk4_m81",
-        "fog_pouch_mag_ssmk4_mc",
-        "fog_pouch_mag_ssmk4_mca",
-        "fog_pouch_mag_ssmk4_mct",
-        "fog_pouch_mag_ssmk4_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_pouch_mag_tear_aor1",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_pouch_mag_tear_black",
-        "fog_pouch_mag_tear_aor2",
-        "fog_pouch_mag_tear_grey",
-        "fog_pouch_mag_tear_m81",
-        "fog_pouch_mag_tear_mca",
-        "fog_pouch_mag_tear_mcal",
-        "fog_pouch_mag_tear_mct",
-        "fog_pouch_mag_tear_cb",
-        "fog_pouch_mag_tear_mc",
-        "fog_pouch_mag_tear_mcb",
-        "fog_pouch_mag_tear_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_pouch_tall_spiritus_black",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_pouch_tall_spiritus_cb",
-        "fog_pouch_tall_spiritus_m81",
-        "fog_pouch_tall_spiritus_mc",
-        "fog_pouch_tall_spiritus_mcb",
-        "fog_pouch_tall_spiritus_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_pouch_traumaroll_aor1",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_pouch_traumaroll_black",
-        "fog_pouch_traumaroll_aor2",
-        "fog_pouch_traumaroll_tan",
-        "fog_pouch_traumaroll_cb",
-        "fog_pouch_traumaroll_mc",
-        "fog_pouch_traumaroll_mcb",
-        "fog_pouch_traumaroll_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_pvs31a_black",
-      "MaxPriceThreshold": 250,
-      "MinPriceThreshold": 250,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_sas_holster_cb",
-      "MaxPriceThreshold": 250,
-      "MinPriceThreshold": 250,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_sas_holster_black",
-        "fog_sas_holster_m81",
-        "fog_sas_holster_mc",
-        "fog_sas_holster_mcb",
-        "fog_sas_holster_rg",
-        "fog_sas_holster_tan"
       ]
     }
   ]

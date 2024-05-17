@@ -60,7 +60,6 @@
         "blacks_fordraptor_camo000_wheel",
         "blacks_fordraptor_camo000_wheel",
         "blacks_barrel_dbnraptorc000"
-     
       ],
       "Variants": []
     },
@@ -1266,7 +1265,7 @@
       "MaxPriceThreshold": 250000,
       "MinPriceThreshold": 245000,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 5,
+      "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [
@@ -1294,7 +1293,7 @@
       "MaxPriceThreshold": 250000,
       "MinPriceThreshold": 245000,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 10,
+      "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [

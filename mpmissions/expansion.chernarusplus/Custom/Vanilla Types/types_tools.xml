@@ -597,7 +597,7 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Industrial" />
   </type>
   <type name="CarRadiator">
@@ -609,7 +609,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="donot_spawn" />
     <usage name="Industrial" />
     <tag name="floor" />
   </type>
@@ -2065,6 +2065,19 @@
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
+  <type name="MetalPlate">
+    <nominal>60</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>40</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
   <type name="MetalWire">
     <nominal>70</nominal>
     <lifetime>14400</lifetime>
@@ -2969,6 +2982,16 @@
     <usage name="Medic" />
     <tag name="shelves" />
   </type>
+  <type name="StaticObj_Misc_Pallet">
+    <nominal>0</nominal>
+    <lifetime>600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
   <type name="SteakKnife">
     <nominal>70</nominal>
     <lifetime>14400</lifetime>
@@ -3234,6 +3257,17 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="tools" />
   </type>
+  <type name="WoodenPlank">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="tools" />
+  </type>
   <type name="WoodenStick">
     <nominal>0</nominal>
     <lifetime>14400</lifetime>
@@ -3280,40 +3314,6 @@
     <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-    <category name="tools" />
-  </type>
-  <type name="StaticObj_Misc_Pallet">
-    <nominal>0</nominal>
-    <lifetime>600</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-  </type>
-  <type name="MetalPlate">
-    <nominal>60</nominal>
-    <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>40</min>
-    <quantmin>100</quantmin>
-    <quantmax>100</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
-    <usage name="Industrial" />
-    <tag name="floor" />
-  </type>
-  <type name="WoodenPlank">
-    <nominal>0</nominal>
-    <lifetime>14400</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>100</quantmin>
-    <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="tools" />

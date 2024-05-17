@@ -396,6 +396,25 @@
                           "InventoryCargo": [],
                           "ConstructionPartsBuilt": [],
                           "Sets": []
+                        },
+                        {
+                          "ClassName": "Mag_AK101_30Rnd",
+                          "Chance": 1,
+                          "Quantity": {
+                            "Min": 0,
+                            "Max": 0
+                          },
+                          "Health": [
+                            {
+                              "Min": 0.7,
+                              "Max": 1,
+                              "Zone": ""
+                            }
+                          ],
+                          "InventoryAttachments": [],
+                          "InventoryCargo": [],
+                          "ConstructionPartsBuilt": [],
+                          "Sets": []
                         }
                       ]
                     }
@@ -410,10 +429,10 @@
           "InventoryCargo": [
             {
               "ClassName": "Mag_AK101_30Rnd",
-              "Chance": 1.0,
+              "Chance": 1,
               "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 0,
+                "Max": 0
               },
               "Health": [],
               "InventoryAttachments": [],
@@ -423,10 +442,10 @@
             },
             {
               "ClassName": "Mag_AK101_30Rnd",
-              "Chance": 0.15000000596046449,
+              "Chance": 1,
               "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
+                "Min": 0,
+                "Max": 0
               },
               "Health": [],
               "InventoryAttachments": [],
@@ -1281,28 +1300,41 @@
                       ]
                     }
                   ],
-                  "InventoryCargo": [
-                    {
-                      "ClassName": "Mag_FAL_20Rnd",
-                      "Chance": 1,
-                      "Quantity": {
-                        "Min": 1,
-                        "Max": 2
-                      },
-                      "Health": [],
-                      "InventoryAttachments": [],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    }
-                  ],
+                  "InventoryCargo": [],
                   "ConstructionPartsBuilt": [],
                   "Sets": []
                 }
               ]
             }
           ],
-          "InventoryCargo": [],
+          "InventoryCargo": [
+            {
+              "ClassName": "Mag_FAL_20Rnd",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            },
+            {
+              "ClassName": "Mag_FAL_20Rnd",
+              "Chance": 1,
+              "Quantity": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ],
           "ConstructionPartsBuilt": [],
           "Sets": []
         }

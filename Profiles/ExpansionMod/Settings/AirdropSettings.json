@@ -5062,15 +5062,7 @@
           "Min": 0,
           "Variants": []
         },
-        {
-          "Name": "Mag_STANAGCoupled_30Rnd",
-          "Attachments": [],
-          "Chance": 0.07999999821186066,
-          "QuantityPercent": -1,
-          "Max": -1,
-          "Min": 0,
-          "Variants": []
-        },
+       
         {
           "Name": "Mag_STANAG_30Rnd",
           "Attachments": [],

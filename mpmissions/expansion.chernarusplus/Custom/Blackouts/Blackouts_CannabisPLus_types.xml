@@ -363,6 +363,7 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="food" />
+    <value name="Tier5" />
   </type>
   <type name="Blackouts_CannabisSeedsDaxtal">
     <nominal>0</nominal>
@@ -374,6 +375,7 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="food" />
+    <value name="Tier5" />
   </type>
   <type name="Blackouts_CannabisSeedsExodus">
     <nominal>0</nominal>
@@ -385,6 +387,7 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="food" />
+    <value name="Tier5" />
   </type>
   <type name="Blackouts_CannabisSeedsGanja_Mountain">
     <nominal>0</nominal>
@@ -396,6 +399,7 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="food" />
+    <value name="Tier5" />
   </type>
   <type name="Blackouts_CannabisSeedsMidnight_Express">
     <nominal>0</nominal>
@@ -407,6 +411,7 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     <category name="food" />
+    <value name="Tier5" />
   </type>
   <type name="Blackouts_CannabisSeedsPackAlbino">
     <nominal>30</nominal>
@@ -420,6 +425,7 @@
     <category name="food" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="Blackouts_CannabisSeedsPackDaxtal">
     <nominal>30</nominal>
@@ -433,6 +439,7 @@
     <category name="food" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="Blackouts_CannabisSeedsPackExodus">
     <nominal>30</nominal>
@@ -446,6 +453,7 @@
     <category name="food" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="Blackouts_CannabisSeedsPackGanja_Mountain">
     <nominal>30</nominal>
@@ -459,6 +467,7 @@
     <category name="food" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="Blackouts_CannabisSeedsPackMidnight_Express">
     <nominal>30</nominal>
@@ -472,6 +481,7 @@
     <category name="food" />
     <usage name="Farm" />
     <usage name="Hunting" />
+    <value name="Tier5" />
   </type>
   <type name="Blackouts_CigarettePack_CannabisAlbino">
     <nominal>10</nominal>

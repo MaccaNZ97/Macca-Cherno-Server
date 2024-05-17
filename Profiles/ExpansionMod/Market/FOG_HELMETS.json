@@ -135,19 +135,6 @@
       ]
     },
     {
-      "ClassName": "fog_ronin_hat",
-      "MaxPriceThreshold": 1750,
-      "MinPriceThreshold": 1750,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_ronin_hat_black"
-      ]
-    },
-    {
       "ClassName": "fog_helmet_fastmt_cb",
       "MaxPriceThreshold": 1950,
       "MinPriceThreshold": 1950,
@@ -190,6 +177,19 @@
         "fog_helmet_mich2000_rgrattle",
         "fog_helmet_mich2000_tan",
         "fog_helmet_mich2000_tanrattle"
+      ]
+    },
+    {
+      "ClassName": "fog_ronin_hat",
+      "MaxPriceThreshold": 1750,
+      "MinPriceThreshold": 1750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ronin_hat_black"
       ]
     }
   ]

@@ -22,6 +22,17 @@
       ]
     },
     {
+      "ClassName": "fog_bag_6shbagt_blackemr",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
       "ClassName": "fog_bag_blackjack_black",
       "MaxPriceThreshold": 8000,
       "MinPriceThreshold": 8000,
@@ -142,17 +153,6 @@
         "fog_bergen_rucksack_multicam",
         "fog_bergen_rucksack_erdl"
       ]
-    },
-    {
-      "ClassName": "fog_bag_6shbagt_blackemr",
-      "MaxPriceThreshold": 5500,
-      "MinPriceThreshold": 5500,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
     }
   ]
 }

@@ -53,7 +53,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Black_cargo2">
@@ -65,7 +65,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Black_codriver">
@@ -77,7 +77,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Black_driver">
@@ -89,7 +89,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Black_hood">
@@ -101,7 +101,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Black_trunk">
@@ -113,7 +113,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Carbon">
@@ -136,7 +136,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Carbon_cargo2">
@@ -148,7 +148,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Carbon_codriver">
@@ -160,7 +160,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Carbon_driver">
@@ -172,7 +172,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Carbon_hood">
@@ -184,7 +184,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Carbon_trunk">
@@ -196,7 +196,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_doors_cargo1">
@@ -208,7 +208,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_doors_cargo2">
@@ -220,7 +220,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_doors_codriver">
@@ -232,7 +232,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_doors_driver">
@@ -244,7 +244,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_doors_hood">
@@ -256,7 +256,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_doors_trunk">
@@ -268,7 +268,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Green">
@@ -302,7 +302,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Green_cargo2">
@@ -314,7 +314,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Green_codriver">
@@ -326,7 +326,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Green_driver">
@@ -338,7 +338,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Green_hood">
@@ -350,7 +350,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Green_trunk">
@@ -362,7 +362,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_OldBody">
@@ -385,7 +385,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_OldBody_cargo2">
@@ -397,7 +397,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_OldBody_codriver">
@@ -409,7 +409,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_OldBody_driver">
@@ -421,7 +421,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_OldBody_hood">
@@ -433,7 +433,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_OldBody_trunk">
@@ -445,7 +445,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA">
@@ -468,7 +468,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA_cargo2">
@@ -480,7 +480,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA_codriver">
@@ -492,7 +492,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA_driver">
@@ -504,7 +504,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA_hood">
@@ -516,7 +516,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA_rust">
@@ -550,7 +550,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA2">
@@ -584,7 +584,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA2_cargo2">
@@ -596,7 +596,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA2_codriver">
@@ -608,7 +608,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA2_driver">
@@ -620,7 +620,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA2_hood">
@@ -632,7 +632,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA2_rust">
@@ -666,7 +666,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA2rust_cargo1">
@@ -678,7 +678,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA2rust_cargo2">
@@ -690,7 +690,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA2rust_codriver">
@@ -702,7 +702,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA2rust_driver">
@@ -714,7 +714,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA2rust_hood">
@@ -726,7 +726,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UA2rust_trunk">
@@ -738,7 +738,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UArust_cargo1">
@@ -750,7 +750,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UArust_cargo2">
@@ -762,7 +762,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UArust_codriver">
@@ -774,7 +774,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UArust_driver">
@@ -786,7 +786,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UArust_hood">
@@ -798,7 +798,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_UArust_trunk">
@@ -810,7 +810,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_Wheel">
@@ -822,7 +822,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Industrial" />
     <usage name="Military" />
     <value name="Tier2" />
@@ -838,7 +838,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Industrial" />
     <usage name="Military" />
     <value name="Tier2" />
@@ -854,7 +854,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Industrial" />
     <usage name="Military" />
     <value name="Tier2" />
@@ -870,7 +870,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Industrial" />
     <usage name="Military" />
     <value name="Tier2" />
@@ -886,7 +886,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Industrial" />
     <usage name="Military" />
     <value name="Tier2" />
@@ -924,7 +924,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_White_cargo2">
@@ -936,7 +936,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_White_codriver">
@@ -948,7 +948,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_White_driver">
@@ -960,7 +960,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_White_hood">
@@ -972,7 +972,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="FordRaptor_Scorpio_White_trunk">
@@ -984,7 +984,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="NW_FordRaptor_Police">
@@ -1007,7 +1007,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="NW_FordRaptor_Police_cargo2">
@@ -1019,7 +1019,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="NW_FordRaptor_Police_codriver">
@@ -1031,7 +1031,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="NW_FordRaptor_Police_driver">
@@ -1043,7 +1043,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="NW_FordRaptor_Police_hood">
@@ -1055,7 +1055,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="NW_FordRaptor_Police_trunk">
@@ -1067,7 +1067,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="NW_FordRaptor_Zombi">
@@ -1090,7 +1090,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="NW_FordRaptor_Zombi_cargo2">
@@ -1102,7 +1102,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="NW_FordRaptor_Zombi_codriver">
@@ -1114,7 +1114,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="NW_FordRaptor_Zombi_driver">
@@ -1126,7 +1126,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="NW_FordRaptor_Zombi_hood">
@@ -1138,7 +1138,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
   <type name="NW_FordRaptor_Zombi_trunk">
@@ -1150,7 +1150,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="lootdispatch" />
+    <category name="donot_spawn" />
     <usage name="Military" />
   </type>
 </types>

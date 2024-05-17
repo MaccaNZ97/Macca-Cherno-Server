@@ -7,9 +7,9 @@
   "IsExchange": 0,
   "Items": [
     {
-      "ClassName": "drip_largedisplaycase_kit",
-      "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3450,
+      "ClassName": "avengers_display_kit",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -18,9 +18,9 @@
       "Variants": []
     },
     {
-      "ClassName": "avengers_display_kit",
-      "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2500,
+      "ClassName": "drip_largedisplaycase_kit",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3450,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

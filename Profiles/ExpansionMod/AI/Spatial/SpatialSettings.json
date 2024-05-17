@@ -78,7 +78,7 @@
       "Spatial_Safe": 0,
       "Spatial_Radius": 100.0,
       "Spatial_ZoneLoadout": [
-        "UmbrellaCorpSMG.json"
+        "UmbrellaLoadout556.json"
       ],
       "Spatial_MinCount": 2,
       "Spatial_MaxCount": 3,
@@ -188,7 +188,7 @@
       "Spatial_Safe": 0,
       "Spatial_Radius": 50.0,
       "Spatial_ZoneLoadout": [
-        "NBCLoadout.json"
+        "NBCFullLoadout.json"
       ],
       "Spatial_MinCount": 4,
       "Spatial_MaxCount": 5,
@@ -210,7 +210,7 @@
       "Spatial_Safe": 0,
       "Spatial_Radius": 50.0,
       "Spatial_ZoneLoadout": [
-        "NBCLoadout.json"
+        "NBCFullLoadout.json"
       ],
       "Spatial_MinCount": 4,
       "Spatial_MaxCount": 6,
@@ -232,7 +232,8 @@
       "Spatial_Safe": 0,
       "Spatial_Radius": 50.0,
       "Spatial_ZoneLoadout": [
-        "NBCLoadout.json"
+        "UmbrellaCorptisy.json",
+        "NBCFullLoadout.json"
       ],
       "Spatial_MinCount": 3,
       "Spatial_MaxCount": 5,
@@ -408,7 +409,7 @@
       "Spatial_Safe": 0,
       "Spatial_Radius": 250.0,
       "Spatial_ZoneLoadout": [
-        "UmbrellaLoadout.json"
+        "NBCFullLoadout.json"
       ],
       "Spatial_MinCount": 2,
       "Spatial_MaxCount": 4,

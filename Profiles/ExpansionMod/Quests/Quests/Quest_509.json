@@ -15,7 +15,7 @@
   "IsWeeklyQuest": 0,
   "CancelQuestOnPlayerDeath": 0,
   "Autocomplete": 0,
-  "IsGroupQuest": 0,
+  "IsGroupQuest": 1,
   "ObjectSetFileName": "ChernoBanditRoadblockobjects",
   "QuestItems": [],
   "Rewards": [
@@ -61,10 +61,10 @@
       "QuestID": -1
     }
   ],
-  "NeedToSelectReward": 1,
+  "NeedToSelectReward": 0,
   "RandomReward": 0,
   "RandomRewardAmount": -1,
-  "RewardsForGroupOwnerOnly": 0,
+  "RewardsForGroupOwnerOnly": 1,
   "RewardBehavior": 0,
   "QuestGiverIDs": [
     8

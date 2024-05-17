@@ -154,6 +154,17 @@
         "mag_ump_25rnd"
       ],
       "Variants": []
+    },
+    {
+      "ClassName": "vikhr",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
     }
   ]
 }

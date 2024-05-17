@@ -357,9 +357,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="GCGN_M200_Mag">
     <nominal>1</nominal>
@@ -376,9 +374,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="GCGN_M200_Tan">
     <nominal>1</nominal>
@@ -395,9 +391,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="GCGN_M249">
     <nominal>1</nominal>
@@ -414,9 +408,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="GCGN_M249_Mag">
     <nominal>1</nominal>
@@ -433,9 +425,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="GCGN_M4A1">
     <nominal>1</nominal>
@@ -509,9 +499,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="GCGN_M82_Mag">
     <nominal>1</nominal>
@@ -528,9 +516,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="GCGN_M84_Optic">
     <nominal>1</nominal>
@@ -1212,8 +1198,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_50bmg_Suppressor_B">
     <nominal>30</nominal>
@@ -1230,8 +1215,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_50bmg_Suppressor_M">
     <nominal>30</nominal>
@@ -1248,7 +1232,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_50bmg_Suppressor_S">
     <nominal>30</nominal>
@@ -1265,7 +1249,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_50bmg_Suppressor_U">
     <nominal>30</nominal>
@@ -1282,7 +1266,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_50bmg_Suppressor_W">
     <nominal>30</nominal>
@@ -1299,7 +1283,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_ADAR_Modular16_GUN">
     <nominal>1</nominal>
@@ -2032,9 +2016,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_Ammo_127x55mmAP">
     <lifetime>7200</lifetime>
@@ -2046,9 +2028,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_Ammo_145Cal">
     <lifetime>7200</lifetime>
@@ -2093,8 +2073,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
+    <value name="Tier5" />
     <value name="Unique" />
   </type>
   <type name="SNAFU_Ammo_44">
@@ -2283,7 +2262,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_AS50_Mag">
     <nominal>1</nominal>
@@ -2301,7 +2280,7 @@
     <tag name="ground" />
     <tag name="shelves" />
     <value name="Tier3" />
-    <value name="Tier4" />
+    <value name="Tier5" />
     <value name="Unique" />
   </type>
   <type name="SNAFU_AtlasBipod">
@@ -2338,9 +2317,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_AWM_GUN">
     <nominal>30</nominal>
@@ -2357,9 +2334,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_AWM_Mag">
     <nominal>1</nominal>
@@ -2376,9 +2351,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_BMAG300_Black">
     <nominal>1</nominal>
@@ -3626,9 +3599,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_M200Green">
     <nominal>1</nominal>
@@ -3645,9 +3616,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_M200S_BK">
     <nominal>1</nominal>
@@ -3664,9 +3633,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_M200S_Green">
     <nominal>1</nominal>
@@ -3683,9 +3650,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_M200S_Snow">
     <nominal>1</nominal>
@@ -3702,9 +3667,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_M200S_Tan">
     <nominal>1</nominal>
@@ -3721,9 +3684,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_M200SNOW">
     <nominal>1</nominal>
@@ -3740,9 +3701,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_M249Bipod">
     <nominal>1</nominal>
@@ -3759,9 +3718,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_M249Grip">
     <nominal>1</nominal>
@@ -3778,9 +3735,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_M249HG">
     <nominal>1</nominal>
@@ -3797,9 +3752,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_M249Stock">
     <nominal>1</nominal>
@@ -3816,9 +3769,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_M300BK">
     <nominal>1</nominal>
@@ -5108,9 +5059,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="Snafu_pkp_Black_GUN">
     <nominal>1</nominal>
@@ -5127,9 +5076,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="Snafu_pkp_NBlack_GUN">
     <nominal>1</nominal>
@@ -5146,9 +5093,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_PKPBIPOD">
     <nominal>1</nominal>
@@ -5165,9 +5110,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_PL14HQP">
     <nominal>30</nominal>
@@ -5317,9 +5260,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_RPK16_Black_Mag">
     <nominal>1</nominal>
@@ -5336,9 +5277,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_RPK16_Green">
     <nominal>1</nominal>
@@ -5355,9 +5294,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_RPK16_Green_Mag">
     <nominal>1</nominal>
@@ -5374,9 +5311,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_RPK16_Tan">
     <nominal>1</nominal>
@@ -5393,9 +5328,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_RPK16_Tan_Mag">
     <nominal>1</nominal>
@@ -5412,9 +5345,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFU_SADAR_Stock">
     <nominal>1</nominal>
@@ -6570,9 +6501,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUAlligator_5rdMag">
     <nominal>1</nominal>
@@ -6589,9 +6518,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUAPS">
     <nominal>1</nominal>
@@ -6912,9 +6839,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUAX50_Mag">
     <nominal>1</nominal>
@@ -6931,9 +6856,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUChiappaRhino">
     <nominal>1</nominal>
@@ -7045,9 +6968,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUGevar_Black">
     <nominal>1</nominal>
@@ -7064,9 +6985,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUGevar_Green">
     <nominal>1</nominal>
@@ -7083,9 +7002,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUGevar_Grey">
     <nominal>1</nominal>
@@ -7102,9 +7019,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUGevar_Suppressor_Green">
     <nominal>1</nominal>
@@ -7121,9 +7036,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUGevar_Suppressor_Tan">
     <nominal>1</nominal>
@@ -7140,9 +7053,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUGevar_Tan">
     <nominal>1</nominal>
@@ -7159,9 +7070,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUGM6Lynx">
     <nominal>1</nominal>
@@ -7178,9 +7087,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUGM6Lynx_5rdMag">
     <nominal>1</nominal>
@@ -7197,9 +7104,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUHoneyBadger_30rdMag_Black">
     <nominal>1</nominal>
@@ -7330,9 +7235,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUKivaari_25rdMag">
     <nominal>1</nominal>
@@ -7349,9 +7252,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUKivaari_338_Supp">
     <nominal>1</nominal>
@@ -7368,9 +7269,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUKivaari_Black_GUN">
     <nominal>1</nominal>
@@ -7387,9 +7286,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUKivaari_Grey_GUN">
     <nominal>1</nominal>
@@ -7406,9 +7303,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUKivaari_Snow_GUN">
     <nominal>1</nominal>
@@ -7425,9 +7320,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUKivaari_Tan_GUN">
     <nominal>1</nominal>
@@ -7444,9 +7337,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUM1A_20rdMag">
     <nominal>1</nominal>
@@ -7615,9 +7506,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUM98B_Digi_GUN">
     <nominal>1</nominal>
@@ -7634,9 +7523,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUM98B_Ger_GUN">
     <nominal>1</nominal>
@@ -7653,9 +7540,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUM98B_Mag">
     <nominal>1</nominal>
@@ -7672,9 +7557,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUM98B_Mc_GUN">
     <nominal>1</nominal>
@@ -7691,9 +7574,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUM98B_Snow_GUN">
     <nominal>1</nominal>
@@ -7710,9 +7591,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUM98B_Wood_GUN">
     <nominal>1</nominal>
@@ -7729,9 +7608,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUMagnum500">
     <nominal>1</nominal>
@@ -7994,9 +7871,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFURSASS_Mag">
     <nominal>1</nominal>
@@ -8013,9 +7888,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFURSASS_od_GUN">
     <nominal>1</nominal>
@@ -8032,9 +7905,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFURSASS_Wood_GUN">
     <nominal>1</nominal>
@@ -8051,9 +7922,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUSA80">
     <nominal>1</nominal>
@@ -8222,9 +8091,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUT5000_Dkmcc_GUN">
     <nominal>1</nominal>
@@ -8241,9 +8108,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUT5000_Mag">
     <nominal>1</nominal>
@@ -8260,9 +8125,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUT5000_Snow_GUN">
     <nominal>1</nominal>
@@ -8279,9 +8142,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUT5000_Wood_GUN">
     <nominal>1</nominal>
@@ -8298,9 +8159,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="SNAFUTac21">
     <nominal>1</nominal>

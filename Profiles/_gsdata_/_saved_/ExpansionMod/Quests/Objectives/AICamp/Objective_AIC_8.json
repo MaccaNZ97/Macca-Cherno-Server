@@ -2,46 +2,46 @@
   "ObjectiveText": "Bandits Roadblock",
   "TimeLimit": -1,
   "Active": 1,
-  "InfectedDeletionRadius": 250,
+  "InfectedDeletionRadius": 250.0,
   "AISpawns": [
     {
       "NumberOfAI": 4,
       "NPCName": "Quest Target",
       "Waypoints": [
         [
-          5776.17,
-          94.07045,
-          3097.546
+          5776.169921875,
+          94.07044982910156,
+          3097.5458984375
         ],
         [
-          5805.694,
-          94.34103,
-          3100.281
+          5805.69384765625,
+          94.34102630615235,
+          3100.281005859375
         ],
         [
-          5776.704,
-          93.83585,
-          3067.232
+          5776.7041015625,
+          93.83585357666016,
+          3067.23193359375
         ],
         [
-          5792.645,
-          94.13934,
-          3081.934
+          5792.64501953125,
+          94.13934326171875,
+          3081.93408203125
         ]
       ],
       "Behaviour": 0,
       "Formation": "RANDOM",
       "Loadout": "West_NBCLoadout",
       "Faction": "YeetBrigade",
-      "Speed": 0,
-      "ThreatSpeed": 3,
-      "MinAccuracy": 55.00,
-      "MaxAccuracy": 70.00,
+      "Speed": 0.0,
+      "ThreatSpeed": 3.0,
+      "MinAccuracy": 55.0,
+      "MaxAccuracy": 70.0,
       "CanBeLooted": 1,
       "UnlimitedReload": 1,
-      "ThreatDistanceLimit": 1000,
+      "ThreatDistanceLimit": 1000.0,
       "DamageMultiplier": 0.75,
-      "DamageReceivedMultiplier": 1,
+      "DamageReceivedMultiplier": 1.0,
       "ClassNames": [
         "eAI_SurvivorF_Eva",
         "eAI_SurvivorF_Frida",
@@ -75,16 +75,16 @@
         "eAI_SurvivorM_Seth",
         "eAI_SurvivorM_Taiki"
       ],
-      "SniperProneDistanceThreshold": 300,
-      "RespawnTime": 1,
-      "DespawnTime": 1,
-      "MinDistanceRadius": 50,
-      "MaxDistanceRadius": 150,
-      "DespawnRadius": 500
+      "SniperProneDistanceThreshold": 300.0,
+      "RespawnTime": 1.0,
+      "DespawnTime": 1.0,
+      "MinDistanceRadius": 50.0,
+      "MaxDistanceRadius": 150.0,
+      "DespawnRadius": 500.0
     }
   ],
-  "MaxDistance": -1,
-  "MinDistance": -1,
+  "MaxDistance": -1.0,
+  "MinDistance": -1.0,
   "AllowedWeapons": [],
   "AllowedDamageZones": [],
   "ConfigVersion": 27,

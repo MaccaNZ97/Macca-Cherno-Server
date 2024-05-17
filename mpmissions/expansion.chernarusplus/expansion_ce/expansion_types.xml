@@ -11,6 +11,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
+    <value name="Tier5" />
   </type>
   <type name="Ammo_Expansion_46x30">
     <nominal>20</nominal>
@@ -35,6 +36,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
+    <value name="Tier5" />
   </type>
   <type name="Ammo_Expansion_M203_Smoke_Green">
     <nominal>10</nominal>
@@ -199,8 +201,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <tag name="shelves" />
-    <value name="Tier3" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="AmmoBox_Expansion_46x30_25rnd">
     <nominal>10</nominal>
@@ -1135,8 +1136,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier3" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="Expansion_BenelliM4">
     <nominal>10</nominal>
@@ -2081,6 +2081,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Expansion_Landrover_Blue">
     <nominal>0</nominal>
@@ -2191,6 +2192,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Expansion_Landrover_Grey">
     <nominal>0</nominal>
@@ -2201,6 +2203,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Expansion_Landrover_Hood">
     <lifetime>2700</lifetime>
@@ -2295,6 +2298,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Expansion_Landrover_Red">
     <nominal>0</nominal>
@@ -2305,6 +2309,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Expansion_Landrover_Right">
     <lifetime>2700</lifetime>
@@ -2447,6 +2452,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="Expansion_M14">
     <nominal>12</nominal>
@@ -3080,8 +3086,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier3" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="ExpansionAmmoRPG">
     <nominal>8</nominal>
@@ -3094,8 +3099,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier3" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="ExpansionBanknoteEuro">
     <nominal>0</nominal>
@@ -3244,6 +3248,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionBus_Cover">
     <lifetime>3888000</lifetime>
@@ -3258,6 +3263,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionBus_Weeb">
     <nominal>0</nominal>
@@ -3268,6 +3274,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionBusWheel">
     <nominal>5</nominal>
@@ -3572,6 +3579,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionGyrocopter_Cover">
     <lifetime>3888000</lifetime>
@@ -3814,7 +3822,7 @@
     <category name="weapons" />
     <usage name="ContaminatedArea" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="ExpansionLHD">
     <nominal>0</nominal>
@@ -3825,6 +3833,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionLumber1">
     <nominal>0</nominal>
@@ -3868,6 +3877,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMerlin_Cover">
     <lifetime>3888000</lifetime>
@@ -3882,6 +3892,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMerlin_Ion">
     <nominal>0</nominal>
@@ -3892,6 +3903,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMerlin_President">
     <nominal>0</nominal>
@@ -3902,6 +3914,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMerlin_Vrana">
     <nominal>0</nominal>
@@ -3912,6 +3925,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMerlin_Wave">
     <nominal>0</nominal>
@@ -3922,10 +3936,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMerlinWreck">
     <lifetime>120</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6">
     <nominal>0</nominal>
@@ -3936,6 +3952,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Blueline">
     <nominal>0</nominal>
@@ -3946,10 +3963,12 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Cover">
     <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Digital">
     <nominal>0</nominal>
@@ -3960,6 +3979,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Elliptical">
     <nominal>0</nominal>
@@ -3970,6 +3990,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Furious">
     <nominal>0</nominal>
@@ -3980,6 +4001,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_GrayWatcher">
     <nominal>0</nominal>
@@ -3990,6 +4012,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Jeans">
     <nominal>0</nominal>
@@ -4000,6 +4023,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Resistance">
     <nominal>0</nominal>
@@ -4010,6 +4034,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Shadow">
     <nominal>0</nominal>
@@ -4020,6 +4045,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Sheriff">
     <nominal>0</nominal>
@@ -4030,6 +4056,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Speedy">
     <nominal>0</nominal>
@@ -4040,6 +4067,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Sunset">
     <nominal>0</nominal>
@@ -4050,6 +4078,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Vrana">
     <nominal>0</nominal>
@@ -4060,6 +4089,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Wasp">
     <nominal>0</nominal>
@@ -4070,6 +4100,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6_Wave">
     <nominal>0</nominal>
@@ -4080,6 +4111,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionMh6Wreck">
     <lifetime>120</lifetime>
@@ -4231,9 +4263,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="ExpansionSignDanger">
     <lifetime>3888000</lifetime>
@@ -4743,6 +4773,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="donot_spawn" />
     <usage name="Industrial" />
     <tag name="floor" />
   </type>
@@ -4969,6 +5000,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="ammo" />
     <usage name="Industrial" />
     <tag name="floor" />
   </type>
@@ -4981,6 +5013,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="ammo" />
     <usage name="Industrial" />
     <tag name="floor" />
   </type>
@@ -4993,6 +5026,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="ammo" />
     <usage name="Industrial" />
     <tag name="floor" />
   </type>
@@ -5035,6 +5069,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="vehicles" />
   </type>
   <type name="ExpansionZodiacBoat_Black">
     <nominal>0</nominal>
@@ -5186,7 +5221,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="Mag_Expansion_G36_30Rnd">
     <nominal>20</nominal>

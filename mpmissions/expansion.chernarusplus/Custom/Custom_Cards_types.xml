@@ -13,7 +13,7 @@
     <tag name="shelves" />
     <value name="Tier3" />
     <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="evg_keycard_holder_leather">
     <nominal>4</nominal>

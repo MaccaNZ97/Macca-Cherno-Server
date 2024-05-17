@@ -3,7 +3,7 @@
   "TimeLimit": -1,
   "Active": 1,
   "ActionNames": [
-    "ActionDisinfectTarget"
+    "ingredient2.SetCleanness(1)"
   ],
   "AllowedClassNames": [
     "BandageDressing",

@@ -43,6 +43,23 @@
     <tag name="shelves" />
     <value name="Tier4" />
   </type>
+  <type name="DNA_KeyCard_green_Inactive">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>100</restock>
+    <min>5</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier4" />
+  </type>
   <type name="DNA_KeyCard_Purple_inactive">
     <nominal>5</nominal>
     <lifetime>7200</lifetime>
@@ -73,8 +90,7 @@
     <category name="weapons" />
     <usage name="ContaminatedArea" />
     <usage name="Military" />
-    <value name="Tier4" />
-    <value name="Unique" />
+    <value name="Tier5" />
   </type>
   <type name="DNA_KeyCard_Yellow">
     <lifetime>14400</lifetime>
@@ -98,23 +114,6 @@
     <tag name="shelves" />
     <value name="Tier1" />
     <value name="Tier2" />
-    <value name="Tier4" />
-  </type>
-  <type name="DNA_KeyCard_green_Inactive">
-    <nominal>5</nominal>
-    <lifetime>7200</lifetime>
-    <restock>100</restock>
-    <min>5</min>
-    <quantmin>1</quantmin>
-    <quantmax>1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="weapons" />
-    <usage name="ContaminatedArea" />
-    <usage name="Military" />
-    <tag name="floor" />
-    <tag name="ground" />
-    <tag name="shelves" />
     <value name="Tier4" />
   </type>
 </types>

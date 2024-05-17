@@ -7,29 +7,29 @@
   "IsExchange": 0,
   "Items": [
     {
-      "ClassName": "fog_hooded_cloak_black",
-      "MaxPriceThreshold": 950,
-      "MinPriceThreshold": 950,
+      "ClassName": "fog_boltcutters",
+      "MaxPriceThreshold": 0,
+      "MinPriceThreshold": 0,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_comtac3_headphones_black",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
       "SellPricePercent": -1.0,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_hooded_cloak_grey",
-        "fog_hooded_cloak_rg"
+        "fog_comtac3_headphones_aj",
+        "fog_comtac3_headphones_rg"
       ]
-    },
-    {
-      "ClassName": "fog_boltcutters",
-      "MaxPriceThreshold": 0,
-      "MinPriceThreshold": 0,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
     },
     {
       "ClassName": "fog_comtac3_headphones_black_velcro",
@@ -65,6 +65,36 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
+    },
+    {
+      "ClassName": "fog_fastmt_mandable_black",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_fc_panel_alp_flag_us",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_fc_panel_aor2_flag_us",
+        "fog_fc_panel_black_flag_us",
+        "fog_fc_panel_cb_flag_us",
+        "fog_fc_panel_m81_flag_us",
+        "fog_fc_panel_mc_flag_us",
+        "fog_fc_panel_mct_flag_us",
+        "fog_fc_panel_rg_flag_us"
+      ]
     },
     {
       "ClassName": "fog_fc_panel_aor1_flag_us",
@@ -138,8 +168,8 @@
       "MaxPriceThreshold": 3500,
       "MinPriceThreshold": 3500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
@@ -151,6 +181,39 @@
       ]
     },
     {
+      "ClassName": "fog_gpnvg_elite",
+      "MaxPriceThreshold": 7500,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 25,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_gpnvg_tarzier",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 25,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fog_gpnvg_tarzier_black",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": 25,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
       "ClassName": "fog_hmtl_light_tan",
       "MaxPriceThreshold": 550,
       "MinPriceThreshold": 550,
@@ -160,6 +223,20 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
+    },
+    {
+      "ClassName": "fog_hooded_cloak_black",
+      "MaxPriceThreshold": 950,
+      "MinPriceThreshold": 950,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_hooded_cloak_grey",
+        "fog_hooded_cloak_rg"
+      ]
     },
     {
       "ClassName": "fog_ir_marker",
@@ -177,8 +254,8 @@
       "MaxPriceThreshold": 2000,
       "MinPriceThreshold": 2000,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -266,83 +343,6 @@
       "ClassName": "fog_tarsier",
       "MaxPriceThreshold": 100,
       "MinPriceThreshold": 100,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_comtac3_headphones_black",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_comtac3_headphones_aj",
-        "fog_comtac3_headphones_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_fc_panel_alp_flag_us",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_fc_panel_aor2_flag_us",
-        "fog_fc_panel_black_flag_us",
-        "fog_fc_panel_cb_flag_us",
-        "fog_fc_panel_m81_flag_us",
-        "fog_fc_panel_mc_flag_us",
-        "fog_fc_panel_mct_flag_us",
-        "fog_fc_panel_rg_flag_us"
-      ]
-    },
-    {
-      "ClassName": "fog_gpnvg_elite",
-      "MaxPriceThreshold": 7500,
-      "MinPriceThreshold": 7500,
-      "SellPricePercent": 25,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 0,
-      "QuantityPercent": 25,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_gpnvg_tarzier",
-      "MaxPriceThreshold": 5500,
-      "MinPriceThreshold": 5500,
-      "SellPricePercent": 25,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 0,
-      "QuantityPercent": 25,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_gpnvg_tarzier_black",
-      "MaxPriceThreshold": 5500,
-      "MinPriceThreshold": 5500,
-      "SellPricePercent": 25,
-      "MaxStockThreshold": 20,
-      "MinStockThreshold": 0,
-      "QuantityPercent": 25,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_fastmt_mandable_black",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

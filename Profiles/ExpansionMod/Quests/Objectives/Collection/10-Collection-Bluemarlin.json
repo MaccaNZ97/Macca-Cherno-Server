@@ -3,31 +3,31 @@
   "TimeLimit": -1,
   "Collections": [
     {
-      "Amount": 20,
+      "Amount": 4,
       "ClassName": "geb_BluemarlinFilletMeat",
       "QuantityPercent": 0,
       "MinQuantityPercent": 0
     },
     {
-      "Amount": 1,
+      "Amount": 4,
       "ClassName": "geb_GreatwhitesharkFilletMeat",
       "QuantityPercent": 0,
       "MinQuantityPercent": 0
     },
     {
-      "Amount": 1,
+      "Amount": 4,
       "ClassName": "geb_LeopardsharkFilletMeat",
       "QuantityPercent": 0,
       "MinQuantityPercent": 0
     },
     {
-      "Amount": 1,
+      "Amount": 4,
       "ClassName": "geb_SailfishFilletMeat",
       "QuantityPercent": 0,
       "MinQuantityPercent": 0
     },
     {
-      "Amount": 1,
+      "Amount": 4,
       "ClassName": "geb_MahimahiFilletMeat",
       "QuantityPercent": 0,
       "MinQuantityPercent": 0

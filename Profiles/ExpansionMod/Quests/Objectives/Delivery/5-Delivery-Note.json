@@ -9,7 +9,7 @@
       "MinQuantityPercent": 0
     }
   ],
-  "MaxDistance": 50,
+  "MaxDistance": 5.00,
   "MarkerName": "Nato Liasion Officer",
   "ShowDistance": 1,
   "AddItemsToNearbyMarketZone": 0,

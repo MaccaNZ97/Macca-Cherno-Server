@@ -21,103 +21,6 @@
       ]
     },
     {
-      "ClassName": "fog_g99_pants_black",
-      "MaxPriceThreshold": 750,
-      "MinPriceThreshold": 750,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_g99_pants_cb",
-        "fog_g99_pants_m81",
-        "fog_g99_pants_rg"
-      ]
-    },
-    {
-      "ClassName": "fog_gorka_pants_black",
-      "MaxPriceThreshold": 750,
-      "MinPriceThreshold": 750,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_pants_crye_g3_rdbs",
-        "fog_gorka_pants_khaki"
-      ]
-    },
-    {
-      "ClassName": "fog_mtf_pants_grey",
-      "MaxPriceThreshold": 750,
-      "MinPriceThreshold": 750,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_mtf_pants_rg",
-        "fog_mtf_pants_cb",
-        "fog_mtf_pants_erdl",
-        "fog_mtf_pants_mc",
-        "fog_mtf_pants_mcb",
-        "fog_mtf_pants_fk",
-        "fog_mtf_pants_ts"
-      ]
-    },
-    {
-      "ClassName": "fog_pants_crye_g3_black",
-      "MaxPriceThreshold": 750,
-      "MinPriceThreshold": 750,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_pants_crye_g3_m81",
-        "fog_pants_crye_g3_mc",
-        "fog_pants_crye_g3_mcb",
-        "fog_pants_crye_g3_gtiger",
-        "fog_pants_crye_g3_aor1",
-        "fog_pants_crye_g3_aor2",
-        "fog_pants_crye_g3_cb",
-        "fog_pants_crye_g3_rg",
-        "fog_pants_crye_g3_grey",
-        "fog_pants_crye_g3_dtgr",
-        "fog_pants_crye_g3_marpat",
-        "fog_pants_crye_g3_mca",
-        "fog_pants_crye_g3_mcal",
-        "fog_pants_crye_g3_mct",
-        "fog_pants_crye_g3_rdbs"
-      ]
-    },
-    {
-      "ClassName": "fog_ufp_pants_6cd",
-      "MaxPriceThreshold": 750,
-      "MinPriceThreshold": 750,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_ufp_pants_alp",
-        "fog_ufp_pants_black",
-        "fog_ufp_pants_dcu",
-        "fog_ufp_pants_grey",
-        "fog_ufp_pants_m81",
-        "fog_ufp_pants_mc",
-        "fog_ufp_pants_rg",
-        "fog_ufp_pants_tan",
-        "fog_ufp_pants_urban",
-        "fog_ufp_pants_white"
-      ]
-    },
-    {
       "ClassName": "fog_fieldpants_aor1",
       "MaxPriceThreshold": 750,
       "MinPriceThreshold": 750,
@@ -164,6 +67,35 @@
       ]
     },
     {
+      "ClassName": "fog_g99_pants_black",
+      "MaxPriceThreshold": 750,
+      "MinPriceThreshold": 750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_g99_pants_cb",
+        "fog_g99_pants_m81",
+        "fog_g99_pants_rg"
+      ]
+    },
+    {
+      "ClassName": "fog_gorka_pants_black",
+      "MaxPriceThreshold": 750,
+      "MinPriceThreshold": 750,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pants_crye_g3_rdbs",
+        "fog_gorka_pants_khaki"
+      ]
+    },
+    {
       "ClassName": "fog_mtf_pants_black",
       "MaxPriceThreshold": 750,
       "MinPriceThreshold": 750,
@@ -182,6 +114,25 @@
         "fog_mtf_pants_mc",
         "fog_mtf_pants_mcb",
         "fog_mtf_pants_rg",
+        "fog_mtf_pants_ts"
+      ]
+    },
+    {
+      "ClassName": "fog_mtf_pants_grey",
+      "MaxPriceThreshold": 750,
+      "MinPriceThreshold": 750,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_mtf_pants_rg",
+        "fog_mtf_pants_cb",
+        "fog_mtf_pants_erdl",
+        "fog_mtf_pants_mc",
+        "fog_mtf_pants_mcb",
+        "fog_mtf_pants_fk",
         "fog_mtf_pants_ts"
       ]
     },
@@ -239,12 +190,61 @@
       ]
     },
     {
+      "ClassName": "fog_pants_crye_g3_black",
+      "MaxPriceThreshold": 750,
+      "MinPriceThreshold": 750,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pants_crye_g3_m81",
+        "fog_pants_crye_g3_mc",
+        "fog_pants_crye_g3_mcb",
+        "fog_pants_crye_g3_gtiger",
+        "fog_pants_crye_g3_aor1",
+        "fog_pants_crye_g3_aor2",
+        "fog_pants_crye_g3_cb",
+        "fog_pants_crye_g3_rg",
+        "fog_pants_crye_g3_grey",
+        "fog_pants_crye_g3_dtgr",
+        "fog_pants_crye_g3_marpat",
+        "fog_pants_crye_g3_mca",
+        "fog_pants_crye_g3_mcal",
+        "fog_pants_crye_g3_mct",
+        "fog_pants_crye_g3_rdbs"
+      ]
+    },
+    {
+      "ClassName": "fog_ufp_pants_6cd",
+      "MaxPriceThreshold": 750,
+      "MinPriceThreshold": 750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ufp_pants_alp",
+        "fog_ufp_pants_black",
+        "fog_ufp_pants_dcu",
+        "fog_ufp_pants_grey",
+        "fog_ufp_pants_m81",
+        "fog_ufp_pants_mc",
+        "fog_ufp_pants_rg",
+        "fog_ufp_pants_tan",
+        "fog_ufp_pants_urban",
+        "fog_ufp_pants_white"
+      ]
+    },
+    {
       "ClassName": "fog_ufp_pants_cum",
       "MaxPriceThreshold": 0,
       "MinPriceThreshold": 0,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [

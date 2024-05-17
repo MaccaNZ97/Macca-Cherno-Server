@@ -2,65 +2,65 @@
   "ObjectiveText": "Zeleno Fort Umbrella Corp",
   "TimeLimit": -1,
   "Active": 1,
-  "InfectedDeletionRadius": 250,
+  "InfectedDeletionRadius": 250.0,
   "AISpawns": [
     {
-      "NumberOfAI": 6,
+      "NumberOfAI": 1,
       "NPCName": "Quest Target",
       "Waypoints": [
         [
-          1417.903809,
-          204.533524,
-          5256.584961
+          1417.90380859375,
+          204.5335235595703,
+          5256.5849609375
         ],
         [
-          1476.310181,
-          187.139023,
-          5217.036133
+          1476.3101806640626,
+          187.13902282714845,
+          5217.0361328125
         ],
         [
-          1420.909790,
-          175.078110,
-          5238.648438
+          1420.9097900390626,
+          175.07810974121095,
+          5238.6484375
         ],
         [
-          1419.359497,
-          173.655777,
-          5244.525391
+          1419.3594970703126,
+          173.65577697753907,
+          5244.525390625
         ],
         [
-          1455.854980,
-          187.032822,
-          5267.118164
+          1455.85498046875,
+          187.03282165527345,
+          5267.1181640625
         ],
         [
-          1463.700806,
-          178.079285,
-          5243.755371
+          1463.7008056640626,
+          178.07928466796876,
+          5243.75537109375
         ],
         [
-          1465.518311,
-          177.646027,
-          5239.678711
+          1465.518310546875,
+          177.64602661132813,
+          5239.6787109375
         ],
         [
-          1421.543579,
-          185.662903,
-          5232.295898
+          1421.5435791015626,
+          185.66290283203126,
+          5232.2958984375
         ]
       ],
       "Behaviour": 0,
       "Formation": "File",
       "Loadout": "UmbrellaLoadout308",
       "Faction": "Shamans",
-      "Speed": 0,
-      "ThreatSpeed": 3,
-      "MinAccuracy": 45.00,
-      "MaxAccuracy": 8.00,
+      "Speed": 0.0,
+      "ThreatSpeed": 3.0,
+      "MinAccuracy": 45.0,
+      "MaxAccuracy": 80.00,
       "CanBeLooted": 1,
       "UnlimitedReload": 1,
-      "ThreatDistanceLimit": 1000,
-      "DamageMultiplier": 1,
+      "ThreatDistanceLimit": 1000.0,
+      "DamageMultiplier": 1.0,
       "DamageReceivedMultiplier": -2.0,
       "ClassNames": [
         "eAI_SurvivorF_Eva",
@@ -95,16 +95,16 @@
         "eAI_SurvivorM_Seth",
         "eAI_SurvivorM_Taiki"
       ],
-      "SniperProneDistanceThreshold": 600.00,
-      "RespawnTime": 1,
+      "SniperProneDistanceThreshold": 600.0,
+      "RespawnTime": 1.0,
       "DespawnTime": -2.0,
-      "MinDistanceRadius": 50,
-      "MaxDistanceRadius": 150,
-      "DespawnRadius": 500
+      "MinDistanceRadius": 50.0,
+      "MaxDistanceRadius": 150.0,
+      "DespawnRadius": 500.0
     }
   ],
-  "MaxDistance": -1,
-  "MinDistance": -1,
+  "MaxDistance": -1.0,
+  "MinDistance": -1.0,
   "AllowedWeapons": [],
   "AllowedDamageZones": [],
   "ConfigVersion": 27,

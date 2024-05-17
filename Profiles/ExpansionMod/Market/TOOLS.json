@@ -240,6 +240,17 @@
       "Variants": []
     },
     {
+      "ClassName": "trafficcone",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 140,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
       "ClassName": "whetstone",
       "MaxPriceThreshold": 10,
       "MinPriceThreshold": 10,
@@ -255,17 +266,6 @@
       "MaxPriceThreshold": 40,
       "MinPriceThreshold": 40,
       "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "trafficcone",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 140,
-      "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,

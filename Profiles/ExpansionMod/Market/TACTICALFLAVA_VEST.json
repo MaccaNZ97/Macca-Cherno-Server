@@ -24,8 +24,8 @@
       "MaxPriceThreshold": 11000,
       "MinPriceThreshold": 8250,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -35,8 +35,8 @@
       "MaxPriceThreshold": 11000,
       "MinPriceThreshold": 8250,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -121,6 +121,28 @@
       "Variants": []
     },
     {
+      "ClassName": "tf_6sh112_emr",
+      "MaxPriceThreshold": 250,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_6sh112_syrian",
+      "MaxPriceThreshold": 250,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
       "ClassName": "tf_avsvest_coyote",
       "MaxPriceThreshold": 1500,
       "MinPriceThreshold": 1125,
@@ -136,8 +158,8 @@
       "MaxPriceThreshold": 25000,
       "MinPriceThreshold": 18750,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 0,
-      "MinStockThreshold": 0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
@@ -212,28 +234,6 @@
       "ClassName": "tf_platecarriervest_emr",
       "MaxPriceThreshold": 1800,
       "MinPriceThreshold": 1350,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "tf_6sh112_emr",
-      "MaxPriceThreshold": 250,
-      "MinPriceThreshold": 250,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "tf_6sh112_syrian",
-      "MaxPriceThreshold": 250,
-      "MinPriceThreshold": 250,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

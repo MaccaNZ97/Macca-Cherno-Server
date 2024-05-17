@@ -660,8 +660,11 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
+    <usage name="Hunting" />
+    <usage name="Military" />
     <usage name="Town" />
     <tag name="floor" />
+    <value name="Tier5" />
   </type>
   <type name="Drip_AdidasYeezySlides_granite">
     <nominal>2</nominal>

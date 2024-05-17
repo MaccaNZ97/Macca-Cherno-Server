@@ -530,7 +530,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_AEK999_Suppressor">
     <nominal>0</nominal>
@@ -544,7 +544,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <tag name="shelves" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_AFAKMedPouch_Coyote">
     <nominal>1</nominal>
@@ -1511,7 +1511,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_DeltaPointOptic_Black">
     <nominal>15</nominal>
@@ -1622,7 +1622,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_EOTechXPSOpticDown_Black">
     <nominal>10</nominal>
@@ -2505,7 +2505,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_M79_AOR1">
     <nominal>5</nominal>
@@ -2518,7 +2518,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_Mag_AK101_Plastic30Rnd">
     <nominal>15</nominal>
@@ -2726,9 +2726,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_Mag_FAL_Drum50Rnd_Black">
     <nominal>5</nominal>
@@ -2802,9 +2800,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="ContaminatedArea" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_Mag_M249_200Rnd">
     <nominal>5</nominal>
@@ -2817,9 +2813,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_Mag_M4_PMAG10Rnd">
     <nominal>12</nominal>
@@ -2832,9 +2826,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_Mag_M4_PMAG20Rnd">
     <nominal>8</nominal>
@@ -2983,9 +2975,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_Mag_SCAR_H_20Rnd_Black">
     <nominal>4</nominal>
@@ -3559,7 +3549,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_NVGoggles_PNV10T">
     <nominal>5</nominal>
@@ -3572,7 +3562,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_NVGoggles_PVS14">
     <nominal>5</nominal>
@@ -3585,7 +3575,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_NVGoggles_PVS15">
     <nominal>5</nominal>
@@ -3598,7 +3588,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_OKP7Optic">
     <nominal>10</nominal>
@@ -3700,7 +3690,7 @@
     <category name="explosives" />
     <usage name="Military" />
     <value name="Tier3" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_PK122_ValdayOptic">
     <nominal>10</nominal>
@@ -3728,7 +3718,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_PKM_6ch43Compensator">
     <nominal>1</nominal>
@@ -3742,9 +3732,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_PKM_6ch63Compensator">
     <nominal>1</nominal>
@@ -3758,9 +3746,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_PKM_6ch76Compensator">
     <nominal>1</nominal>
@@ -3774,9 +3760,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_PKM_CNCC39Bttstck">
     <nominal>3</nominal>
@@ -3789,9 +3773,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_PKM_SAICompensator">
     <nominal>1</nominal>
@@ -3805,9 +3787,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <tag name="shelves" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_PKM_WoodBttstck">
     <nominal>0</nominal>
@@ -3820,9 +3800,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_PKM_ZenitB50Hndgrd_RIS">
     <nominal>3</nominal>
@@ -3835,9 +3813,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_PKM_ZenitPT2Bttstck">
     <nominal>3</nominal>
@@ -3850,9 +3826,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_PKP">
     <nominal>1</nominal>
@@ -3866,8 +3840,7 @@
     <category name="weapons" />
     <usage name="Military" />
     <usage name="Police" />
-    <value name="Tier3" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_PKP_CNCC46Hndgrd_RIS">
     <nominal>3</nominal>
@@ -3880,7 +3853,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_PKP_PlasticBttstck">
     <nominal>0</nominal>
@@ -3893,7 +3866,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier4" />
+    <value name="Tier5" />
   </type>
   <type name="TF_PlateCarrierHolster_Coyote">
     <nominal>1</nominal>
@@ -4440,6 +4413,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="explosives" />
     <usage name="Police" />
+    <value name="Tier5" />
   </type>
   <type name="TF_VPO136">
     <nominal>1</nominal>
@@ -4510,5 +4484,17 @@
     <usage name="Military" />
     <value name="Tier3" />
     <value name="Tier4" />
+  </type>
+  <type name="TF_Anzio20">
+    <nominal>2</nominal>
+    <lifetime>28800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+    <category name="weapons" />
+    <usage name="Military" />
   </type>
 </types>

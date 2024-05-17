@@ -9,44 +9,9 @@
       "NPCName": "Quest Target",
       "Waypoints": [
         [
-          1417.90380859375,
-          204.5335235595703,
-          5256.5849609375
-        ],
-        [
-          1476.3101806640626,
-          187.13902282714845,
-          5217.0361328125
-        ],
-        [
-          1420.9097900390626,
-          175.07810974121095,
-          5238.6484375
-        ],
-        [
-          1419.3594970703126,
-          173.65577697753907,
-          5244.525390625
-        ],
-        [
-          1455.85498046875,
-          187.03282165527345,
-          5267.1181640625
-        ],
-        [
-          1463.7008056640626,
-          178.07928466796876,
-          5243.75537109375
-        ],
-        [
-          1465.518310546875,
-          177.64602661132813,
-          5239.6787109375
-        ],
-        [
-          1421.5435791015626,
-          185.66290283203126,
-          5232.2958984375
+          1454.992,
+          187.731,
+          5266.504
         ]
       ],
       "Behaviour": 0,
@@ -101,6 +66,381 @@
       "MinDistanceRadius": 50.0,
       "MaxDistanceRadius": 150.0,
       "DespawnRadius": 500.0
+    },
+    {
+      "NumberOfAI": 1,
+      "NPCName": "Quest Target",
+      "Waypoints": [
+        [
+          1475.515,
+          187.3905,
+          5215.855
+        ]
+      ],
+      "Behaviour": 0,
+      "Formation": "RANDOM",
+      "Loadout": "BanditLoadout",
+      "Faction": "West",
+      "Speed": 0,
+      "ThreatSpeed": 3,
+      "MinAccuracy": 0,
+      "MaxAccuracy": 0,
+      "CanBeLooted": 1,
+      "UnlimitedReload": 1,
+      "ThreatDistanceLimit": 1000,
+      "DamageMultiplier": 1,
+      "DamageReceivedMultiplier": 1,
+      "ClassNames": [
+        "eAI_SurvivorF_Eva",
+        "eAI_SurvivorF_Frida",
+        "eAI_SurvivorF_Gabi",
+        "eAI_SurvivorF_Helga",
+        "eAI_SurvivorF_Irena",
+        "eAI_SurvivorF_Judy",
+        "eAI_SurvivorF_Keiko",
+        "eAI_SurvivorF_Linda",
+        "eAI_SurvivorF_Maria",
+        "eAI_SurvivorF_Naomi",
+        "eAI_SurvivorF_Baty",
+        "eAI_SurvivorM_Boris",
+        "eAI_SurvivorM_Cyril",
+        "eAI_SurvivorM_Denis",
+        "eAI_SurvivorM_Elias",
+        "eAI_SurvivorM_Francis",
+        "eAI_SurvivorM_Guo",
+        "eAI_SurvivorM_Hassan",
+        "eAI_SurvivorM_Indar",
+        "eAI_SurvivorM_Jose",
+        "eAI_SurvivorM_Kaito",
+        "eAI_SurvivorM_Lewis",
+        "eAI_SurvivorM_Manua",
+        "eAI_SurvivorM_Mirek",
+        "eAI_SurvivorM_Niki",
+        "eAI_SurvivorM_Oliver",
+        "eAI_SurvivorM_Peter",
+        "eAI_SurvivorM_Quinn",
+        "eAI_SurvivorM_Rolf",
+        "eAI_SurvivorM_Seth",
+        "eAI_SurvivorM_Taiki"
+      ],
+      "SniperProneDistanceThreshold": 300,
+      "RespawnTime": 1,
+      "DespawnTime": 1,
+      "MinDistanceRadius": 50,
+      "MaxDistanceRadius": 150,
+      "DespawnRadius": 500
+    },
+    {
+      "NumberOfAI": 1,
+      "NPCName": "Quest Target",
+      "Waypoints": [
+        [
+          1427.955,
+          180.7361,
+          5231.477
+        ],
+        [
+          1460.044,
+          177.5437,
+          5230.555
+        ],
+        [
+          1453.069,
+          177.7562,
+          5247.197
+        ],
+        [
+          1437.627,
+          172.7845,
+          5240.194
+        ]
+      ],
+      "Behaviour": 1,
+      "Formation": "RANDOM",
+      "Loadout": "BanditLoadout",
+      "Faction": "West",
+      "Speed": 0,
+      "ThreatSpeed": 3,
+      "MinAccuracy": 0,
+      "MaxAccuracy": 0,
+      "CanBeLooted": 1,
+      "UnlimitedReload": 1,
+      "ThreatDistanceLimit": 1000,
+      "DamageMultiplier": 1,
+      "DamageReceivedMultiplier": 1,
+      "ClassNames": [
+        "eAI_SurvivorF_Eva",
+        "eAI_SurvivorF_Frida",
+        "eAI_SurvivorF_Gabi",
+        "eAI_SurvivorF_Helga",
+        "eAI_SurvivorF_Irena",
+        "eAI_SurvivorF_Judy",
+        "eAI_SurvivorF_Keiko",
+        "eAI_SurvivorF_Linda",
+        "eAI_SurvivorF_Maria",
+        "eAI_SurvivorF_Naomi",
+        "eAI_SurvivorF_Baty",
+        "eAI_SurvivorM_Boris",
+        "eAI_SurvivorM_Cyril",
+        "eAI_SurvivorM_Denis",
+        "eAI_SurvivorM_Elias",
+        "eAI_SurvivorM_Francis",
+        "eAI_SurvivorM_Guo",
+        "eAI_SurvivorM_Hassan",
+        "eAI_SurvivorM_Indar",
+        "eAI_SurvivorM_Jose",
+        "eAI_SurvivorM_Kaito",
+        "eAI_SurvivorM_Lewis",
+        "eAI_SurvivorM_Manua",
+        "eAI_SurvivorM_Mirek",
+        "eAI_SurvivorM_Niki",
+        "eAI_SurvivorM_Oliver",
+        "eAI_SurvivorM_Peter",
+        "eAI_SurvivorM_Quinn",
+        "eAI_SurvivorM_Rolf",
+        "eAI_SurvivorM_Seth",
+        "eAI_SurvivorM_Taiki"
+      ],
+      "SniperProneDistanceThreshold": 300,
+      "RespawnTime": 1,
+      "DespawnTime": 1,
+      "MinDistanceRadius": 50,
+      "MaxDistanceRadius": 150,
+      "DespawnRadius": 500
+    },
+    {
+      "NumberOfAI": 1,
+      "NPCName": "Quest Target",
+      "Waypoints": [
+        [
+          1464.457,
+          172.0378,
+          5241.693
+        ],
+        [
+          1436.032,
+          172.8165,
+          5233.563
+        ]
+      ],
+      "Behaviour": 2,
+      "Formation": "RANDOM",
+      "Loadout": "BanditLoadout",
+      "Faction": "West",
+      "Speed": 0,
+      "ThreatSpeed": 3,
+      "MinAccuracy": 0,
+      "MaxAccuracy": 0,
+      "CanBeLooted": 1,
+      "UnlimitedReload": 1,
+      "ThreatDistanceLimit": 1000,
+      "DamageMultiplier": 1,
+      "DamageReceivedMultiplier": 1,
+      "ClassNames": [
+        "eAI_SurvivorF_Eva",
+        "eAI_SurvivorF_Frida",
+        "eAI_SurvivorF_Gabi",
+        "eAI_SurvivorF_Helga",
+        "eAI_SurvivorF_Irena",
+        "eAI_SurvivorF_Judy",
+        "eAI_SurvivorF_Keiko",
+        "eAI_SurvivorF_Linda",
+        "eAI_SurvivorF_Maria",
+        "eAI_SurvivorF_Naomi",
+        "eAI_SurvivorF_Baty",
+        "eAI_SurvivorM_Boris",
+        "eAI_SurvivorM_Cyril",
+        "eAI_SurvivorM_Denis",
+        "eAI_SurvivorM_Elias",
+        "eAI_SurvivorM_Francis",
+        "eAI_SurvivorM_Guo",
+        "eAI_SurvivorM_Hassan",
+        "eAI_SurvivorM_Indar",
+        "eAI_SurvivorM_Jose",
+        "eAI_SurvivorM_Kaito",
+        "eAI_SurvivorM_Lewis",
+        "eAI_SurvivorM_Manua",
+        "eAI_SurvivorM_Mirek",
+        "eAI_SurvivorM_Niki",
+        "eAI_SurvivorM_Oliver",
+        "eAI_SurvivorM_Peter",
+        "eAI_SurvivorM_Quinn",
+        "eAI_SurvivorM_Rolf",
+        "eAI_SurvivorM_Seth",
+        "eAI_SurvivorM_Taiki"
+      ],
+      "SniperProneDistanceThreshold": 300,
+      "RespawnTime": 1,
+      "DespawnTime": 1,
+      "MinDistanceRadius": 50,
+      "MaxDistanceRadius": 150,
+      "DespawnRadius": 500
+    },
+    {
+      "NumberOfAI": 1,
+      "NPCName": "Quest Target",
+      "Waypoints": [
+        [
+          1426.16,
+          189.7204,
+          5231.445
+        ],
+        [
+          1415.293,
+          185.658,
+          5245.495
+        ],
+        [
+          1412.993,
+          188.8043,
+          5252.501
+        ],
+        [
+          1401.296,
+          188.8043,
+          5249.899
+        ],
+        [
+          1405.595,
+          185.8454,
+          5224.574
+        ]
+      ],
+      "Behaviour": 1,
+      "Formation": "RANDOM",
+      "Loadout": "BanditLoadout",
+      "Faction": "West",
+      "Speed": 0,
+      "ThreatSpeed": 3,
+      "MinAccuracy": 0,
+      "MaxAccuracy": 0,
+      "CanBeLooted": 1,
+      "UnlimitedReload": 1,
+      "ThreatDistanceLimit": 1000,
+      "DamageMultiplier": 1,
+      "DamageReceivedMultiplier": 1,
+      "ClassNames": [
+        "eAI_SurvivorF_Eva",
+        "eAI_SurvivorF_Frida",
+        "eAI_SurvivorF_Gabi",
+        "eAI_SurvivorF_Helga",
+        "eAI_SurvivorF_Irena",
+        "eAI_SurvivorF_Judy",
+        "eAI_SurvivorF_Keiko",
+        "eAI_SurvivorF_Linda",
+        "eAI_SurvivorF_Maria",
+        "eAI_SurvivorF_Naomi",
+        "eAI_SurvivorF_Baty",
+        "eAI_SurvivorM_Boris",
+        "eAI_SurvivorM_Cyril",
+        "eAI_SurvivorM_Denis",
+        "eAI_SurvivorM_Elias",
+        "eAI_SurvivorM_Francis",
+        "eAI_SurvivorM_Guo",
+        "eAI_SurvivorM_Hassan",
+        "eAI_SurvivorM_Indar",
+        "eAI_SurvivorM_Jose",
+        "eAI_SurvivorM_Kaito",
+        "eAI_SurvivorM_Lewis",
+        "eAI_SurvivorM_Manua",
+        "eAI_SurvivorM_Mirek",
+        "eAI_SurvivorM_Niki",
+        "eAI_SurvivorM_Oliver",
+        "eAI_SurvivorM_Peter",
+        "eAI_SurvivorM_Quinn",
+        "eAI_SurvivorM_Rolf",
+        "eAI_SurvivorM_Seth",
+        "eAI_SurvivorM_Taiki"
+      ],
+      "SniperProneDistanceThreshold": 300,
+      "RespawnTime": 1,
+      "DespawnTime": 1,
+      "MinDistanceRadius": 50,
+      "MaxDistanceRadius": 150,
+      "DespawnRadius": 500
+    },
+    {
+      "NumberOfAI": 1,
+      "NPCName": "Quest Target",
+      "Waypoints": [
+        [
+          1436.068,
+          173.2128,
+          5208.203
+        ],
+        [
+          1418.173,
+          173.2128,
+          5205.1
+        ],
+        [
+          1403.376,
+          174.6745,
+          5205.1
+        ],
+        [
+          1393.115,
+          173.8926,
+          5244.191
+        ],
+        [
+          1408.649,
+          173.8734,
+          5236.237
+        ]
+      ],
+      "Behaviour": 1,
+      "Formation": "RANDOM",
+      "Loadout": "BanditLoadout",
+      "Faction": "West",
+      "Speed": 0,
+      "ThreatSpeed": 3,
+      "MinAccuracy": 0,
+      "MaxAccuracy": 0,
+      "CanBeLooted": 1,
+      "UnlimitedReload": 1,
+      "ThreatDistanceLimit": 1000,
+      "DamageMultiplier": 1,
+      "DamageReceivedMultiplier": 1,
+      "ClassNames": [
+        "eAI_SurvivorF_Eva",
+        "eAI_SurvivorF_Frida",
+        "eAI_SurvivorF_Gabi",
+        "eAI_SurvivorF_Helga",
+        "eAI_SurvivorF_Irena",
+        "eAI_SurvivorF_Judy",
+        "eAI_SurvivorF_Keiko",
+        "eAI_SurvivorF_Linda",
+        "eAI_SurvivorF_Maria",
+        "eAI_SurvivorF_Naomi",
+        "eAI_SurvivorF_Baty",
+        "eAI_SurvivorM_Boris",
+        "eAI_SurvivorM_Cyril",
+        "eAI_SurvivorM_Denis",
+        "eAI_SurvivorM_Elias",
+        "eAI_SurvivorM_Francis",
+        "eAI_SurvivorM_Guo",
+        "eAI_SurvivorM_Hassan",
+        "eAI_SurvivorM_Indar",
+        "eAI_SurvivorM_Jose",
+        "eAI_SurvivorM_Kaito",
+        "eAI_SurvivorM_Lewis",
+        "eAI_SurvivorM_Manua",
+        "eAI_SurvivorM_Mirek",
+        "eAI_SurvivorM_Niki",
+        "eAI_SurvivorM_Oliver",
+        "eAI_SurvivorM_Peter",
+        "eAI_SurvivorM_Quinn",
+        "eAI_SurvivorM_Rolf",
+        "eAI_SurvivorM_Seth",
+        "eAI_SurvivorM_Taiki"
+      ],
+      "SniperProneDistanceThreshold": 300,
+      "RespawnTime": 1,
+      "DespawnTime": 1,
+      "MinDistanceRadius": 50,
+      "MaxDistanceRadius": 150,
+      "DespawnRadius": 500
     }
   ],
   "MaxDistance": -1.0,

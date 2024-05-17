@@ -5,8 +5,8 @@
   "Title": "Welcome to Nato PMC",
   "Descriptions": [
     "Welcome to Nato Carrier on Chernarus which has been over-run by Zombies Created by the Umbrella Corporation.\r\n\r\nUmbrella Corp are still active in the region so are Russian forces both are Hostile to Nato",
-    "Introduce yourself to the Liasion Officer to get access to other work and supplies",
-    "Liasion Officer is on the Carrier"
+    "Introduce yourself to the Liasion Officer to get access to other work and supplies.\r\n\r\nYou will not have access to Heli Travel without visiting these officers.",
+    "Now you have access to Heli Travel Service"
   ],
   "ObjectiveText": "Chat to the Liasion Officer",
   "FollowUpQuest": -1,

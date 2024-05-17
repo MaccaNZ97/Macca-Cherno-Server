@@ -14,7 +14,7 @@
   "IsDailyQuest": 0,
   "IsWeeklyQuest": 0,
   "CancelQuestOnPlayerDeath": 0,
-  "Autocomplete": 1,
+  "Autocomplete": 0,
   "IsGroupQuest": 0,
   "ObjectSetFileName": "",
   "QuestItems": [
@@ -74,6 +74,6 @@
   "SequentialObjectives": 1,
   "FactionReputationRequirements": {},
   "FactionReputationRewards": {},
-  "SuppressQuestLogOnCompetion": 0,
+  "SuppressQuestLogOnCompetion": 1,
   "Active": 1
 }

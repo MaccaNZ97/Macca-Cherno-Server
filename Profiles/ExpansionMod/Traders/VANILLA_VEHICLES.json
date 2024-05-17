@@ -20,8 +20,8 @@
     "CARS"
   ],
   "Items": {
-    "smallgascanister": 3,
     "seachest": 3,
+    "smallgascanister": 3,
     "woodencrate": 3
   }
 }

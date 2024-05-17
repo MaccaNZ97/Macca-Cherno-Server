@@ -7,6 +7,34 @@
   "IsExchange": 0,
   "Items": [
     {
+      "ClassName": "fog_ferrogloves_aj",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ferrogloves_black",
+        "fog_ferrogloves_black_bluetrim",
+        "fog_ferrogloves_black_redtrim",
+        "fog_ferrogloves_black_tantrim",
+        "fog_ferrogloves_black_whitetrim",
+        "fog_ferrogloves_blue",
+        "fog_ferrogloves_cb",
+        "fog_ferrogloves_grey",
+        "fog_ferrogloves_m81",
+        "fog_ferrogloves_mc",
+        "fog_ferrogloves_mcb",
+        "fog_ferrogloves_red",
+        "fog_ferrogloves_rg",
+        "fog_ferrogloves_tan",
+        "fog_ferrogloves_white",
+        "fog_ferrogloves_white_tantrim"
+      ]
+    },
+    {
       "ClassName": "fog_gungloves_aor2",
       "MaxPriceThreshold": 500,
       "MinPriceThreshold": 500,
@@ -40,34 +68,6 @@
         "fog_tactical_fingerless_gloves_tan",
         "fog_tactical_fingerless_gloves_mc",
         "fog_tactical_fingerless_gloves_red"
-      ]
-    },
-    {
-      "ClassName": "fog_ferrogloves_aj",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 500,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_ferrogloves_black",
-        "fog_ferrogloves_black_bluetrim",
-        "fog_ferrogloves_black_redtrim",
-        "fog_ferrogloves_black_tantrim",
-        "fog_ferrogloves_black_whitetrim",
-        "fog_ferrogloves_blue",
-        "fog_ferrogloves_cb",
-        "fog_ferrogloves_grey",
-        "fog_ferrogloves_m81",
-        "fog_ferrogloves_mc",
-        "fog_ferrogloves_mcb",
-        "fog_ferrogloves_red",
-        "fog_ferrogloves_rg",
-        "fog_ferrogloves_tan",
-        "fog_ferrogloves_white",
-        "fog_ferrogloves_white_tantrim"
       ]
     }
   ]

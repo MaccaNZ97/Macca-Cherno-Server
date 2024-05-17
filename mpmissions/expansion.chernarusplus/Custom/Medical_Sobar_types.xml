@@ -66,6 +66,7 @@
     <category name="tools" />
     <usage name="ContaminatedArea" />
     <tag name="shelves" />
+    <value name="Tier5" />
   </type>
   <type name="SM_Med_FirstAidKit_IFAK">
     <nominal>8</nominal>

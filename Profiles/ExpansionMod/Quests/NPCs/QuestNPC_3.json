@@ -13,7 +13,7 @@
     0
   ],
   "NPCName": "Nato Liaison Officer",
-  "DefaultNPCText": "Welcome to NATO PMC push F whislt facing me to interacte!",
+  "DefaultNPCText": "Welcome to NATO PMC",
   "Waypoints": [],
   "NPCEmoteID": 46,
   "NPCEmoteIsStatic": 0,
