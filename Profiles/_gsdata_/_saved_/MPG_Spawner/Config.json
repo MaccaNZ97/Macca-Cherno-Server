@@ -1,0 +1,12 @@
+{
+  "configVersion": 1,
+  "isModDisabled": 0,
+  "isDebugEnabled": 1,
+  "pointsConfigs": [
+    "NWAF",
+    "Tisy",
+    "Skalisty Island",
+    "Sharks",
+    "Quests"
+  ]
+}

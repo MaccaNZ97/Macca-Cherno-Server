@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 17,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Cocaine Bear Pelt",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Animal_HMG_Bear_Cocaine_T5",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

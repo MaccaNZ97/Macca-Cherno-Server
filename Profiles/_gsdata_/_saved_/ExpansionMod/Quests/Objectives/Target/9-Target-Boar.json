@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 27,
+    "ID": 9,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill Wild Boar with crossbow",
+    "TimeLimit": -1,
+    "Active": 0,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": 0.0,
+    "Amount": 1,
+    "ClassNames": [
+        "Animal_SusScrofa"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [
+        "Crossbow_Autumn",
+        "Ammo_HuntingBolt"
+    ],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

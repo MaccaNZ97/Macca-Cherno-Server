@@ -1,0 +1,20 @@
+{
+    "Webhooks": [
+        {
+            "Enabled": 1,
+            "Endpoint": "https://discord.com/api/webhooks/1266494955518562326/Cd5pjPET8ZoxjLo4DMRnjkanYDnhT6Fmxf_fzBOw15bT2eszAvPQb_5WxMV0J_qcuV0s",
+            "Username": "HAL 9000",
+            "AvatarUrl": "https://i.imgur.com/iBnAKWV.png",
+            "UseEmbed": 1,
+            "LinkSteam": 1,
+            "ShowParticipants": 1,
+            "WatchedChannels": [
+                "Admin",
+                "Global",
+                "Direct",
+                "Team",
+                "Transport"
+            ]
+        }
+    ]
+}

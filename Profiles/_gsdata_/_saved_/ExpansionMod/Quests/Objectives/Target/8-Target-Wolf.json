@@ -1,0 +1,25 @@
+{
+  "ObjectiveText": "White Wolves.",
+  "TimeLimit": -1,
+  "Active": 1,
+  "Position": [
+    10003,
+    191,
+    9616
+  ],
+  "MaxDistance": 100,
+  "MinDistance": 0.0,
+  "Amount": 4,
+  "ClassNames": [
+    "Animal_CanisLupus_White"
+  ],
+  "CountSelfKill": 0,
+  "AllowedWeapons": [],
+  "ExcludedClassNames": [],
+  "CountAIPlayers": 0,
+  "AllowedTargetFactions": [],
+  "AllowedDamageZones": [],
+  "ConfigVersion": 27,
+  "ID": 8,
+  "ObjectiveType": 2
+}

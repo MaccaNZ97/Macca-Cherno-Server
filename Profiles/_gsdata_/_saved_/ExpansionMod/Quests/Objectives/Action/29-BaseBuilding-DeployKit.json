@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 27,
+    "ID": 29,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Raise a Flag using a Territory Kit",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionRaiseFlag"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

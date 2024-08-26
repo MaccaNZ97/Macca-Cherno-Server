@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 27,
+    "ID": 1,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Use a Bandage",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionBandageSelf"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

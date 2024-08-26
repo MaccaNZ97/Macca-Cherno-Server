@@ -1,0 +1,413 @@
+{
+    "Settings": [
+        {
+            "Config_Version": 1.0099999904632569,
+            "Minimum_Players": 0,
+            "Bots_Timeout_Radius": 150,
+            "Bots_Timeout_Time": 300,
+            "Cleanup_Radius_Startup": 50,
+            "Cleanup_Radius_Running": 100,
+            "Mission_Start_Delay": 600,
+            "Mission_Starting_Failed_Retry_Delay": 120,
+            "Mission_Time_Between": 2700,
+            "Mission_Time_Limit": 2700,
+            "Mission_Time_Extension_Limit": 900,
+            "Mission_Inner_Radius": 500,
+            "Mission_AI_Spawn_Radius": 1200,
+            "Reward_Loot_Weapons_Minimum": 1,
+            "Reward_Loot_Weapons_Maximum": 2,
+            "Reward_Loot_Weapons_Multiplier": 0.75,
+            "Reward_Loot_Armour_Minimum": 1,
+            "Reward_Loot_Armour_Maximum": 2,
+            "Reward_Loot_Armour_Multiplier": 0.5,
+            "Reward_Loot_Misc_Minimum": 1,
+            "Reward_Loot_Misc_Maximum": 4,
+            "Reward_Loot_Misc_Multiplier": 0.5,
+            "Debug_Logging_Enabled": 1,
+            "Debug_Disable_Notifications": 0,
+            "Debug_Disable_Markers": 0,
+            "Debug_Force_Win": 0,
+            "Debug_QuickMode": 0,
+            "Debug_Ignore_Player_Radius": 0
+        }
+    ],
+    "Missions": [
+        {
+            "Name": "NWAF Runway",
+            "Position": [
+                4176.365234375,
+                338.7732238769531,
+                10725.6533203125
+            ],
+            "Bots_Count_Minimum": 5,
+            "Bots_Count_Maximum": 8,
+            "Bots_Loadout_ID": 1,
+            "Bots_Range": 800,
+            "Bots_Accuracy": 0.5,
+            "Bots_Damage_Done_Multiplier": 1.0,
+            "Bots_Damage_Taken_Multiplier": 1.0,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Is_NBC_Mission": 0,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 1,
+            "Static_Objects": []
+        },
+        {
+            "Name": "Downed Helicopter",
+            "Position": [
+                144.31246948242188,
+                319.55841064453127,
+                8073.83740234375
+            ],
+            "Bots_Count_Minimum": 3,
+            "Bots_Count_Maximum": 5,
+            "Bots_Loadout_ID": 1,
+            "Bots_Range": 400,
+            "Bots_Accuracy": 0.5,
+            "Bots_Damage_Done_Multiplier": 1.0,
+            "Bots_Damage_Taken_Multiplier": 1.0,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Is_NBC_Mission": 0,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Static_Objects": [
+                {
+                    "ClassName": "StaticObj_Wreck_Mi8_Crashed",
+                    "Scale": 1.0,
+                    "Position": [
+                        144.06399536132813,
+                        321.1470031738281,
+                        8068.35986328125
+                    ],
+                    "Rotation": [
+                        -69.11962890625,
+                        0.0,
+                        -0.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "Loadouts": [
+        {
+            "AI_Loot_Misc_Max": 2,
+            "AI_Loot_Special_Max": 1,
+            "Shirts": [
+                "GorkaEJacket_Autumn",
+                "GorkaEJacket_Flat",
+                "GorkaEJacket_PautRev",
+                "GorkaEJacket_Summer"
+            ],
+            "Pants": [
+                "GorkaPants_Autumn",
+                "GorkaPants_Flat",
+                "GorkaPants_PautRev",
+                "GorkaPants_Summer"
+            ],
+            "Shoes": [
+                "TTSKOBoots",
+                "WorkingBoots_Beige",
+                "CombatBoots_Beige",
+                "CombatBoots_Black",
+                "CombatBoots_Brown"
+            ],
+            "BackPacks": [
+                "CoyoteBag_Brown",
+                "CoyoteBag_Green",
+                "HuntingBag",
+                "TortillaBag",
+                "WaterproofBag_Green"
+            ],
+            "Gloves": [
+                "WorkingGloves_Beige",
+                "WorkingGloves_Black",
+                "NBCGlovesGray",
+                "OMNOGloves_Brown"
+            ],
+            "Belts": [
+                "CivilianBelt",
+                "MilitaryBelt"
+            ],
+            "NBC_Loadout": [
+                "NBCGlovesGray",
+                "NBCJacketGray",
+                "NBCPantsGray",
+                "NBCBootsGray",
+                "NBCHoodGray",
+                "GasMask"
+            ],
+            "AI_Loot_Misc": [
+                "SardinesCan",
+                "SodaCan_Cola",
+                "SodaCan_Kvass",
+                "Rice",
+                "Rope",
+                "Screwdriver"
+            ],
+            "AI_Loot_Special": [
+                "NailBox",
+                "Hatchet",
+                "RGD5Grenade"
+            ],
+            "Weapons": [
+                {
+                    "Loadout_ID": 0,
+                    "Weapon_ClassName": "CZ61",
+                    "Magazine_ClassName": "Mag_CZ61_20Rnd",
+                    "Attach": []
+                },
+                {
+                    "Loadout_ID": 1,
+                    "Weapon_ClassName": "M4A1",
+                    "Magazine_ClassName": "Mag_CMAG_40Rnd",
+                    "Attach": [
+                        "M4_RISHndgrd",
+                        "M4_MPBttstck",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "Loadout_ID": 2,
+                    "Weapon_ClassName": "SVD",
+                    "Magazine_ClassName": "Mag_SVD_10Rnd",
+                    "Attach": [
+                        "PSO1Optic"
+                    ]
+                }
+            ],
+            "Armour": [
+                {
+                    "Loadout_ID": 0,
+                    "Armour_ClassName": "PlateCarrierVest_Black",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "Loadout_ID": 0,
+                    "Armour_ClassName": "PlateCarrierVest_Green",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "Loadout_ID": 1,
+                    "Armour_ClassName": "PlateCarrierVest_Black",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "Loadout_ID": 1,
+                    "Armour_ClassName": "PlateCarrierVest_Green",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "Loadout_ID": 2,
+                    "Armour_ClassName": "PlateCarrierVest_Camo",
+                    "Attach": [],
+                    "Contents": []
+                }
+            ],
+            "Headgear": [
+                {
+                    "Loadout_ID": 0,
+                    "Helmet_ClassName": "GorkaHelmet",
+                    "Give_NVG": 1
+                },
+                {
+                    "Loadout_ID": 1,
+                    "Helmet_ClassName": "GorkaHelmet",
+                    "Give_NVG": 1
+                },
+                {
+                    "Loadout_ID": 2,
+                    "Helmet_ClassName": "Mich2001Helmet",
+                    "Give_NVG": 1
+                }
+            ]
+        }
+    ],
+    "RewardObjects": [
+        {
+            "Reward_Type": 1,
+            "ClassName": "SeaChest",
+            "Replace_ClassName": "",
+            "Loot_Initial": [],
+            "Loot_Win": []
+        },
+        {
+            "Reward_Type": 1,
+            "ClassName": "Barrel_Blue",
+            "Replace_ClassName": "",
+            "Loot_Initial": [],
+            "Loot_Win": []
+        },
+        {
+            "Reward_Type": 2,
+            "ClassName": "Truck_01_Covered",
+            "Replace_ClassName": "",
+            "Loot_Initial": [
+                "Truck_01_Wheel",
+                "Truck_01_Wheel",
+                "Truck_01_WheelDouble",
+                "Truck_01_WheelDouble",
+                "Truck_01_WheelDouble",
+                "Truck_01_WheelDouble",
+                "Truck_01_Door_1_1",
+                "Truck_01_Door_2_1",
+                "Truck_01_Hood",
+                "HeadlightH7",
+                "HeadlightH7"
+            ],
+            "Loot_Win": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "Reward_Type": 2,
+            "ClassName": "Offroad_02",
+            "Replace_ClassName": "",
+            "Loot_Initial": [
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Door_1_1",
+                "Offroad_02_Door_1_2",
+                "Offroad_02_Door_2_1",
+                "Offroad_02_Door_2_2",
+                "Offroad_02_Hood",
+                "Offroad_02_Trunk",
+                "HeadlightH7",
+                "HeadlightH7"
+            ],
+            "Loot_Win": [
+                "Offroad_02_Wheel",
+                "CarBattery",
+                "GlowPlug"
+            ]
+        },
+        {
+            "Reward_Type": 2,
+            "ClassName": "OffroadHatchback",
+            "Replace_ClassName": "",
+            "Loot_Initial": [
+                "CarRadiator",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackDoors_Driver",
+                "HatchbackDoors_CoDriver",
+                "HatchbackHood",
+                "HatchbackTrunk",
+                "HeadlightH7",
+                "HeadlightH7"
+            ],
+            "Loot_Win": [
+                "CarBattery",
+                "SparkPlug"
+            ]
+        }
+    ],
+    "Loot": [
+        {
+            "Weapons": [
+                {
+                    "ClassName": "FAL",
+                    "Magazine_ClassName": "Mag_FAL_20Rnd",
+                    "Attach": [
+                        "Fal_OeBttsck",
+                        "ACOGOptic"
+                    ],
+                    "Loot": [
+                        "Mag_FAL_20Rnd",
+                        "Mag_FAL_20Rnd"
+                    ]
+                },
+                {
+                    "ClassName": "SVD",
+                    "Magazine_ClassName": "Mag_SVD_10Rnd",
+                    "Attach": [
+                        "PSO1Optic"
+                    ],
+                    "Loot": [
+                        "Mag_SVD_10Rnd",
+                        "Mag_SVD_10Rnd"
+                    ]
+                }
+            ],
+            "Armour": [
+                {
+                    "ClassName": "PlateCarrierVest",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "PlateCarrierVest_Black",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "PlateCarrierVest_Camo",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "BallisticHelmet_Green",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "BallisticHelmet_Black",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "BallisticHelmet_Woodland",
+                    "Attach": [],
+                    "Contents": []
+                }
+            ],
+            "Misc": [
+                {
+                    "ClassName": "BandageDressing",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "PainkillerTablets",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Morphine",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SledgeHammer",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "NailBox",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Hatchet",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "MetalPlate",
+                    "Attach": [],
+                    "Contents": []
+                }
+            ]
+        }
+    ]
+}

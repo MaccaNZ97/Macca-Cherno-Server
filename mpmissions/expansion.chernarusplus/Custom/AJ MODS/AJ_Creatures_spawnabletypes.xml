@@ -7,6 +7,7 @@
     </attachments>
     <cargo preset="mixArmy" />
     <cargo preset="RedHigh" />
+    <cargo preset="CustomKeycards" />
   </type>
   <type name="CDAJ_ZmbM_Clown">
     <cargo preset="YellowHigh" />
@@ -14,7 +15,7 @@
   </type>
   <type name="CDAJ_ZmbM_Demon">
     <cargo preset="RedHigh" />
-    <cargo preset="YellowHigh" />
+    <cargo preset="CustomKeycards" />
   </type>
   <type name="CDAJ_ZmbM_LostInfected">
     <cargo preset="YellowLow" />
@@ -25,7 +26,7 @@
     <cargo preset="mixArmy" />
   </type>
   <type name="CDAJ_ZmbM_Mutant_Bloody">
-    <cargo preset="YellowLow" />
+    <cargo preset="CustomKeycards" />
     <cargo preset="YellowHigh" />
   </type>
   <type name="CDAJ_ZmbM_Mutant_Pale">

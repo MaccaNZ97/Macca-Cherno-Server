@@ -1,17 +1,17 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 16,
     "ObjectiveType": 3,
-    "ObjectiveText": "Travel to Zolotar",
+    "ObjectiveText": "Travel to Gorka Hunting",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        10259.0,
-        367.0,
-        12043.0
+        10003.0,
+        191.0,
+        9616.0
     ],
     "MaxDistance": -1.0,
-    "MarkerName": "Zolotar",
+    "MarkerName": "Wolf Hunting Grounds",
     "ShowDistance": 1,
     "TriggerOnEnter": 1,
     "TriggerOnExit": 0

@@ -13,7 +13,7 @@
     "Land_FuelStation_Feed",
     "Land_FuelStation_Feed_Enoch"
   ],
-  "EnableExplosiveWhitelist": 0,
+  "EnableExplosiveWhitelist": 1,
   "ExplosionDamageMultiplier": 50.0,
   "ProjectileDamageMultiplier": 1.0,
   "CanRaidSafes": 0,

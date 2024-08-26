@@ -1,0 +1,323 @@
+{
+    "Interval": 15,
+    "SkinningItems": [
+        "NorseHelm",
+        "Chainmail_Coif",
+        "Chainmail",
+        "WoodAxe"
+    ],
+    "SkinnedItemsAmount": 3,
+    "AnnounceDragonAttackLocation": 0,
+    "AnnounceDragonDefeated": 1,
+    "RaG_DragonLocations": [
+        {
+            "name": "Svetlojarsk",
+            "pos": [
+                "13935 20 13227"
+            ]
+        },
+        {
+            "name": "Chernaya Polana",
+            "pos": [
+                "12095 96 13786"
+            ]
+        },
+        {
+            "name": "Novomidrovsk",
+            "pos": [
+                "11691 44 14499"
+            ]
+        },
+        {
+            "name": "Severograd",
+            "pos": [
+                "7954 116 12690"
+            ]
+        },
+       
+        {
+            "name": "Stary Yar",
+            "pos": [
+                "4968 475 15088"
+            ]
+        },
+        {
+            "name": "Arsenovo",
+            "pos": [
+                "8505 205 13954"
+            ]
+        },
+        {
+            "name": "Novaya Petrovka",
+            "pos": [
+                "3398 194 13060"
+            ]
+        },
+        {
+            "name": "Topolniki",
+            "pos": [
+                "2912 215 12439"
+            ]
+        },
+        {
+            "name": "Sinystok",
+            "pos": [
+                "1554 275 12027"
+            ]
+        },
+        {
+            "name": "Vavilovo",
+            "pos": [
+                "2257 268 11047"
+            ]
+        },
+        {
+            "name": "Lopatino",
+            "pos": [
+                "2727 274 9993"
+            ]
+        },
+        {
+            "name": "Vibor",
+            "pos": [
+                "3810 311 8899"
+            ]
+        },
+       
+        {
+            "name": "Grishino",
+            "pos": [
+                "5982 267 10343"
+            ]
+        },
+       
+        {
+            "name": "Kabanino",
+            "pos": [
+                "5327 333 8592"
+            ]
+        },
+        {
+            "name": "Stary Sobor",
+            "pos": [
+                "6035 301 7800"
+            ]
+        },
+        {
+            "name": "Stary Sobor Military",
+            "pos": [
+                "6280 301 7761"
+            ]
+        },
+        {
+            "name": "Novy Sobor",
+            "pos": [
+                "7146 294 7692"
+            ]
+        },
+        {
+            "name": "Guglovo",
+            "pos": [
+                "8427 360 6644"
+            ]
+        },
+        {
+            "name": "Gorka",
+            "pos": [
+                "9485 304 8821"
+            ]
+        },
+        {
+            "name": "Krasnostav",
+            "pos": [
+                "11162 197 12261"
+            ]
+        },
+        
+        {
+            "name": "Khelm",
+            "pos": [
+                "12297 105 10905"
+            ]
+        },
+        {
+            "name": "Berezino East",
+            "pos": [
+                "12935 6 10087"
+            ]
+        },
+        {
+            "name": "Berezino West",
+            "pos": [
+                "12315 12 9555"
+            ]
+        },
+        {
+            "name": "Berezino South",
+            "pos": [
+                "11968 54 9102"
+            ]
+        },
+        {
+            "name": "Nizhneye",
+            "pos": [
+                "12897 20 8046"
+            ]
+        },
+        {
+            "name": "Solnichniy",
+            "pos": [
+                "13363 6 6250"
+            ]
+        },
+        {
+            "name": "Kamyshovo",
+            "pos": [
+                "12070 6 3552"
+            ]
+        },
+        {
+            "name": "Elektro",
+            "pos": [
+                "10485 6 2312"
+            ]
+        },
+        {
+            "name": "Elektro",
+            "pos": [
+                "10108 6 1918"
+            ]
+        },
+        {
+            "name": "Chernogorsk Industrial",
+            "pos": [
+                "7142 6 2822"
+            ]
+        },
+        {
+            "name": "Chernogorsk",
+            "pos": [
+                "6530 6 2477"
+            ]
+        },
+       
+        {
+            "name": "Balota",
+            "pos": [
+                "4475 6 2460"
+            ]
+        },
+        {
+            "name": "Komarovo",
+            "pos": [
+                "3621 7 2476"
+            ]
+        },
+        {
+            "name": "Prison Island",
+            "pos": [
+                "2612 21 1319"
+            ]
+        },
+        {
+            "name": "Kamenka",
+            "pos": [
+                "1871 6 2233"
+            ]
+        },
+       
+        {
+            "name": "Pavlovo",
+            "pos": [
+                "1693 144 3841"
+            ]
+        },
+     
+        {
+            "name": "Zelenogorsk",
+            "pos": [
+                "2760 206 5332"
+            ]
+        },
+        {
+            "name": "Pulkovo",
+            "pos": [
+                "4899 319 5637"
+            ]
+        },
+        {
+            "name": "Pogorevka",
+            "pos": [
+                "4489 294 6416"
+            ]
+        },
+        {
+            "name": "Rogovo",
+            "pos": [
+                "4733 271 6777"
+            ]
+        },
+        
+        {
+            "name": "Myshkino",
+            "pos": [
+                "1990 254 7337"
+            ]
+        },
+        {
+            "name": "Pustoshka",
+            "pos": [
+                "3050 307 7906"
+            ]
+        },
+        {
+            "name": "Nadezdino",
+            "pos": [
+                "5839 136 4731"
+            ]
+        },
+        {
+            "name": "Mogilevka",
+            "pos": [
+                "7544 214 5150"
+            ]
+        },
+        {
+            "name": "Shakovka",
+            "pos": [
+                "9638 210 6547"
+            ]
+        },
+        {
+            "name": "Polana",
+            "pos": [
+                "10681 211 8039"
+            ]
+        },
+        {
+            "name": "Orlovets",
+            "pos": [
+                "12092 191 7270"
+            ]
+        },
+        {
+            "name": "Dolina",
+            "pos": [
+                "11253 76 6587"
+            ]
+        },
+        {
+            "name": "Kozlovka",
+            "pos": [
+                "4403 234 4655"
+            ]
+        },
+        {
+            "name": "Camp Metalurg",
+            "pos": [
+                "1087 150 6634"
+            ]
+        }
+       
+    ]
+}

@@ -1,0 +1,691 @@
+{
+    "Settings": [
+        {
+            "Config_Version": 1,
+            "Minimum_Players": 1,
+            "Bots_Timeout_Radius": 150,
+            "Bots_Timeout_Time": 300,
+            "Cleanup_Radius_Startup": 50,
+            "Cleanup_Radius_Running": 100,
+            "Mission_Start_Delay": 600,
+            "Mission_Starting_Failed_Retry_Delay": 120,
+            "Mission_Time_Between": 2700,
+            "Mission_Time_Limit": 2700,
+            "Mission_Time_Extension_Limit": 900,
+            "Mission_Inner_Radius": 500,
+            "Mission_AI_Spawn_Radius": 1200,
+            "Reward_Loot_Weapons_Minimum": 1,
+            "Reward_Loot_Weapons_Maximum": 2,
+            "Reward_Loot_Weapons_Multiplier": 0.75,
+            "Reward_Loot_Armour_Minimum": 1,
+            "Reward_Loot_Armour_Maximum": 2,
+            "Reward_Loot_Armour_Multiplier": 0.5,
+            "Reward_Loot_Misc_Minimum": 1,
+            "Reward_Loot_Misc_Maximum": 4,
+            "Reward_Loot_Misc_Multiplier": 0.5,
+            "Debug_Logging_Enabled": 1,
+            "Debug_Disable_Notifications": 1,
+            "Debug_Disable_Markers": 1,
+            "Debug_Force_Win": 1,
+            "Debug_QuickMode": 1,
+            "Debug_Ignore_Player_Radius": 1
+        }
+    ],
+    "Missions": [
+        {
+            "Name": "NWAF Runway",
+            "Position": [
+                4176.365234375,
+                338.7732238769531,
+                10725.6533203125
+            ],
+            "Bots_Count_Minimum": 5,
+            "Bots_Count_Maximum": 8,
+            "Bots_Loadout_ID": 1,
+            "Bots_Range": 800,
+            "Bots_Accuracy": 0.5,
+            "Bots_Damage_Done_Multiplier": 1.0,
+            "Bots_Damage_Taken_Multiplier": 1.0,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Is_NBC_Mission": 0,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 1,
+            "Static_Objects": []
+        },
+        {
+            "Name": "Submarine",
+            "Position": [
+                14426,
+                9.38305,
+                2940.27
+            ],
+            "Bots_Count_Minimum": 5,
+            "Bots_Count_Maximum": 8,
+            "Bots_Loadout_ID": 3,
+            "Bots_Range": 800,
+            "Bots_Accuracy": 0.5,
+            "Bots_Damage_Done_Multiplier": 1.5,
+            "Bots_Damage_Taken_Multiplier": 1.0,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Is_NBC_Mission": 0,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 4,
+            "Static_Objects": []
+        },
+        {
+            "Name": "Downed Helicopter",
+            "Position": [
+                144.31246948242188,
+                319.55841064453127,
+                8073.83740234375
+            ],
+            "Bots_Count_Minimum": 3,
+            "Bots_Count_Maximum": 5,
+            "Bots_Loadout_ID": 1,
+            "Bots_Range": 400,
+            "Bots_Accuracy": 0.5,
+            "Bots_Damage_Done_Multiplier": 1.0,
+            "Bots_Damage_Taken_Multiplier": 1.0,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Is_NBC_Mission": 0,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Static_Objects": [
+                {
+                    "ClassName": "StaticObj_Wreck_Mi8_Crashed",
+                    "Scale": 1.0,
+                    "Position": [
+                        144.06399536132813,
+                        321.1470031738281,
+                        8068.35986328125
+                    ],
+                    "Rotation": [
+                        -69.11962890625,
+                        0.0,
+                        -0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Zealo  Fortification",
+            "Position": [
+                1443.11, 
+                172.22, 
+                5231.91
+            ],
+            "Bots_Count_Minimum": 4,
+            "Bots_Count_Maximum": 6,
+            "Bots_Loadout_ID": 3,
+            "Bots_Range": 400,
+            "Bots_Accuracy": 0.95,
+            "Bots_Damage_Done_Multiplier": 1.0,
+            "Bots_Damage_Taken_Multiplier": 1.0,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Is_NBC_Mission": 0,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 3,
+            "Static_Objects": [
+                {
+                   
+                }
+            ]
+        },
+        {
+            "Name": "Ambulance Crash",
+            "Position": [
+                5837.15087890625,
+                312.3631591796875,
+                8150.8115234375
+            ],
+            "Bots_Count_Minimum": 2,
+            "Bots_Count_Maximum": 3,
+            "Bots_Loadout_ID": 3,
+            "Bots_Range": 800,
+            "Bots_Accuracy": 0.75,
+            "Bots_Damage_Done_Multiplier": 1.0,
+            "Bots_Damage_Taken_Multiplier": 1.0,
+            "Bots_Drop_Loot": 1,
+            "Bots_Drop_Weapon": 1,
+            "Is_NBC_Mission": 0,
+            "Allow_Crate_Reward": 1,
+            "Allow_Vehicle_Reward": 0,
+            "Static_Objects": [
+                {
+                    "ClassName": "Land_TNL_DAmbulance",
+                    "Scale": 1.0,
+                    "Position": [
+                        5837.15087890625,
+                        312.3631591796875,
+                        8150.8115234375
+                    ],
+                    "Rotation": [
+                        177.04151916503907,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "classname": "Land_TNL_Blood1",
+                    "Scale": 1.0,
+                    "position": [
+                        5832.8662109375,
+                        311.309814453125,
+                        8151.75439453125
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.7635232210159302,
+                        1.603797435760498
+                    ]
+                },
+                {
+                    "classname": "Land_TNL_Blood2",
+                    "position": [
+                        5832.5595703125,
+                        311.30279541015627,
+                        8150.58349609375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.7635232210159302,
+                        1.603797435760498
+                    ],
+                     "Scale": 1.0
+                },
+                {
+                    "classname": "Land_TNL_Blood4",
+                    "position": [
+                        5833.50537109375,
+                        311.3005676269531,
+                        8152.40087890625
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.7634007930755615,
+                        1.603797435760498
+                    ],
+                     "Scale": 1.0
+                },
+                {
+                    "classname": "Land_TNL_Corpsecover",
+                    "position": [
+                        5833.81494140625,
+                        310.708251953125,
+                        8154.404296875
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                     "Scale": 1.0
+                },
+                {
+                    "classname": "Land_TNL_Deadbody1R",
+                    "position": [
+                        5825.85009765625,
+                        311.6883239746094,
+                        8158.6787109375
+                    ],
+                    "orientation": [
+                        0.0,
+                        1.219691514968872,
+                        1.6036598682403565
+                    ],
+                     "Scale": 1.0
+                },
+                {
+                    "classname": "Land_TNL_DeadBody5R",
+                    "position": [
+                        5827.7080078125,
+                        311.9472961425781,
+                        8155.6728515625
+                    ],
+                    "orientation": [
+                        0.0,
+                        -0.0,
+                        -0.0
+                    ],
+                     "Scale": 1.0
+                },
+                {
+                    "classname": "Land_TNL_Deadbody7",
+                    "position": [
+                        5829.7314453125,
+                        311.5353698730469,
+                        8152.34326171875
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.763523280620575,
+                        1.6037975549697877
+                    ],
+                     "Scale": 1.0
+                },
+                {
+                    "classname": "Land_TNL_Blood4",
+                    "position": [
+                        5837.39990234375,
+                        311.1982727050781,
+                        8150.3427734375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.5346289873123169,
+                        0.9929761290550232
+                    ],
+                     "Scale": 1.0
+                },
+                {
+                    "classname": "StaticObj_Wreck_HMMWV_DE",
+                    "position": [
+                        5840.80126953125,
+                        311.97955322265627,
+                        8142.94287109375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.763523280620575,
+                        1.6037975549697877
+                    ],
+                     "Scale": 1.0
+                },
+                {
+                    "classname": "StaticObj_Wreck_HMMWV_DE",
+                    "position": [
+                        5826.19287109375,
+                        312.6156311035156,
+                        8157.2900390625
+                    ],
+                    "orientation": [
+                        -84.23978424072266,
+                        -0.0,
+                        -0.0
+                    ],
+                     "Scale": 1.0
+                },
+                {
+                    "classname": "Land_TNL_Deadbody3",
+                    "position": [
+                        5839.49560546875,
+                        311.2616271972656,
+                        8143.2109375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.6109104752540588,
+                        0.7639015913009644
+                    ],
+                     "Scale": 1.0
+                },
+                {
+                    "classname": "Land_TNL_DeadBody5R",
+                    "position": [
+                        5841.41552734375,
+                        311.4381408691406,
+                        8140.13818359375
+                    ],
+                    "orientation": [
+                        0.0,
+                        0.6109452843666077,
+                        0.7639451026916504
+                    ],
+                     "Scale": 1.0
+                }
+
+            ]
+        }
+    ],
+    "Loadouts": [
+        {
+            "AI_Loot_Misc_Max": 2,
+            "AI_Loot_Special_Max": 1,
+            "Shirts": [
+                "TCP_UmbrellaJacket",
+                "TCP_UmbrellaJacket",
+                "TCP_UmbrellaJacket",
+                "TCP_UmbrellaJacket"
+            ],
+            "Pants": [
+                "TCP_UmbrellaPants",
+                "TCP_UmbrellaPants",
+                "TCP_UmbrellaPants",
+                "TCP_UmbrellaPants"
+            ],
+            "Shoes": [
+                "TCP_UmbrellaBoots",
+                "TCP_UmbrellaBoots",
+                "TCP_UmbrellaBoots",
+                "TCP_UmbrellaBoots",
+                "TCP_UmbrellaBoots"
+            ],
+            "BackPacks": [
+                "TCP_CoyoteBagUmbrella",
+                "TCP_CoyoteBagUmbrella",
+                "TCP_CoyoteBagUmbrella",
+                "TCP_CoyoteBagUmbrella",
+                "TCP_CoyoteBagUmbrella"
+            ],
+            "Gloves": [
+                "TCP_UmbrellaGloves",
+                "TCP_UmbrellaGloves",
+                "TCP_UmbrellaGloves",
+                "TCP_UmbrellaGloves"
+            ],
+            "Belts": [
+                "CivilianBelt",
+                "MilitaryBelt"
+            ],
+            "NBC_Loadout": [
+                "NBCGlovesGray",
+                "NBCJacketGray",
+                "NBCPantsGray",
+                "NBCBootsGray",
+                "NBCHoodGray",
+                "GasMask"
+            ],
+            "AI_Loot_Misc": [
+                "SardinesCan",
+                "SodaCan_Cola",
+                "SodaCan_Kvass",
+                "Rice",
+                "Rope",
+                "Screwdriver"
+            ],
+            "AI_Loot_Special": [
+                "NailBox",
+                "Hatchet",
+                "RGD5Grenade"
+            ],
+            "Weapons": [
+                {
+                    "Loadout_ID": 0,
+                    "Weapon_ClassName": "CZ61",
+                    "Magazine_ClassName": "Mag_CZ61_20Rnd",
+                    "Attach": []
+                },
+                {
+                    "Loadout_ID": 1,
+                    "Weapon_ClassName": "M4A1",
+                    "Magazine_ClassName": "Mag_CMAG_40Rnd",
+                    "Attach": [
+                        "M4_RISHndgrd",
+                        "M4_MPBttstck",
+                        "ACOGOptic"
+                    ]
+                },
+                {
+                    "Loadout_ID": 2,
+                    "Weapon_ClassName": "SVD",
+                    "Magazine_ClassName": "Mag_SVD_10Rnd",
+                    "Attach": [
+                        "PSO1Optic"
+                    ]
+                },
+                {
+                    "Loadout_ID": 3,
+                    "Weapon_ClassName": "TF_SCAR_L_FDE",
+                    "Magazine_ClassName": "TF_Mag_M4_PMAG40Rnd_FDE",
+                    "Attach": [
+                        "TF_M4_SOCOMSuppressor",
+                        "TF_EOTechXPSOpticUp_Black",
+                        "TF_SCAR_MREXHndgrd_FDE",
+                        "TF_AFG_RIS_Grip_FDE",
+                        "TF_SCAR_StndBttstck_FDE"
+                    ]
+                }
+            ],
+            "Armour": [
+                {
+                    "Loadout_ID": 0,
+                    "Armour_ClassName": "TCP_UmbrellaPlateCarrier",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "Loadout_ID": 1,
+                    "Armour_ClassName": "TCP_UmbrellaPlateCarrier",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "Loadout_ID": 2,
+                    "Armour_ClassName": "TCP_UmbrellaPlateCarrier",
+                    "Attach": [],
+                    "Contents": []
+                },
+                
+                {
+                    "Loadout_ID": 3,
+                    "Armour_ClassName": "Blacks_Armor_Jacket_Red",
+                    "Attach": [],
+                    "Contents": ["TF_Mag_M4_PMAG40Rnd_FDE","TF_Mag_M4_PMAG40Rnd_FDE","M67Grenade","M67Grenade"]
+                }
+            ],
+            "Headgear": [
+                {
+                    "Loadout_ID": 0,
+                    "Helmet_ClassName": "GorkaHelmet",
+                    "Give_NVG": 1
+                },
+                {
+                    "Loadout_ID": 1,
+                    "Helmet_ClassName": "GorkaHelmet",
+                    "Give_NVG": 1
+                },
+                {
+                    "Loadout_ID": 2,
+                    "Helmet_ClassName": "Mich2001Helmet",
+                    "Give_NVG": 1
+                },
+                {
+                    "Loadout_ID": 3,
+                    "Helmet_ClassName": "Blacks_Armor_helmet_Red_alpha_2",
+                    "Give_NVG": 1,
+                    "Attach": ["Blacks_Black_GasMask_Filter"]
+                }
+            ]
+        }
+    ],
+    "RewardObjects": [
+        {
+            "Reward_Type": 1,
+            "ClassName": "SeaChest",
+            "Replace_ClassName": "",
+            "Loot_Initial": [],
+            "Loot_Win": ["Armour"]
+        },
+        {
+            "Reward_Type": 2,
+            "ClassName": "Barrel_Blue",
+            "Replace_ClassName": "",
+            "Loot_Initial": [],
+            "Loot_Win": ["Misc"]
+        },
+        {
+            "Reward_Type": 3,
+            "ClassName": "SM_Med_FirstAid_Box",
+            "Replace_ClassName": "",
+            "Loot_Initial": [],
+            "Loot_Win": ["Medical"]
+        },
+               
+        
+        {
+            "Reward_Type": 1,
+            "ClassName": "expansionbiggyrocopter",
+            "Replace_ClassName": "",
+            "Loot_Initial": [
+               
+                
+            ],
+            "Loot_Win": [
+                "ExpansionHelicopterBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "Reward_Type": 4,
+            "ClassName": "EXT_UH60M",
+            "Replace_ClassName": "",
+            "Loot_Initial": ["expansionhydraulichoses",
+                "headlighth7",
+                "ext_uh60m_door_1_1",
+                "ext_uh60m_door_1_2",
+                "ext_uh60m_door_2_1",
+                "ext_uh60m_door_2_2",
+                "camonet",
+                "wrench",
+                "canistergasoline",
+                "ext_tac_radio"
+               
+                
+            ],
+            "Loot_Win": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug"
+            ]
+        }
+    ],
+    "Loot": [
+        {
+            "Weapons": [
+                {
+                    "ClassName": "FAL",
+                    "Magazine_ClassName": "Mag_FAL_20Rnd",
+                    "Attach": [
+                        "Fal_OeBttsck",
+                        "ACOGOptic"
+                    ],
+                    "Loot": [
+                        "Mag_FAL_20Rnd",
+                        "Mag_FAL_20Rnd"
+                    ]
+                },
+                {
+                    "ClassName": "SVD",
+                    "Magazine_ClassName": "Mag_SVD_10Rnd",
+                    "Attach": [
+                        "PSO1Optic"
+                    ],
+                    "Loot": [
+                        "Mag_SVD_10Rnd",
+                        "Mag_SVD_10Rnd"
+                    ]
+                }
+            ],
+            "Armour": [
+                {
+                    "ClassName": "PlateCarrierVest",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "PlateCarrierVest_Black",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "PlateCarrierVest_Camo",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "BallisticHelmet_Green",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "BallisticHelmet_Black",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "BallisticHelmet_Woodland",
+                    "Attach": [],
+                    "Contents": []
+                }
+            ],
+            "Misc": [
+                {
+                    "ClassName": "BandageDressing",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "PainkillerTablets",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Morphine",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SledgeHammer",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "NailBox",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Hatchet",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "MetalPlate",
+                    "Attach": [],
+                    "Contents": []
+                }
+            ],
+            "Medical": [
+                {
+                    "ClassName": "SM_Med_FirstAidKit_AFAK",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SM_Med_FirstAidKit_AI2",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "Morphine",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SM_Med_FirstAidKit_Car",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SM_Med_FirstAidKit_Grizzly",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SM_Med_FirstAidKit_IFAK",
+                    "Attach": [],
+                    "Contents": []
+                },
+                {
+                    "ClassName": "SM_Med_FirstAidKit_Salewa",
+                    "Attach": [],
+                    "Contents": []
+                }
+            ]
+
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 27,
+    "ID": 16,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Use Epinephrine",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionInjectEpinephrineSelf"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

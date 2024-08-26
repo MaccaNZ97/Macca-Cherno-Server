@@ -1,0 +1,98 @@
+{
+  "m_Version": 12,
+  "DisplayName": "CP SEEDS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "cp_cannabisseedspackblackfrost",
+      "MaxPriceThreshold": 225,
+      "MinPriceThreshold": 214,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedspackblue",
+      "MaxPriceThreshold": 125,
+      "MinPriceThreshold": 119,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedspackfuture",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 143,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedspackkush",
+      "MaxPriceThreshold": 185,
+      "MinPriceThreshold": 176,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedspacknomad",
+      "MaxPriceThreshold": 195,
+      "MinPriceThreshold": 185,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedspacks1",
+      "MaxPriceThreshold": 125,
+      "MinPriceThreshold": 119,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedspackskunk",
+      "MaxPriceThreshold": 75,
+      "MinPriceThreshold": 71,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisseedspackstardawg",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 190,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

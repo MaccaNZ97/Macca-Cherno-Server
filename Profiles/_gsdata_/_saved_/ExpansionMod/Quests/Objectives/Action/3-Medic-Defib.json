@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 27,
+    "ID": 3,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Use a Defib",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionDefibrilateTarget"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

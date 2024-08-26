@@ -1,0 +1,65 @@
+{
+  "ConfigVersion": 22,
+  "ID": 107,
+  "Type": 1,
+  "Title": "Field Medic - Painkillers",
+  "Descriptions": [
+    "",
+    "",
+    ""
+  ],
+  "ObjectiveText": "Eat Painkillers",
+  "FollowUpQuest": 109,
+  "Repeatable": 0,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "TetracyclineAntibiotics",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 0,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    7
+  ],
+  "QuestTurnInIDs": [
+    7
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 27,
+      "ID": 7,
+      "ObjectiveType": 10
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 100,
+  "ReputationRequirement": 0,
+  "PreQuestIDs": [
+    106
+  ],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 1,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

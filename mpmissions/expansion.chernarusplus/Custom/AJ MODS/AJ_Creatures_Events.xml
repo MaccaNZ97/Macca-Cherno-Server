@@ -65,6 +65,7 @@
       <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Rainbow" />
       <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_Space" />
       <child lootmax="5" lootmin="0" max="0" min="3" type="CDAJ_ZmbM_NBC_ERDL" />
+      <child lootmax="5" lootmin="0" max="0" min="3" type="DoU_ZmbM_NBC_Umbrella" />
     </children>
   </event>
 </events>

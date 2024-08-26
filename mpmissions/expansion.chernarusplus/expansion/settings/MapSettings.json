@@ -106,6 +106,21 @@
       ],
       "m_Locked": 0,
       "m_Persist": 1
+    },
+    {
+      "m_UID": "Heli Trader",
+      "m_Visibility": 6,
+      "m_Is3D": 1,
+      "m_Text": "Heli Trader",
+      "m_IconName": "Helicopter",
+      "m_Color": -1893510,
+      "m_Position": [
+        11930,
+        140,
+        12495
+      ],
+      "m_Locked": 1,
+      "m_Persist": 1
     }
   ],
   "EnableHUDCompass": 1,

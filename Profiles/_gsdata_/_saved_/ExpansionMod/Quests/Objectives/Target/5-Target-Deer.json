@@ -1,0 +1,31 @@
+{
+    "ConfigVersion": 27,
+    "ID": 5,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Kill 5 Deer with crossbow",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": 0.0,
+    "Amount": 5,
+    "ClassNames": [
+        "Animal_CervusElaphus",
+        "Animal_CervusElaphusF",
+        "Animal_CapreolusCapreolus",
+        "Animal_CapreolusCapreolusF"
+    ],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [
+        "Crossbow_Autumn",
+        "Ammo_HuntingBolt"
+    ],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 0,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

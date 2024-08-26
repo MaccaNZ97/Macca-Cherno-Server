@@ -1,5 +1,5 @@
 {
-    "m_Version": 9,
+    "m_Version": 10,
     "AccuracyMin": 0.30000001192092898,
     "AccuracyMax": 0.44999998807907107,
     "ThreatDistanceLimit": 1000.0,
@@ -19,5 +19,7 @@
     "PreventClimb": [],
     "PlayerFactions": [
         "West"
-    ]
+    ],
+    "LogAIHitBy": 1,
+    "LogAIKilled": 1
 }

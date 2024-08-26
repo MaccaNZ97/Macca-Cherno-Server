@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 27,
+    "ID": 8,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Eat Chlorine Tablets",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionEatPurificationTablets"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

@@ -1,28 +1,23 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 8,
     "ObjectiveType": 2,
-    "ObjectiveText": "White Wolves with crossbow",
+    "ObjectiveText": "White Wolves.",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        0.0,
-        0.0,
-        0.0
+        10003.0,
+        191.0,
+        9616.0
     ],
-    "MaxDistance": -1.0,
+    "MaxDistance": 100.0,
     "MinDistance": 0.0,
     "Amount": 4,
     "ClassNames": [
         "Animal_CanisLupus_White"
     ],
     "CountSelfKill": 0,
-    "AllowedWeapons": [
-        "Mosin9130",
-        "Mosin9130_Black",
-        "Mosin9130_Camo",
-        "Mosin9130_Green"
-    ],
+    "AllowedWeapons": [],
     "ExcludedClassNames": [],
     "CountAIPlayers": 0,
     "AllowedTargetFactions": [],

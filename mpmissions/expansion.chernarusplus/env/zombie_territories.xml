@@ -343,6 +343,7 @@
     <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="5217" z="4207.5" r="50" />
     <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="5745" z="4167" r="50" />
     <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="6081" z="4896" r="50" />
+    <zone name="DoU_ZmbM_NBC_Umbrella" smin="0" smax="0" dmin="0" dmax="0" x="7680" z="7680" r="50" />
   </territory>
   <territory color="3432609885">
     <zone name="InfectedVillage" smin="0" smax="0" dmin="8" dmax="12" x="1965" z="2241.67" r="60" />
@@ -795,6 +796,7 @@
     <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="1915.71" z="3413.57" r="80" />
     <zone name="InfectedNBC" smin="8" smax="10" dmin="2" dmax="4" x="13683.3" z="11180" r="80" />
     <zone name="InfectedNBC" smin="0" smax="0" dmin="4" dmax="7" x="13601" z="11153" r="80" />
+    <zone name="DoU_ZmbM_NBC_Umbrella" smin="0" smax="0" dmin="0" dmax="0" x="7680" z="7680" r="50" />
   </territory>
   <territory color="4281088978">
     <zone name="InfectedClowns" smin="0" smax="0" dmin="1" dmax="2" x="1049.2308" z="14626.1538" r="80" />

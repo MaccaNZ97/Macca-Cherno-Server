@@ -1,0 +1,17 @@
+{
+  "ObjectiveText": "Disinfect a Wound",
+  "TimeLimit": -1,
+  "Active": 1,
+  "ActionNames": [
+    "ingredient2.SetCleanness(1)"
+  ],
+  "AllowedClassNames": [
+    "BandageDressing",
+    "Rags"
+  ],
+  "ExcludedClassNames": [],
+  "ExecutionAmount": 1,
+  "ConfigVersion": 27,
+  "ID": 5,
+  "ObjectiveType": 10
+}

@@ -56,7 +56,7 @@
             "all": {
                 "evg_outsideDoor_Wall": [],
                 "evg_outsideDoor": [],
-                "evg_simpleDoor2_Wall2": [],
+                "evg_outsideDoor_Wall1": [],
                 "evg_barDoor": [],
                 "evg_simpleDoor1": [],
                 "DNA_Lockout_ColourBase": [],
@@ -66,7 +66,7 @@
                 "evg_outsideDoor_DoubleWall1": [],
                 "evg_gate": [],
                 "evg_barDoor_DoubleWall1": [],
-                "evg_outsideDoor_Wall1": [],
+                "evg_simpleDoor2_Wall2": [],
                 "evg_outsideDoor_Wall2": [],
                 "evg_simpleDoor2": [],
                 "DNA_Door_NoLock_ColourBase": [],
@@ -96,12 +96,6 @@
         },
         "AttackAnimalsHandlerIsActive": {
             "all": 1
-        },
-        "AttackAnimalsWolfs": {
-            "all": 0
-        },
-        "AttackAnimalsBears": {
-            "all": 0
         },
         "AttackAnimalsWildBoar": {
             "all": 1
@@ -341,29 +335,31 @@
                 "Offroad_02": 0.20000000298023225,
                 "Truck_01_Covered_Blue": 0.3499999940395355,
                 "UA_Novator": 0.05000000074505806,
-                "Jeep_GladiatorF9_BOSS_camo_green": 0.10000000149011612,
+                "Jeep_GladiatorF9_BOSS_camo_green": 0.009999999776482582,
                 "UA_Novator_8_Pavlik": 0.05000000074505806,
                 "UA_Novator_3_AKPP": 0.05000000074505806,
                 "crsk_hummer_h2_6x6_xin_camo": 0.699999988079071,
                 "OffroadHatchback_White": 0.800000011920929,
                 "crsk_hummer_h2_6x6_xin_space": 0.699999988079071,
-                "Jeep_GladiatorF9_BOSS_Brown": 0.10000000149011612,
+                "Jeep_GladiatorF9_BOSS_Brown": 0.009999999776482582,
                 "UA_Novator_AKPP": 0.05000000074505806,
                 "UA_Novator_7_Kacci": 0.05000000074505806,
+                "camonetjeep": 0.009999999776482582,
                 "crsk_hummer_h2_6x6_xin": 0.699999988079071,
                 "Truck_01_Covered": 0.3499999940395355,
-                "UA_Novator_3": 0.05000000074505806,
+                "Jeep_GladiatorF9_BOSS_DarkBlue": 0.009999999776482582,
+                "Jeep_GladiatorF9_BOSS_Black": 0.009999999776482582,
                 "UA_Novator_5_Homka": 0.05000000074505806,
                 "crsk_hummer_h2_6x6_xin_black": 0.699999988079071,
                 "Truck_01_Covered_Orange": 0.3499999940395355,
-                "Jeep_GladiatorF9_BOSS_White": 0.10000000149011612,
-                "Jeep_GladiatorF9_BOSS_camo_red": 0.10000000149011612,
+                "Jeep_GladiatorF9_BOSS_White": 0.009999999776482582,
+                "Jeep_GladiatorF9_BOSS_camo_red": 0.009999999776482582,
                 "UA_Novator_2": 0.05000000074505806,
-                "Jeep_GladiatorF9_BOSS_DarkBlue": 0.10000000149011612,
-                "Jeep_GladiatorF9_BOSS_DarkRed": 0.10000000149011612,
+                "UA_Novator_3": 0.05000000074505806,
+                "Jeep_GladiatorF9_BOSS_DarkRed": 0.009999999776482582,
                 "crsk_hummer_h2_6x6_xin_pink": 0.699999988079071,
-                "Jeep_GladiatorF9_BOSS_camo_blue": 0.10000000149011612,
-                "Jeep_GladiatorF9_BOSS_camo_black": 0.10000000149011612
+                "Jeep_GladiatorF9_BOSS_camo_blue": 0.009999999776482582,
+                "Jeep_GladiatorF9_BOSS_camo_black": 0.009999999776482582
             }
         },
         "AttackCarWindowDamagePercent": {
@@ -502,6 +498,12 @@
             "all": 1.0
         },
         "ReactDoorsNightNoise": {
+            "all": 1.0
+        },
+        "ReactPlayerFallDayNoise": {
+            "all": 1.0
+        },
+        "ReactPlayerFallNightNoise": {
             "all": 1.0
         },
         "ReactBodyfallDayNoise": {
@@ -758,17 +760,11 @@
         "DamageToZombieShockToStunHandlerIsActive": {
             "all": 0
         },
-        "DamageToZombieShockToStunLightHeavyAnimationThresholdMelee": {
-            "all": 16.0
-        },
         "DamageToZombieShockToStunLightHeavyAnimationThresholdMeleeHeavy": {
             "all": 0.0
         },
         "DamageToZombieShockToStunLightHeavyAnimationThresholdRange": {
             "all": 70.0
-        },
-        "DamageToZombieShockToStunThresholdMelee": {
-            "all": 0.0
         },
         "DamageToZombieShockToStunThresholdMeleeHeavy": {
             "all": 0.0
@@ -834,19 +830,19 @@
             "Animal_HMG_Bear_Nightmare_Vanilla": 1,
             "Animal_HMG_Bear_Radioactive_T0": 1,
             "Animal_HMG_Bear_Rabid_T4": 1,
-            "Animal_HMG_Bear_Infected_T4": 1,
+            "ZmbM_NBC_Grey": 1,
             "CDAJ_ZmbM_NBC_Rainbow": 1,
-            "CDAJ_ZmbM_LostInfected": 1,
+            "CDAJ_ZmbM_Mutant_Pale": 1,
             "CDAJ_ZmbM_NBC_Red": 1,
             "Animal_HMG_Bear_Infected_T5": 1,
-            "ZmbM_NBC_Grey": 1,
+            "Animal_HMG_Bear_Infected_T4": 1,
             "ZmbM_Mummy": 1,
             "CDAJ_ZmbM_Mutant": 1,
             "Animal_HMG_Bear_Nightmare_T1": 1,
             "Animal_HMG_Bear_Radioactive_T1": 1,
             "Animal_HMG_Bear_Nightmare_T3": 1,
             "Animal_HMG_Bear_Nightmare_T4": 1,
-            "Animal_HMG_Bear_Toxic_T2": 1,
+            "Animal_HMG_Bear_Radioactive_T2": 1,
             "Animal_HMG_Bear_Rabid_T0": 1,
             "Animal_HMG_Bear_Radioactive_T3": 1,
             "Animal_HMG_Bear_Rabid_T2": 1,
@@ -857,7 +853,7 @@
             "Animal_HMG_Bear_Infected_T0": 1,
             "Animal_HMG_Bear_Toxic_T0": 1,
             "Animal_HMG_Bear_Toxic_T1": 1,
-            "Animal_HMG_Bear_Radioactive_T2": 1,
+            "Animal_HMG_Bear_Toxic_T2": 1,
             "Animal_HMG_Bear_Toxic_T3": 1,
             "Animal_HMG_Bear_Toxic_T4": 1,
             "Animal_HMG_Bear_Radioactive_T5": 1,
@@ -870,7 +866,7 @@
             "Animal_HMG_Bear_Toxic_Vanilla": 1,
             "Animal_HMG_Bear_Rabid_Vanilla": 1,
             "Animal_HMG_Bear_Radioactive_Vanilla": 1,
-            "CDAJ_ZmbM_Mutant_Pale": 1,
+            "CDAJ_ZmbM_LostInfected": 1,
             "CDAJ_ZmbM_NBC_Space": 1,
             "Animal_HMG_Bear_Bloody_Vanilla": 1,
             "Animal_HMG_Bear_Nightmare_T5": 1,
@@ -1072,6 +1068,7 @@
             "evg_barDoor",
             "evg_gate"
         ],
+        "DisableVanillaDoorNoiseSystem": 1,
         "PainSystemIsActive": 1,
         "ShowPainBadges": 1,
         "PainHealingRatePerSecondPercent": 0.10000000149011612,
@@ -1101,11 +1098,11 @@
         "CamoClothingVisibilityMultipliers": {
             "all": 1.0,
             "GhillieHood_Tan": 0.800000011920929,
-            "GhillieHood_Woodland": 0.800000011920929,
+            "GhillieTop_Mossy": 0.800000011920929,
             "GhillieTop_Woodland": 0.800000011920929,
             "GhillieSuit_Mossy": 0.800000011920929,
             "GhillieHood_Mossy": 0.800000011920929,
-            "GhillieTop_Mossy": 0.800000011920929,
+            "GhillieHood_Woodland": 0.800000011920929,
             "GhillieSuit_Tan": 0.800000011920929,
             "GhillieSuit_Woodland": 0.800000011920929,
             "GhillieTop_Tan": 0.800000011920929

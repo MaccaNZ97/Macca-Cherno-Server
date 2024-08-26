@@ -2,12 +2,12 @@
     "playerId": "76561198199086217",
     "playerName": "DeadlyBudoo",
     "playerIsOnline": 0,
-    "surviedTime": 310.181640625,
+    "surviedTime": 233.97265625,
     "playerKills": 0,
-    "playerDeaths": 1,
+    "playerDeaths": 0,
     "playerLongestDistance": 0,
     "playerKillsAISurvivor": 0,
-    "playerKillsZombie": 3,
+    "playerKillsZombie": 0,
     "playerKillsBear": 0,
     "playerKillsWolf": 0,
     "playerKillsWildBoar": 0,
@@ -19,5 +19,5 @@
     "playerKillsPig": 0,
     "playerKillsChicken": 0,
     "playerKillsAnimals": 0,
-    "playerKillsNPCs": 3
+    "playerKillsNPCs": 0
 }

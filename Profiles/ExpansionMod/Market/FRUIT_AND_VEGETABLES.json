@@ -172,17 +172,6 @@
       "Variants": []
     },
     {
-      "ClassName": "slicedpumpkin",
-      "MaxPriceThreshold": 9,
-      "MinPriceThreshold": 9,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "tomato",
       "MaxPriceThreshold": 9,
       "MinPriceThreshold": 9,
@@ -198,6 +187,28 @@
       "MaxPriceThreshold": 12,
       "MinPriceThreshold": 12,
       "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pepperseedspack",
+      "MaxPriceThreshold": 1,
+      "MinPriceThreshold": 1,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pumpkinseedspack",
+      "MaxPriceThreshold": 1,
+      "MinPriceThreshold": 1,
+      "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,

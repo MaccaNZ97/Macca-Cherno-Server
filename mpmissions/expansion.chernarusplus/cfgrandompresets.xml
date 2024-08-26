@@ -630,12 +630,6 @@
     <item name="RGD5Grenade" chance="0.10" />
     <item name="LandMineTrap" chance="0.10" />
   </cargo>
-  <cargo chance="1.0" name="Xmas_Ammo_Small">
-    <item name="Ammo_Flare" chance="0.05" />
-    <item name="Ammo_FlareRed" chance="0.05" />
-    <item name="Ammo_FlareGreen" chance="0.05" />
-    <item name="Ammo_FlareBlue" chance="0.05" />
-  </cargo>
   <cargo chance="1.0" name="Xmas_AmmoBoxes_Small">
     <item name="AmmoBox_22_50Rnd" chance="0.05" />
     <item name="AmmoBox_00buck_10rnd" chance="0.05" />
@@ -788,7 +782,67 @@
     <item name="DNA_KeyCard_blue_Inactive" chance="0.25" />
     <item name="TF_NVGoggles_AVS9" chance="0.25" />
   </cargo>
-  <cargo chance="0.05" name="RedHigh">
-    <item name="DNA_KeyCard_Red_Inactive" chance="1.00" />
+  <cargo chance="0.50" name="RedHigh">
+    <item name="DNA_KeyCard_Red_Inactive" chance="0.30" />
+    <item name="DNA_KeyCard_green_Inactive" chance="0.30" />
+  </cargo>
+  <cargo chance="0.15" name="toolsHermit">
+    <item name="CJ_Key9" chance="0.01" />
+    <item name="CJ_Key10" chance="0.01" />
+    <item name="CJ_Key11" chance="0.01" />
+    <item name="CJ_Key12" chance="0.01" />
+  </cargo>
+  <cargo chance="0.15" name="toolsVillage">
+    <item name="CJ_Key9" chance="0.01" />
+    <item name="CJ_Key10" chance="0.01" />
+    <item name="CJ_Key11" chance="0.01" />
+    <item name="CJ_Key12" chance="0.01" />
+    <item name="CJ_Key101" chance="0.01" />
+    <item name="CJ_Key102" chance="0.01" />
+    <item name="CJ_Key103" chance="0.01" />
+  </cargo>
+  <cargo chance="0.15" name="toolsCity">
+    <item name="CJ_Key9" chance="0.01" />
+    <item name="CJ_Key10" chance="0.01" />
+    <item name="CJ_Key11" chance="0.01" />
+    <item name="CJ_Key12" chance="0.01" />
+    <item name="CJ_Key101" chance="0.01" />
+    <item name="CJ_Key102" chance="0.01" />
+    <item name="CJ_Key103" chance="0.01" />
+  </cargo>
+  <cargo chance="0.15" name="toolsIndustrial">
+    <item name="CJ_Key9" chance="0.01" />
+    <item name="CJ_Key10" chance="0.01" />
+    <item name="CJ_Key11" chance="0.01" />
+    <item name="CJ_Key12" chance="0.01" />
+  </cargo>
+  <cargo chance="0.15" name="toolsPolice">
+    <item name="CJ_Key1" chance="0.01" />
+    <item name="CJ_Key2" chance="0.01" />
+    <item name="CJ_Key200" chance="0.01" />
+    <item name="CJ_Key201" chance="0.01" />
+  </cargo>
+  <cargo chance="0.1" name="mixArmy">
+    <item name="CJ_Key3" chance="0.01" />
+    <item name="CJ_Key4" chance="0.01" />
+    <item name="CJ_Key5" chance="0.01" />
+    <item name="CJ_Key6" chance="0.01" />
+    <item name="CJ_Key7" chance="0.01" />
+    <item name="CJ_Key8" chance="0.01" />
+    <item name="CJ_Key202" chance="0.01" />
+    <item name="CJ_Key203" chance="0.01" />
+    <item name="CJ_Key204" chance="0.01" />
+  </cargo>
+  <cargo chance="0.35" name="CustomKeycards">
+    <item name="evg_keycard_holder_camo" chance="1" />
+    <item name="evg_keycards_All" chance="1" />
+    <item name="evg_keycards_Blue" chance="1" />
+    <item name="evg_keycards_Green" chance="1" />
+    <item name="evg_keycards_NWAF01" chance="1" />
+    <item name="evg_keycards_NWAF02" chance="1" />
+    <item name="evg_keycards_NWAF03" chance="1" />
+    <item name="evg_keycards_Violet" chance="1" />
+    <item name="evg_keycards_White" chance="1" />
+    <item name="evg_keycards_Yellow" chance="1" />
   </cargo>
 </randompresets>

@@ -1,0 +1,17 @@
+{
+    "ConfigVersion": 27,
+    "ID": 9,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Eat Tetra Tablets",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionConsumeSingle",
+        "ActionEatTabletFromWrapper"
+    ],
+    "AllowedClassNames": [
+        "TetracyclineAntibiotics"
+    ],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

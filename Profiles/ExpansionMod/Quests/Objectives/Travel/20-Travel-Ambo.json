@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Travel to Ambulance Crash",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5829.27978515625,
+        311.5220031738281,
+        8156.669921875
+    ],
+    "MaxDistance": 200.0,
+    "MarkerName": "",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

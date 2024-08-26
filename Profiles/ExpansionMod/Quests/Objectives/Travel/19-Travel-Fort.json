@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 19,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Zeleno Fort",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1482.9100341796876,
+        169.6820068359375,
+        5249.39013671875
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "Zeleno Fort",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

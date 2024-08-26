@@ -1,0 +1,17 @@
+{
+    "ConfigVersion": 27,
+    "ID": 7,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Eat Pain Killers",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionConsumeSingle",
+        "ActionEatTabletFromWrapper"
+    ],
+    "AllowedClassNames": [
+        "PainKillerTablets"
+    ],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

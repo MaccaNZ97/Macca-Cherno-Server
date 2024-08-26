@@ -1,75 +1,76 @@
 {
-  "ConfigVersion": 22,
-  "ID": 101,
-  "Type": 1,
-  "Title": "Field Medic - Use a Blood Bag",
-  "Descriptions": [
-    "Combining a Blood Bag with a Stater Kit will provide you life saving blood should suffer server blood loss later on.",
-    "Combine Bloodbag with IV Starter kit and use on yourself",
-    "Congrats now you have a Full Bloodbag IV to use."
-  ],
-  "ObjectiveText": "Use a Blood Bag",
-  "FollowUpQuest": 104,
-  "Repeatable": 0,
-  "IsDailyQuest": 0,
-  "IsWeeklyQuest": 0,
-  "CancelQuestOnPlayerDeath": 0,
-  "Autocomplete": 0,
-  "IsGroupQuest": 0,
-  "ObjectSetFileName": "",
-  "QuestItems": [
-    {
-      "ClassName": "BloodBagEmpty",
-      "Amount": 1
-    },
-    {
-      "ClassName": "StartKitIV",
-      "Amount": 1
-    }
-  ],
-  "Rewards": [
-    {
-      "ClassName": "ExpansionBanknoteHryvnia",
-      "Amount": 500,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1
-    }
-  ],
-  "NeedToSelectReward": 0,
-  "RandomReward": 0,
-  "RandomRewardAmount": 0,
-  "RewardsForGroupOwnerOnly": 0,
-  "RewardBehavior": 0,
-  "QuestGiverIDs": [
-    7
-  ],
-  "QuestTurnInIDs": [
-    7
-  ],
-  "IsAchievement": 0,
-  "Objectives": [
-    {
-      "ConfigVersion": 27,
-      "ID": 2,
-      "ObjectiveType": 10
-    }
-  ],
-  "QuestColor": 0,
-  "ReputationReward": 100,
-  "ReputationRequirement": 0,
-  "PreQuestIDs": [
-    1,
-    202
-  ],
-  "RequiredFaction": "",
-  "FactionReward": "",
-  "PlayerNeedQuestItems": 0,
-  "DeleteQuestItems": 0,
-  "SequentialObjectives": 1,
-  "FactionReputationRequirements": {},
-  "FactionReputationRewards": {},
-  "SuppressQuestLogOnCompetion": 0,
-  "Active": 1
+    "ConfigVersion": 22,
+    "ID": 101,
+    "Type": 1,
+    "Title": "Field Medic - Use a Blood Bag",
+    "Descriptions": [
+        "Combining a Blood Bag with a Stater Kit will provide you life saving blood should suffer server blood loss later on.",
+        "Combine Bloodbag with IV Starter kit and use on yourself",
+        "Congrats now you have a Full Bloodbag IV to use."
+    ],
+    "ObjectiveText": "Use a Blood Bag",
+    "FollowUpQuest": 104,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "BloodBagEmpty",
+            "Amount": 1
+        },
+        {
+            "ClassName": "StartKitIV",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 500,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 0.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        7
+    ],
+    "QuestTurnInIDs": [
+        7
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 2,
+            "ObjectiveType": 10
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 100,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [
+        1,
+        202
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
 }

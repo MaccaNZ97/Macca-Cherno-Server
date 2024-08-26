@@ -13,7 +13,7 @@
     0
   ],
   "NPCName": "CARRIER HELI PILOT",
-  "DefaultNPCText": "You have to have done the Liasion Quests to use my services",
+  "DefaultNPCText": "You need to have done some quests before you get access to chopper Services!",
   "Waypoints": [],
   "NPCEmoteID": 46,
   "NPCEmoteIsStatic": 0,

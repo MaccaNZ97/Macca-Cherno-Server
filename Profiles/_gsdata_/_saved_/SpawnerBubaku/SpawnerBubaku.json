@@ -936,7 +936,7 @@
             ],
             "spawnradius": 2.0,
             "bubaknum": 10,
-            "onlyfilluptobubaknum": 2,
+            "onlyfilluptobubaknum": 0,
             "itemrandomdmg": 0,
             "bubaci": [
                 "ZmbM_BloodSucker_hard",
@@ -1016,7 +1016,7 @@
             ],
             "spawnradius": 2.0,
             "bubaknum": 10,
-            "onlyfilluptobubaknum": 3,
+            "onlyfilluptobubaknum": 0,
             "itemrandomdmg": 0,
             "bubaci": [
                 "CDAJ_ZmbM_Demon"
@@ -1114,7 +1114,7 @@
             "triggerpos": "9052.238 259.1586 7928.998",
             "triggermins": "-1 -0.2 -1",
             "triggermaxs": "1 1 1",
-            "triggerradius": 20.0,
+            "triggerradius": 0.0,
             "triggercylradius": 100.0,
             "triggercylheight": 0.0,
             "notification": "Deer Hunting ground",
@@ -1140,33 +1140,98 @@
             "bubakinventory": []
         },
         {
-            "name": "Brads Base",
+            "name": "Skalisty Millitary",
             "workinghours": "0-24",
             "triggerdependency": [],
-            "triggerpos": "3329.6 296.209 8047.17",
+            "triggerpos": "3792.79 9.81973 0",
             "triggermins": "-1 -0.2 -1",
             "triggermaxs": "1 1 1",
-            "triggerradius": 150.0,
-            "triggercylradius": 150.0,
-            "triggercylheight": 150.0,
-            "notification": "Welcome Brad here is your bears",
-            "notificationtime": 20,
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "This is the DM Pleasure Zone you have been warned!",
+            "notificationtime": 2,
             "triggerdelay": 3600,
             "spawnerpos": [
-                "3314.38 293.101 8044.81"
+                "14103.84 14.6737 2849.664",
+                "14192.26 30.71059 2931.178|0 0 0",
+                "14234.16 13.74578 2891.234|0 0 0",
+                "14259.68 6.75322 2882.892|0 0 0",
+                "14333.39 8.115548 2925.205|0 0 0",
+                "14373.92 14.9339 2971.143|0 0 0",
+                "14237.91 7.650401 2954.521|0 0 0",
+                "14334.25 17.1429 2934.116|0 0 0",
+                "14343.46 8.299439 2924.988|0 0 0",
+                "14067.56 14.79534 2957.926|0 0 0",
+                "14109.75 24.11488 2814.535|0 0 0",
+                "13977.05 21.1956 2827.094|0 0 0",
+                "13942.24 35.03663 2849.995|0 0 0",
+                "13657.1 45.45591 2925.26|0 0 0"
             ],
-            "spawnradius": 200.0,
-            "bubaknum": 1,
-            "onlyfilluptobubaknum": 1,
+            "spawnradius": -1.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 0,
             "itemrandomdmg": 0,
             "bubaci": [
-                "Animal_HMG_Bear_Cocaine_T0",
-                "Animal_HMG_Bear_Cocaine_T1",
-                "Animal_HMG_Bear_Cocaine_T2",
-                "Animal_HMG_Bear_Cocaine_T3",
-                "Animal_HMG_Bear_Cocaine_T4",
-                "Animal_HMG_Bear_Cocaine_T5",
-                "Animal_HMG_Bear_Cocaine_Vanilla"
+                "CDAJ_ZmbM_NBC_BlueLight",
+                "CDAJ_ZmbM_NBC_ERDL",
+                "CDAJ_ZmbM_NBC_Green",
+                "CDAJ_ZmbM_NBC_Rainbow",
+                "CDAJ_ZmbM_NBC_Red",
+                "CDAJ_ZmbM_NBC_Space",
+                "CDAJ_ZmbM_Dark_Heavy"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "Wolf Quest",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "10003.35 191.4076 9616.733",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Wolf Hunting Ground!",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "9786.524 230.1164 9507.23",
+                "9737.335 253.9637 9434.091",
+                "9816.917 237.4801 9389.854"
+            ],
+            "spawnradius": -1.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_CanisLupus_White"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "Cocaine Bear Quest",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "9770.037 258.8688 9343.12",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Bear Hunting Ground!",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "9618.363 304.2262 9349.822"
+            ],
+            "spawnradius": -1.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_HMG_Bear_Cocaine_T5"
             ],
             "bubakinventory": []
         }

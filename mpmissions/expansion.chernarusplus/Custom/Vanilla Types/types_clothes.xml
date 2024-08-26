@@ -720,10 +720,34 @@
     <value name="Tier1" />
     <value name="Tier2" />
   </type>
+  <type name="BallisticHelmet_BDU">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+  </type>
   <type name="BallisticHelmet_Black">
     <nominal>4</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+  </type>
+  <type name="BallisticHelmet_Desert">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -748,6 +772,18 @@
     <nominal>4</nominal>
     <lifetime>14400</lifetime>
     <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Military" />
+  </type>
+  <type name="BallisticHelmet_Woodland">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
     <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -8073,40 +8109,52 @@
     <value name="Tier3" />
     <value name="Tier4" />
   </type>
-  <type name="BallisticHelmet_BDU">
-    <nominal>4</nominal>
+  <type name="PaydayMask_Chains">
+    <nominal>12</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>9</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Military" />
+    <usage name="SeasonalEvent" />
   </type>
-  <type name="BallisticHelmet_Desert">
-    <nominal>4</nominal>
+  <type name="PaydayMask_Dallas">
+    <nominal>12</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>9</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Military" />
+    <usage name="SeasonalEvent" />
   </type>
-  <type name="BallisticHelmet_Woodland">
-    <nominal>4</nominal>
+  <type name="PaydayMask_Hoxton">
+    <nominal>12</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>9</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
-    <usage name="Military" />
+    <usage name="SeasonalEvent" />
+  </type>
+  <type name="PaydayMask_Wolf">
+    <nominal>12</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>9</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="SeasonalEvent" />
   </type>
 </types>

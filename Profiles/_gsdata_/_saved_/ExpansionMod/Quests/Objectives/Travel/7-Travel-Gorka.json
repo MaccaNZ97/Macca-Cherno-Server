@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 7,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Travel to Gorka Camp",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9073.580078125,
+        244.66600036621095,
+        8042.89990234375
+    ],
+    "MaxDistance": -1.0,
+    "MarkerName": "Gorka Camp",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,74 +1,75 @@
 {
-  "ConfigVersion": 22,
-  "ID": 902,
-  "Type": 1,
-  "Title": "Fishing Angelfish",
-  "Descriptions": [
-    "Avast, Matey!\r\n\r\nThere be tales of an angelic fish off the coast.\r\nAvast, Matey!\r\n\r\nIf ye’ could be bringin’ me that thar fish with fish in their name.\r\n\r\nHup! I gotta’ run!\r\n\r\nTight lines!\r\n",
-    "Travel to Cap Golova\r\nCatch 1 fish named fish\r\n",
-    "There be tales of an fish named fish off the coast."
-  ],
-  "ObjectiveText": "Catch 1 fish named fish",
-  "FollowUpQuest": 905,
-  "Repeatable": 0,
-  "IsDailyQuest": 0,
-  "IsWeeklyQuest": 0,
-  "CancelQuestOnPlayerDeath": 0,
-  "Autocomplete": 0,
-  "IsGroupQuest": 0,
-  "ObjectSetFileName": "",
-  "QuestItems": [
-    {
-      "ClassName": "geb_BoneFieldCricketBait",
-      "Amount": 1
-    },
-    {
-      "ClassName": "geb_MetalRubberWormBait",
-      "Amount": 1
-    }
-  ],
-  "Rewards": [
-    {
-      "ClassName": "ExpansionBanknoteHryvnia",
-      "Amount": 2400,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1
-    }
-  ],
-  "NeedToSelectReward": 0,
-  "RandomReward": 0,
-  "RandomRewardAmount": 0,
-  "RewardsForGroupOwnerOnly": 1,
-  "RewardBehavior": 0,
-  "QuestGiverIDs": [
-    11
-  ],
-  "QuestTurnInIDs": [
-    11
-  ],
-  "IsAchievement": 0,
-  "Objectives": [
-    {
-      "ConfigVersion": 27,
-      "ID": 11,
-      "ObjectiveType": 4
-    }
-  ],
-  "QuestColor": 0,
-  "ReputationReward": 300,
-  "ReputationRequirement": -1,
-  "PreQuestIDs": [
-    17
-  ],
-  "RequiredFaction": "",
-  "FactionReward": "",
-  "PlayerNeedQuestItems": 0,
-  "DeleteQuestItems": 0,
-  "SequentialObjectives": 0,
-  "FactionReputationRequirements": {},
-  "FactionReputationRewards": {},
-  "SuppressQuestLogOnCompetion": 0,
-  "Active": 1
+    "ConfigVersion": 22,
+    "ID": 902,
+    "Type": 1,
+    "Title": "Fishing Angelfish",
+    "Descriptions": [
+        "Avast, Matey!\r\n\r\nThere be tales of an angelic fish off the coast.\r\nAvast, Matey!\r\n\r\nIf ye’ could be bringin’ me that thar fish with fish in their name.\r\n\r\nHup! I gotta’ run!\r\n\r\nTight lines!\r\n",
+        "Travel to Cap Golova\r\nCatch 1 fish named fish\r\n",
+        "There be tales of an fish named fish off the coast."
+    ],
+    "ObjectiveText": "Catch 1 fish named fish",
+    "FollowUpQuest": 905,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "geb_BoneFieldCricketBait",
+            "Amount": 1
+        },
+        {
+            "ClassName": "geb_MetalRubberWormBait",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 2400,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 0.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        11
+    ],
+    "QuestTurnInIDs": [
+        11
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 11,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 300,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        17
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 0,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
 }

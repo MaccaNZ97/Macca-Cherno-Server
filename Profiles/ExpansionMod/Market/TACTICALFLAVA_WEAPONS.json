@@ -225,9 +225,9 @@
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
-      "SpawnAttachments": [],
+      "SpawnAttachments": ["tf_mag_anzio20_3rnd"],
       "Variants": [
-        "tf_mag_anzio20_3rnd"
+        
       ]
     },
     {

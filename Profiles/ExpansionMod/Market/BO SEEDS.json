@@ -1,0 +1,65 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BO SEEDS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "blackouts_cannabisseedspackalbino",
+      "MaxPriceThreshold": 325,
+      "MinPriceThreshold": 309,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "blackouts_cannabisseedspackdaxtal",
+      "MaxPriceThreshold": 625,
+      "MinPriceThreshold": 594,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "blackouts_cannabisseedspackexodus",
+      "MaxPriceThreshold": 425,
+      "MinPriceThreshold": 404,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "blackouts_cannabisseedspackganja_mountain",
+      "MaxPriceThreshold": 525,
+      "MinPriceThreshold": 499,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "blackouts_cannabisseedspackmidnight_express",
+      "MaxPriceThreshold": 225,
+      "MinPriceThreshold": 214,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+    "ConfigVersion": "4",
+    "ServerConfig": {
+        "Info1": "Logs for Storage/Stash",
+        "ShowBarrelActions": 1,
+        "ShowTakeStorage": 1,
+        "ShowDropStorage": 1,
+        "ShowBuryStash": 1,
+        "Info2": "Logs for Base Actions",
+        "ShowBaseDamage": 1,
+        "ShowFenceOpen": 1,
+        "ShowLockAttach": 1,
+        "ShowLockCode": 0,
+        "Info3": "Logs for Player Actions/Events",
+        "ShowNVGActions": 1,
+        "ShowShock": 1,
+        "ShowBrokenLegs": 1,
+        "ShowSplintAction": 1,
+        "ShowGasPoison": 1,
+        "ShowInjectorActions": 1,
+        "ShowUseBloodBag": 1,
+        "ShowTakeBloodBag": 1,
+        "ShowGrenadeActions": 1,
+        "Info4": "Setting and Logs misc. Actions/Events",
+        "ShowCarActions": 1,
+        "ShowConnectionInfo": 1,
+        "SimpleLogs": 1,
+        "SimpleLogsStorage": 0,
+        "LifeTimeFilter": 180.0
+    },
+    "LiveMap": {
+        "ShowStashs": 0,
+        "ShowShelters": 0
+    },
+    "CustomConfig": {
+        "TakeMonitorItems": [
+            "SeaChest",
+            "WoodenCrate",
+            "Barrel_",
+            "BarrelHoles_"
+        ],
+        "DropMonitorItems": [
+            "SeaChest",
+            "WoodenCrate",
+            "Barrel_",
+            "BarrelHoles_"
+        ]
+    },
+    "CarCover": {
+        "ShowCarCover": 1
+    },
+    "CodeLock": {
+        "ShowLockAttach": 1
+    },
+    "MMGStorage": {
+        "ShowMMGStorageActions": 1
+    },
+    "CrocoStorage": {
+        "ShowCrocoStorageActions": 1
+    },
+    "Trader": {
+        "ShowLockActions": 1
+    },
+    "MuchCarKey": {
+        "ShowLockActions": 1
+    }
+}

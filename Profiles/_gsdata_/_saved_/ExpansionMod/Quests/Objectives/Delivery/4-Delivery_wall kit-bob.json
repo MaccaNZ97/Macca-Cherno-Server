@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 27,
+    "ID": 4,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Deliver BBP Wall Kit to Bob",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "BBP_Wall_Kit",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items"
+}

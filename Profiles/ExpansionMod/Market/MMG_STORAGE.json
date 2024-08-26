@@ -269,20 +269,7 @@
         "mmg_supply_crate_grey"
       ]
     },
-    {
-      "ClassName": "mmg_trashcan_red",
-      "MaxPriceThreshold": 15000,
-      "MinPriceThreshold": 15000,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": 25,
-      "SpawnAttachments": [],
-      "Variants": [
-        "mmg_trashcan_yellow",
-        "mmg_trashcan_green"
-      ]
-    },
+  
     {
       "ClassName": "mmg_wall_shelf_wood",
       "MaxPriceThreshold": 15000,

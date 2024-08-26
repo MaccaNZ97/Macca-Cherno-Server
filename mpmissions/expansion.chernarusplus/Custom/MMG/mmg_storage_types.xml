@@ -802,6 +802,17 @@
     <usage name="Industrial" />
     <tag name="floor" />
   </type>
+  <type name="mmg_supply_crate_unfinished_wood">
+    <nominal>0</nominal>
+    <lifetime>3888000</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>0</quantmin>
+    <quantmax>0</quantmax>
+    <cost>0</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+  </type>
   <type name="mmg_supply_crate_wood">
     <nominal>4</nominal>
     <lifetime>3888000</lifetime>
@@ -818,76 +829,6 @@
   </type>
   <type name="mmg_toolwagon_red">
     <nominal>4</nominal>
-    <lifetime>3888000</lifetime>
-    <restock>7200</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="containers" />
-    <usage name="Farm" />
-    <usage name="Industrial" />
-    <tag name="floor" />
-  </type>
-  <type name="mmg_trashcan_green">
-    <nominal>1</nominal>
-    <lifetime>3888000</lifetime>
-    <restock>7200</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="containers" />
-    <usage name="Farm" />
-    <usage name="Industrial" />
-    <tag name="floor" />
-  </type>
-  <type name="mmg_trashcan_red">
-    <nominal>1</nominal>
-    <lifetime>3888000</lifetime>
-    <restock>7200</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="containers" />
-    <usage name="Farm" />
-    <usage name="Industrial" />
-    <tag name="floor" />
-  </type>
-  <type name="mmg_trashcan_yellow">
-    <nominal>1</nominal>
-    <lifetime>3888000</lifetime>
-    <restock>7200</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="containers" />
-    <usage name="Farm" />
-    <usage name="Industrial" />
-    <tag name="floor" />
-  </type>
-  <type name="mmg_trashcontainer_green_static">
-    <nominal>0</nominal>
-    <lifetime>3888000</lifetime>
-    <restock>7200</restock>
-    <min>0</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="containers" />
-    <usage name="Farm" />
-    <usage name="Industrial" />
-    <tag name="floor" />
-  </type>
-  <type name="mmg_trashcontainer_orange_static">
-    <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>7200</restock>
     <min>0</min>
@@ -929,15 +870,32 @@
     <usage name="Military" />
     <tag name="floor" />
   </type>
-  <type name="mmg_supply_crate_unfinished_wood">
+  <type name="mmg_toolwagon_kit">
     <nominal>0</nominal>
-    <lifetime>3888000</lifetime>
-    <restock>0</restock>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
     <min>0</min>
-    <quantmin>0</quantmin>
-    <quantmax>0</quantmax>
-    <cost>0</cost>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="containers" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
+  </type>
+  <type name="mmg_palette_storage_kit">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <tag name="floor" />
   </type>
 </types>

@@ -1,0 +1,1101 @@
+{
+    "Settings": [
+      {
+        "Config_Version": 1,
+        "Minimum_Players": 1,
+        "Bots_Timeout_Radius": 150,
+        "Bots_Timeout_Time": 300,
+        "Cleanup_Radius_Startup": 50,
+        "Cleanup_Radius_Running": 100,
+        "Mission_Start_Delay": 600,
+        "Mission_Starting_Failed_Retry_Delay": 120,
+        "Mission_Time_Between": 2700,
+        "Mission_Time_Limit": 2700,
+        "Mission_Time_Extension_Limit": 900,
+        "Mission_Inner_Radius": 500,
+        "Mission_AI_Spawn_Radius": 1200,
+        "Reward_Loot_Weapons_Minimum": 1,
+        "Reward_Loot_Weapons_Maximum": 3,
+        "Reward_Loot_Weapons_Multiplier": 0.75,
+        "Reward_Loot_Armour_Minimum": 1,
+        "Reward_Loot_Armour_Maximum": 3,
+        "Reward_Loot_Armour_Multiplier": 0.5,
+        "Reward_Loot_Misc_Minimum": 1,
+        "Reward_Loot_Misc_Maximum": 4,
+        "Reward_Loot_Misc_Multiplier": 0.5,
+        "Debug_Logging_Enabled": 1,
+        "Debug_Disable_Notifications": 0,
+        "Debug_Disable_Markers": 0,
+        "Debug_Force_Win": 0,
+        "Debug_QuickMode": 0,
+        "Debug_Ignore_Player_Radius": 0
+      }
+    ],
+    "Missions": [
+      {
+        "Name": "PayDay Squad Spotted Leaving NEAF",
+        "Position": [
+          11895, 140.012, 12567.2
+        ],
+        "Bots_Count_Minimum": 4,
+        "Bots_Count_Maximum": 12,
+        "Bots_Loadout_ID": 1,
+        "Bots_Range": 800,
+        "Bots_Accuracy": 0.44,
+        "Bots_Damage_Done_Multiplier": 1,
+        "Bots_Damage_Taken_Multiplier": 1,
+        "Bots_Drop_Loot": 1,
+        "Bots_Drop_Weapon": 1,
+        "Is_NBC_Mission": 0,
+        "Allow_Crate_Reward": 1,
+        "Allow_Vehicle_Reward": 1,
+        "Static_Objects": []
+      },
+      {
+        "Name": "PayDay Squad Spotted in Kamensk",
+        "Position": [
+          7105.1611328125,
+          355.0124816894531,
+          14582.7626953125
+        ],
+        "Bots_Count_Minimum": 4,
+        "Bots_Count_Maximum": 8,
+        "Bots_Loadout_ID": 1,
+        "Bots_Range": 800,
+        "Bots_Accuracy": 0.4,
+        "Bots_Damage_Done_Multiplier": 1,
+        "Bots_Damage_Taken_Multiplier": 1,
+        "Bots_Drop_Loot": 1,
+        "Bots_Drop_Weapon": 1,
+        "Is_NBC_Mission": 0,
+        "Allow_Crate_Reward": 1,
+        "Allow_Vehicle_Reward": 1,
+        "Static_Objects": []
+      },
+      {
+        "Name": "PayDay Squad Taking The Prison",
+        "Position": [
+          2615.03,
+          22.19551,
+          1306.74
+        ],
+        "Bots_Count_Minimum": 4,
+        "Bots_Count_Maximum": 12,
+        "Bots_Loadout_ID": 1,
+        "Bots_Range": 800,
+        "Bots_Accuracy": 0.44,
+        "Bots_Damage_Done_Multiplier": 1,
+        "Bots_Damage_Taken_Multiplier": 1,
+        "Bots_Drop_Loot": 1,
+        "Bots_Drop_Weapon": 1,
+        "Is_NBC_Mission": 0,
+        "Allow_Crate_Reward": 1,
+        "Allow_Vehicle_Reward": 0,
+        "Static_Objects": []
+      },
+      {
+        "Name": "PayDay Squad Spotted at Grozovy",
+        "Position": [
+          3669.1611328125,
+          363.0124816894531,
+          14802.7626953125
+        ],
+        "Bots_Count_Minimum": 4,
+        "Bots_Count_Maximum": 12,
+        "Bots_Loadout_ID": 1,
+        "Bots_Range": 800,
+        "Bots_Accuracy": 0.44,
+        "Bots_Damage_Done_Multiplier": 1,
+        "Bots_Damage_Taken_Multiplier": 1,
+        "Bots_Drop_Loot": 1,
+        "Bots_Drop_Weapon": 1,
+        "Is_NBC_Mission": 0,
+        "Allow_Crate_Reward": 1,
+        "Allow_Vehicle_Reward": 1,
+        "Static_Objects": []
+      },
+      {
+        "Name": "PayDay Squad Spotted Black Market",
+        "Position": [
+          13463.3, 82.0806, 3305.2
+        ],
+        "Bots_Count_Minimum": 5,
+        "Bots_Count_Maximum": 8,
+        "Bots_Loadout_ID": 1,
+        "Bots_Range": 800,
+        "Bots_Accuracy": 0.44,
+        "Bots_Damage_Done_Multiplier": 1,
+        "Bots_Damage_Taken_Multiplier": 1,
+        "Bots_Drop_Loot": 1,
+        "Bots_Drop_Weapon": 1,
+        "Is_NBC_Mission": 0,
+        "Allow_Crate_Reward": 1,
+        "Allow_Vehicle_Reward": 0,
+        "Static_Objects": []
+      },
+      {
+        "Name": "PayDay Squad Spotted on NWAF Runway",
+        "Position": [
+          4176.74, 338.772, 10724.8
+        ],
+        "Bots_Count_Minimum": 4,
+        "Bots_Count_Maximum": 12,
+        "Bots_Loadout_ID": 1,
+        "Bots_Range": 800,
+        "Bots_Accuracy": 0.5,
+        "Bots_Damage_Done_Multiplier": 1,
+        "Bots_Damage_Taken_Multiplier": 1,
+        "Bots_Drop_Loot": 1,
+        "Bots_Drop_Weapon": 1,
+        "Is_NBC_Mission": 0,
+        "Allow_Crate_Reward": 1,
+        "Allow_Vehicle_Reward": 1,
+        "Static_Objects": []
+      },
+      {
+        "Name": "Pay Day Downed Helicopter",
+        "Position": [
+          144.31246948242188,
+          319.55841064453125,
+          8073.83740234375
+        ],
+        "Bots_Count_Minimum": 3,
+        "Bots_Count_Maximum": 12,
+        "Bots_Loadout_ID": 1,
+        "Bots_Range": 400,
+        "Bots_Accuracy": 0.5,
+        "Bots_Damage_Done_Multiplier": 1,
+        "Bots_Damage_Taken_Multiplier": 1,
+        "Bots_Drop_Loot": 1,
+        "Bots_Drop_Weapon": 1,
+        "Is_NBC_Mission": 0,
+        "Allow_Crate_Reward": 1,
+        "Allow_Vehicle_Reward": 0,
+        "Static_Objects": [
+          {
+            "ClassName": "StaticObj_Wreck_Mi8_Crashed",
+            "Scale": 1,
+            "Position": [
+              144.06399536132812,
+              321.1470031738281,
+              8068.35986328125
+            ],
+            "Rotation": [
+              -69.11962890625,
+              0,
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Pay Day Vehicle Crash NWAF",
+        "Position": [
+          4681.490234375,
+          339,
+          10333.2001953125
+        ],
+        "Bots_Count_Minimum": 3,
+        "Bots_Count_Maximum": 5,
+        "Bots_Loadout_ID": 1,
+        "Bots_Range": 400,
+        "Bots_Accuracy": 0.5,
+        "Bots_Damage_Done_Multiplier": 1,
+        "Bots_Damage_Taken_Multiplier": 1,
+        "Bots_Drop_Loot": 1,
+        "Bots_Drop_Weapon": 1,
+        "Is_NBC_Mission": 0,
+        "Allow_Crate_Reward": 1,
+        "Allow_Vehicle_Reward": 1,
+        "Static_Objects": [
+          {
+            "ClassName": "Land_Wreck_Uaz",
+            "Scale": 1,
+            "Position": [
+              4675.490234375,
+              339.79998779296875,
+              10330.009765625
+            ],
+            "Rotation": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ClassName": "Land_Wreck_Uaz",
+            "Scale": 1,
+            "Position": [
+              4685.490234375,
+              339.79998779296875,
+              10341.009765625
+            ],
+            "Rotation": [
+              0,
+              0,
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Pay Day Squad at VMC",
+        "Position": [
+          4517.41015625,
+          316.1653747558594,
+          8278.7001953125
+        ],
+        "Bots_Count_Minimum": 3,
+        "Bots_Count_Maximum": 5,
+        "Bots_Loadout_ID": 1,
+        "Bots_Range": 400,
+        "Bots_Accuracy": 0.5,
+        "Bots_Damage_Done_Multiplier": 1,
+        "Bots_Damage_Taken_Multiplier": 1,
+        "Bots_Drop_Loot": 1,
+        "Bots_Drop_Weapon": 1,
+        "Is_NBC_Mission": 0,
+        "Allow_Crate_Reward": 1,
+        "Allow_Vehicle_Reward": 0,
+        "Static_Objects": []
+      },
+      {
+        "Name": "Pay Day Squad at Prison Island",
+        "Position": [
+          4517.41015625,
+          316.1653747558594,
+          8278.7001953125
+        ],
+        "Bots_Count_Minimum": 3,
+        "Bots_Count_Maximum": 5,
+        "Bots_Loadout_ID": 2,
+        "Bots_Range": 400,
+        "Bots_Accuracy": 0.5,
+        "Bots_Damage_Done_Multiplier": 1,
+        "Bots_Damage_Taken_Multiplier": 1,
+        "Bots_Drop_Loot": 1,
+        "Bots_Drop_Weapon": 1,
+        "Is_NBC_Mission": 0,
+        "Allow_Crate_Reward": 1,
+        "Allow_Vehicle_Reward": 0,
+        "Static_Objects": []
+      },
+      
+      {
+        "Name": "Pay Day Squad at Zelenogorsk Military",
+        "Position": [
+          2480.849853515625,
+          193.25210571289062,
+          5111.97509765625
+        ],
+        "Bots_Count_Minimum": 3,
+        "Bots_Count_Maximum": 5,
+        "Bots_Loadout_ID": 1,
+        "Bots_Range": 400,
+        "Bots_Accuracy": 0.5,
+        "Bots_Damage_Done_Multiplier": 1,
+        "Bots_Damage_Taken_Multiplier": 1,
+        "Bots_Drop_Loot": 1,
+        "Bots_Drop_Weapon": 1,
+        "Is_NBC_Mission": 0,
+        "Allow_Crate_Reward": 1,
+        "Allow_Vehicle_Reward": 0,
+        "Static_Objects": []
+      },
+      {
+        "Name": "Pay Day Squad at Staroye Tents",
+        "Position": [
+          10432.8896484375,
+          283.0583801269531,
+          5961.2900390625
+        ],
+        "Bots_Count_Minimum": 3,
+        "Bots_Count_Maximum": 5,
+        "Bots_Loadout_ID": 1,
+        "Bots_Range": 100,
+        "Bots_Accuracy": 0.5,
+        "Bots_Damage_Done_Multiplier": 1,
+        "Bots_Damage_Taken_Multiplier": 1,
+        "Bots_Drop_Loot": 1,
+        "Bots_Drop_Weapon": 1,
+        "Is_NBC_Mission": 0,
+        "Allow_Crate_Reward": 1,
+        "Allow_Vehicle_Reward": 0,
+        "Static_Objects": []
+      }
+    ],
+    "Loadouts": [
+      {
+        "AI_Loot_Misc_Max": 2,
+        "AI_Loot_Special_Max": 1,
+        "Shirts": [
+          "Eazy_tshirt_Boobs_PoshWinter",
+          "Eazy_tshirt_Hentai_PoshWinter",
+          "Eazy_TTsKOJacket_Canabis_PoshWinter"
+
+        ],
+        "Pants": [
+          "Eazy_TTsKOPants_Canabis_PoshWinter"
+        ],
+        "Shoes": [
+          "Drip_AdidasYeezy350_beluga",
+          "Drip_AdidasYeezy350_ruby"
+        ],
+        "BackPacks": ["Eazy_AssaultBag_Canabis_PoshWinter"],
+        "Gloves": [
+          "Eazy_AssaultBag_Canabis_PoshWinter"
+          
+        ],
+        "Belts": ["MilitaryBelt"],
+        "NBC_Loadout": [
+          "NBCGlovesYellow",
+          "NBCJacketYellow",
+          "NBCPantsGray",
+          "NBCBootsYellow",
+          "NBCHoodYellow",
+          "GasMask"
+        ],
+        "AI_Loot_Misc": [
+          "SM_Med_FirstAidKit_AFAK",
+          "SM_Med_FirstAidKit_AI2",
+          "SM_Med_FirstAidKit_Car",
+          "SM_Med_FirstAidKit_Grizzly",
+          "Rope",
+          "Screwdriver"
+        ],
+        "AI_Loot_Special": [
+          "NailBox",
+          "Hatchet",
+          "RGD5Grenade"
+        ],
+        "Weapons": [
+          {
+            "Loadout_ID": 1,
+            "Weapon_ClassName": "SKS",
+            "Magazine_ClassName": "Ammo_762x39Tracer",
+            "Attach": [
+              "PUScopeOptic"
+            ]
+          },
+          {
+            "Loadout_ID": 1,
+            "Weapon_ClassName": "MP133Shotgun",
+            "Magazine_ClassName": "Ammo_12gaSlug",
+            "Attach": []
+          },
+          {
+            "Loadout_ID": 1,
+            "Weapon_ClassName": "Winchester70",
+            "Magazine_ClassName": "AmmoBox_308WinTracer",
+            "Attach": [
+              "HuntingOptic"
+            ]
+          },
+          {
+            "Loadout_ID": 1,
+            "Weapon_ClassName": "Mosin9130",
+            "Magazine_ClassName": "Ammo_762x54Tracer",
+            "Attach": [
+              "PUScopeOptic"
+            ]
+          },
+          {
+            "Loadout_ID": 1,
+            "Weapon_ClassName": "M16A2",
+            "Magazine_ClassName": "Mag_CMAG_40Rnd_Green",
+            "Attach": [
+              "ACOGOptic_6x"
+            ]
+          },
+          {
+            "Loadout_ID": 1,
+            "Weapon_ClassName": "M14",
+            "Magazine_ClassName": "Mag_M14_20Rnd",
+            "Attach": [
+              "ACOGOptic_6x"
+            ]
+          },
+          {
+            "Loadout_ID": 1,
+            "Weapon_ClassName": "SSG82",
+            "Magazine_ClassName": "Mag_SSG82_5rnd",
+            "Attach": []
+          },
+          {
+            "Loadout_ID": 1,
+            "Weapon_ClassName": "Izh43Shotgun",
+            "Magazine_ClassName": "Ammo_12gaSlug",
+            "Attach": []
+          },
+          {
+            "Loadout_ID": 1,
+            "Weapon_ClassName": "Aug",
+            "Magazine_ClassName": "Mag_Aug_30Rnd",
+            "Attach": []
+          },
+          {
+            "Loadout_ID": 1,
+            "Weapon_ClassName": "VSS",
+            "Magazine_ClassName": "Mag_Vikhr_30Rnd",
+            "Attach": [
+              "PSO11Optic"
+            ]
+          },
+          {
+            "Loadout_ID": 1,
+            "Weapon_ClassName": "Vikhr",
+            "Magazine_ClassName": "Mag_Vikhr_30Rnd",
+            "Attach": []
+          },
+          {
+            "Loadout_ID": 1,
+            "Weapon_ClassName": "SV98",
+            "Magazine_ClassName": "Mag_SV98_10Rnd",
+            "Attach": []
+          },
+          {
+            "Loadout_ID": 2,
+            "Weapon_ClassName": "Vikhr",
+            "Magazine_ClassName": "Mag_Vikhr_30Rnd",
+            "Attach": []
+          },
+          {
+            "Loadout_ID": 2,
+            "Weapon_ClassName": "SV98",
+            "Magazine_ClassName": "Mag_SV98_10Rnd",
+            "Attach": []
+          },
+          {
+            "Loadout_ID": 2,
+            "Weapon_ClassName": "M14",
+            "Magazine_ClassName": "Mag_M14_20Rnd",
+            "Attach": [
+              "ACOGOptic_6x"
+            ]
+          },
+          {
+            "Loadout_ID": 2,
+            "Weapon_ClassName": "SSG82",
+            "Magazine_ClassName": "Mag_SSG82_5rnd",
+            "Attach": []
+          }
+        ],
+        "Armour": [
+          {
+            "Loadout_ID": 2,
+            "Armour_ClassName": "Eazy_PlateCarrierVest_Canabis_PoshWinter",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "Loadout_ID": 1,
+            "Armour_ClassName": "TF_6B23Vest_GFlora",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "Loadout_ID": 2,
+            "Armour_ClassName": "TF_6B23_112Vest_EMR_Syrian",
+            "Attach": [],
+            "Contents": []
+          }
+        ],
+        "Headgear": [
+          {
+            "Loadout_ID": 1,
+            "Helmet_ClassName": "PaydayMask_Hoxton",
+            "Give_NVG": 1
+          },
+          {
+            "Loadout_ID": 1,
+            "Helmet_ClassName": "PaydayMask_Chains",
+            "Give_NVG": 1
+          },
+          {
+            "Loadout_ID": 1,
+            "Helmet_ClassName": "PaydayMask_Dallas",
+            "Give_NVG": 1
+          },
+          {
+            "Loadout_ID": 1,
+            "Helmet_ClassName": "PaydayMask_Wolf",
+            "Give_NVG": 1
+          },
+          {
+            "Loadout_ID": 2,
+            "Helmet_ClassName": "TF_MICH2000Helmet_Black",
+            "Give_NVG": 1
+          },
+          {
+            "Loadout_ID": 2,
+            "Helmet_ClassName": "Mich2001Helmet_Canabis_PoshWinter",
+            "Give_NVG": 1
+          }
+        ]
+      }
+    ],
+    "RewardObjects": [
+      {
+        "Reward_Type": 1,
+        "ClassName": "SeaChest",
+        "Replace_ClassName": "Blacks_SeaChest_DBNRaptor_HKitty",
+        "Loot_Initial": [],
+        "Loot_Win": []
+      },
+      {
+        "Reward_Type": 1,
+        "ClassName": "Barrel_Blue",
+        "Replace_ClassName": "Blacks_Barrel_DBNRaptor_HKitty",
+        "Loot_Initial": [],
+        "Loot_Win": []
+      },
+      {
+        "Reward_Type": 2,
+        "ClassName": "offroad_02",
+        "Replace_ClassName": "",
+        "Loot_Initial": [
+            "offroad_02_wheel",
+            "offroad_02_wheel",
+            "offroad_02_wheel",
+            "offroad_02_wheel",
+            "offroad_02_wheel",
+            "offroad_02_door_1_1",
+            "offroad_02_door_2_1",
+            "offroad_02_door_1_2",
+            "offroad_02_door_2_2",
+            "offroad_02_hood",
+            "offroad_02_trunk",
+            "carbattery",
+            "glowplug",
+            "headlighth7",
+            "headlighth7",
+            "hydraulicjack",
+            "trafficcone",
+            "wrench"
+        ],
+        "Loot_Win": []
+      },
+      {
+        "Reward_Type": 2,
+        "ClassName": "expansion_landrover",
+        "Replace_ClassName": "",
+        "Loot_Initial": [
+            "expansion_landrover_hood",
+            "expansion_landrover_driverdoor",
+            "expansion_landrover_codriverdoor",
+            "expansion_landrover_left",
+            "expansion_landrover_right",
+            "expansion_landrover_trunk",
+            "carbattery",
+            "carradiator",
+            "sparkplug",
+            "headlighth7",
+            "headlighth7",
+            "canistergasoline",
+            "seachest",
+            "woodencrate",
+            "woodencrate",
+            "woodencrate",
+            "expansion_landrover_wheel",
+            "expansion_landrover_wheel",
+            "expansion_landrover_wheel",
+            "expansion_landrover_wheel",
+            "expansion_landrover_wheel"
+        ],
+        "Loot_Win": []
+      },
+      {
+        "Reward_Type": 2,
+        "ClassName": "expansionuaz",
+        "Replace_ClassName": "",
+        "Loot_Initial": [
+            "expansionuazwheel",
+            "expansionuazwheel",
+            "expansionuazwheel",
+            "expansionuazwheel",
+            "carbattery",
+            "carradiator",
+            "sparkplug",
+            "expansionuazdoorhood",
+            "expansionuazdoordriver",
+            "expansionuazdoorcodriver",
+            "expansionuazdoorcargo1",
+            "expansionuazdoorcargo2",
+            "headlighth7",
+            "headlighth7"
+        ],
+        "Loot_Win": []
+      }
+      
+    ],
+    "Loot": [
+      {
+        "Weapons": [
+          {
+            "ClassName": "FAL",
+            "Magazine_ClassName": "Mag_FAL_20Rnd",
+            "Attach": [
+              "Fal_OeBttsck",
+              "ACOGOptic"
+            ],
+            "Loot": [
+              "Mag_FAL_20Rnd",
+              "Mag_FAL_20Rnd"
+            ]
+          },
+          {
+            "ClassName": "TF_M14_DMR",
+            "Magazine_ClassName": "TF_Mag_M14_20Rnd",
+            "Attach": [
+              "TF_M14_Adapter",
+              "TF_SCAR_Suppressor_Black",
+              "AD_LeupoldMk4"
+            ],
+            "Loot": [
+              "TF_Mag_M14_20Rnd",
+              "TF_Mag_M14_20Rnd"
+            ]
+          },
+          {
+            "ClassName": "TF_AKM",
+            "Magazine_ClassName": "Mag_AKM_Drum75Rnd",
+            "Attach": [
+              "AK_Suppressor",
+              "AK_WoodBttstck",
+              "AK_WoodBttstck_Black",
+              "PSO11Optic"
+            ],
+            "Loot": [
+              "Mag_AKM_Drum75Rnd"
+              
+            ]
+          },
+          {
+            "ClassName": "TF_MK47",
+            "Magazine_ClassName": "Mag_AKM_Drum75Rnd",
+            "Attach": [
+              "TF_SCAR_Suppressor_Black",
+              "TF_AR10_CMMG15Hndgrd_MLOCK",
+              "TF_M4_CMMG_RIPBttstck"
+            ],
+            "Loot": [
+              "CDAJ_MagMag_AKM_Drum75Rnd"
+            ]
+          },
+          {
+            "ClassName": "TF_SCAR_H_FDE",
+            "Magazine_ClassName": "TF_Mag_SCAR_H_Drum50Rnd",
+            "Attach": [
+              "TF_SCAR_StndBttstck_FDE",
+              "TF_SCAR_MREXHndgrd_FDE",
+              "TF_AFG_RIS_Grip_FDE",
+              "TF_Harris_Bipod",
+              "TF_SCAR_Suppressor_Black",
+              "TF_EOTechXPSOpticDown_Black"
+            ],
+            "Loot": [
+              "TF_Mag_SCAR_H_Drum50Rnd",
+              "TF_Mag_SCAR_H_Drum50Rnd"
+            ]
+          },
+          {
+            "ClassName": "TF_SCAR_StndBttstck_FDE",
+            "Magazine_ClassName": "TF_Mag_M4_PMAG40Rnd_FDE",
+            "Attach": [
+              "TF_SCAR_StndBttstck_FDE",
+              "TF_SCAR_MREXHndgrd_FDE",
+              "TF_AFG_MLOCK_Grip_FDE",
+              "TF_M4_SOCOMSuppressor",
+              "TF_EOTechXPSOpticUp_Black"
+            ],
+            "Loot": [
+              "TF_Mag_M4_PMAG40Rnd_FDE",
+              "TF_Mag_M4_PMAG40Rnd_FDE"
+            ]
+          },
+          {
+            "ClassName": "TF_SR25",
+            "Magazine_ClassName": "TF_Mag_SR25_20Rnd",
+            "Attach": [
+              "CDAJ_Optic_DKS",
+              "TF_M4CraneBttstck",
+              "TF_AR10_KACHndgrd_RIS",
+              "TF_M4_MOEPistolGrip_Black",
+              "TF_SCAR_Suppressor_Black",
+              "AD_LeupoldMk4"
+            ],
+            "Loot": [
+              "TF_Mag_SR25_20Rnd",
+              "TF_Mag_SR25_20Rnd"
+            ]
+          }
+        ],
+        "Armour": [
+          {
+            "ClassName": "CDAJ_Opscore_Carrier_Camo",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "CDAJ_Opscore_Carrier_ERDL",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "CDAJ_Opscore_Carrier_Brown",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "CDAJ_Opscore_Carrier_Multicam",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_FCPC_Black",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_Gen4_Black",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_Gen4_NWU",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_LBT6094_CB",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_Osprey_RG",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_MMAC_RG",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "CDAJ_TV110_MC2",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "CDAJ_TV110_Black",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_SSMK4_MC",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_Thor_Black",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_Thor_MCB",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_TV110T_RG",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_Thor_Tan",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_Osprey_Grey",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_LV119_RG",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_LBT6094_Black",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_JPC_AOR1",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_FCPC_M81",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_CPC_AOR1",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_TacTec_Grey",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_TacTec_MC",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_PACA_Black",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_TV110T_Tan",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_TacTec_Grey",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_TV110T_RG",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_TV110T_MC",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_TV110T_FG",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_TV110T_CB",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "FOG_Vest_TV110T_Black",
+            "Attach": [],
+            "Contents": []
+          }
+          
+        ],
+        "Misc": [
+          {
+            "ClassName": "BandageDressing",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "PainkillerTablets",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Morphine",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "SledgeHammer",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "NailBox",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Hatchet",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "MetalPlate",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "GC_DeadPool_Figurine",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Avengers_Display",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "GC_BlackPanther_Figurine",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "GC_Iam_Groot_Figurine",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "evg_keycards_Blue",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "CDAJ_Opscore_Multicam_Brown",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "evg_keycards_Yellow",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "SM_Med_FirstAidKit_AFAK",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "SM_Med_FirstAidKit_AI2",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "SM_Med_FirstAidKit_Car",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "SM_Med_FirstAidKit_Grizzly",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "SM_Med_FirstAidKit_IFAK",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "SM_Med_FirstAidKit_Salewa",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Blackouts_CannabisSeedsPackDaxtal",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Blackouts_CannabisBagGanja_Mountain",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Drip_AdidasYeezySlides_flax",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Drip_AdidasYeezy750_gold",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Drip_AdidasYeezy350_sapphire",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Blackouts_Brewski_Kereru",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Blackouts_CannabisSeedsPackGanja_Mountain",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Blackouts_CannabisSeedsDaxtal",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "AmmoBox_Expansion_338_15rnd",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Ammo_Expansion_M203_HE",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "ExpansionAmmoLAW",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "ExpansionSatchel",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "ExpansionAmmoRPG",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Ammo_40mm_Explosive",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "Ammo_40mm_Chemgas",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "GCGN_Ammo_3006",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "GCGN_Ammo_408Chey",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "GCGN_Ammo_50Cal",
+            "Attach": [],
+            "Contents": []
+          },
+          {
+            "ClassName": "GCGN_Ammo_762x51",
+            "Attach": [],
+            "Contents": []
+          }
+        
+        ]
+      }
+    ]
+  }

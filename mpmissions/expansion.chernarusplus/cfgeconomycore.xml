@@ -37,20 +37,20 @@
     <file name="Basebuildingplus_types.xml" type="types" />
     <file name="fliptransport_types.xml" type="types" />
     <file name="UmbrellaClothing_types.xml" type="types" />
-    <file name="KOTH_types.xml" type="types" />
     <file name="Custom_Cards_types.xml" type="types" />
     <file name="codelock_types.xml" type="types" />
     <file name="Mavericks12v_types.xml" type="types" />
     <file name="Boomlay_things_types.xml" type="types" />
     <file name="Winter_charnarus_types.xml" type="types" />
     <file name="BN_Winter_Clothing_types.xml" type="types" />
-    <file name="FD_Missions_types.xml" type="types" />
     <file name="Advanced_Scopes_types.xml" type="types" />
     <file name="DayZ_MiniFigurines_V2_types.xml" type="types" />
     <file name="TrailBrozer_types.xml" type="types" />
     <file name="Medical_Sobar_types.xml" type="types" />
     <file name="DriipyShoes_types.xml" type="types" />
     <file name="ObjectFiles_types.xml" type="types" />
+    <file name="Umbrella_Zombies_types.xml" type="types" />
+    <file name="Joes Role Play Uniforms_types.xml" type="types" />
   </ce>
   <ce folder="Custom/Custom_Events">
     <file name="Custom_events.xml" type="events" />
@@ -89,6 +89,7 @@
   </ce>
   <ce folder="Custom/Blacks">
     <file name="Blacks_FordRaptor_types.xml" type="types" />
+    <file name="Alpha_Armour_types.xml" type="types" />
   </ce>
   <ce folder="Custom/Flava">
     <file name="Flava_Tactical_types.xml" type="types" />
@@ -108,10 +109,10 @@
   </ce>
   <ce folder="Custom/RAGS">
     <file name="Rags_HuntingCabin_types.xml" type="types" />
+    <file name="Dragon_types.xml" type="types" />
   </ce>
   <ce folder="Custom/Drugs">
     <file name="CannabisPlus_types.xml" type="types" />
-    <file name="Eazy_Drugs_types.xml" type="types" />
   </ce>
   <ce folder="Custom/Blackouts">
     <file name="Blackouts_CannabisPLus_types.xml" type="types" />
@@ -124,4 +125,13 @@
     <file name="Horror_bears_types.xml" type="types" />
     <file name="Cocaine_Bear_types.xml" type="types" />
   </ce>
+  <ce folder="Custom/CJ187">
+    <file name="CJ187_HeliCrash_types.xml" type="types" />
+    <file name="CJ187_events.xml" type="events" />
+    <file name="CJ187_Lootchests_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/MBM">
+    <file name="MBM_JLTV_types.xml" type="types" />
+  </ce>
+
 </economycore>

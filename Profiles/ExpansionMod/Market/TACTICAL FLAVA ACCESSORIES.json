@@ -380,39 +380,7 @@
       "SpawnAttachments": [],
       "Variants": []
     },
-    {
-      "ClassName": "tf_ar10_lancerhndgrd_mlock",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 150,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "tf_ar10_noveskehndgrd_long_ris",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 150,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "tf_ar10_noveskehndgrd_short_ris",
-      "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 150,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
+   
     {
       "ClassName": "tf_ar10_urxhndgrd_mlock",
       "MaxPriceThreshold": 150,

@@ -1,0 +1,112 @@
+{
+    "CrateConfigs": [
+        {
+            "StaticSpawns": 0,
+            "ActiveCrateCount": 2,
+            "AutoRefresh": 1,
+            "RefreshInterval": 2,
+            "CrateType": "Locked_Rust_Crate",
+            "UseCrateNotifications": 1,
+            "CrateSpawnNotification": "A crate has spawned!",
+            "CrateStartNotification": "Crate countdown started!",
+            "CrateEndNotification": "Crate unlocked! Come get some loot!",
+            "CountdownTime": 1,
+            "ZombieSpawnInterval": 60,
+            "ZombieSpawnMin": 3,
+            "ZombieSpawnMax": 6,
+            "ZombieSpawningEnabled": 1,
+            "UseBasicMarkers": 0,
+            "UseMarkersDuringCountdownOnly": 0,
+            "ZombieClasses": [
+                "ZmbM_HunterOld_Autumn",
+                "ZmbF_JournalistNormal_Blue",
+                "ZmbM_PolicemanFat"
+            ],
+            "CrateLocations": [
+                {
+                    "Position": "12885.4 6.29583 9356",
+                    "Rotation": "0.0 0.0 0.0"
+                },
+                {
+                    "Position": "12893 6.50558 9414.12",
+                    "Rotation": "0.0 0.0 0.0"
+                },
+                {
+                    "Position": "12915.2 6.10152 9461.83",
+                    "Rotation": "0.0 0.0 0.0"
+                }
+            ]
+        },
+        {
+            "StaticSpawns": 0,
+            "ActiveCrateCount": 3,
+            "AutoRefresh": 1,
+            "RefreshInterval": 3,
+            "CrateType": "Locked_Armoury_Container",
+            "UseCrateNotifications": 1,
+            "CrateSpawnNotification": "An armoury crate has spawned!",
+            "CrateStartNotification": "Armoury crate countdown started!",
+            "CrateEndNotification": "Armoury crate unlocked! Come get some weapons!",
+            "CountdownTime": 1,
+            "ZombieSpawnInterval": 60,
+            "ZombieSpawnMin": 5,
+            "ZombieSpawnMax": 10,
+            "ZombieSpawningEnabled": 1,
+            "UseBasicMarkers": 1,
+            "UseMarkersDuringCountdownOnly": 1,
+            "ZombieClasses": [
+                "ZmbM_SoldierNormal",
+                "ZmbF_NurseFat",
+                "ZmbM_MechanicSkinny"
+            ],
+            "CrateLocations": [
+                {
+                    "Position": "12235.4 7.29583 9256",
+                    "Rotation": "0.0 0.0 0.0"
+                },
+                {
+                    "Position": "12243 7.50558 9214.12",
+                    "Rotation": "0.0 0.0 0.0"
+                },
+                {
+                    "Position": "12215.2 7.10152 9261.83",
+                    "Rotation": "0.0 0.0 0.0"
+                }
+            ]
+        },
+        {
+            "StaticSpawns": 0,
+            "ActiveCrateCount": 1,
+            "AutoRefresh": 1,
+            "RefreshInterval": 1,
+            "CrateType": "Locked_Car_Container",
+            "UseCrateNotifications": 1,
+            "CrateSpawnNotification": "A car crate has spawned!",
+            "CrateStartNotification": "Car crate countdown started!",
+            "CrateEndNotification": "Car crate unlocked! Come get a vehicle!",
+            "CountdownTime": 1,
+            "ZombieSpawnInterval": 60,
+            "ZombieSpawnMin": 0,
+            "ZombieSpawnMax": 0,
+            "ZombieSpawningEnabled": 0,
+            "UseBasicMarkers": 0,
+            "UseMarkersDuringCountdownOnly": 0,
+            "ZombieClasses": [],
+            "CrateLocations": [
+                {
+                    "Position": "11585.4 5.29583 9156",
+                    "Rotation": "0.0 0.0 0.0"
+                },
+                {
+                    "Position": "11593 5.50558 9114.12",
+                    "Rotation": "0.0 0.0 0.0"
+                },
+                {
+                    "Position": "11615.2 5.10152 9161.83",
+                    "Rotation": "0.0 0.0 0.0"
+                }
+            ]
+        }
+    ],
+    "ServerStartGracePeriod": 5
+}

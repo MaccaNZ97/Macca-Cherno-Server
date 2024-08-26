@@ -2,12 +2,12 @@
     "playerId": "76561199194271756",
     "playerName": "KfChIcKeN",
     "playerIsOnline": 0,
-    "surviedTime": 0.0,
+    "surviedTime": 5151.1142578125,
     "playerKills": 0,
-    "playerDeaths": 0,
+    "playerDeaths": 2,
     "playerLongestDistance": 0,
-    "playerKillsAISurvivor": 0,
-    "playerKillsZombie": 3,
+    "playerKillsAISurvivor": 5,
+    "playerKillsZombie": 9,
     "playerKillsBear": 0,
     "playerKillsWolf": 0,
     "playerKillsWildBoar": 0,
@@ -19,5 +19,5 @@
     "playerKillsPig": 0,
     "playerKillsChicken": 0,
     "playerKillsAnimals": 0,
-    "playerKillsNPCs": 3
+    "playerKillsNPCs": 14
 }

@@ -41,7 +41,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier4" />
+    <value name="Tier3" />
   </type>
   <type name="DNA_KeyCard_green_Inactive">
     <nominal>5</nominal>
@@ -58,6 +58,9 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
     <value name="Tier4" />
   </type>
   <type name="DNA_KeyCard_Purple_inactive">
@@ -112,8 +115,7 @@
     <tag name="floor" />
     <tag name="ground" />
     <tag name="shelves" />
-    <value name="Tier1" />
     <value name="Tier2" />
-    <value name="Tier4" />
+    <value name="Tier3" />
   </type>
 </types>

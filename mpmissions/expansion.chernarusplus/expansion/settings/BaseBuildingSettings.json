@@ -129,6 +129,8 @@
     "KOTH_CHEST",
     "DNA_Crate_Yellow",
     "DNA_Crate_Red",
-    "FD_Crate"
+    "FD_Crate",
+    "Locked_Rust_Crate",
+    "Locked_Armoury_Container"
   ]
 }

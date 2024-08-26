@@ -12,9 +12,13 @@
   "DisplayCurrencyValue": 1,
   "DisplayCurrencyName": "",
   "Categories": [
+    "CONTAINERS",
     "SUPPLIES",
     "BASE ITEMS",
-    "BASE BUILDING EXPANSION"
+    "TOOLS",
+    "TENTS",
+    "BASE BUILDING EXPANSION",
+    "BASE FURNITURE"
   ],
   "Items": {
     "battery9v": 1,

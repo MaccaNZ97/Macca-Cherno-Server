@@ -10,7 +10,7 @@
   "MaxDistanceFromStoredPosition": 550.0,
   "CanStoreWithCargo": 1,
   "UseVirtualStorageForCargo": 1,
-  "NeedKeyToStore": 0,
+  "NeedKeyToStore": 1,
   "EntityWhitelist": [
     "ExpansionParkingMeter",
     "ATSGroundMountDSParking",

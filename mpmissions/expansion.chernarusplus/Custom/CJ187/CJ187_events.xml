@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+
+    <event name="StaticHeliCrash">
+        <nominal>5</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>1000</distanceradius>
+        <cleanupradius>1000</cleanupradius>
+        <secondary>InfectedArmy</secondary>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>0</active>																		<!--    Deactivate this event!  -->
+        <children>
+            <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_Mi8_Crashed"/>
+            <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_UH1Y"/>
+        </children>
+    </event>	
+    <event name="StaticMilitaryCrashsites">														<!--    Add this event, for Military crashsites	-->
+        <nominal>2</nominal>
+        <min>2</min>
+        <max>6</max>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>1000</distanceradius>
+        <cleanupradius>1000</cleanupradius>
+        <secondary>InfectedArmy</secondary>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_UH1Y_USMC_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_UH1Y_ARMY_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_UH1Y_Black_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_UH1Y_USMC_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_UH1Y_Army_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_UH1Y_Black_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_UH1Y_USMC_3"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_UH1Y_Army_3"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_UH1Y_Black_3"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_RU_1_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_RU_2_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_RU_3_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_RU_4_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_CDF_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_Winter_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_Desert_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_Tropic_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_RU_1_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_RU_2_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_RU_3_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_RU_4_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_CDF_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_Winter_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_Desert_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_Tropic_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_RU_1_3"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_RU_2_3"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_RU_3_3"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_RU_4_3"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_CDF_3"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_Winter_3"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_Desert_3"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_Tropic_3"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_USMC_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_USMC_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_USAF_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_USAF_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_Camo_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_Camo_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_Camo_3"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_AAF_1"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_AAF_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_USMC_1_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_USMC_2_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_USAF_1_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_USAF_2_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_Camo_1_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_Camo_2_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_Camo_3_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_AAF_1_2"/>
+            <child lootmax="15" lootmin="10" max="1" min="0" type="crashed_Wreck_C130_AAF_2_2"/>
+        </children>
+    </event>	
+    <event name="StaticCivilianCrashsites">														<!--    Add this event, for Civilian crashsites	-->
+        <nominal>3</nominal>
+        <min>5</min>
+        <max>10</max>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>1000</distanceradius>
+        <cleanupradius>1000</cleanupradius>
+        <secondary>InfectedCity</secondary>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="25" lootmin="10" max="1" min="0" type="crashed_Wreck_UH1Y_Civ_1"/>
+            <child lootmax="25" lootmin="10" max="1" min="0" type="crashed_Wreck_UH1Y_Civ_2"/>
+            <child lootmax="25" lootmin="10" max="1" min="0" type="crashed_Wreck_UH1Y_Civ_3"/>
+            <child lootmax="25" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_Civ_1"/>
+            <child lootmax="25" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_Civ_2"/>
+            <child lootmax="25" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_Civ_3"/>
+            <child lootmax="25" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_UN_1"/>
+            <child lootmax="25" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_UN_2"/>
+            <child lootmax="25" lootmin="10" max="1" min="0" type="crashed_Wreck_Mi8_UN_3"/>
+            <child lootmax="35" lootmin="15" max="1" min="0" type="crashed_Wreck_C130_CIV_1"/>
+            <child lootmax="35" lootmin="15" max="1" min="0" type="crashed_Wreck_C130_CIV_1_2"/>
+            <child lootmax="35" lootmin="15" max="1" min="0" type="crashed_Wreck_C130_CIV_2"/>
+            <child lootmax="35" lootmin="15" max="1" min="0" type="crashed_Wreck_C130_CIV_2_2"/>
+        </children>
+    </event>
+</events>

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 1,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Get to Pogorevka Village",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4333.3701171875,
+        311.77899169921877,
+        6299.8798828125
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Get to the Village",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

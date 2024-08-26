@@ -18,6 +18,104 @@
       "FallSpeed": 4.5,
       "Usage": 0,
       "Weight": 5.0,
+      "Infected": [
+        "ZmbM_HermitSkinny_Beige",
+        "ZmbM_HermitSkinny_Black",
+        "ZmbM_HermitSkinny_Green",
+        "ZmbM_HermitSkinny_Red",
+        "ZmbM_FarmerFat_Beige",
+        "ZmbM_FarmerFat_Blue",
+        "ZmbM_FarmerFat_Brown",
+        "ZmbM_FarmerFat_Green",
+        "ZmbF_CitizenANormal_Beige",
+        "ZmbF_CitizenANormal_Blue",
+        "ZmbF_CitizenANormal_Brown",
+        "ZmbM_CitizenBFat_Blue",
+        "ZmbM_CitizenBFat_Red",
+        "ZmbM_CitizenBFat_Green",
+        "ZmbF_CitizenBSkinny",
+        "ZmbM_FishermanOld_Blue",
+        "ZmbM_FishermanOld_Green",
+        "ZmbM_FishermanOld_Grey",
+        "ZmbM_FishermanOld_Red",
+        "ZmbM_JournalistSkinny",
+        "ZmbF_JournalistNormal_Blue",
+        "ZmbF_JournalistNormal_Green",
+        "ZmbF_JournalistNormal_Red",
+        "ZmbF_JournalistNormal_White",
+        "ZmbM_HikerSkinny_Blue",
+        "ZmbM_HikerSkinny_Green",
+        "ZmbM_HikerSkinny_Yellow",
+        "ZmbF_HikerSkinny_Blue",
+        "ZmbF_HikerSkinny_Grey",
+        "ZmbF_HikerSkinny_Green",
+        "ZmbF_HikerSkinny_Red",
+        "ZmbF_SurvivorNormal_Blue",
+        "ZmbF_SurvivorNormal_Orange",
+        "ZmbF_SurvivorNormal_Red",
+        "ZmbF_SurvivorNormal_White",
+        "ZmbM_CommercialPilotOld_Blue",
+        "ZmbM_CommercialPilotOld_Olive",
+        "ZmbM_CommercialPilotOld_Brown",
+        "ZmbM_CommercialPilotOld_Grey",
+        "ZmbM_JoggerSkinny_Blue",
+        "ZmbM_JoggerSkinny_Green",
+        "ZmbM_JoggerSkinny_Red",
+        "ZmbF_JoggerSkinny_Blue",
+        "ZmbF_JoggerSkinny_Brown",
+        "ZmbF_JoggerSkinny_Green",
+        "ZmbF_JoggerSkinny_Red",
+        "ZmbM_MotobikerFat_Beige",
+        "ZmbM_MotobikerFat_Black",
+        "ZmbM_MotobikerFat_Blue",
+        "ZmbM_VillagerOld_Blue",
+        "ZmbM_VillagerOld_Green",
+        "ZmbM_VillagerOld_White",
+        "ZmbM_SkaterYoung_Blue",
+        "ZmbM_SkaterYoung_Brown",
+        "ZmbM_SkaterYoung_Green",
+        "ZmbM_SkaterYoung_Grey",
+        "ZmbF_SkaterYoung_Brown",
+        "ZmbF_SkaterYoung_Striped",
+        "ZmbF_SkaterYoung_Violet",
+        "ZmbM_OffshoreWorker_Green",
+        "ZmbM_OffshoreWorker_Orange",
+        "ZmbM_OffshoreWorker_Red",
+        "ZmbM_OffshoreWorker_Yellow",
+        "ZmbM_Jacket_beige",
+        "ZmbM_Jacket_black",
+        "ZmbM_Jacket_blue",
+        "ZmbM_Jacket_bluechecks",
+        "ZmbM_Jacket_brown",
+        "ZmbM_Jacket_greenchecks",
+        "ZmbM_Jacket_grey",
+        "ZmbM_Jacket_khaki",
+        "ZmbM_Jacket_magenta",
+        "ZmbM_Jacket_stripes",
+        "ZmbF_ShortSkirt_beige",
+        "ZmbF_ShortSkirt_black",
+        "ZmbF_ShortSkirt_brown",
+        "ZmbF_ShortSkirt_green",
+        "ZmbF_ShortSkirt_grey",
+        "ZmbF_ShortSkirt_checks",
+        "ZmbF_ShortSkirt_red",
+        "ZmbF_ShortSkirt_stripes",
+        "ZmbF_ShortSkirt_white",
+        "ZmbF_ShortSkirt_yellow",
+        "ZmbF_VillagerOld_Blue",
+        "ZmbF_VillagerOld_Green",
+        "ZmbF_VillagerOld_Red",
+        "ZmbF_VillagerOld_White",
+        "ZmbF_MilkMaidOld_Beige",
+        "ZmbF_MilkMaidOld_Black",
+        "ZmbF_MilkMaidOld_Green",
+        "ZmbF_MilkMaidOld_Grey",
+        "eAI_SurvivorM_Mirek|faction:Shamans,loadout:BanditLoadout,unlimitedammo,canbelooted:true",
+        "eAI_SurvivorM_Boris|faction:Shamans,loadout:BanditLoadout,unlimitedammo,canbelooted:true"
+      ],
+      "ItemCount": 30,
+      "InfectedCount": 25,
+      "SpawnInfectedForPlayerCalledDrops": 1,
       "Loot": [
         {
           "Name": "SewingKit",
@@ -2433,13 +2531,19 @@
         {
           "Name": "DNA_KeyCard_Purple_inactive",
           "Attachments": [],
-          "Chance": 0.5,
+          "Chance": 0.09,
           "QuantityPercent": -1,
           "Max": -1,
           "Min": 0,
           "Variants": []
         }
-      ],
+      ]
+    },
+    {
+      "Container": "ExpansionAirdropContainer_Medical",
+      "FallSpeed": 4.5,
+      "Usage": 0,
+      "Weight": 10.0,
       "Infected": [
         "ZmbM_HermitSkinny_Beige",
         "ZmbM_HermitSkinny_Black",
@@ -2450,8 +2554,8 @@
         "ZmbM_FarmerFat_Brown",
         "ZmbM_FarmerFat_Green",
         "ZmbF_CitizenANormal_Beige",
-        "ZmbF_CitizenANormal_Blue",
         "ZmbF_CitizenANormal_Brown",
+        "ZmbF_CitizenANormal_Blue",
         "ZmbM_CitizenBFat_Blue",
         "ZmbM_CitizenBFat_Red",
         "ZmbM_CitizenBFat_Green",
@@ -2532,18 +2636,15 @@
         "ZmbF_MilkMaidOld_Black",
         "ZmbF_MilkMaidOld_Green",
         "ZmbF_MilkMaidOld_Grey",
-        "eAI_SurvivorM_Mirek|faction:Shamans,loadout:BanditLoadout,unlimitedammo,canbelooted:true",
-        "eAI_SurvivorM_Boris|faction:Shamans,loadout:BanditLoadout,unlimitedammo,canbelooted:true"
+        "ZmbF_DoctorSkinny",
+        "ZmbF_NurseFat",
+        "ZmbM_DoctorFat",
+        "ZmbF_PatientOld",
+        "ZmbM_PatientSkinny"
       ],
-      "ItemCount": 30,
-      "InfectedCount": 25,
-      "SpawnInfectedForPlayerCalledDrops": 1
-    },
-    {
-      "Container": "ExpansionAirdropContainer_Medical",
-      "FallSpeed": 4.5,
-      "Usage": 0,
-      "Weight": 10.0,
+      "ItemCount": 25,
+      "InfectedCount": 15,
+      "SpawnInfectedForPlayerCalledDrops": 1,
       "Loot": [
         {
           "Name": "Bear_Pink",
@@ -3054,8 +3155,23 @@
           "Max": -1,
           "Min": 0,
           "Variants": []
+        },
+        {
+          "Name": "DNA_KeyCard_Yellow_Inactive",
+          "Attachments": [],
+          "Chance": 0.27,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
         }
-      ],
+      ]
+    },
+    {
+      "Container": "ExpansionAirdropContainer_Basebuilding",
+      "FallSpeed": 4.5,
+      "Usage": 0,
+      "Weight": 15.0,
       "Infected": [
         "ZmbM_HermitSkinny_Beige",
         "ZmbM_HermitSkinny_Black",
@@ -3148,21 +3264,29 @@
         "ZmbF_MilkMaidOld_Black",
         "ZmbF_MilkMaidOld_Green",
         "ZmbF_MilkMaidOld_Grey",
-        "ZmbF_DoctorSkinny",
-        "ZmbF_NurseFat",
-        "ZmbM_DoctorFat",
-        "ZmbF_PatientOld",
-        "ZmbM_PatientSkinny"
+        "ZmbF_BlueCollarFat_Blue",
+        "ZmbF_BlueCollarFat_Green",
+        "ZmbF_BlueCollarFat_Red",
+        "ZmbF_BlueCollarFat_White",
+        "ZmbF_MechanicNormal_Beige",
+        "ZmbF_MechanicNormal_Green",
+        "ZmbF_MechanicNormal_Grey",
+        "ZmbF_MechanicNormal_Orange",
+        "ZmbM_MechanicSkinny_Blue",
+        "ZmbM_MechanicSkinny_Grey",
+        "ZmbM_MechanicSkinny_Green",
+        "ZmbM_MechanicSkinny_Red",
+        "ZmbM_ConstrWorkerNormal_Beige",
+        "ZmbM_ConstrWorkerNormal_Black",
+        "ZmbM_ConstrWorkerNormal_Green",
+        "ZmbM_ConstrWorkerNormal_Grey",
+        "ZmbM_HeavyIndustryWorker",
+        "CDAJ_ZmbM_Dark_Heavy",
+        "CDAJ_ZmbM_Mutant_Bloody"
       ],
-      "ItemCount": 25,
-      "InfectedCount": 15,
-      "SpawnInfectedForPlayerCalledDrops": 1
-    },
-    {
-      "Container": "ExpansionAirdropContainer_Basebuilding",
-      "FallSpeed": 4.5,
-      "Usage": 0,
-      "Weight": 15.0,
+      "ItemCount": 50,
+      "InfectedCount": 10,
+      "SpawnInfectedForPlayerCalledDrops": 1,
       "Loot": [
         {
           "Name": "ExpansionSafeMedium",
@@ -3415,7 +3539,6 @@
           "Min": 0,
           "Variants": []
         },
-        
         {
           "Name": "BBP_Blueprint",
           "Attachments": [],
@@ -3433,129 +3556,254 @@
           "Max": -1,
           "Min": 0,
           "Variants": []
+        },
+        {
+          "Name": "mmg_greenhouse_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_gear_stand_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_gun_rack_kit_blue",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_gun_rack_kit_green",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_gun_rack_kit_tan",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_gun_wall_kit_metal",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_gun_wall_kit_wooden",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_solo_locker_blue_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_solo_locker_green_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_solo_locker_grey_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_solo_locker_medic_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_solo_locker_purple_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_solo_locker_red_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_solo_locker_yellow_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_planter_box_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_locker02_blue_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_locker02_green_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_locker02_tan_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_lockable_gun_rack_kit_grey",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_supply_crate_grey",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_supply_crate_unfinished_wood",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_supply_crate_wood",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "DNA_KeyCard_Yellow_Inactive",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_palette_storage_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_toolwagon_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
         }
-      ],
-      "Infected": [
-        "ZmbM_HermitSkinny_Beige",
-        "ZmbM_HermitSkinny_Black",
-        "ZmbM_HermitSkinny_Green",
-        "ZmbM_HermitSkinny_Red",
-        "ZmbM_FarmerFat_Beige",
-        "ZmbM_FarmerFat_Blue",
-        "ZmbM_FarmerFat_Brown",
-        "ZmbM_FarmerFat_Green",
-        "ZmbF_CitizenANormal_Beige",
-        "ZmbF_CitizenANormal_Brown",
-        "ZmbF_CitizenANormal_Blue",
-        "ZmbM_CitizenBFat_Blue",
-        "ZmbM_CitizenBFat_Red",
-        "ZmbM_CitizenBFat_Green",
-        "ZmbF_CitizenBSkinny",
-        "ZmbM_FishermanOld_Blue",
-        "ZmbM_FishermanOld_Green",
-        "ZmbM_FishermanOld_Grey",
-        "ZmbM_FishermanOld_Red",
-        "ZmbM_JournalistSkinny",
-        "ZmbF_JournalistNormal_Blue",
-        "ZmbF_JournalistNormal_Green",
-        "ZmbF_JournalistNormal_Red",
-        "ZmbF_JournalistNormal_White",
-        "ZmbM_HikerSkinny_Blue",
-        "ZmbM_HikerSkinny_Green",
-        "ZmbM_HikerSkinny_Yellow",
-        "ZmbF_HikerSkinny_Blue",
-        "ZmbF_HikerSkinny_Grey",
-        "ZmbF_HikerSkinny_Green",
-        "ZmbF_HikerSkinny_Red",
-        "ZmbF_SurvivorNormal_Blue",
-        "ZmbF_SurvivorNormal_Orange",
-        "ZmbF_SurvivorNormal_Red",
-        "ZmbF_SurvivorNormal_White",
-        "ZmbM_CommercialPilotOld_Blue",
-        "ZmbM_CommercialPilotOld_Olive",
-        "ZmbM_CommercialPilotOld_Brown",
-        "ZmbM_CommercialPilotOld_Grey",
-        "ZmbM_JoggerSkinny_Blue",
-        "ZmbM_JoggerSkinny_Green",
-        "ZmbM_JoggerSkinny_Red",
-        "ZmbF_JoggerSkinny_Blue",
-        "ZmbF_JoggerSkinny_Brown",
-        "ZmbF_JoggerSkinny_Green",
-        "ZmbF_JoggerSkinny_Red",
-        "ZmbM_MotobikerFat_Beige",
-        "ZmbM_MotobikerFat_Black",
-        "ZmbM_MotobikerFat_Blue",
-        "ZmbM_VillagerOld_Blue",
-        "ZmbM_VillagerOld_Green",
-        "ZmbM_VillagerOld_White",
-        "ZmbM_SkaterYoung_Blue",
-        "ZmbM_SkaterYoung_Brown",
-        "ZmbM_SkaterYoung_Green",
-        "ZmbM_SkaterYoung_Grey",
-        "ZmbF_SkaterYoung_Brown",
-        "ZmbF_SkaterYoung_Striped",
-        "ZmbF_SkaterYoung_Violet",
-        "ZmbM_OffshoreWorker_Green",
-        "ZmbM_OffshoreWorker_Orange",
-        "ZmbM_OffshoreWorker_Red",
-        "ZmbM_OffshoreWorker_Yellow",
-        "ZmbM_Jacket_beige",
-        "ZmbM_Jacket_black",
-        "ZmbM_Jacket_blue",
-        "ZmbM_Jacket_bluechecks",
-        "ZmbM_Jacket_brown",
-        "ZmbM_Jacket_greenchecks",
-        "ZmbM_Jacket_grey",
-        "ZmbM_Jacket_khaki",
-        "ZmbM_Jacket_magenta",
-        "ZmbM_Jacket_stripes",
-        "ZmbF_ShortSkirt_beige",
-        "ZmbF_ShortSkirt_black",
-        "ZmbF_ShortSkirt_brown",
-        "ZmbF_ShortSkirt_green",
-        "ZmbF_ShortSkirt_grey",
-        "ZmbF_ShortSkirt_checks",
-        "ZmbF_ShortSkirt_red",
-        "ZmbF_ShortSkirt_stripes",
-        "ZmbF_ShortSkirt_white",
-        "ZmbF_ShortSkirt_yellow",
-        "ZmbF_VillagerOld_Blue",
-        "ZmbF_VillagerOld_Green",
-        "ZmbF_VillagerOld_Red",
-        "ZmbF_VillagerOld_White",
-        "ZmbF_MilkMaidOld_Beige",
-        "ZmbF_MilkMaidOld_Black",
-        "ZmbF_MilkMaidOld_Green",
-        "ZmbF_MilkMaidOld_Grey",
-        "ZmbF_BlueCollarFat_Blue",
-        "ZmbF_BlueCollarFat_Green",
-        "ZmbF_BlueCollarFat_Red",
-        "ZmbF_BlueCollarFat_White",
-        "ZmbF_MechanicNormal_Beige",
-        "ZmbF_MechanicNormal_Green",
-        "ZmbF_MechanicNormal_Grey",
-        "ZmbF_MechanicNormal_Orange",
-        "ZmbM_MechanicSkinny_Blue",
-        "ZmbM_MechanicSkinny_Grey",
-        "ZmbM_MechanicSkinny_Green",
-        "ZmbM_MechanicSkinny_Red",
-        "ZmbM_ConstrWorkerNormal_Beige",
-        "ZmbM_ConstrWorkerNormal_Black",
-        "ZmbM_ConstrWorkerNormal_Green",
-        "ZmbM_ConstrWorkerNormal_Grey",
-        "ZmbM_HeavyIndustryWorker",
-        "CDAJ_ZmbM_Dark_Heavy",
-        "CDAJ_ZmbM_Mutant_Bloody"
-      ],
-      "ItemCount": 50,
-      "InfectedCount": 10,
-      "SpawnInfectedForPlayerCalledDrops": 1
+      ]
     },
     {
       "Container": "ExpansionAirdropContainer_Military",
       "FallSpeed": 4.5,
       "Usage": 0,
       "Weight": 20.0,
+      "Infected": [
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Desert",
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_Summer",
+        "eAI_SurvivorM_Mirek|faction:Shamans,loadout:BanditLoadout,canbelooted:true",
+        "eAI_SurvivorM_Denis|faction:Shamans,loadout:BanditLoadout,canbelooted:true",
+        "eAI_SurvivorM_Boris|faction:Shamans,loadout:BanditLoadout,canbelooted:true"
+      ],
+      "ItemCount": 50,
+      "InfectedCount": 35,
+      "SpawnInfectedForPlayerCalledDrops": 1,
       "Loot": [
         {
           "Name": "Binoculars",
@@ -5062,7 +5310,6 @@
           "Min": 0,
           "Variants": []
         },
-       
         {
           "Name": "Mag_STANAG_30Rnd",
           "Attachments": [],
@@ -5825,21 +6072,6 @@
           "Variants": []
         },
         {
-          "Name": "TLRLight",
-          "Attachments": [
-            {
-              "Name": "Battery9V",
-              "Attachments": [],
-              "Chance": 1.0
-            }
-          ],
-          "Chance": 0.07999999821186066,
-          "QuantityPercent": -1,
-          "Max": -1,
-          "Min": 0,
-          "Variants": []
-        },
-        {
           "Name": "SKS_Bayonet",
           "Attachments": [],
           "Chance": 0.10000000149011612,
@@ -5978,60 +6210,6 @@
           "Variants": []
         },
         {
-          "Name": "UKAssVest_Black",
-          "Attachments": [],
-          "Chance": 0.10000000149011612,
-          "QuantityPercent": -1,
-          "Max": -1,
-          "Min": 0,
-          "Variants": []
-        },
-        {
-          "Name": "UKAssVest_Camo",
-          "Attachments": [],
-          "Chance": 0.10000000149011612,
-          "QuantityPercent": -1,
-          "Max": -1,
-          "Min": 0,
-          "Variants": []
-        },
-        {
-          "Name": "UKAssVest_Khaki",
-          "Attachments": [],
-          "Chance": 0.10000000149011612,
-          "QuantityPercent": -1,
-          "Max": -1,
-          "Min": 0,
-          "Variants": []
-        },
-        {
-          "Name": "UKAssVest_Olive",
-          "Attachments": [],
-          "Chance": 0.10000000149011612,
-          "QuantityPercent": -1,
-          "Max": -1,
-          "Min": 0,
-          "Variants": []
-        },
-        {
-          "Name": "HighCapacityVest_Black",
-          "Attachments": [],
-          "Chance": 0.10000000149011612,
-          "QuantityPercent": -1,
-          "Max": -1,
-          "Min": 0,
-          "Variants": []
-        },
-        {
-          "Name": "HighCapacityVest_Olive",
-          "Attachments": [],
-          "Chance": 0.10000000149011612,
-          "QuantityPercent": -1,
-          "Max": -1,
-          "Min": 0,
-          "Variants": []
-        },
-        {
           "Name": "PlateCarrierVest",
           "Attachments": [],
           "Chance": 0.07999999821186066,
@@ -6135,7 +6313,7 @@
         {
           "Name": "DNA_KeyCard_Red_Inactive",
           "Attachments": [],
-          "Chance": 1.0,
+          "Chance": 0.24,
           "QuantityPercent": 1,
           "Max": 1,
           "Min": 1,
@@ -6180,28 +6358,175 @@
               "Chance": 1.0
             }
           ],
-          "Chance": 0.5,
+          "Chance": 0.74,
           "QuantityPercent": 1,
           "Max": 1,
           "Min": 1,
           "Variants": []
+        },
+        {
+          "Name": "DNA_KeyCard_Purple_inactive",
+          "Attachments": [],
+          "Chance": 0.34,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "DNA_KeyCard_Red_Inactive",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "Ammo_Expansion_338",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "AmmoBox_Expansion_338_15rnd",
+          "Attachments": [],
+          "Chance": 0.22,
+          "QuantityPercent": 5,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "Ammo_308Win",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "ExpansionGoldBar",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "GCGN_Ammo_50Cal",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "TF_6B23_112Vest_EMR",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "TF_6B23_112Vest_EMR_Syrian",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "TF_6B23_112Vest_GFlora",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "TF_6B23_112Vest_GFlora_Syrian",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "TF_AEK999",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "TF_AEK999_Suppressor",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "TF_AKMN",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "TF_M14_DMR",
+          "Attachments": [
+            {
+              "Name": "TF_Mag_M14_10Rnd",
+              "Attachments": [],
+              "Chance": 1
+            },
+            {
+              "Name": "TF_Mag_M14_20Rnd",
+              "Attachments": [],
+              "Chance": 1
+            },
+            {
+              "Name": "TF_M14_Adapter",
+              "Attachments": [],
+              "Chance": 1
+            }
+          ],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": [
+            {
+              "Name": "TF_M14_EBR",
+              "Attachments": [],
+              "Chance": 1
+            },
+            {
+              "Name": "TF_M14_STD",
+              "Attachments": [],
+              "Chance": 1
+            }
+          ]
         }
-      ],
-      "Infected": [
-        "ZmbM_usSoldier_normal_Woodland",
-        "ZmbM_SoldierNormal",
-        "ZmbM_usSoldier_normal_Desert",
-        "ZmbM_PatrolNormal_PautRev",
-        "ZmbM_PatrolNormal_Autumn",
-        "ZmbM_PatrolNormal_Flat",
-        "ZmbM_PatrolNormal_Summer",
-        "eAI_SurvivorM_Mirek|faction:Shamans,loadout:BanditLoadout,canbelooted:true",
-        "eAI_SurvivorM_Denis|faction:Shamans,loadout:BanditLoadout,canbelooted:true",
-        "eAI_SurvivorM_Boris|faction:Shamans,loadout:BanditLoadout,canbelooted:true"
-      ],
-      "ItemCount": 50,
-      "InfectedCount": 35,
-      "SpawnInfectedForPlayerCalledDrops": 1
+      ]
     }
   ]
 }

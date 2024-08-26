@@ -1,6 +1,6 @@
 {
   "m_Version": 12,
-  "DisplayName": "SPEC_OPS_TRADER",
+  "DisplayName": "STANDARD WEAPONS",
   "MinRequiredReputation": 0,
   "MaxRequiredReputation": 2147483647,
   "RequiredFaction": "",
@@ -37,7 +37,6 @@
     "mag_glock_15rnd": 3,
     "mag_stanag_30rnd": 3,
     "mag_stanag_60rnd": 3,
- 
     "battery9v": 1,
     "tlrlight": 3,
     "universallight": 3

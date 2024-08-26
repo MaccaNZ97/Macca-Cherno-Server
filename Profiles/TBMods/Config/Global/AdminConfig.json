@@ -1,0 +1,17 @@
+{
+    "version": "8",
+    "isInitialized": 1,
+    "admins": {
+        "Add here Steam Or DayZ ID": {
+            "dailyRewardAdmin": 0,
+            "realEstateAdmin": 0,
+            "carDealerAdmin": 0,
+            "basicNeedsAdmin": 0,
+            "deathInsurance": 0,
+            "secondHandMarket": 0,
+            "revivePlayer": 0,
+            "jewelsOfSurvival": 0,
+            "playerId": "Add here Steam Or DayZ ID"
+        }
+    }
+}

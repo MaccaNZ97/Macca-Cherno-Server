@@ -1,28 +1,23 @@
 {
-    "ConfigVersion": 27,
+    "ConfigVersion": 28,
     "ID": 10,
     "ObjectiveType": 2,
-    "ObjectiveText": "Kill Bear with Crossbow",
+    "ObjectiveText": "Kill Cocaine Bear",
     "TimeLimit": -1,
-    "Active": 0,
+    "Active": 1,
     "Position": [
-        0.0,
-        0.0,
-        0.0
+        9770.0,
+        258.0,
+        9343.0
     ],
-    "MaxDistance": -1.0,
+    "MaxDistance": 200.0,
     "MinDistance": 0.0,
     "Amount": 1,
     "ClassNames": [
-        "Animal_UrsusArctos"
+        "Animal_HMG_Bear_Cocaine_T5"
     ],
     "CountSelfKill": 0,
-    "AllowedWeapons": [
-        "Mosin9130",
-        "Mosin9130_Black",
-        "Mosin9130_Camo",
-        "Mosin9130_Green"
-    ],
+    "AllowedWeapons": [],
     "ExcludedClassNames": [],
     "CountAIPlayers": 0,
     "AllowedTargetFactions": [],

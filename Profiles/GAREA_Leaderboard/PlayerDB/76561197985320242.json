@@ -4,10 +4,10 @@
     "playerIsOnline": 0,
     "surviedTime": 0.0,
     "playerKills": 0,
-    "playerDeaths": 1,
+    "playerDeaths": 0,
     "playerLongestDistance": 0,
     "playerKillsAISurvivor": 0,
-    "playerKillsZombie": 6,
+    "playerKillsZombie": 0,
     "playerKillsBear": 0,
     "playerKillsWolf": 0,
     "playerKillsWildBoar": 0,
@@ -19,5 +19,5 @@
     "playerKillsPig": 0,
     "playerKillsChicken": 0,
     "playerKillsAnimals": 0,
-    "playerKillsNPCs": 6
+    "playerKillsNPCs": 0
 }

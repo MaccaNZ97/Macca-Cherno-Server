@@ -1,0 +1,71 @@
+{
+  "ConfigVersion": 22,
+  "ID": 504,
+  "Type": 1,
+  "Title": "Operations Canabils Campsite",
+  "Descriptions": [
+    "\"Can you believe it? One of our hunting parties found a camp of Canabals... We are willing to pay if you can deal with them\",\r\n        \r\n\r\n\r\n",
+    "\"Eleminate all of the Canabals at the camp.\"",
+    " \"Nice work! Hopefully thats the last of those fkrs, here is your payment.\""
+  ],
+  "ObjectiveText": "Well done PMC mission completed!",
+  "FollowUpQuest": -1,
+  "Repeatable": 1,
+  "IsDailyQuest": 1,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 1,
+  "ObjectSetFileName": "bandit2",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 5500,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 0,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    8
+  ],
+  "QuestTurnInIDs": [
+    8
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 27,
+      "ID": 8,
+      "ObjectiveType": 3
+    },
+    {
+      "ConfigVersion": 27,
+      "ID": 1,
+      "ObjectiveType": 8
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 2000,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [
+    502,
+    503
+  ],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 1,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

@@ -1,0 +1,15 @@
+{
+    "ConfigVersion": 27,
+    "ID": 3,
+    "ObjectiveType": 11,
+    "ObjectiveText": "1 BBP Floor Kit\r\n1 BBP Doorr Kit\r\n1 BBP Window Kit",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "BBP_Floor_Kit",
+        "BBP_Door_Kit",
+        "BBP_Window_Kit",
+        "BBP_Wall_Kit"
+    ],
+    "ExecutionAmount": 1
+}

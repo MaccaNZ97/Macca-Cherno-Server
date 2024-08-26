@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 27,
+    "ID": 5,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Travel to Altar",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8167.25,
+        474.0,
+        9108.0
+    ],
+    "MaxDistance": -1.0,
+    "MarkerName": "Altar Trader",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,5 +1,5 @@
 {
-    "version": "3",
+    "version": "4",
     "isInitialized": 1,
     "destroyDefibrillatorAfterUsage": 0,
     "deleteDeadBodyTimeWhenHealedByPlayer": 5.0,
@@ -11,7 +11,17 @@
         "blood": 0.5,
         "shock": 0.0
     },
-    "enableHospital": 0,
+    "enableRealEstateRespawn": 0,
+    "priceForRealEstateRespawn": -1,
+    "minTimerBeforeRealEstateRespawn": 180,
+    "reviveRealEstate": {
+        "maxWounds": 0,
+        "minWounds": 0,
+        "health": 1.0,
+        "blood": 1.0,
+        "shock": 1.0
+    },
+    "enableHospital": 1,
     "minTimeBeforeHospital": 10,
     "priceForReviveInHospital": 20000,
     "reviveHospital": {
@@ -25,42 +35,50 @@
         {
             "id": "wk45kc8500",
             "orientation": [
-                78.381,
+                78.38099670410156,
                 0.0,
                 0.0
             ],
             "point": [
-                7435.18,
-                16.0786,
-                2208.01
+                7435.18017578125,
+                16.07859992980957,
+                2208.010009765625
             ]
         },
         {
             "id": "wk45kc8501",
             "orientation": [
-                78.381,
+                78.38099670410156,
                 0.0,
                 0.0
             ],
             "point": [
-                7435.18,
-                16.0786,
-                2208.01
+                7435.18017578125,
+                16.07859992980957,
+                2208.010009765625
             ]
         },
         {
             "id": "wk45kc8502",
             "orientation": [
-                78.381,
+                78.38099670410156,
                 0.0,
                 0.0
             ],
             "point": [
-                7435.18,
-                16.0786,
-                2208.01
+                7435.18017578125,
+                16.07859992980957,
+                2208.010009765625
             ]
         }
-
-    ]
+    ],
+    "priceMedicHeal": 1000,
+    "minMedicCountForHospitalTimer": 1,
+    "medicRevive": {
+        "maxWounds": 5,
+        "minWounds": 1,
+        "health": 0.5,
+        "blood": 0.5,
+        "shock": 0.0
+    }
 }

@@ -8,8 +8,8 @@
   "Items": [
     {
       "ClassName": "ammo_40mm_explosive",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 440,
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 20,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -20,7 +20,7 @@
     {
       "ClassName": "ammobox_expansion_338_15rnd",
       "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 132,
+      "MinPriceThreshold": 150,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -31,7 +31,7 @@
     {
       "ClassName": "gcgn_ammo_3006",
       "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 18,
+      "MinPriceThreshold": 20,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
     },
     {
       "ClassName": "gcgn_ammo_408chey",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 176,
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 20,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
     },
     {
       "ClassName": "gcgn_ammo_50cal",
-      "MaxPriceThreshold": 450,
-      "MinPriceThreshold": 396,
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 20,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -64,7 +64,7 @@
     {
       "ClassName": "gcgn_ammo_762x51",
       "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 18,
+      "MinPriceThreshold": 20,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -75,7 +75,7 @@
     {
       "ClassName": "snafu_ammo_127x55mm",
       "MaxPriceThreshold": 650,
-      "MinPriceThreshold": 572,
+      "MinPriceThreshold": 650,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -86,7 +86,7 @@
     {
       "ClassName": "snafu_ammo_127x55mmap",
       "MaxPriceThreshold": 650,
-      "MinPriceThreshold": 572,
+      "MinPriceThreshold": 650,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -97,7 +97,7 @@
     {
       "ClassName": "snafu_ammo_145cal",
       "MaxPriceThreshold": 600,
-      "MinPriceThreshold": 528,
+      "MinPriceThreshold": 600,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -108,7 +108,7 @@
     {
       "ClassName": "snafu_ammo_300acc",
       "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 18,
+      "MinPriceThreshold": 20,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -119,7 +119,7 @@
     {
       "ClassName": "snafu_ammo_338",
       "MaxPriceThreshold": 150,
-      "MinPriceThreshold": 132,
+      "MinPriceThreshold": 150,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -130,7 +130,7 @@
     {
       "ClassName": "snafu_ammo_44",
       "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 18,
+      "MinPriceThreshold": 20,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -141,7 +141,7 @@
     {
       "ClassName": "snafu_ammo_45_70mm",
       "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 18,
+      "MinPriceThreshold": 20,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -152,7 +152,7 @@
     {
       "ClassName": "snafu_ammo_46x30",
       "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 18,
+      "MinPriceThreshold": 20,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -163,7 +163,7 @@
     {
       "ClassName": "snafu_ammo_5_7x28mm",
       "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 18,
+      "MinPriceThreshold": 20,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -174,7 +174,7 @@
     {
       "ClassName": "snafu_ammo_500_sw",
       "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 18,
+      "MinPriceThreshold": 20,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -185,7 +185,7 @@
     {
       "ClassName": "snafu_ammo_762x25",
       "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 18,
+      "MinPriceThreshold": 20,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -196,7 +196,7 @@
     {
       "ClassName": "snafu_md_ammo_556x45mm_m855a1",
       "MaxPriceThreshold": 20,
-      "MinPriceThreshold": 18,
+      "MinPriceThreshold": 20,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,

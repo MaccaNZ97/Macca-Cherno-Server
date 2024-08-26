@@ -1,0 +1,65 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BO BRICKS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "blackouts_cannabisbrickalbino",
+      "MaxPriceThreshold": 8968,
+      "MinPriceThreshold": 8520,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1000,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "blackouts_cannabisbrickdaxtal",
+      "MaxPriceThreshold": 15004,
+      "MinPriceThreshold": 14254,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "blackouts_cannabisbrickexodus",
+      "MaxPriceThreshold": 10948,
+      "MinPriceThreshold": 10401,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "blackouts_cannabisbrickganja_mountain",
+      "MaxPriceThreshold": 12960,
+      "MinPriceThreshold": 12312,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "blackouts_cannabisbrickmidnight_express",
+      "MaxPriceThreshold": 7020,
+      "MinPriceThreshold": 6669,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

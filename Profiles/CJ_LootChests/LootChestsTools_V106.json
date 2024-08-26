@@ -64,19 +64,19 @@
       "name": "CJ_Key8",
       "time": 3,
       "dmg": 10,
-      "desc": ""
+      "desc": "Airforce Lockup Key|If found please return to NWAF"
     },
     {
       "name": "CJ_Key9",
       "time": 3,
       "dmg": 10,
-      "desc": ""
+      "desc": "Hunter Lockup|If lost please call me I am on an island!"
     },
     {
       "name": "CJ_Key10",
       "time": 3,
       "dmg": 10,
-      "desc": ""
+      "desc": "Police Lockup Key|If found please hand into local police station"
     },
     {
       "name": "CJ_Key11",

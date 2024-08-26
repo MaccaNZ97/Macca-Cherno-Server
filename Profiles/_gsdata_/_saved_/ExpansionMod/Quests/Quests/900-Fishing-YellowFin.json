@@ -1,0 +1,86 @@
+{
+  "ConfigVersion": 22,
+  "ID": 900,
+  "Type": 1,
+  "Title": "Fishing Yellow Fin Tuna",
+  "Descriptions": [
+    "Ahoy, there, Matey! Lookin’ to do a little fishin’, are ye’? Well, coincidentally I am in need of some fish and I am currently unable to go catch ‘em myself.\r\n\r\nWhat's the problem, ye’ be askin’?\r\n\r\nWell, not that it's annyer business, but I've come down with a severe case of Bali Belly, so I can’t go too far away from the head.\r\n\r\nTo come straight to the point, ‘cause I can feel the sea breeze blowin’ in me lower regions, if ye could bring me back 3 Yellow Fin Tuna, I'd pay ye ₽250 per fish.",
+    "Catch 1 Yellow Tuna\r\n",
+    "To come straight to the point, ‘cause I can feel the sea breeze blowin’ in me lower regions, if ye could bring me back 1 Yellow Fin Tuna, "
+  ],
+  "ObjectiveText": "Catch 1 Yellow Fin Tuna",
+  "FollowUpQuest": 905,
+  "Repeatable": 0,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 0,
+  "CancelQuestOnPlayerDeath": 0,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [
+    {
+      "ClassName": "geb_BlueFishKnife",
+      "Amount": 1
+    },
+    {
+      "ClassName": "geb_MetalGrubWormBait",
+      "Amount": 1
+    },
+    {
+      "ClassName": "geb_BlueFishingRod",
+      "Amount": 1
+    },
+    {
+      "ClassName": "geb_BoneFieldCricketBait",
+      "Amount": 1
+    },
+    {
+      "ClassName": "geb_BoneGrassHopperBait",
+      "Amount": 1
+    }
+  ],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteHryvnia",
+      "Amount": 750,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    11
+  ],
+  "QuestTurnInIDs": [
+    11
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 27,
+      "ID": 9,
+      "ObjectiveType": 4
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 300,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [
+    17
+  ],
+  "RequiredFaction": "West",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 0,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

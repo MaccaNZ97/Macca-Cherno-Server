@@ -1,0 +1,114 @@
+{
+    "CrateConfigs": [
+        {
+            "StaticSpawns": 1,
+            "ActiveCrateCount": 2,
+            "AutoRefresh": 1,
+            "RefreshInterval": 60,
+            "CrateType": "Locked_Rust_Crate",
+            "UseCrateNotifications": 1,
+            "CrateSpawnNotification": "VMC Umbrealla Supplies have spawned!",
+            "CrateStartNotification": "Crate countdown started!",
+            "CrateEndNotification": "Crate unlocked! Come get some loot!",
+            "CountdownTime": 1,
+            "ZombieSpawnInterval": 60,
+            "ZombieSpawnMin": 10,
+            "ZombieSpawnMax": 20,
+            "ZombieSpawningEnabled": 1,
+            "UseBasicMarkers": 0,
+            "UseMarkersDuringCountdownOnly": 0,
+            "ZombieClasses": [
+               "CDAJ_ZmbM_NBC_BlueLight",
+      "CDAJ_ZmbM_NBC_ERDL",
+      "CDAJ_ZmbM_NBC_Green",
+      "CDAJ_ZmbM_NBC_Rainbow",
+      "CDAJ_ZmbM_NBC_Red",
+      "CDAJ_ZmbM_NBC_Space",
+      "CDAJ_ZmbM_Dark_Heavy"                   ],
+            "CrateLocations": [
+                {
+                    "Position": "4567.17 318 8355.29",
+                    "Rotation": "-86.2425 0.0 0.0"
+                },
+                {
+                    "Position": "4525.94 316.955 8302.35",
+                    "Rotation": "-168.742 0.0 0.0"
+                }
+               
+            ]
+        },
+        {
+            "StaticSpawns": 1,
+            "ActiveCrateCount": 1,
+            "AutoRefresh": 1,
+            "RefreshInterval": 60,
+            "CrateType": "Locked_Armoury_Container",
+            "UseCrateNotifications": 1,
+            "CrateSpawnNotification": "An armoury crate has spawned!",
+            "CrateStartNotification": "Armoury crate countdown started!",
+            "CrateEndNotification": "Armoury crate unlocked! Come get some weapons!",
+            "CountdownTime": 1,
+            "ZombieSpawnInterval": 60,
+            "ZombieSpawnMin": 5,
+            "ZombieSpawnMax": 15,
+            "ZombieSpawningEnabled": 1,
+            "UseBasicMarkers": 1,
+            "UseMarkersDuringCountdownOnly": 1,
+            "ZombieClasses": [
+              "CDAJ_ZmbM_NBC_BlueLight",
+                "CDAJ_ZmbM_NBC_ERDL",
+                "CDAJ_ZmbM_NBC_Green",
+                "CDAJ_ZmbM_NBC_Rainbow",
+                "CDAJ_ZmbM_NBC_Red",
+                "CDAJ_ZmbM_NBC_Space",
+                "CDAJ_ZmbM_Dark_Heavy"
+            ],
+            "CrateLocations": [
+                {
+                    "Position": "4431.4 313.473 8274.52",
+                    "Rotation": "162 0.0 0.0"
+                }
+            ]
+        },
+        {
+            "StaticSpawns": 0,
+            "ActiveCrateCount": 1,
+            "AutoRefresh": 1,
+            "RefreshInterval": 70,
+            "CrateType": "Locked_Car_Container",
+            "UseCrateNotifications": 1,
+            "CrateSpawnNotification": "A car crate has spawned!",
+            "CrateStartNotification": "Car crate countdown started!",
+            "CrateEndNotification": "Car crate unlocked! Come get a vehicle!",
+            "CountdownTime": 1,
+            "ZombieSpawnInterval": 60,
+            "ZombieSpawnMin": 20,
+            "ZombieSpawnMax": 30,
+            "ZombieSpawningEnabled": 1,
+            "UseBasicMarkers": 0,
+            "UseMarkersDuringCountdownOnly": 0,
+            "ZombieClasses": ["CDAJ_ZmbM_NBC_BlueLight",
+      "CDAJ_ZmbM_NBC_ERDL",
+      "CDAJ_ZmbM_NBC_Green",
+      "CDAJ_ZmbM_NBC_Rainbow",
+      "CDAJ_ZmbM_NBC_Red",
+      "CDAJ_ZmbM_NBC_Space",
+      "CDAJ_ZmbM_Dark_Heavy"],
+            "CrateLocations": [
+                {
+                    "Position": "13775.7 2.09068",
+                    "Rotation": "-99.0 0.0 0.0"
+                },
+                {
+                    "Position": "2126.72 91.2336 3367.54",
+                    "Rotation": "9.0 0.0 0.0"
+                },
+                {
+                    "Position": "7747.03 359.923 12832.4",
+                    "Rotation": "90.0 0.0 0.0"
+                }
+            ]
+        }
+    ],
+    "ServerStartGracePeriod": 5
+}

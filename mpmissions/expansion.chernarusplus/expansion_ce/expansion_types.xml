@@ -5204,12 +5204,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
   </type>
-  <type name="Macca_Garage_Sign">
-    <lifetime>3888000</lifetime>
-    <quantmin>0</quantmin>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
-  </type>
+ 
   <type name="Mag_Expansion_AWM_5Rnd">
     <nominal>20</nominal>
     <lifetime>10800</lifetime>

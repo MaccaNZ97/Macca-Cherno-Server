@@ -1,0 +1,98 @@
+{
+  "m_Version": 12,
+  "DisplayName": "CP BRICKS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "cp_cannabisbrickblackfrost",
+      "MaxPriceThreshold": 6300,
+      "MinPriceThreshold": 5985,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1000,
+      "MinStockThreshold": 2,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbrickblue",
+      "MaxPriceThreshold": 4840,
+      "MinPriceThreshold": 4598,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbrickfuture",
+      "MaxPriceThreshold": 5328,
+      "MinPriceThreshold": 5062,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbrickkush",
+      "MaxPriceThreshold": 6003,
+      "MinPriceThreshold": 5703,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbricknomad",
+      "MaxPriceThreshold": 6237,
+      "MinPriceThreshold": 5925,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbricks1",
+      "MaxPriceThreshold": 5104,
+      "MinPriceThreshold": 4849,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbrickskunk",
+      "MaxPriceThreshold": 4104,
+      "MinPriceThreshold": 3899,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 0,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cp_cannabisbrickstardawg",
+      "MaxPriceThreshold": 6440,
+      "MinPriceThreshold": 6118,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

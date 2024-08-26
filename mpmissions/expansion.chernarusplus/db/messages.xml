@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
+
+ <message>
+                <delay>10</delay>
+                <repeat>60</repeat>
+                <onconnect>1</onconnect>
+                <text>RELIGION ON A ROCK WITH VIEW OF THE SEA</text>
+        </message>
+		
+        <message>
+                <delay>12</delay>
+                <repeat>60</repeat>
+                <onconnect>1</onconnect>
+                <text>DEATH YOU'LL SEEK AND A TREASURE AWAITS THEE</text>
+        </message>
+        
 <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
 

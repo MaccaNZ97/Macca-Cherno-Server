@@ -247,7 +247,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-    <category name="food" />
+    <category name="donot_spawn" />
   </type>
   <type name="Blackouts_CannabisBrickDaxtal">
     <nominal>0</nominal>
@@ -258,7 +258,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-    <category name="food" />
+    <category name="donot_spawn" />
   </type>
   <type name="Blackouts_CannabisBrickExodus">
     <nominal>0</nominal>
@@ -269,7 +269,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-    <category name="food" />
+    <category name="donot_spawn" />
   </type>
   <type name="Blackouts_CannabisBrickGanja_Mountain">
     <nominal>0</nominal>
@@ -280,7 +280,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-    <category name="food" />
+    <category name="donot_spawn" />
   </type>
   <type name="Blackouts_CannabisBrickMidnight_Express">
     <nominal>0</nominal>
@@ -291,7 +291,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-    <category name="food" />
+    <category name="donot_spawn" />
   </type>
   <type name="Blackouts_CannabisDaxtal">
     <nominal>45</nominal>

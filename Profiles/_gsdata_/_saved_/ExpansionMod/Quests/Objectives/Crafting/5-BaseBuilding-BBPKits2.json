@@ -1,0 +1,15 @@
+{
+    "ConfigVersion": 27,
+    "ID": 5,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Craft BBP Kits",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "BBP_Gate_Kit",
+        "BBP_Ramp_Kit",
+        "BBP_Stair_Kit",
+        "BBP_Roof_Kit"
+    ],
+    "ExecutionAmount": 1
+}

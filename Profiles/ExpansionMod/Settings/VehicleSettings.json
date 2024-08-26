@@ -20,10 +20,10 @@
   "EnableHelicopterExplosions": 1,
   "DisableVehicleDamage": 0,
   "VehicleCrewDamageMultiplier": 1.5,
-  "VehicleSpeedDamageMultiplier": 0.0,
-  "VehicleRoadKillDamageMultiplier": 0.009999999776482582,
+  "VehicleSpeedDamageMultiplier": 10.0,
+  "VehicleRoadKillDamageMultiplier": 2.0,
   "CollisionDamageIfEngineOff": 0,
-  "CollisionDamageMinSpeedKmh": 700.0,
+  "CollisionDamageMinSpeedKmh": 700,
   "CanChangeLock": 1,
   "ChangeLockTools": [
     "Screwdriver"

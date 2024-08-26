@@ -97,12 +97,6 @@
         "AttackAnimalsHandlerIsActive": {
             "all": 1
         },
-        "AttackAnimalsWolfs": {
-            "all": 0
-        },
-        "AttackAnimalsBears": {
-            "all": 0
-        },
         "AttackAnimalsWildBoar": {
             "all": 1
         },
@@ -341,29 +335,31 @@
                 "Offroad_02": 0.20000000298023225,
                 "Truck_01_Covered_Blue": 0.3499999940395355,
                 "UA_Novator": 0.05000000074505806,
-                "Jeep_GladiatorF9_BOSS_camo_green": 0.10000000149011612,
+                "Jeep_GladiatorF9_BOSS_camo_green": 0.009999999776482582,
                 "UA_Novator_8_Pavlik": 0.05000000074505806,
                 "UA_Novator_3_AKPP": 0.05000000074505806,
                 "crsk_hummer_h2_6x6_xin_camo": 0.699999988079071,
                 "OffroadHatchback_White": 0.800000011920929,
                 "crsk_hummer_h2_6x6_xin_space": 0.699999988079071,
-                "Jeep_GladiatorF9_BOSS_Brown": 0.10000000149011612,
+                "Jeep_GladiatorF9_BOSS_Brown": 0.009999999776482582,
                 "UA_Novator_AKPP": 0.05000000074505806,
                 "UA_Novator_7_Kacci": 0.05000000074505806,
+                "camonetjeep": 0.009999999776482582,
                 "crsk_hummer_h2_6x6_xin": 0.699999988079071,
                 "Truck_01_Covered": 0.3499999940395355,
-                "Jeep_GladiatorF9_BOSS_DarkBlue": 0.10000000149011612,
+                "Jeep_GladiatorF9_BOSS_DarkBlue": 0.009999999776482582,
+                "Jeep_GladiatorF9_BOSS_Black": 0.009999999776482582,
                 "UA_Novator_5_Homka": 0.05000000074505806,
                 "crsk_hummer_h2_6x6_xin_black": 0.699999988079071,
                 "Truck_01_Covered_Orange": 0.3499999940395355,
-                "Jeep_GladiatorF9_BOSS_White": 0.10000000149011612,
-                "Jeep_GladiatorF9_BOSS_camo_red": 0.10000000149011612,
+                "Jeep_GladiatorF9_BOSS_White": 0.009999999776482582,
+                "Jeep_GladiatorF9_BOSS_camo_red": 0.009999999776482582,
                 "UA_Novator_2": 0.05000000074505806,
                 "UA_Novator_3": 0.05000000074505806,
-                "Jeep_GladiatorF9_BOSS_DarkRed": 0.10000000149011612,
+                "Jeep_GladiatorF9_BOSS_DarkRed": 0.009999999776482582,
                 "crsk_hummer_h2_6x6_xin_pink": 0.699999988079071,
-                "Jeep_GladiatorF9_BOSS_camo_blue": 0.10000000149011612,
-                "Jeep_GladiatorF9_BOSS_camo_black": 0.10000000149011612
+                "Jeep_GladiatorF9_BOSS_camo_blue": 0.009999999776482582,
+                "Jeep_GladiatorF9_BOSS_camo_black": 0.009999999776482582
             }
         },
         "AttackCarWindowDamagePercent": {
@@ -502,6 +498,12 @@
             "all": 1.0
         },
         "ReactDoorsNightNoise": {
+            "all": 1.0
+        },
+        "ReactPlayerFallDayNoise": {
+            "all": 1.0
+        },
+        "ReactPlayerFallNightNoise": {
             "all": 1.0
         },
         "ReactBodyfallDayNoise": {
@@ -758,17 +760,11 @@
         "DamageToZombieShockToStunHandlerIsActive": {
             "all": 0
         },
-        "DamageToZombieShockToStunLightHeavyAnimationThresholdMelee": {
-            "all": 16.0
-        },
         "DamageToZombieShockToStunLightHeavyAnimationThresholdMeleeHeavy": {
             "all": 0.0
         },
         "DamageToZombieShockToStunLightHeavyAnimationThresholdRange": {
             "all": 70.0
-        },
-        "DamageToZombieShockToStunThresholdMelee": {
-            "all": 0.0
         },
         "DamageToZombieShockToStunThresholdMeleeHeavy": {
             "all": 0.0
@@ -1072,6 +1068,7 @@
             "evg_barDoor",
             "evg_gate"
         ],
+        "DisableVanillaDoorNoiseSystem": 1,
         "PainSystemIsActive": 1,
         "ShowPainBadges": 1,
         "PainHealingRatePerSecondPercent": 0.10000000149011612,

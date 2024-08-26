@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<weather reset="1" enable="1">
+  <overcast>
+    <current actual="0.35" time="120" duration="240" />
+    <limits min="0.0" max="1.0" />
+    <timelimits min="900" max="1800" />
+    <changelimits min="0.0" max="1.0" />
+  </overcast>
+  <fog>
+    <current actual="0.0" time="120" duration="240" />
+    <limits min="0.0" max="0.0" />
+    <timelimits min="900" max="1800" />
+    <changelimits min="0.0" max="1.0" />
+  </fog>
+  <rain>
+    <current actual="0.01" time="120" duration="240" />
+    <limits min="0.2" max="1.0" />
+    <timelimits min="900" max="1800" />
+    <changelimits min="0.0" max="0.1" />
+    <thresholds min="0.5" max="1.0" end="120" />
+  </rain>
+  <wind>
+    <maxspeed>1</maxspeed>
+    <params min="0.0" max="1.0" frequency="30" />
+  </wind>
+  <storm density="0.50" threshold="0.7" timeout="25" />
+</weather>

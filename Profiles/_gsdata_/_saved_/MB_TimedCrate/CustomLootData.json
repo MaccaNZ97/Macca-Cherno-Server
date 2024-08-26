@@ -1,0 +1,148 @@
+{
+    "Crates": [
+        {
+            "cratetype": "Locked_Rust_Crate",
+            "numberOfItemsToSpawn": 5,
+            "IsRandom": 1,
+            "List": [
+                {
+                    "item": "M4A1",
+                    "attachments": [
+                        "M4_RISHndgrd_Black",
+                        "M4_CarryHandleOptic"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "AKM",
+                    "attachments": [
+                        "AK_RailHndgrd_Green",
+                        "AK_PlasticBttstck"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "FNX45",
+                    "attachments": [],
+                    "quantity": 1
+                },
+                {
+                    "item": "CannedBakedBeans",
+                    "attachments": [],
+                    "quantity": 2
+                },
+                {
+                    "item": "Canteen",
+                    "attachments": [],
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "cratetype": "Locked_Armoury_Container",
+            "numberOfItemsToSpawn": 9,
+            "IsRandom": 1,
+            "List": [
+                {
+                    "item": "M4A1",
+                    "attachments": [
+                        "M4_RISHndgrd_Black",
+                        "M4_CarryHandleOptic"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "AKM",
+                    "attachments": [
+                        "AK_RailHndgrd_Green",
+                        "AK_PlasticBttstck"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "M4A1",
+                    "attachments": [],
+                    "quantity": 1
+                },
+                {
+                    "item": "AKM",
+                    "attachments": [
+                        "AK_RailHndgrd_Green",
+                        "AK_PlasticBttstck"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "M4A1",
+                    "attachments": [],
+                    "quantity": 1
+                },
+                {
+                    "item": "AKM",
+                    "attachments": [
+                        "AK_RailHndgrd_Green",
+                        "AK_PlasticBttstck"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "M4A1",
+                    "attachments": [],
+                    "quantity": 1
+                },
+                {
+                    "item": "M4A1",
+                    "attachments": [],
+                    "quantity": 2
+                },
+                {
+                    "item": "M4A1",
+                    "attachments": [],
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "cratetype": "Locked_Car_Container",
+            "numberOfItemsToSpawn": 1,
+            "IsRandom": 1,
+            "List": [
+                {
+                    "item": "OffroadHatchback",
+                    "attachments": [
+                        "HatchbackWheel",
+                        "HatchbackWheel",
+                        "HatchbackWheel",
+                        "HatchbackWheel",
+                        "CarBattery",
+                        "SparkPlug",
+                        "CarRadiator",
+                        "HeadlightH7",
+                        "HeadlightH7"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "CivilianSedan",
+                    "attachments": [
+                        "CivSedanWheel",
+                        "CivSedanWheel",
+                        "CivSedanWheel",
+                        "CivSedanWheel",
+                        "CivSedanDoors_Driver",
+                        "CivSedanDoors_BackLeft",
+                        "CivSedanDoors_BackRight",
+                        "CivSedanHood",
+                        "CivSedanTrunk",
+                        "CarBattery",
+                        "SparkPlug",
+                        "CarRadiator",
+                        "HeadlightH7",
+                        "HeadlightH7"
+                    ],
+                    "quantity": 1
+                }
+            ]
+        }
+    ]
+}

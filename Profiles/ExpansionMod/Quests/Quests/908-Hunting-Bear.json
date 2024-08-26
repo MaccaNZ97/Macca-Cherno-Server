@@ -1,33 +1,24 @@
 {
   "ConfigVersion": 22,
-  "ID": 908
-  ,
+  "ID": 908,
   "Type": 1,
-  "Title": "Bear Control",
+  "Title": "Cocaine Bear",
   "Descriptions": [
-    "Bears are getting out of control coming out of the mountains attacking all in sundery\r\n\r\nKill me a Bear with your Crossbow and a Hunting Bolt",
-    "Kill a bear with a crossbow",
-    "Kill a bear with a crossbow"
+    "A bear has ravaged some Cartel Members camp and gorged themself on Coke\r\n\r\nFind the Bear and kill it bringing back the pelt as proof\r\n\r\nKnown to be North of Gorka",
+    "Find Cocane Bear",
+    "Welcome PMC"
   ],
-  "ObjectiveText": "Kill a bear with a crossbow",
+  "ObjectiveText": "Kill Cocaine Bear",
   "FollowUpQuest": -1,
-  "Repeatable": 0,
+  "Repeatable": 1,
   "IsDailyQuest": 0,
-  "IsWeeklyQuest": 0,
+  "IsWeeklyQuest": 1,
   "CancelQuestOnPlayerDeath": 0,
   "Autocomplete": 0,
   "IsGroupQuest": 0,
   "ObjectSetFileName": "",
   "QuestItems": [],
   "Rewards": [
-    {
-      "ClassName": "ExpansionBanknoteHryvnia",
-      "Amount": 10000,
-      "Attachments": [],
-      "DamagePercent": 0,
-      "HealthPercent": 0,
-      "QuestID": -1
-    },
     {
       "ClassName": "Expansion_AWM",
       "Amount": 1,
@@ -39,6 +30,14 @@
     {
       "ClassName": "Mag_Expansion_AWM_5Rnd",
       "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    },
+    {
+      "ClassName": "Ammo_Expansion_338",
+      "Amount": 20,
       "Attachments": [],
       "DamagePercent": 0,
       "HealthPercent": 0,
@@ -59,9 +58,19 @@
   "IsAchievement": 0,
   "Objectives": [
     {
-      "ConfigVersion": 27,
+      "ConfigVersion": 28,
+      "ID": 22,
+      "ObjectiveType": 3
+    },
+    {
+      "ConfigVersion": 28,
       "ID": 10,
       "ObjectiveType": 2
+    },
+    {
+      "ConfigVersion": 28,
+      "ID": 17,
+      "ObjectiveType": 4
     }
   ],
   "QuestColor": 0,

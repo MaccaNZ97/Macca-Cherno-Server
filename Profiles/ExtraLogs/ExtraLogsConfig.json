@@ -29,8 +29,8 @@
         "LifeTimeFilter": 180.0
     },
     "LiveMap": {
-        "ShowStashs": 0,
-        "ShowShelters": 0
+        "ShowStashs": 1,
+        "ShowShelters": 1
     },
     "CustomConfig": {
         "TakeMonitorItems": [

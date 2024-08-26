@@ -1,0 +1,98 @@
+{
+  "ConfigVersion": 22,
+  "ID": 508,
+  "Type": 1,
+  "Title": "Operations Military Zeleno Fort",
+  "Descriptions": [
+    "Umbrealla Corp seen staging in Zeleno Fort\r\n\r\nGet in there and we will reward you well.\r\n\r\nSince its you we will lend you a Heli to get there and back",
+    "Eliminate all at Zeleno Fort",
+    "Go hard!"
+  ],
+  "ObjectiveText": "Eliminate all at Zeleno Fort",
+  "FollowUpQuest": -1,
+  "Repeatable": 1,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 1,
+  "CancelQuestOnPlayerDeath": 1,
+  "Autocomplete": 0,
+  "IsGroupQuest": 1,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "SNAFU_AS50_GUN",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    },
+    {
+      "ClassName": "SNAFU_AS50_Mag",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    },
+    {
+      "ClassName": "SNAFU_AS50_Mag",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    },
+    {
+      "ClassName": "DNA_KeyCard_green_Inactive",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": -1
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": -1,
+  "RewardsForGroupOwnerOnly": 1,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [
+    8
+  ],
+  "QuestTurnInIDs": [
+    8
+  ],
+  "IsAchievement": 0,
+  "Objectives": [
+    {
+      "ConfigVersion": 27,
+      "ID": 19,
+      "ObjectiveType": 3
+    },
+    {
+      "ConfigVersion": 27,
+      "ID": 6,
+      "ObjectiveType": 8
+    }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 0,
+  "ReputationRequirement": -1,
+  "PreQuestIDs": [
+    502,
+    503,
+    504,
+    506,
+    507
+  ],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 0,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 0,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

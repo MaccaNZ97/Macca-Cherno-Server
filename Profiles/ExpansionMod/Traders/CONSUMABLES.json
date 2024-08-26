@@ -12,11 +12,28 @@
   "DisplayCurrencyValue": 1,
   "DisplayCurrencyName": "",
   "Categories": [
-    "FRUIT_AND_VEGETABLES",
     "FOOD",
     "MEAT",
     "DRINKS",
     "FISH:2"
   ],
-  "Items": {}
+  "Items": {
+    "agaricusmushroom": 1,
+    "apple": 1,
+    "auriculariamushroom": 1,
+    "boletusmushroom": 1,
+    "caninaberry": 1,
+    "greenbellpepper": 1,
+    "lactariusmushroom": 1,
+    "macrolepiotamushroom": 1,
+    "pear": 1,
+    "pleurotusmushroom": 1,
+    "plum": 1,
+    "potato": 1,
+    "potatoseed": 0,
+    "pumpkin": 1,
+    "sambucusberry": 1,
+    "tomato": 1,
+    "zucchini": 1
+  }
 }

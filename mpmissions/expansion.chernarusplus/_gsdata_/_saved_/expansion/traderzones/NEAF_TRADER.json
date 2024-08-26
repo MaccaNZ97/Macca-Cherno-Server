@@ -1,0 +1,13 @@
+{
+  "m_Version": 6,
+  "m_DisplayName": "NEAF_TRADER",
+  "Position": [
+    11847,
+    139,
+    12464.7002
+  ],
+  "Radius": 50,
+  "BuyPricePercent": 120,
+  "SellPricePercent": 70,
+  "Stock": {}
+}

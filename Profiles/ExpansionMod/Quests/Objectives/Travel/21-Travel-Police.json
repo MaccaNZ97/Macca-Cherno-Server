@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 21,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Travel to Police Station Cherno",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6663.77001953125,
+        6.942130088806152,
+        2606.25
+    ],
+    "MaxDistance": 50.0,
+    "MarkerName": "Police Quest Cherno",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

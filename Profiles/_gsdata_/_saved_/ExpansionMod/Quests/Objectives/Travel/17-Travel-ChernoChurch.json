@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "Recon the Church",
+  "TimeLimit": -1,
+  "Active": 1,
+  "Position": [
+    6551.08,
+    9.85487,
+    2343.94
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "Recon Church",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 27,
+  "ID": 17,
+  "ObjectiveType": 3
+}

@@ -1,39 +1,37 @@
 {
-  "ObjectiveText": "Catch me some Fresh Water Bass",
-  "TimeLimit": -1,
-  "Collections": [
-    {
-      "Amount": 1,
-      "ClassName": "geb_Blackbass",
-      "QuantityPercent": 0,
-      "MinQuantityPercent": 0
-    },
-    {
-      "Amount": 1,
-      "ClassName": "geb_Largemouthbass",
-      "QuantityPercent": 0,
-      "MinQuantityPercent": 0
-    },
-    {
-      "Amount": 1,
-      "ClassName": "geb_Smallmouthbass",
-      "QuantityPercent": 0,
-      "MinQuantityPercent": 0
-    },
-    {
-      "Amount": 1,
-      "ClassName": "geb_Whitebass",
-      "QuantityPercent": 0,
-      "MinQuantityPercent": 0
-    }
-  ],
-  "MaxDistance": 0,
-  "MarkerName": null,
-  "ShowDistance": 0,
-  "AddItemsToNearbyMarketZone": 0,
-  "NeedAnyCollection": 1,
-  "Active": 1,
-  "ConfigVersion": 27,
-  "ID": 15,
-  "ObjectiveType": 4
+    "ConfigVersion": 28,
+    "ID": 15,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Catch me some Fresh Water Bass",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "geb_Blackbass",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Largemouthbass",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Smallmouthbass",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Whitebass",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
 }

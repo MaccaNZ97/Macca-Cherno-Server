@@ -1,0 +1,164 @@
+{
+    "Crates": [
+        {
+            "cratetype": "Locked_Rust_Crate",
+            "numberOfItemsToSpawn": 5,
+            "IsRandom": 1,
+            "List": [
+                {
+                    "item": "M4A1",
+                    "attachments": [
+                        "M4_RISHndgrd_Black",
+                        "M4_CarryHandleOptic"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "AKM",
+                    "attachments": [
+                        "AK_RailHndgrd_Green",
+                        "AK_PlasticBttstck"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "FNX45",
+                    "attachments": [],
+                    "quantity": 1
+                },
+                {
+                    "item": "CannedBakedBeans",
+                    "attachments": [],
+                    "quantity": 2
+                },
+                {
+                    "item": "Canteen",
+                    "attachments": [],
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "cratetype": "Locked_Armoury_Container",
+            "numberOfItemsToSpawn": 9,
+            "IsRandom": 1,
+            "List": [
+                {
+                    "item": "M4A1",
+                    "attachments": [
+                        "M4_RISHndgrd_Black",
+                        "M4_CarryHandleOptic"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "AKM",
+                    "attachments": [
+                        "AK_RailHndgrd_Green",
+                        "AK_PlasticBttstck"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "M4A1",
+                    "attachments": [],
+                    "quantity": 1
+                },
+                {
+                    "item": "AKM",
+                    "attachments": [
+                        "AK_RailHndgrd_Green",
+                        "AK_PlasticBttstck"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "M4A1",
+                    "attachments": [],
+                    "quantity": 1
+                },
+                {
+                    "item": "AKM",
+                    "attachments": [
+                        "AK_RailHndgrd_Green",
+                        "AK_PlasticBttstck"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "M4A1",
+                    "attachments": [],
+                    "quantity": 1
+                },
+                {
+                    "item": "M4A1",
+                    "attachments": [],
+                    "quantity": 2
+                },
+                {
+                    "item": "M4A1",
+                    "attachments": [],
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "cratetype": "Locked_Car_Container",
+            "numberOfItemsToSpawn": 1,
+            "IsRandom": 1,
+            "List": [
+                {
+                    "item": "offroad_02",
+                    "attachments": [
+                        "offroad_02_wheel",
+                        "offroad_02_wheel",
+                        "offroad_02_wheel",
+                        "offroad_02_wheel",
+                        "offroad_02_wheel",
+                        "offroad_02_door_1_1",
+                        "offroad_02_door_2_1",
+                        "offroad_02_door_1_2",
+                        "offroad_02_door_2_2",
+                        "offroad_02_hood",
+                        "offroad_02_trunk",
+                        "carbattery",
+                        "glowplug",
+                        "headlighth7",
+                        "headlighth7",
+                        "hydraulicjack",
+                        "trafficcone",
+                        "wrench"
+                    ],
+                    "quantity": 1
+                },
+                {
+                    "item": "expansion_landrover",
+                    "attachments": [
+                        "expansion_landrover_hood",
+                        "expansion_landrover_driverdoor",
+                        "expansion_landrover_codriverdoor",
+                        "expansion_landrover_left",
+                        "expansion_landrover_right",
+                        "expansion_landrover_trunk",
+                        "carbattery",
+                        "carradiator",
+                        "sparkplug",
+                        "headlighth7",
+                        "headlighth7",
+                        "canistergasoline",
+                        "seachest",
+                        "woodencrate",
+                        "woodencrate",
+                        "woodencrate",
+                        "expansion_landrover_wheel",
+                        "expansion_landrover_wheel",
+                        "expansion_landrover_wheel",
+                        "expansion_landrover_wheel",
+                        "expansion_landrover_wheel"
+                    ],
+                    "quantity": 1
+                }
+            ]
+        }
+    ]
+}

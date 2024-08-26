@@ -1,45 +1,43 @@
 {
-  "ObjectiveText": "Catch at least 1 rout ",
-  "TimeLimit": -1,
-  "Collections": [
-    {
-      "Amount": 1,
-      "ClassName": "geb_BrookTrout",
-      "QuantityPercent": 0,
-      "MinQuantityPercent": 0
-    },
-    {
-      "Amount": 1,
-      "ClassName": "geb_BrownTrout",
-      "QuantityPercent": 0,
-      "MinQuantityPercent": 0
-    },
-    {
-      "Amount": 1,
-      "ClassName": "geb_CutthroatTrout",
-      "QuantityPercent": 0,
-      "MinQuantityPercent": 0
-    },
-    {
-      "Amount": 1,
-      "ClassName": "geb_LakeTrout",
-      "QuantityPercent": 0,
-      "MinQuantityPercent": 0
-    },
-    {
-      "Amount": 1,
-      "ClassName": "geb_Trout",
-      "QuantityPercent": 0,
-      "MinQuantityPercent": 0
-    }
-  ],
-  "MaxDistance": 0,
-  "MarkerName": null,
-  "ShowDistance": 0,
-  "AddItemsToNearbyMarketZone": 0,
-  "NeedAnyCollection": 1,
-  "Active": 1,
-  "ConfigVersion": 27,
-  "ID": 14,
-  "ObjectiveType": 4
+    "ConfigVersion": 28,
+    "ID": 14,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Catch at least 1 rout ",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "geb_BrookTrout",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_BrownTrout",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_CutthroatTrout",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_LakeTrout",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        },
+        {
+            "Amount": 1,
+            "ClassName": "geb_Trout",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 0,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
 }

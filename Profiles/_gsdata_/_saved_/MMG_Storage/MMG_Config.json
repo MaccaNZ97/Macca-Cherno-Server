@@ -4,6 +4,14 @@
     "EnableAttach": "true",
     "EnableRaid": "true",
     "DeleteLockAfterRaid": "false",
+    "Craft_Gun_Rack": "",
+    "Craft_Tent": "",
+    "Craft_SupplyCrate_Unfinished": "",
+    "Craft_SupplyCrate": "",
+    "Craft_Gear_Stand": "",
+    "Craft_Gunwall": "",
+    "Craft_Old_Table": "",
+    "Craft_Wall_Shelf": "",
     "RaidingTools": [
         "mmg_raid_driver"
     ]

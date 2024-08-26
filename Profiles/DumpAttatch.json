@@ -5747,17 +5747,7 @@
             ],
             "magazines": []
         },
-        {
-            "name": "Flaregun",
-            "attachments": [],
-            "bullets": [
-                "Ammo_Flare",
-                "Ammo_FlareRed",
-                "Ammo_FlareGreen",
-                "Ammo_FlareBlue"
-            ],
-            "magazines": []
-        },
+        
         {
             "name": "FNX45",
             "attachments": [

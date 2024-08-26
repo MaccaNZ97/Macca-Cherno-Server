@@ -1,11 +1,11 @@
 {
   "Version": 20,
-  "Spatial_MinTimer": 20,
-  "Spatial_MaxTimer": 30,
+  "Spatial_MinTimer": 10,
+  "Spatial_MaxTimer": 20,
   "MinDistance": 140,
   "MaxDistance": 220,
-  "HuntMode": 1,
-  "Points_Enabled": 2,
+  "HuntMode": 2,
+  "Points_Enabled": 1,
   "Locations_Enabled": 1,
   "Audio_Enabled": 1,
   "EngageTimer": 5.0,
@@ -16,7 +16,7 @@
   "MinimumPlayerDistance": 0,
   "MaxSoloPlayers": 0,
   "MinimumAge": 240,
-  "ActiveHoursEnabled": 0,
+  "ActiveHoursEnabled": 3,
   "ActiveStartTime": 0.0,
   "ActiveStopTime": 24.0,
   "TargetBone": "Neck",
@@ -39,7 +39,7 @@
       "Spatial_Loadout": "WestLoadout.json",
       "Spatial_Faction": "West",
       "Spatial_Name": "Group Friendly",
-      "Spatial_Lootable": 1,
+      "Spatial_Lootable": 0,
       "Spatial_Chance": 0.25,
       "Spatial_MinAccuracy": 0.25,
       "Spatial_MaxAccuracy": 0.6600000262260437,
@@ -90,9 +90,9 @@
       "Spatial_MaxAccuracy": 0.6600000262260437,
       "Spatial_UnlimitedReload": 1,
       "Spatial_Position": [
-        25210.1191,
-        193.128006,
-        5117.8999
+        2537.38989,
+        193.268997,
+        5104.62988
       ]
     },
     {
@@ -129,14 +129,14 @@
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
-      "Spatial_Chance": 0.75,
+      "Spatial_Chance": 0.55,
       "Spatial_MinAccuracy": 0.25,
       "Spatial_MaxAccuracy": 0.6600000262260437,
       "Spatial_UnlimitedReload": 1,
       "Spatial_Position": [
-        25210.1191,
-        193.128006,
-        5117.8999
+        4958.06982,
+        9.51247025,
+        2476.55005
       ]
     },
     {
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "Spatial_Name": "VMC Military",
+      "Spatial_Name": "NEAF Military",
       "Spatial_Safe": 0,
       "Spatial_Radius": 100.0,
       "Spatial_ZoneLoadout": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "Spatial_Name": "Tisy Military",
+      "Spatial_Name": "Tisy Military 3",
       "Spatial_Safe": 0,
       "Spatial_Radius": 50.0,
       "Spatial_ZoneLoadout": [
@@ -228,11 +228,10 @@
       ]
     },
     {
-      "Spatial_Name": "Tisy Military",
+      "Spatial_Name": "Tisy Military 3",
       "Spatial_Safe": 0,
       "Spatial_Radius": 50.0,
       "Spatial_ZoneLoadout": [
-        "UmbrellaCorptisy.json",
         "NBCFullLoadout.json"
       ],
       "Spatial_MinCount": 3,
@@ -245,9 +244,9 @@
       "Spatial_MaxAccuracy": 0.8600000262260437,
       "Spatial_UnlimitedReload": 1,
       "Spatial_Position": [
-        161868.266,
-        448.739014,
-        13733.5996
+        1764.59998,
+        442.218994,
+        13860.5996
       ]
     },
     {
@@ -361,7 +360,7 @@
       ]
     },
     {
-      "Spatial_Name": "Kamensk Military",
+      "Spatial_Name": "Pavlova Military",
       "Spatial_Safe": 0,
       "Spatial_Radius": 150.0,
       "Spatial_ZoneLoadout": [
@@ -377,13 +376,13 @@
       "Spatial_MaxAccuracy": 0.8600000262260437,
       "Spatial_UnlimitedReload": 1,
       "Spatial_Position": [
-        7764.97998,
-        355.634003,
-        14771.2998
+        2122.16992,
+        91.696701,
+        3361.43994
       ]
     },
     {
-      "Spatial_Name": "Kamensk Military",
+      "Spatial_Name": "Mishkino Military",
       "Spatial_Safe": 0,
       "Spatial_Radius": 150.0,
       "Spatial_ZoneLoadout": [
@@ -399,13 +398,13 @@
       "Spatial_MaxAccuracy": 0.8600000262260437,
       "Spatial_UnlimitedReload": 1,
       "Spatial_Position": [
-        8017.18018,
-        339.852997,
-        14672.2998
+        1165.45996,
+        185.352005,
+        7226.27002
       ]
     },
     {
-      "Spatial_Name": "Pavolva Military",
+      "Spatial_Name": "Kamensk Military",
       "Spatial_Safe": 0,
       "Spatial_Radius": 250.0,
       "Spatial_ZoneLoadout": [
@@ -421,9 +420,31 @@
       "Spatial_MaxAccuracy": 0.8600000262260437,
       "Spatial_UnlimitedReload": 1,
       "Spatial_Position": [
-        7894.72998,
-        34100,
-        14608.2002
+        7928.9502,
+        339.843994,
+        14666.4004
+      ]
+    },
+    {
+      "Spatial_Name": "Sklaist Upper Mil",
+      "Spatial_Safe": 0,
+      "Spatial_Radius": 100,
+      "Spatial_ZoneLoadout": [
+        "Blacks_Alpha_Loadout.json"
+      ],
+      "Spatial_MinCount": 1,
+      "Spatial_MaxCount": 1,
+      "Spatial_HuntMode": 6,
+      "Spatial_Faction": "Shamans",
+      "Spatial_Lootable": 1,
+      "Spatial_Chance": 0.80,
+      "Spatial_MinAccuracy": 0.5,
+      "Spatial_MaxAccuracy": 0.70,
+      "Spatial_UnlimitedReload": 1,
+      "Spatial_Position": [
+        13953.7998,
+        22.8050995,
+        2847.54004
       ]
     }
   ],
@@ -431,7 +452,7 @@
     {
       "Spatial_Name": "Tisy Snipers",
       "Spatial_TriggerRadius": 250.0,
-      "Spatial_ZoneLoadout": "UmbrellaCorptisy.json",
+      "Spatial_ZoneLoadout": "NBCFullLoadout.json",
       "Spatial_MinCount": 3,
       "Spatial_MaxCount": 5,
       "Spatial_HuntMode": 1,
@@ -458,35 +479,6 @@
     }
   ],
   "Audio": [
-    {
-      "Spatial_Name": "Audio1",
-      "Spatial_TriggerRadius": 150.0,
-      "Spatial_ZoneLoadout": "UmbrellaLoadout556.json",
-      "Spatial_MinCount": 4,
-      "Spatial_MaxCount": 4,
-      "Spatial_HuntMode": 1,
-      "Spatial_Faction": "Shamans",
-      "Spatial_Lootable": 1,
-      "Spatial_Chance": 0.5,
-      "Spatial_MinAccuracy": 0.25,
-      "Spatial_MaxAccuracy": 0.6600000262260437,
-      "Spatial_Timer": 5.0,
-      "Spatial_Sensitivity": 3.0,
-      "Spatial_SpawnMode": 1,
-      "Spatial_UnlimitedReload": 0,
-      "Spatial_TriggerPosition": [
-        2318.97998,
-        300.427002,
-        5952.66992
-      ],
-      "Spatial_SpawnPosition": [
-        [
-          2318.97998,
-          300.427002,
-          5952.66016
-        ]
-      ]
-    },
     {
       "Spatial_Name": "Audio2",
       "Spatial_TriggerRadius": 50.0,

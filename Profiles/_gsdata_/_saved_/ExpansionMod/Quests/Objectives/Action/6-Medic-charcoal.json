@@ -1,0 +1,17 @@
+{
+    "ConfigVersion": 27,
+    "ID": 6,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Eat Charcoal Tablet",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionConsumeSingle",
+        "ActionEatTabletFromWrapper"
+    ],
+    "AllowedClassNames": [
+        "CharcoalTablets"
+    ],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

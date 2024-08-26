@@ -292,50 +292,7 @@
       "SpawnAttachments": [],
       "Variants": []
     },
-    {
-      "ClassName": "ammo_flare",
-      "MaxPriceThreshold": 5,
-      "MinPriceThreshold": 4,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "ammo_flareblue",
-      "MaxPriceThreshold": 5,
-      "MinPriceThreshold": 4,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "ammo_flaregreen",
-      "MaxPriceThreshold": 5,
-      "MinPriceThreshold": 4,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "ammo_flarered",
-      "MaxPriceThreshold": 5,
-      "MinPriceThreshold": 4,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
+    
     {
       "ClassName": "ammo_huntingbolt",
       "MaxPriceThreshold": 2,

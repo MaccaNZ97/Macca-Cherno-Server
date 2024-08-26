@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 27,
+    "ID": 14,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Splint",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionSplintSelf"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

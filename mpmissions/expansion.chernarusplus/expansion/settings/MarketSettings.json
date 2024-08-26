@@ -65,6 +65,18 @@
         0,
         0
       ]
+    },
+    {
+      "Position": [
+        11873,
+        140.085999,
+        12457.5
+      ],
+      "Orientation": [
+        0,
+        0,
+        0
+      ]
     }
   ],
   "AirSpawnPositions": [
@@ -191,6 +203,7 @@
       ]
     }
   ],
+  "TrainSpawnPositions": [],
   "MarketMenuColors": {
     "BaseColorVignette": "000000C8",
     "BaseColorHeaders": "13171BFF",

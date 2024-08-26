@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 27,
+    "ID": 25,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Lockpick a vehicle:",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ExpansionActionPickVehicleLock"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

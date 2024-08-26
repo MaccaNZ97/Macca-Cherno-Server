@@ -1,0 +1,18 @@
+{
+    "configVersion": 1,
+    "isModDisabled": 0,
+    "isDebugEnabled": 0,
+    "maxDistance": 5.0,
+    "discordUrl": "https://discord.com/api/webhooks/1272021137332895745/kBYRU8LH-EJ8LQ8S9QQYX6jdBmlOvAwm-YZCxd7eysvxffC34RdD4uSoggxzvY7Lld9E",
+    "discordTextTitle": "Потенциальный читер",
+    "discordTextTpl": "`%1`\nПредмет: **%2**\nРасстояние: %3 м.\n**Координаты**\nОткуда: `%4` [карта](https://www.izurvive.com/chernarusplus/#location=%4;5)\nКуда: `%5` [карта](https://www.izurvive.com/chernarusplus/#location=%5;5)\nid предмета: `%6`\n**Полный лог:**\n```%7```",
+    "ignoreItems": [
+        "Apple",
+        "CowboyHat_green",
+        "HuntingKnife|1"
+    ],
+    "ignoreContainers": [
+        "AliceBag_Black",
+        "Bear_Dark"
+    ]
+}

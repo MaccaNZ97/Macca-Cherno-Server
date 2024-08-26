@@ -12,7 +12,7 @@
                 0.5,
                 0.0
             ],
-            "autoCloseTime": 15.0,
+            "autoCloseTime": 60.0,
             "itemsToOpenDoor": [
                 "evg_keycards_NWAF01"
             ],
@@ -36,7 +36,7 @@
                 0.0,
                 0.0
             ],
-            "autoCloseTime": 15.0,
+            "autoCloseTime": 60.0,
             "itemsToOpenDoor": [
                 "evg_keycards_Blue"
             ],
@@ -60,7 +60,7 @@
                 0.0,
                 0.0
             ],
-            "autoCloseTime": 15.0,
+            "autoCloseTime": 60.0,
             "itemsToOpenDoor": [
                 "evg_keycards_Green"
             ],
@@ -84,7 +84,7 @@
                 0.0,
                 0.0
             ],
-            "autoCloseTime": 15.0,
+            "autoCloseTime": 60.0,
             "itemsToOpenDoor": [
                 "evg_keycards_Red"
             ],
@@ -110,9 +110,9 @@
                 0.0,
                 0.0
             ],
-            "autoCloseTime": 15.0,
+            "autoCloseTime": 60.0,
             "itemsToOpenDoor": [
-                "evg_keycards_NWAF02"
+                "evg_keycards_NWAF03"
             ],
             "damageToKeycard": 30.0,
             "enableSwipeSound": 1,
@@ -134,9 +134,9 @@
                 0.0,
                 0.0
             ],
-            "autoCloseTime": 15.0,
+            "autoCloseTime": 60.0,
             "itemsToOpenDoor": [
-                "evg_keycards_NWAF03"
+                "evg_keycards_NWAF02"
             ],
             "damageToKeycard": 30.0,
             "enableSwipeSound": 1,
@@ -158,7 +158,7 @@
                 0.0,
                 0.0
             ],
-            "autoCloseTime": 15.0,
+            "autoCloseTime": 60.0,
             "itemsToOpenDoor": [
                 "evg_keycards_Red"
             ],

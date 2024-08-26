@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 27,
+    "ID": 5,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Kill and Skin a Deer.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "DeerPelt",
+            "QuantityPercent": 0,
+            "MinQuantityPercent": 0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

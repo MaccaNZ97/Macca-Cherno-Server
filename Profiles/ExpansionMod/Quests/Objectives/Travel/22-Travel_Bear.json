@@ -1,0 +1,18 @@
+{
+  "ObjectiveText": "Bear Hunt!",
+  "TimeLimit": -1,
+  "Active": 0,
+  "Position": [
+    9770.037000,
+    258.868800,
+    9343.120000
+  ],
+  "MaxDistance": -1,
+  "MarkerName": "Bear Hunting Ground",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "ConfigVersion": 28,
+  "ID": 22,
+  "ObjectiveType": 3
+}
