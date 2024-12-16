@@ -1,0 +1,60 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>		
+	<!-- Comment or uncomment (ctrl+Q) the lines that correspond to the map you use or not -->
+	
+	<type Zone_To_Use = "Electro">	 <!-- Zone Name to use, if not found in the list a random one will be chosen -->
+				<!-- Chernarus -->
+        <Zone_Data		Name = "Electro"		Coord_TopLeft_Corner = "4402/9723"		Coord_LowRight_Corner = "4733/9463"/>
+        <Zone_Data		Name = "Cherno"			Coord_TopLeft_Corner = "5220/3600"		Coord_LowRight_Corner = "8190/2160"/>
+        <Zone_Data		Name = "Zeleno"			Coord_TopLeft_Corner = "2100/5560"		Coord_LowRight_Corner = "2940/4910"/>
+        <Zone_Data		Name = "Novaya Petro"	Coord_TopLeft_Corner = "3050/13200"		Coord_LowRight_Corner = "3730/12570"/>
+        <Zone_Data		Name = "Severo"			Coord_TopLeft_Corner = "7410/13000"		Coord_LowRight_Corner = "8830/12450"/>
+        <Zone_Data		Name = "Novod"			Coord_TopLeft_Corner = "10410/14870"	Coord_LowRight_Corner = "12590/14060"/>
+        <Zone_Data		Name = "Svetlo"			Coord_TopLeft_Corner = "13650/13520"	Coord_LowRight_Corner = "14220/12940"/>
+        <Zone_Data		Name = "Berez"			Coord_TopLeft_Corner = "11650/10430"	Coord_LowRight_Corner = "13230/8840"/>
+		
+				<!-- Livonia -->
+        <!-- <Zone_Data		Name = "Topolin"				Coord_TopLeft_Corner = "900/8190"		Coord_LowRight_Corner = "2240/6790"/> -->
+        <!-- <Zone_Data		Name = "Gradin_Tarnow"			Coord_TopLeft_Corner = "9050/11360"		Coord_LowRight_Corner = "11160/10310"/> -->
+        <!-- <Zone_Data		Name = "Nadbor"					Coord_TopLeft_Corner = "5420/4390"		Coord_LowRight_Corner = "6520/3710"/> -->
+        <!-- <Zone_Data		Name = "Gieraltow"				Coord_TopLeft_Corner = "10770/4840"		Coord_LowRight_Corner = "11720/4130"/> -->
+        <!-- <Zone_Data		Name = "Lukow_Airfield"			Coord_TopLeft_Corner = "2980/12260"		Coord_LowRight_Corner = "4610/10060"/> -->
+        <!-- <Zone_Data		Name = "Bielawa"				Coord_TopLeft_Corner = "1120/9960"		Coord_LowRight_Corner = "2180/9350"/> -->
+        <!-- <Zone_Data		Name = "SouthIndus"				Coord_TopLeft_Corner = "7160/3030"		Coord_LowRight_Corner = "7760/2430"/> -->
+        <!-- <Zone_Data		Name = "Dolnik"					Coord_TopLeft_Corner = "11080/840"		Coord_LowRight_Corner = "11720/260"/> -->
+        <!-- <Zone_Data		Name = "Radunin_Lemork_Roztoka"	Coord_TopLeft_Corner = "7180/6980"		Coord_LowRight_Corner = "9160/5130"/> -->
+        <!-- <Zone_Data		Name = "Sitnick_Borek"			Coord_TopLeft_Corner = "9590/9880"		Coord_LowRight_Corner = "11810/8270"/> -->
+        <!-- <Zone_Data		Name = "Sobotka_Brena_Gliniska"	Coord_TopLeft_Corner = "4850/11530"		Coord_LowRight_Corner = "6820/9495"/> -->
+		
+				<!-- DeerIsle -->
+        <!-- <Zone_Data		Name = "OceanVille_PaulsView"			Coord_TopLeft_Corner = "8240/6240"		Coord_LowRight_Corner = "10980/3300"/> -->
+        <!-- <Zone_Data		Name = "Stonington"						Coord_TopLeft_Corner = "5980/2430"		Coord_LowRight_Corner = "7700/630"/> -->
+        <!-- <Zone_Data		Name = "Airfeild_Georgestown_Hazelands"	Coord_TopLeft_Corner = "4060/4610"		Coord_LowRight_Corner = "5980/2550"/> -->
+        <!-- <Zone_Data		Name = "West Military Base"				Coord_TopLeft_Corner = "2170/4450"		Coord_LowRight_Corner = "3290/2980"/> -->
+        <!-- <Zone_Data		Name = "Westbrook"						Coord_TopLeft_Corner = "3000/7050"		Coord_LowRight_Corner = "3880/5740"/> -->
+        <!-- <Zone_Data		Name = "Swamp"							Coord_TopLeft_Corner = "2460/10000"		Coord_LowRight_Corner = "4830/8272"/> -->
+        <!-- <Zone_Data		Name = "Waldoboro"						Coord_TopLeft_Corner = "7720/9750"		Coord_LowRight_Corner = "9550/8520"/> -->
+        <!-- <Zone_Data		Name = "Portland"						Coord_TopLeft_Corner = "5680/15240"		Coord_LowRight_Corner = "6630/13810"/> -->
+		
+				<!-- Namalsk -->
+        <!-- <Zone_Data		Name = "North Isle"			Coord_TopLeft_Corner = "3940/12100"	Coord_LowRight_Corner = "9230/9720"/> -->
+        <!-- <Zone_Data		Name = "East Isle"			Coord_TopLeft_Corner = "6450/9330"	Coord_LowRight_Corner = "8276/5490"/> -->
+        <!-- <Zone_Data		Name = "Seraja Mountain"	Coord_TopLeft_Corner = "3260/7000"	Coord_LowRight_Corner = "4850/6060"/> -->
+        <!-- <Zone_Data		Name = "Research Institute"	Coord_TopLeft_Corner = "3760/8370"	Coord_LowRight_Corner = "5280/7380"/> -->
+		
+				<!-- Takistan -->
+        <!-- <Zone_Data		Name = "Around_Rasman"		Coord_TopLeft_Corner = "4840/12015"	Coord_LowRight_Corner = "7300/9400"/> -->
+        <!-- <Zone_Data		Name = "Around_FeeruzAbad"	Coord_TopLeft_Corner = "3770/7445"	Coord_LowRight_Corner = "6775/4630"/> -->
+        <!-- <Zone_Data		Name = "Around_Loymanara"	Coord_TopLeft_Corner = "6560/2710"	Coord_LowRight_Corner = "9435/900"/> -->
+        <!-- <Zone_Data		Name = "Around_Garmsar"		Coord_TopLeft_Corner = "8190/7145"	Coord_LowRight_Corner = "11925/4775"/> -->
+		
+				<!-- Chiemsee -->
+        <!-- <Zone_Data		Name = "North"		Coord_TopLeft_Corner = "100/10000"	Coord_LowRight_Corner = "10130/5030"/> -->
+        <!-- <Zone_Data		Name = "West"		Coord_TopLeft_Corner = "1120/6080"	Coord_LowRight_Corner = "5059/710"/> -->
+        <!-- <Zone_Data		Name = "Isle"		Coord_TopLeft_Corner = "5570/4630"	Coord_LowRight_Corner = "8460/2600"/> -->
+		
+				<!-- Banov -->
+        <!-- <Zone_Data		Name = "Banovce"	Coord_TopLeft_Corner = "4900/3090"	Coord_LowRight_Corner = "7935/475"/> -->
+	</type>
+</types>

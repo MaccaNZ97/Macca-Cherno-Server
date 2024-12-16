@@ -191,6 +191,24 @@
       "Variants": [
         "fog_ronin_hat_black"
       ]
+    },
+    {
+      "ClassName": "fog_fastmt_cover_alp",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 50,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_fastmt_cover_aor1",
+        "fog_fastmt_cover_aor2",
+        "fog_fastmt_cover_black",
+        "fog_fastmt_cover_mc",
+        "fog_fastmt_cover_mcb",
+        "fog_fastmt_cover_rg"
+      ]
     }
   ]
 }

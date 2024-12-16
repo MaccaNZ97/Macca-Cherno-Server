@@ -8,8 +8,8 @@
   "Items": [
     {
       "ClassName": "ua_novator",
-      "MaxPriceThreshold": 265000,
-      "MinPriceThreshold": 265000,
+      "MaxPriceThreshold": 370000,
+      "MinPriceThreshold": 370000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -30,7 +30,6 @@
         "ua_novator_r_wheel",
         "ua_novator_f_wheel",
         "ua_novator_f_wheel",
-        "ua_novator_f_wheel",
         "stugna",
         "varta_box",
         "varta_tent",
@@ -42,8 +41,8 @@
     },
     {
       "ClassName": "ua_novator_2",
-      "MaxPriceThreshold": 265000,
-      "MinPriceThreshold": 265000,
+      "MaxPriceThreshold": 370000,
+      "MinPriceThreshold": 370000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -62,7 +61,6 @@
         "ua_novator2_doors_hood",
         "ua_novator_r_wheel",
         "ua_novator_r_wheel",
-        "ua_novator_f_wheel",
         "ua_novator_f_wheel",
         "ua_novator_f_wheel",
         "stugna",
@@ -70,14 +68,15 @@
         "varta_tent",
         "varta_box",
         "varta_box",
-        "varta_box"
+        "varta_box",
+        "ua_novator_r_wheel"
       ],
       "Variants": []
     },
     {
       "ClassName": "ua_novator_2_akpp",
-      "MaxPriceThreshold": 265000,
-      "MinPriceThreshold": 265000,
+      "MaxPriceThreshold": 370000,
+      "MinPriceThreshold": 370000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -98,20 +97,20 @@
         "ua_novator_r_wheel",
         "ua_novator_f_wheel",
         "ua_novator_f_wheel",
-        "ua_novator_f_wheel",
         "stugna",
         "varta_box",
         "varta_box",
         "varta_box",
         "varta_box",
-        "varta_tent_black"
+        "varta_tent_black",
+        "ua_novator_r_wheel"
       ],
       "Variants": []
     },
     {
       "ClassName": "ua_novator_3",
-      "MaxPriceThreshold": 265000,
-      "MinPriceThreshold": 265000,
+      "MaxPriceThreshold": 370000,
+      "MinPriceThreshold": 370000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -132,20 +131,20 @@
         "ua_novator_r_wheel",
         "ua_novator_f_wheel",
         "ua_novator_f_wheel",
-        "ua_novator_f_wheel",
         "stugna",
         "varta_box",
         "varta_box",
         "varta_box",
         "varta_box",
-        "varta_tent_black"
+        "varta_tent_black",
+        "ua_novator_r_wheel"
       ],
       "Variants": []
     },
     {
       "ClassName": "ua_novator_3_akpp",
-      "MaxPriceThreshold": 265000,
-      "MinPriceThreshold": 265000,
+      "MaxPriceThreshold": 370000,
+      "MinPriceThreshold": 370000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -166,20 +165,20 @@
         "ua_novator_r_wheel",
         "ua_novator_f_wheel",
         "ua_novator_f_wheel",
-        "ua_novator_f_wheel",
         "stugna",
         "varta_box",
         "varta_box",
         "varta_box",
         "varta_box",
-        "varta_tent_black"
+        "varta_tent_black",
+        "ua_novator_r_wheel"
       ],
       "Variants": []
     },
     {
       "ClassName": "ua_novator_4_dog",
-      "MaxPriceThreshold": 265000,
-      "MinPriceThreshold": 265000,
+      "MaxPriceThreshold": 370000,
+      "MinPriceThreshold": 370000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -200,20 +199,20 @@
         "ua_novator_r_wheel",
         "ua_novator_f_wheel",
         "ua_novator_f_wheel",
-        "ua_novator_f_wheel",
         "stugna",
         "varta_box",
         "varta_box",
         "varta_box",
         "varta_box",
-        "varta_tent_dog"
+        "varta_tent_dog",
+        "ua_novator_r_wheel"
       ],
       "Variants": []
     },
     {
       "ClassName": "ua_novator_5_homka",
-      "MaxPriceThreshold": 265000,
-      "MinPriceThreshold": 265000,
+      "MaxPriceThreshold": 370000,
+      "MinPriceThreshold": 370000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -234,20 +233,20 @@
         "ua_novator_r_wheel",
         "ua_novator_f_wheel",
         "ua_novator_f_wheel",
-        "ua_novator_f_wheel",
         "stugna",
         "varta_box",
         "varta_box",
         "varta_box",
         "varta_box",
-        "varta_tent_homka"
+        "varta_tent_homka",
+        "ua_novator_r_wheel"
       ],
       "Variants": []
     },
     {
       "ClassName": "ua_novator_6_instructor",
-      "MaxPriceThreshold": 265000,
-      "MinPriceThreshold": 265000,
+      "MaxPriceThreshold": 370000,
+      "MinPriceThreshold": 370000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -268,20 +267,20 @@
         "ua_novator_r_wheel",
         "ua_novator_f_wheel",
         "ua_novator_f_wheel",
-        "ua_novator_f_wheel",
         "stugna",
         "varta_box",
         "varta_tent_instructor",
         "varta_box",
         "varta_box",
-        "varta_box"
+        "varta_box",
+        "ua_novator_r_wheel"
       ],
       "Variants": []
     },
     {
       "ClassName": "ua_novator_7_kacci",
-      "MaxPriceThreshold": 265000,
-      "MinPriceThreshold": 265000,
+      "MaxPriceThreshold": 370000,
+      "MinPriceThreshold": 370000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -302,20 +301,20 @@
         "ua_novator_r_wheel",
         "ua_novator_f_wheel",
         "ua_novator_f_wheel",
-        "ua_novator_f_wheel",
         "stugna",
         "varta_box",
         "varta_box",
         "varta_box",
         "varta_box",
-        "varta_tent_kacci"
+        "varta_tent_kacci",
+        "ua_novator_r_wheel"
       ],
       "Variants": []
     },
     {
       "ClassName": "ua_novator_8_pavlik",
-      "MaxPriceThreshold": 265000,
-      "MinPriceThreshold": 265000,
+      "MaxPriceThreshold": 370000,
+      "MinPriceThreshold": 370000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -336,20 +335,20 @@
         "ua_novator_r_wheel",
         "ua_novator_f_wheel",
         "ua_novator_f_wheel",
-        "ua_novator_f_wheel",
         "stugna",
         "varta_box",
         "varta_box",
         "varta_box",
         "varta_box",
-        "varta_tent_pavlik"
+        "varta_tent_pavlik",
+        "ua_novator_r_wheel"
       ],
       "Variants": []
     },
     {
       "ClassName": "ua_novator_akpp",
-      "MaxPriceThreshold": 265000,
-      "MinPriceThreshold": 265000,
+      "MaxPriceThreshold": 370000,
+      "MinPriceThreshold": 370000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
@@ -370,13 +369,14 @@
         "ua_novator_r_wheel",
         "ua_novator_f_wheel",
         "ua_novator_f_wheel",
-        "ua_novator_f_wheel",
         "stugna",
         "varta_box",
         "varta_box",
         "varta_box",
         "varta_box",
-        "varta_tent"
+        "varta_tent",
+        "ua_novator_r_wheel",
+        "ua_novator_r_wheel"
       ],
       "Variants": []
     }

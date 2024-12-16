@@ -1,7 +1,7 @@
 {
   "ConfigVersion": 6,
   "ID": 15,
-  "ClassName": "ExpansionQuestNPCDenis",
+  "ClassName": "ExpansionQuestNPCMirek",
   "Position": [
     13430.2,
     98.7152,
@@ -23,6 +23,6 @@
   "NPCQuestStartEmoteID": 58,
   "NPCQuestCompleteEmoteID": 39,
   "NPCFaction": "InvincibleObservers",
-  "NPCType": 2,
+  "NPCType": 0,
   "Active": 1
 }

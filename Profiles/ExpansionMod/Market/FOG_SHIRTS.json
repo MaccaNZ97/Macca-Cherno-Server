@@ -172,19 +172,6 @@
       ]
     },
     {
-      "ClassName": "fog_ghilliesuit_green",
-      "MaxPriceThreshold": 550,
-      "MinPriceThreshold": 550,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_ghilliesuit_tan"
-      ]
-    },
-    {
       "ClassName": "fog_gorka_jacket_black",
       "MaxPriceThreshold": 550,
       "MinPriceThreshold": 550,

@@ -102,15 +102,6 @@
     <item name="TetracyclineAntibiotics" chance="0.1" />
     <item name="Thermometer" chance="0.05" />
   </cargo>
-  <cargo chance="0.25" name="toolsPolice">
-    <item name="Battery9V" chance="0.1" />
-    <item name="PersonalRadio" chance="0.1" />
-    <item name="Flashlight" chance="0.15" />
-    <item name="Roadflare" chance="0.2" />
-    <item name="CombatKnife" chance="0.05" />
-    <item name="Morphine" chance="0.05" />
-    <item name="BandageDressing" chance="0.05" />
-  </cargo>
   <cargo chance="0.15" name="toolsHunter">
     <item name="WeaponCleaningKit" chance="0.10" />
     <item name="Paper" chance="0.1" />
@@ -245,76 +236,11 @@
     <item name="RDG2SmokeGrenade_Black" chance="0.25" />
     <item name="RDG5Grenade" chance="0.25" />
   </cargo>
-  <attachments chance="0.60" name="close_range_optics">
-    <item name="SNAFU_AKWalther" chance="0.125" />
-    <item name="BO_VortexAMG_UH1_Optic" chance="0.125" />
-    <item name="BO_RMR_Black" chance="0.125" />
-    <item name="BO_RMR_FDE" chance="0.125" />
-    <item name="BO_DeltaPoint" chance="0.125" />
-    <item name="BO_Eotech552" chance="0.125" />
-    <item name="BO_LeupoldCarbineOptics" chance="0.125" />
-  </attachments>
-  <attachments chance="0.60" name="ar_optics">
-    <item name="BO_ACOGOptic_Crosshair_Red" chance="0.125" />
-    <item name="BO_ACOGOptic_Chevron_Green" chance="0.125" />
-    <item name="BO_ACOGOptic_ACSS_Red" chance="0.125" />
-    <item name="BO_HAMROptic" chance="0.125" />
-    <item name="BO_SpecterDROptic" chance="0.125" />
-    <item name="BO_LeupoldHoloDEVO" chance="0.125" />
-    <item name="BO_Bravo4" chance="0.125" />
-    <item name="BO_Spitfire" chance="0.125" />
-  </attachments>
-  <attachments chance="0.60" name="dmr_optics">
-    <item name="BO_ACOGOptic_Crosshair_Red" chance="0.10" />
-    <item name="BO_SpecterDROptic" chance="0.10" />
-    <item name="BO_HAMROptic" chance="0.10" />
-    <item name="BO_NFATACR_1_8" chance="0.10" />
-    <item name="BO_ShmidtBender20" chance="0.10" />
-    <item name="BO_Vudu" chance="0.10" />
-    <item name="BO_VortexRazor_Black" chance="0.10" />
-    <item name="BO_VortexRazor_Brown" chance="0.10" />
-    <item name="BO_Tango6" chance="0.10" />
-    <item name="BO_AccuPowerOptic" chance="0.10" />
-  </attachments>
+  <attachments chance="0.60" name="close_range_optics" />
+  <attachments chance="0.60" name="dmr_optics" />
   <attachments chance="0.60" name="long_range_scopes">
     <item name="HuntingOptic" chance="0.50" />
     <item name="AD_LeupoldMk4_B13" chance="1" />
-  </attachments>
-  <attachments chance="0.60" name="hunting_scopes">
-    <item name="HuntingOptic" chance="0.75" />
-    <item name="BO_HMOptic" chance="0.25" />
-  </attachments>
-  <attachments chance="0.05" name="pistol_suppressors">
-    <item name="BO_OspreySuppressor" chance="0.5" />
-    <item name="BO_MK23_Suppressor" chance="0.5" />
-  </attachments>
-  <attachments chance="0.10" name="ak_suppressors">
-    <item name="BO_TacticalSuppressor" chance="1.00" />
-  </attachments>
-  <attachments chance="0.10" name="338">
-    <item name="BO_HarvesterSuppressor" chance="1.00" />
-  </attachments>
-  <attachments chance="1.00" name="bttsttck">
-    <item name="BO_SOPMODBttstck" chance="0.25" />
-    <item name="BO_SOPMODBttstck_FDE" chance="0.25" />
-    <item name="BO_MK18Bttstck" chance="0.25" />
-    <item name="BO_MK18Bttstck_FDE" chance="0.25" />
-  </attachments>
-  <attachments chance="0.10" name="fal">
-    <item name="BO_CorduraSuppressor" chance="0.33" />
-    <item name="BO_CorduraSuppressor_Black" chance="0.33" />
-    <item name="BO_MCXSpear_Suppressor" chance="0.33" />
-  </attachments>
-  <attachments chance="0.10" name="408">
-    <item name="BO_M200_Suppressor" chance="1.00" />
-  </attachments>
-  <attachments chance="0.10" name="50bmg">
-    <item name="BO_BarrettM82Suppressor" chance="1.00" />
-  </attachments>
-  <attachments chance="1.00" name="bttsttckMCX">
-    <item name="BO_MCXSpear_Bttstck_Tan" chance="0.33" />
-    <item name="BO_SOPMODBttstck_FDE" chance="0.33" />
-    <item name="BO_MK18Bttstck" chance="0.33" />
   </attachments>
   <cargo chance="0.2" name="ContaminatedCargo">
     <item name="GasMask_Filter" chance="1.00" />
@@ -835,14 +761,14 @@
   </cargo>
   <cargo chance="0.35" name="CustomKeycards">
     <item name="evg_keycard_holder_camo" chance="1" />
-    <item name="evg_keycards_All" chance="1" />
-    <item name="evg_keycards_Blue" chance="1" />
-    <item name="evg_keycards_Green" chance="1" />
     <item name="evg_keycards_NWAF01" chance="1" />
-    <item name="evg_keycards_NWAF02" chance="1" />
-    <item name="evg_keycards_NWAF03" chance="1" />
-    <item name="evg_keycards_Violet" chance="1" />
-    <item name="evg_keycards_White" chance="1" />
-    <item name="evg_keycards_Yellow" chance="1" />
+    <item name="evg_keycards_Tisy01" chance="1" />
+  </cargo>
+  <cargo chance="0.50" name="DNAKeyCards">
+    <item name="DNA_KeyCard_Yellow_Inactive" chance="0.25" />
+    <item name="DNA_KeyCard_blue_Inactive" chance="0.25" />
+    <item name="DNA_KeyCard_green_Inactive" chance="0.25" />
+    <item name="DNA_KeyCard_Purple_inactive" chance="0.25" />
+    <item name="DNA_KeyCard_Red_Inactive" chance="0.25" />
   </cargo>
 </randompresets>

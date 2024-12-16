@@ -17,18 +17,8 @@
         },
         {
             "dna_Tier": "yellow",
-            "dna_Category": "tools",
-            "dna_Type": "Pickaxe"
-        },
-        {
-            "dna_Tier": "yellow",
-            "dna_Category": "material",
-            "dna_Type": "WoodenPlank"
-        },
-        {
-            "dna_Tier": "yellow",
             "dna_Category": "valuable",
-            "dna_Type": "NailBox"
+            "dna_Type": "CP_CannabisSeedsPackSkunk"
         },
         {
             "dna_Tier": "purple",
@@ -84,6 +74,56 @@
             "dna_Tier": "red",
             "dna_Category": "drink",
             "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "valuable",
+            "dna_Type": "CP_CannabisSeedsPackS1"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "valuable",
+            "dna_Type": "CP_CannabisSeedsPackFuture"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "valuable",
+            "dna_Type": "evg_keycards_NWAF01"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "valuable",
+            "dna_Type": "evg_keycards_NWAF02"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "valuable",
+            "dna_Type": "evg_keycards_NWAF03"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "valuable",
+            "dna_Type": "evg_keycards_Violet"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "valuable",
+            "dna_Type": "evg_keycards_NWAF02"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "valuable",
+            "dna_Type": "evg_keycards_Red"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "valuable",
+            "dna_Type": "evg_keycards_Blue"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "****Select_Category****",
+            "dna_Type": "evg_keycards_Tisy01"
         }
    ]
 }

@@ -7,7 +7,7 @@
         "WoodAxe"
     ],
     "SkinnedItemsAmount": 3,
-    "AnnounceDragonAttackLocation": 0,
+    "AnnounceDragonAttackLocation": 1,
     "AnnounceDragonDefeated": 1,
     "RaG_DragonLocations": [
         {

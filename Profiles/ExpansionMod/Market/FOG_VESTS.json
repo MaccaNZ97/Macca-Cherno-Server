@@ -111,12 +111,14 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_vest_jpc_cb",
-        "fog_vest_jpc_mc",
-        "fog_vest_jpc_rg",
+        "tf_jpcvest_coyote",
+        "tf_jpcvest_mc",
+        "fog_vest_jpc_alp",
         "fog_vest_jpc_aor1",
         "fog_vest_jpc_aor2",
-        "fog_vest_jpc_alp"
+        "fog_vest_jpc_cb",
+        "fog_vest_jpc_mc",
+        "fog_vest_jpc_rg"
       ]
     },
     {
@@ -283,12 +285,12 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": [
-        "fog_vest_tv110t_tan",
-        "fog_vest_tv110t_cb",
-        "fog_vest_tv110t_rg",
         "fog_vest_tv110t_au",
+        "fog_vest_tv110t_cb",
         "fog_vest_tv110t_fg",
-        "fog_vest_tv110t_mc"
+        "fog_vest_tv110t_mc",
+        "fog_vest_tv110t_rg",
+        "fog_vest_tv110t_tan"
       ]
     }
   ]

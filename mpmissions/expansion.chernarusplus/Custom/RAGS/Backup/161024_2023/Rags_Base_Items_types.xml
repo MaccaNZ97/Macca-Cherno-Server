@@ -1,0 +1,3352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="rag_baseitems_ammo_cleaner">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_antique_dresser">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_antique_dresser_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_antique_wall_clock">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_antique_wall_clock_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_barrel_furnace">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_barrel_furnace_kit">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_barrelshelf">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_barrelshelf_kit">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_basket">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_basket_kit">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Office" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_beach_chair">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_beach_chair_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_beach_umbrella_beige">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_beach_umbrella_beige_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_beach_umbrella_blue">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_beach_umbrella_blue_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_beach_umbrella_green">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_beach_umbrella_green_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_beach_umbrella_multi">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_beach_umbrella_multi_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_beachball">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_bed">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_bed_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_bedside_table">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_bedside_table_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_big_chest">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_big_drawer_cabinet">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_big_drawer_cabinet_darkwood">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_big_drawer_cabinet_darkwood_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="School" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_big_drawer_cabinet_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="School" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_big_safe">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_big_safe_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="tools" />
+    <usage name="Military" />
+  </type>
+  <type name="rag_baseitems_bookshelf">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_bookshelf_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_brazier">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_brazier_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_brazier_small">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_brazier_small_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_carlift">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_carlift_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_carlift_static">
+    <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_carpet_rectangular_celtic">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_carpet_rectangular_checker">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_carpet_rectangular_cross_round">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_carpet_rectangular_rag">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_carpet_rectangular_simple">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_carpet_rectangular_square_dashed">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_carpet_rectangular_stripes">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_carpet_rectangular_waves">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_catears">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_celtic_shelter">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_celtic_shelter_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_cleaning_patches">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Hunting" />
+    <usage name="Military" />
+  </type>
+  <type name="rag_baseitems_coffee_cup">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="rag_baseitems_coffee_grinder">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_coffee_grinder_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_hutch">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_coffee_hutch_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_jar">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_machine">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_coffee_machine_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_mug_blue_bar">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_mug_blue_break">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_mug_green_bar">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_mug_green_break">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_mug_green_fresh">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_mug_purple_bar">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_mug_purple_break">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_mug_rag">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_mug_red_bar">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_mug_red_break">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_mug_yellow_break">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_mug_yellow_fresh">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_mug_yellow_shop">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_pack">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_coffee_thermos">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_control_unit">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_crateshelf">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_crateshelf_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_cuckoo_clock">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_cuckoo_clock_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_dinner_table">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_dinner_table_chair">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_dinner_table_chair_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_dinner_table_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_doorbell">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="rag_baseitems_doorbell_kit">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="rag_baseitems_electric_wires">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_firewood_holder">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_firstaid_cabinet">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_firstaid_cabinet_big">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_firstaid_cabinet_big_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <usage name="Office" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_firstaid_cabinet_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <usage name="Office" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_fishing_rod_rack">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_fishing_rod_rack_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_flamingo">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_food_dono_stand">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_food_dono_stand_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_food_dono_stand_static">
+    <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_food_dono_stand_static_kit">
+    <lifetime>3</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_fridge_twodoor_old">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_fridge_twodoor_old_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_furnace">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_furnace_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_gascanister">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_gazebo">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_gazebo_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_globe">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_globe_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_grammophone">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_grammophone_2_disk">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Office" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_grammophone_3_disk">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Office" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_grammophone_4_disk">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Office" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_grammophone_5_disk">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Office" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_grammophone_disk">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Office" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_grammophone_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Office" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_gramophone_table">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_gramophone_table_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_grandfathers_clock">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_grandfathers_clock_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_greenhouse">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_greenhouse_big">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_greenhouse_big_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_greenhouse_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_grindstone">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="rag_baseitems_gun_cabinet">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_gun_cabinet_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Military" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_gunrack">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_gunrack_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="Military" />
+  </type>
+  <type name="rag_baseitems_gunwall">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_gunwall_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="Military" />
+  </type>
+  <type name="rag_baseitems_gunwall_nostand">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_gunwall_nostand_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="Military" />
+  </type>
+  <type name="rag_baseitems_hand_grenade_box">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_improvised_bed">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_improvised_bed_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_jd_fridge">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_jd_fridge_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_lantern">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_lantern_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_lantern_wall">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_lantern_wall_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_large_gun_box">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_large_gun_box_shotgun">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_large_slide_crate">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_log_holder">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_log_holder_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_magpump">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_magpump_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="Military" />
+  </type>
+  <type name="rag_baseitems_manikin">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_manikin_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_mask_head">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_mask_head_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="School" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_medic_box">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_medic_box_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Medic" />
+    <usage name="Office" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_medieval_fireplace">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_medieval_fireplace_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_medium_safe">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_medium_safe_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_mesh_locker">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_mesh_locker_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="Military" />
+  </type>
+  <type name="rag_baseitems_metal_ammo_box">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_metal_ammo_box_black">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_metal_ammo_box_green">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_metal_sheet">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="rag_baseitems_military_crate_wood">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_military_locker_big">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_military_locker_big_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="rag_baseitems_military_locker_small">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_military_locker_small_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="Military" />
+  </type>
+  <type name="rag_baseitems_military_locker_threedoor">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_military_locker_threedoor_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>3600</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="Military" />
+  </type>
+  <type name="rag_baseitems_notebook">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Military" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="rag_baseitems_odin">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_odin_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_oil_bottle">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_plank_holder">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_plank_holder_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_plant_rack">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_plant_rack_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_plant1">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_plant2">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_plant3">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_plant4">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_plant5">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_plant6">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_planterbox_high">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_planterbox_high_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_planterbox_low">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_planterbox_low_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_plantseedspack">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="food" />
+    <usage name="Farm" />
+  </type>
+  <type name="rag_baseitems_plastic_sheet">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="rag_baseitems_portafilter">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Lunapark" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_pumpkin">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_repair_station">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_repair_station_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_retro_fridge">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_retro_fridge_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_roomdivider_beach">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_roomdivider_beach_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_roomdivider_dayz1">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_roomdivider_dayz1_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_roomdivider_dayz2">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_roomdivider_dayz2_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_roomdivider_japan">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_roomdivider_japan_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_roomdivider_morty">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_roomdivider_morty_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_roomdivider_rag">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_roomdivider_rag_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2400</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_roomdivider_sunset">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_roomdivider_sunset_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_sawblade">
+    <nominal>7</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_sewing_case">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_sewing_cushion">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_sewing_machine">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_sewing_machine_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_sewing_needle">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="rag_baseitems_sewing_thread">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_side_table_white">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_side_table_white_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_side_table_wood">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_side_table_wood_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_single_locker">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_single_locker_black">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_single_locker_black_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_single_locker_green">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_single_locker_green_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_single_locker_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_single_locker_purple">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_single_locker_purple_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_single_locker_red">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_single_locker_red_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_single_locker_yellow">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_single_locker_yellow_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_sleepingbag_ckeckered_blue">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_sleepingbag_ckeckered_brown">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_sleepingbag_ckeckered_green">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_sleepingbag_ckeckered_grey">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_sleepingbag_ckeckered_pink">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_sleepingbag_ckeckered_red">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_sleepingbag_packed_ckeckered_blue">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_sleepingbag_packed_ckeckered_brown">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_sleepingbag_packed_ckeckered_green">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_sleepingbag_packed_ckeckered_grey">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_sleepingbag_packed_ckeckered_pink">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_sleepingbag_packed_ckeckered_red">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Lunapark" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_small_chest">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_small_gun_box">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_small_iron_safe">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_small_iron_safe_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_small_pool_blue">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_small_pool_blue_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_small_pool_green">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_small_pool_green_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_small_pool_pink">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_small_pool_pink_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_small_pool_rainbow">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_small_pool_rainbow_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_small_pool_red">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_small_pool_red_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_small_pool_yellow">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_small_pool_yellow_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_small_safe">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_small_safe_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_smoke_grenade_box">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_smoker">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_smoker_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_smoker_static">
+    <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_smoker_static_kit">
+    <lifetime>3</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_sofa">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_sofa_black_leather">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_sofa_black_leather_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_sofa_brown_leather">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_sofa_brown_leather_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_sofa_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_solarpanel">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_solarpanel_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_spaycan_paint">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_spaycan_white">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_suitcase_big">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_suitcase_medium">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_suitcase_small">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_table_lamp_oval">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_table_lamp_oval_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_table_lamp_round">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_table_lamp_round_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_table_saw">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_table_saw_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_table_saw_static">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_table_saw_static_kit">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_tackle_box">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_teddyshelf">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_teddyshelf_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_toolbench">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_toolbench_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_tools_drawer">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_tools_drawer_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_totem">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_totem_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_trashcan">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_trashcan_kit">
+    <lifetime>3</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_trashcan_static">
+    <lifetime>3888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_trashcan_static_kit">
+    <lifetime>3</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_tv_vintage">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_tv_vintage_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="School" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_victorian_table_white">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_victorian_table_white_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_victorian_table_wood">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_victorian_table_wood_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_volleyball">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_volleyball_net">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_volleyball_net_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Coast" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseitems_wall_clock">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wall_clock_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_wallpicture_bear">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wallpicture_classic">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wallpicture_doge">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wallpicture_grumpy">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wallpicture_kermit">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wallpicture_leo1">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wallpicture_leo2">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wallpicture_nager">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wallpicture_pepe">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wallpicture_unpainted">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wardrobe">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wardrobe_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_warrior">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_warrior_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Hunting" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_waterbarrel">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_watering_can">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+  </type>
+  <type name="rag_baseitems_weapon_cleaner">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_weapon_cleaner_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_weapon_solvent">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Hunting" />
+    <usage name="Military" />
+  </type>
+  <type name="rag_baseitems_wf_crate">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wooden_ammo_box">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wooden_ammo_box_rifle">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_wooden_ammo_box_shotgun">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_woodenshelf_big">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_woodenshelf_big_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_woodenshelf_lightwood_big">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_woodenshelf_lightwood_big_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_woodenshelf_small">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_woodenshelf_small_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Office" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_workbench">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_workbench_blueprint">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_workbench_kit">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>2400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+  </type>
+  <type name="rag_baseitems_xmas_calendar">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseitems_xmas_calendar_kit">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Industrial" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_xmas_lantern">
+    <nominal>12</nominal>
+    <lifetime>7200</lifetime>
+    <restock>600</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="School" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_xmas_stocking">
+    <nominal>7</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Lunapark" />
+    <usage name="School" />
+    <usage name="SeasonalEvent" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseitems_xmas_tree">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseittems_triple_locker">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseittems_triple_locker_black">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseittems_triple_locker_black_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseittems_triple_locker_green">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseittems_triple_locker_green_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseittems_triple_locker_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseittems_triple_locker_purple">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseittems_triple_locker_purple_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="School" />
+  </type>
+  <type name="rag_baseittems_triple_locker_red">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseittems_triple_locker_red_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_baseittems_triple_locker_yellow">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_baseittems_triple_locker_yellow_kit">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Farm" />
+    <usage name="Industrial" />
+    <usage name="Town" />
+    <usage name="Village" />
+  </type>
+  <type name="rag_giftbox_large_1">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_giftbox_large_2">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_giftbox_large_3">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_giftbox_large_4">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_giftbox_medium_1">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_giftbox_medium_2">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_giftbox_medium_3">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_giftbox_medium_4">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_giftbox_small_1">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_giftbox_small_2">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_giftbox_small_3">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_giftbox_small_4">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="rag_teddybear">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="Lunapark" />
+    <usage name="School" />
+  </type>
+</types>

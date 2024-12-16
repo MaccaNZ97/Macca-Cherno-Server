@@ -1,0 +1,82 @@
+================================= Pvz_TheDarkHorde_ScreenMessages.xml ===================================
+
+---------------------------------------------------------------------------------------------------------
+										----- "Compas" -----
+---------------------------------------------------------------------------------------------------------
+"Minimum_Distance_To_Show_The_Message"
+	[Interger 0 to infinite] (meters)
+	If the horde is closer than this value, only the "The_Horde_Is_Too_Close_Message" will be display
+	In this situatio the player have to search to the horde.
+	
+"Show_Horde_Direction"
+	[Interger 0 to 3]
+	0: Direction not displayed
+	1: direction displayed with 4 cardinal points precision (only North or West or South or East)
+	2: direction displayed with 8 cardinal points precision (North/West or South/East...)
+	3: direction displayed with 16 cardinal points precision (North/North/West or East/South/East...)
+	
+"Show_Horde_Distance"
+	[Interger 0 or 1]
+	0: Distance not displayed
+	1: Distance displayed
+
+---------------------------------------------------------------------------------------------------------
+										----- "Messages" -----
+---------------------------------------------------------------------------------------------------------
+"Show_Message_At_Player_Connection"
+	[Interger 0 or 1]
+	0: Message disable.
+	1: "Player_Connection_Message" (see below) display after 30 second when player login.
+	
+"Show_Message_Player_Kills_Master"
+	[Interger 0 or 1]
+	0: Message disable.
+	1: Displayed when a player kill the horde master
+
+"Show_Additional_Informations_For_Admins"
+	[Interger 0 to 4]
+	0: no additional informations (the admins see the same message than players)
+	1: The admin always see the 16 cardinal points precision direction
+	2: Same than 1 + show the Distance
+	3: Same than 2 + show the coordinates
+	4: Same than 3 + show if the horde is calm or not
+	
+"Player_Connection_Message"
+	[Text]
+	The text that is automatically display 30 seconds after the player connect.
+	"Show_Message_At_Player_Connection" (see above) have to be enable.
+	
+"Horde_Direction_Prefix_Message"
+	[Text]
+	Text before the direction when player press numpad0
+
+"The_Horde_Is_Too_Close_Message"
+	[Text]
+	Text display if the horde is in the "Minimum_Distance_To_Show_The_Message" radius when player press numpad0.
+	
+"No_Horde_Message"
+	[Text]
+	Text display if there is no horde on the map
+	It happens when the horde have been defeated and the timer before it's spawn is not finished or if the horde is disable.
+
+"Killed_By_Message"
+	[Text]
+	Beginning of the text display when the horde is defeated.
+	"Show_Message_Player_Kill_Master" (see above) have to be enabled.
+	
+"Killed_With_Message"
+	[Text]
+	End of the text display when the horde is defeated.
+	"Show_Message_Player_Kill_Master" (see above) have to be enabled.
+	
+"Master_Is_Bulletproof_Message"
+	[Text]
+	Is message is displayed when a player try to shoot a bulletproof master with a gun. 
+
+"Position_Of_The_Message_Box_Horizontal/Vertical"
+	[Decimal]
+	This allow you to move the message box showing the horde direction (and the other messages) if it overlap your custom UI.
+	Recommended value for horizontal is between -0.385 (left) and 0.385 (right)
+	Recommended value for vertical is between -0.445 (up) and 0.445 (down)
+	
+==========================================================================================================

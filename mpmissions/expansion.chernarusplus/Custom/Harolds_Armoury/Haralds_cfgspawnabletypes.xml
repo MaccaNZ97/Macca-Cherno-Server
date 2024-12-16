@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+<!-- LMG -->
+	<type name="HA_W_M249"><!-- 556-->
+		<attachments chance="1.0">
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+            <item name="HA_Suppressor_308" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazine_M249" chance="1.00" />
+		</attachments>
+	</type>
+    	<type name="HA_W_XM250"><!-- 308 -->
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazine_XM250" chance="1.00" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_XM250_Buttstock" chance="1.00" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_XM250_Shroud" chance="1.00" />
+		</attachments>
+	</type>
+<!-- Assualt Rifle -->	
+<!-- 556 -->
+    	<type name="HA_W_ACR">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="0.50" />
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_CMAG_40Rnd" chance="0.25" />
+			<item name="Mag_STANAG_30Rnd" chance="0.25" />
+			<item name="Mag_STANAG_60Rnd" chance="0.25" />
+			<item name="Mag_CMAG_30Rnd" chance="0.25" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="HA_W_FN2000_Black">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="0.50" />
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_CMAG_40Rnd" chance="0.25" />
+			<item name="Mag_STANAG_30Rnd" chance="0.25" />
+			<item name="Mag_STANAG_60Rnd" chance="0.25" />
+			<item name="Mag_CMAG_30Rnd" chance="0.25" />
+		</attachments>
+	</type>	
+    	<type name="HA_W_Hephaestus">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="0.50" />
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_CMAG_40Rnd" chance="0.25" />
+			<item name="Mag_STANAG_30Rnd" chance="0.25" />
+			<item name="Mag_STANAG_60Rnd" chance="0.25" />
+			<item name="Mag_CMAG_30Rnd" chance="0.25" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>
+   	<type name="HA_W_HK416">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="0.50" />
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_CMAG_40Rnd" chance="0.25" />
+			<item name="Mag_STANAG_30Rnd" chance="0.25" />
+			<item name="Mag_STANAG_60Rnd" chance="0.25" />
+			<item name="Mag_CMAG_30Rnd" chance="0.25" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>	
+    	<type name="HA_W_AK5C">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="0.50" />
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_CMAG_40Rnd" chance="0.25" />
+			<item name="Mag_STANAG_30Rnd" chance="0.25" />
+			<item name="Mag_STANAG_60Rnd" chance="0.25" />
+			<item name="Mag_CMAG_30Rnd" chance="0.25" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="HA_W_MCX_Black">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazines_MCX_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+<type name="HA_W_HoneyBadger">
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_CMAG_40Rnd" chance="0.25" />
+			<item name="Mag_STANAG_30Rnd" chance="0.25" />
+			<item name="Mag_STANAG_60Rnd" chance="0.25" />
+			<item name="Mag_CMAG_30Rnd" chance="0.25" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>	
+
+
+<!-- 762 -->	
+   	<type name="HA_W_AK12">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="0.50" />
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_AKM_30Rnd" chance="0.40" />
+			<item name="Mag_AKM_Drum75Rnd" chance="0.20" />
+			<item name="Mag_AKM_Palm30Rnd" chance="0.40" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>	
+  	<type name="HA_W_Malyuk">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="0.50" />
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_AKM_30Rnd" chance="0.40" />
+			<item name="Mag_AKM_Drum75Rnd" chance="0.20" />
+			<item name="Mag_AKM_Palm30Rnd" chance="0.40" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>	
+ 	<type name="HA_W_MK47">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="0.50" />
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_AKM_30Rnd" chance="0.40" />
+			<item name="Mag_AKM_Drum75Rnd" chance="0.20" />
+			<item name="Mag_AKM_Palm30Rnd" chance="0.40" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>
+
+
+<!-- 545 -->	
+  	<type name="HA_W_AK12">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="0.50" />
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_AK101_30Rnd" chance="0.40" />
+			<item name="Mag_AK74_30Rnd" chance="0.40" />
+			<item name="Mag_AK74_45Rnd" chance="0.20" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>	
+
+
+<!-- .308 -->
+			<type name="HA_W_MCX_308_Black">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazines_MCX_308win_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+
+ 
+
+
+
+<!-- Submachine Gun -->
+   	<type name="HA_W_APC9K">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_Osprey9" chance="0.33" />
+			<item name="HA_Suppressor_improvised" chance="0.33" />
+			<item name="PistolSuppressor" chance="0.33" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_UMP_25Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>	
+   	<type name="HA_W_Scorpion">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_Osprey9" chance="0.33" />
+			<item name="HA_Suppressor_improvised" chance="0.33" />
+			<item name="PistolSuppressor" chance="0.33" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_UMP_25Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>		
+	<type name="HA_W_Mac10">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_Osprey9" chance="0.33" />
+			<item name="HA_Suppressor_improvised" chance="0.33" />
+			<item name="PistolSuppressor" chance="0.33" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazines_Mac10_32rnd" chance="1.00" />
+		</attachments>
+	</type>	
+   	<type name="HA_W_MP7">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_Osprey9" chance="0.33" />
+			<item name="HA_Suppressor_improvised" chance="0.33" />
+			<item name="PistolSuppressor" chance="0.33" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazines_MP7_30Rnd" chance="1.00" />
+		</attachments>
+	</type>	
+   	<type name="HA_W_NF1901">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_Osprey9" chance="0.33" />
+			<item name="HA_Suppressor_improvised" chance="0.33" />
+			<item name="PistolSuppressor" chance="0.33" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_MP5_15Rnd" chance="0.50" />
+			<item name="Mag_MP5_30Rnd" chance="0.50" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>		
+
+<!-- .22 -->
+   	<type name="HA_W_NF22LR">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_Osprey9" chance="0.33" />
+			<item name="HA_Suppressor_improvised" chance="0.33" />
+			<item name="PistolSuppressor" chance="0.33" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_Ruger1022_15Rnd" chance="0.50" />
+			<item name="Mag_Ruger1022_30Rnd" chance="0.50" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>		
+
+<!-- Shotgun -->	
+  	<type name="HA_W_M2014">
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_Saiga_5Rnd" chance="0.40" />
+			<item name="Mag_Saiga_Drum20Rnd" chance="0.20" />
+			<item name="Mag_Saiga_8Rnd" chance="0.40" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>	
+<type name="HA_W_Remington870">
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>						
+  	<type name="HA_W_Saiga12">
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_Saiga_5Rnd" chance="0.40" />
+			<item name="Mag_Saiga_Drum20Rnd" chance="0.20" />
+			<item name="Mag_Saiga_8Rnd" chance="0.40" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>	
+
+
+<!-- Battle Rifle -->
+   	<type name="HA_W_Mini14">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="0.50" />
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_CMAG_40Rnd" chance="0.25" />
+			<item name="Mag_STANAG_30Rnd" chance="0.25" />
+			<item name="Mag_STANAG_60Rnd" chance="0.25" />
+			<item name="Mag_CMAG_30Rnd" chance="0.25" />
+		</attachments>
+	</type>		
+   	<type name="HA_W_MK14_EBR"><!-- 308 -->
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_M14_10Rnd" chance="0.60" />
+			<item name="Mag_M14_20Rnd" chance="0.40" />
+		</attachments>
+	</type>
+   	<type name="HA_W_M110"><!-- 308 -->
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+	</type>							
+  	<type name="HA_W_SKS_Tactical">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="0.50" />
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Mag_AKM_30Rnd" chance="0.40" />
+			<item name="Mag_AKM_Drum75Rnd" chance="0.20" />
+			<item name="Mag_AKM_Palm30Rnd" chance="0.40" />
+		</attachments>
+        <attachments chance="1.0">
+			<item name="HA_Flashlight_SurefireXC2" chance="1.00" />
+		</attachments>
+	</type>			
+
+
+
+
+<!-- Bolt Action -->
+   	<type name="HA_W_Arisaka">
+		<attachments chance="1.0">
+            <item name="Mosin_Bayonet" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+	</type>	
+	   	<type name="HA_W_LE_MKIII">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_improvised" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="Mosin_Bayonet" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+	</type>	
+   	<type name="HA_W_kar98k">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_improvised" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+	</type>	
+   	<type name="HA_W_Marlin1895">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+	</type>		
+<!-- Sniper 762x54 -->
+   	<type name="HA_W_SV98M">
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="Mag_SV98_10Rnd" chance="1.00" />
+		</attachments>
+	</type>			
+
+
+
+<!-- Sniper 308/338 -->
+
+   	<type name="HA_W_AWM">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Magazines_AWM_7rnd" chance="1.00" />
+		</attachments>
+	</type>		
+   	<type name="HA_W_AWM_338LM">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Magazines_AWM_338LM_7rnd" chance="1.00" />
+		</attachments>
+	</type>	
+   	<type name="HA_W_AXMC">
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Magazines_AXMC_10rnd" chance="1.00" />
+		</attachments>
+	</type>						
+   	<type name="HA_W_AXMC_338LM">
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Magazines_AXMC_338LM_10rnd" chance="1.00" />
+		</attachments>
+	</type>	
+  	<type name="HA_W_M24">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Magazines_M24_7rnd" chance="1.00" />
+		</attachments>
+	</type>		
+   	<type name="HA_W_M24_338LM">
+		<attachments chance="1.0">
+            <item name="HA_Suppressor_308" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Magazines_M24_338LM_7rnd" chance="1.00" />
+		</attachments>
+	</type>	
+
+
+
+
+
+
+<!-- 408 Sniper -->	
+   	<type name="HA_W_M200">
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Magazine_M200" chance="1.00" />
+		</attachments>
+	</type>	
+
+<!-- .50 Sniper -->
+  	<type name="HA_W_Tac50_Tan">
+		<attachments chance="1.0">
+			<item name="HA_Optics_EOTech_MagnifierOFF" chance="0.06" />
+			<item name="HA_Optics_EOTech_MagnifierON" chance="0.06" />
+			<item name="HA_Optics_TrijiconSkeetIX" chance="0.06" />
+			<item name="HA_Optics_VortexStrikefire" chance="0.06" />
+			<item name="HA_Optics_AcogLow" chance="0.06" />
+			<item name="HA_Optics_MicroT1" chance="0.05" />
+			<item name="HA_Optics_VortexVenom" chance="0.05" />
+			<item name="HA_Optics_XM157" chance="0.03" />
+			<item name="HA_Optics_SigSauerTango" chance="0.03" />
+			<item name="HA_Optics_HAMR" chance="0.03" />
+			<item name="HA_Optics_NightForce32x" chance="0.03" />
+			<item name="HA_Optics_VortexUH1" chance="0.03" />
+			<item name="HA_Optics_VortexSpitfire" chance="0.03" />
+			<item name="ACOGOptic" chance="0.06" />
+			<item name="ACOGOptic_6x" chance="0.06" />
+			<item name="StarlightOptic" chance="0.06" />
+			<item name="ReflexOptic" chance="0.06" />
+			<item name="M68Optic" chance="0.06" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Magazines_Tac50_7rnd" chance="1.00" />
+		</attachments>
+	</type>	
+
+
+
+
+<!-- Pistol -->
+    	<type name="HA_W_Alien">
+		<attachments chance="1.0">
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+            <item name="HA_Suppressor_Osprey9" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Flashlight_Surefire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazines_Glock_33rnd" chance="0.50" />
+            <item name="Mag_Glock_15Rnd" chance="0.50" />
+		</attachments>
+    </type>
+        <type name="HA_W_BerettaM9">
+		<attachments chance="1.0">
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+            <item name="HA_Suppressor_Osprey9" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Flashlight_Surefire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazines_BerettaM9_15rnd" chance="1.00" />
+		</attachments>
+    </type>
+         <type name="HA_W_BerettaM9_Dark">
+		<attachments chance="1.0">
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+            <item name="HA_Suppressor_Osprey9" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Flashlight_Surefire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazines_BerettaM9_15rnd" chance="1.00" />
+		</attachments>
+	</type>        
+  <type name="HA_W_Glock_18">
+		<attachments chance="1.0">
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+            <item name="HA_Suppressor_Osprey9" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Flashlight_Surefire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazines_Glock_33rnd" chance="0.50" />
+            <item name="Mag_Glock_15Rnd" chance="0.50" />
+		</attachments>       
+		<attachments chance="1.0">
+        <item name="FNP45_MRDSOptic" chance="1.00" />
+		</attachments>    
+	</type>           
+  <type name="HA_W_Kimber1911">
+		<attachments chance="1.0">
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+            <item name="HA_Suppressor_Osprey9" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazines_Kimber1911_15rnd" chance="0.50" />
+            <item name="Mag_1911_7Rnd" chance="0.50" />
+		</attachments>         
+	</type> 
+  <type name="HA_W_SGP320">
+		<attachments chance="1.0">
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+            <item name="HA_Suppressor_Osprey9" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Flashlight_Surefire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazines_Glock_33rnd" chance="0.50" />
+            <item name="Mag_Glock_15Rnd" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">       
+        <item name="FNP45_MRDSOptic" chance="1.00" />
+		</attachments>    
+	</type> 
+  <type name="HA_W_SGP320_olive">
+		<attachments chance="1.0">
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+            <item name="HA_Suppressor_Osprey9" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Flashlight_Surefire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazines_Glock_33rnd" chance="0.50" />
+            <item name="Mag_Glock_15Rnd" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+        <item name="FNP45_MRDSOptic" chance="1.00" />
+		</attachments>    
+	</type>          	          
+  <type name="HA_W_SGP320_tan">
+		<attachments chance="1.0">
+			<item name="HA_Suppressor_improvised" chance="0.50" />
+            <item name="HA_Suppressor_Osprey9" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">
+            <item name="HA_Flashlight_Surefire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="HA_Magazines_Glock_33rnd" chance="0.50" />
+            <item name="Mag_Glock_15Rnd" chance="0.50" />
+		</attachments>
+		<attachments chance="1.0">       
+        <item name="FNP45_MRDSOptic" chance="1.00" />
+		</attachments>    
+	</type>
+<type name="HA_W_Taurus">
+        <attachments chance="1.00">
+            <item name="HA_TaurusCylinder" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HA_TaurusEjector" chance="1.00" />
+        </attachments>
+	</type>	 	         	          		         	          
+</spawnabletypes>

@@ -48,7 +48,7 @@
         "Bots_Drop_Weapon": 1,
         "Is_NBC_Mission": 0,
         "Allow_Crate_Reward": 1,
-        "Allow_Vehicle_Reward": 1,
+        "Allow_Vehicle_Reward": 0,
         "Static_Objects": []
       },
       {
@@ -69,7 +69,7 @@
         "Bots_Drop_Weapon": 1,
         "Is_NBC_Mission": 0,
         "Allow_Crate_Reward": 1,
-        "Allow_Vehicle_Reward": 1,
+        "Allow_Vehicle_Reward": 0,
         "Static_Objects": []
       },
       {
@@ -111,7 +111,7 @@
         "Bots_Drop_Weapon": 1,
         "Is_NBC_Mission": 0,
         "Allow_Crate_Reward": 1,
-        "Allow_Vehicle_Reward": 1,
+        "Allow_Vehicle_Reward": 0,
         "Static_Objects": []
       },
       {
@@ -149,7 +149,7 @@
         "Bots_Drop_Weapon": 1,
         "Is_NBC_Mission": 0,
         "Allow_Crate_Reward": 1,
-        "Allow_Vehicle_Reward": 1,
+        "Allow_Vehicle_Reward": 0,
         "Static_Objects": []
       },
       {
@@ -201,12 +201,12 @@
         "Bots_Range": 400,
         "Bots_Accuracy": 0.5,
         "Bots_Damage_Done_Multiplier": 1,
-        "Bots_Damage_Taken_Multiplier": 1,
+        "Bots_Damage_Taken_Multiplier": 0,
         "Bots_Drop_Loot": 1,
         "Bots_Drop_Weapon": 1,
         "Is_NBC_Mission": 0,
         "Allow_Crate_Reward": 1,
-        "Allow_Vehicle_Reward": 1,
+        "Allow_Vehicle_Reward": 0,
         "Static_Objects": [
           {
             "ClassName": "Land_Wreck_Uaz",
@@ -378,13 +378,13 @@
             ]
           },
           {
-            "Loadout_ID": 1,
+            "Loadout_ID": 2,
             "Weapon_ClassName": "MP133Shotgun",
             "Magazine_ClassName": "Ammo_12gaSlug",
             "Attach": []
           },
           {
-            "Loadout_ID": 1,
+            "Loadout_ID": 3,
             "Weapon_ClassName": "Winchester70",
             "Magazine_ClassName": "AmmoBox_308WinTracer",
             "Attach": [
@@ -392,7 +392,7 @@
             ]
           },
           {
-            "Loadout_ID": 1,
+            "Loadout_ID": 4,
             "Weapon_ClassName": "Mosin9130",
             "Magazine_ClassName": "Ammo_762x54Tracer",
             "Attach": [
@@ -422,7 +422,7 @@
             "Attach": []
           },
           {
-            "Loadout_ID": 1,
+            "Loadout_ID": 2,
             "Weapon_ClassName": "Izh43Shotgun",
             "Magazine_ClassName": "Ammo_12gaSlug",
             "Attach": []
@@ -442,7 +442,7 @@
             ]
           },
           {
-            "Loadout_ID": 1,
+            "Loadout_ID": 3,
             "Weapon_ClassName": "Vikhr",
             "Magazine_ClassName": "Mag_Vikhr_30Rnd",
             "Attach": []
@@ -453,26 +453,7 @@
             "Magazine_ClassName": "Mag_SV98_10Rnd",
             "Attach": []
           },
-          {
-            "Loadout_ID": 2,
-            "Weapon_ClassName": "Vikhr",
-            "Magazine_ClassName": "Mag_Vikhr_30Rnd",
-            "Attach": []
-          },
-          {
-            "Loadout_ID": 2,
-            "Weapon_ClassName": "SV98",
-            "Magazine_ClassName": "Mag_SV98_10Rnd",
-            "Attach": []
-          },
-          {
-            "Loadout_ID": 2,
-            "Weapon_ClassName": "M14",
-            "Magazine_ClassName": "Mag_M14_20Rnd",
-            "Attach": [
-              "ACOGOptic_6x"
-            ]
-          },
+          
           {
             "Loadout_ID": 2,
             "Weapon_ClassName": "SSG82",
@@ -482,12 +463,6 @@
         ],
         "Armour": [
           {
-            "Loadout_ID": 2,
-            "Armour_ClassName": "Eazy_PlateCarrierVest_Canabis_PoshWinter",
-            "Attach": [],
-            "Contents": []
-          },
-          {
             "Loadout_ID": 1,
             "Armour_ClassName": "TF_6B23Vest_GFlora",
             "Attach": [],
@@ -495,6 +470,13 @@
           },
           {
             "Loadout_ID": 2,
+            "Armour_ClassName": "Eazy_PlateCarrierVest_Canabis_PoshWinter",
+            "Attach": [],
+            "Contents": []
+          },
+        
+          {
+            "Loadout_ID": 3,
             "Armour_ClassName": "TF_6B23_112Vest_EMR_Syrian",
             "Attach": [],
             "Contents": []
@@ -502,27 +484,27 @@
         ],
         "Headgear": [
           {
-            "Loadout_ID": 1,
+            "Loadout_ID": 2,
             "Helmet_ClassName": "PaydayMask_Hoxton",
             "Give_NVG": 1
           },
           {
-            "Loadout_ID": 1,
+            "Loadout_ID": 2,
             "Helmet_ClassName": "PaydayMask_Chains",
             "Give_NVG": 1
           },
           {
-            "Loadout_ID": 1,
+            "Loadout_ID": 2,
             "Helmet_ClassName": "PaydayMask_Dallas",
             "Give_NVG": 1
           },
           {
-            "Loadout_ID": 1,
+            "Loadout_ID": 2,
             "Helmet_ClassName": "PaydayMask_Wolf",
             "Give_NVG": 1
           },
           {
-            "Loadout_ID": 2,
+            "Loadout_ID": 1,
             "Helmet_ClassName": "TF_MICH2000Helmet_Black",
             "Give_NVG": 1
           },
@@ -940,7 +922,7 @@
             "Contents": []
           },
           {
-            "ClassName": "Avengers_Display",
+            "ClassName": "Avengers_Display_Kit",
             "Attach": [],
             "Contents": []
           },
@@ -1075,25 +1057,17 @@
             "Contents": []
           },
           {
-            "ClassName": "GCGN_Ammo_3006",
+            "ClassName": "HA_AmmoBox_338LP_15Rnd",
             "Attach": [],
             "Contents": []
           },
           {
-            "ClassName": "GCGN_Ammo_408Chey",
-            "Attach": [],
-            "Contents": []
-          },
-          {
-            "ClassName": "GCGN_Ammo_50Cal",
-            "Attach": [],
-            "Contents": []
-          },
-          {
-            "ClassName": "GCGN_Ammo_762x51",
+            "ClassName": "HA_AmmoBox_408CT_15Rnd",
             "Attach": [],
             "Contents": []
           }
+         
+         
         
         ]
       }

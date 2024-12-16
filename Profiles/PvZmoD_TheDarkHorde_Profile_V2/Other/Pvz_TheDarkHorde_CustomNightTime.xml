@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>
+	<type name="Custom_Night_Configuration">        
+        <Night_Config_Selected			Value="1"/>		<!-- [Interger 0, 1 or 2] -->
+        <Beginning_Of_The_Night			Value="20:30"/>	<!-- [Time in 24h format] -->
+        <End_Of_The_Night				Value="6:30"/>	<!-- [Time in 24h format] -->
+    </type>
+	
+	<type name="NewFeatures">        
+    </type>
+</types>
+
+
+
+

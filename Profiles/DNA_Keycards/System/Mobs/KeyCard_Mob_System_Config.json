@@ -14,7 +14,7 @@
         },
         {
             "dna_DefaultMob": "infected",
-            "dna_MobType": "ZmbM_CitizenASkinny_Brown"
+            "dna_MobType": "CDAJ_ZmbM_Demon"
         },
         {
             "dna_DefaultMob": "infected",
@@ -22,19 +22,19 @@
         },
         {
             "dna_DefaultMob": "infected",
-            "dna_MobType": "ZmbM_priestPopSkinny"
+            "dna_MobType": "CDAJ_ZmbM_LostInfected"
         },
         {
             "dna_DefaultMob": "infected",
-            "dna_MobType": "ZmbF_Clerk_Normal_White"
+            "dna_MobType": "CDAJ_ZmbM_NBC_Green"
         },
         {
             "dna_DefaultMob": "infected",
-            "dna_MobType": "ZmbM_HermitSkinny_Beige"
+            "dna_MobType": "CDAJ_ZmbM_NBC_Rainbow"
         },
         {
             "dna_DefaultMob": "infected",
-            "dna_MobType": "ZmbF_CitizenANormal_Blue"
+            "dna_MobType": "CDAJ_ZmbM_NBC_Space"
         },
         {
             "dna_DefaultMob": "infected",
@@ -42,7 +42,7 @@
         },
         {
             "dna_DefaultMob": "infected",
-            "dna_MobType": "ZmbF_CitizenBSkinny"
+            "dna_MobType": "CDAJ_ZmbM_NBC_Red"
         },
         {
             "dna_DefaultMob": "infected",
@@ -50,7 +50,7 @@
         },
         {
             "dna_DefaultMob": "infected",
-            "dna_MobType": "ZmbF_HikerSkinny_Grey"
+            "dna_MobType": "CDAJ_ZmbM_NBC_Green"
         },
         {
             "dna_DefaultMob": "infected",
@@ -62,7 +62,7 @@
         },
         {
             "dna_DefaultMob": "infected",
-            "dna_MobType": "ZmbM_CitizenBFat_Blue"
+            "dna_MobType": "CDAJ_ZmbM_Clown"
         },
         {
             "dna_DefaultMob": "infected",
@@ -238,23 +238,23 @@
         },
         {
             "dna_DefaultMob": "bossYellow",
-            "dna_MobType": ""
+            "dna_MobType": "CDAJ_ZmbM_Dark_Heavy"
         },
         {
             "dna_DefaultMob": "bossGreen",
-            "dna_MobType": ""
+            "dna_MobType": "CDAJ_ZmbM_Demon"
         },
         {
             "dna_DefaultMob": "bossBlue",
-            "dna_MobType": ""
+            "dna_MobType": "CDAJ_ZmbM_TribeDemon_White"
         },
         {
             "dna_DefaultMob": "bossPurple",
-            "dna_MobType": ""
+            "dna_MobType": "CDAJ_ZmbM_Clown"
         },
         {
-            "dna_DefaultMob": "bossRed",
-            "dna_MobType": ""
+            "dna_DefaultMob": "bossred",
+            "dna_MobType": "Animal_HMG_Bear_Cocaine_T5"
         }
     ]
 }

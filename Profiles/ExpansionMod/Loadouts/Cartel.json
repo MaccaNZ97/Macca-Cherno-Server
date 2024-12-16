@@ -224,7 +224,21 @@
       ]
     }
   ],
-  "InventoryCargo": [],
+  "InventoryCargo": [
+    {
+      "ClassName": "HA_Magazines_M4_60rnd",
+      "Chance": 1,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    }
+  ],
   "ConstructionPartsBuilt": [],
   "Sets": [
     {
@@ -240,7 +254,7 @@
           "SlotName": "Shoulder",
           "Items": [
             {
-              "ClassName": "GCGN_HK416",
+              "ClassName": "HA_W_HK416",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -258,7 +272,7 @@
                   "SlotName": "",
                   "Items": [
                     {
-                      "ClassName": "SNAFU_EOTech_EXPS3",
+                      "ClassName": "HA_Optics_EOTech_Magnifier_Base",
                       "Chance": 1,
                       "Quantity": {
                         "Min": 0,
@@ -277,7 +291,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "SNAFU_FGCR_Grip",
+                      "ClassName": "HA_Suppressor_NATO_covered_Red",
                       "Chance": 1,
                       "Quantity": {
                         "Min": 0,
@@ -296,26 +310,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "SNAFU_Standardized_Suppressor_Black",
-                      "Chance": 1,
-                      "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                      },
-                      "Health": [
-                        {
-                          "Min": 0.7,
-                          "Max": 1,
-                          "Zone": ""
-                        }
-                      ],
-                      "InventoryAttachments": [],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "SNAFU_CMAG30556_Black",
+                      "ClassName": "HA_Magazines_M4_60rnd",
                       "Chance": 1,
                       "Quantity": {
                         "Min": 0,
@@ -338,7 +333,7 @@
               ],
               "InventoryCargo": [
                 {
-                  "ClassName": "SNAFU_CMAG30556_Black",
+                  "ClassName": "HA_Magazines_M4_60rnd",
                   "Chance": 1,
                   "Quantity": {
                     "Min": 0,
@@ -351,7 +346,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "SNAFU_CMAG30556_Black",
+                  "ClassName": "HA_Magazines_M4_60rnd",
                   "Chance": 1,
                   "Quantity": {
                     "Min": 0,

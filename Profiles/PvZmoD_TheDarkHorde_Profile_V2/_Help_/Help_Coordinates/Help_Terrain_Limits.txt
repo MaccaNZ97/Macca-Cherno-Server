@@ -1,0 +1,20 @@
+===================================== Pvz_TheDarkHorde_TerrainLimits.xml =====================================
+
+This file set the total map area. It is required for random or hunting movements types.
+
+---------------------------------------------------------------------------------------------------------
+
+"ZONE_TO_USE"
+	[Text]
+	Here you set the zone name (from the other sections of this file) you want to use.
+
+---------------------------------------------------------------------------------------------------------
+
+"Zone_Name"
+	[Text]
+	
+"TopLeft_Corner_Coordinates" and "LowRight_Corner_Coordinates"
+	[Integer/Integer]
+	Limits of the zone (Imagine you define a rectangle with its two opposite corners).
+	
+---------------------------------------------------------------------------------------------------------

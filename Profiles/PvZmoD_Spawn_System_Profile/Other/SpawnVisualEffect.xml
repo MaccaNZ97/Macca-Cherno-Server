@@ -1,0 +1,11 @@
+<!-- Fix01 (don't delete this line) -->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>	
+
+<types>
+	<type name="Global_Variables">
+        <Spawn_Cloud_Effect 		Day ="1"	Night ="1"/>						<!-- [0 or 1] (deactivate or activate) -->
+        <Spawn_Size_Variation 		Day ="1"	Night ="1"/>						<!-- [0 or 1] (deactivate or activate) -->
+		
+        <Type_Of_Cloud_To_Use 		Value ="1"/>									<!-- [1:default or 2:desert or 3:winter] -->
+    </type>
+</types>

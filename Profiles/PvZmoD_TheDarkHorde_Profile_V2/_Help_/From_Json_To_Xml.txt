@@ -1,0 +1,201 @@
+
+========================================================================================================================
+BE CAREFUL IF A VALUE IN JSON WAS 100 AND NOW IT IS 1.0 IN XML, IT IS THE SAME RESULT 
+					(it was % and now it is simple multiplicator)
+					
+		Note that all distances are in meters and all times are in seconds.
+========================================================================================================================
+
+==============================================================
+================ Pvz_TheDarkHorde_MainOptions.xml ================
+
+----- "Horde_Main_Options" -----
+"Number_Of_Zombies"			=> json4 - json5
+"Horde_Movement_Type" 		=> json2 (now day and night)
+
+----- "Horde_Movements_Options" -----
+"Distance_Between_Random_Direction_Changes" => json14 - json15
+"Minimum_Of_Players_To_Activate_The_Hunt" 	=> json76
+"Maximum_Number_Of_Hunt_Per_Session" 		=> json77
+"Distance_To_Player_To_Stop_Hunting" 		(new, the previous used value was 1000)
+"Start_Waypoint_Number" 					=> json16
+"Random_Waypoint_Order" 					=> json17
+"Start_Position" 							=> json18 json19
+"End_Position" 								=> json20 json21
+	
+----- "Horde_Speed" -----
+"Horde_Speed_When_Calm" 					=> json6 - json10
+"Horde_Speed_When_Not_Calm" 				=> json7 - json11 (have been increase, I advice to keep the new values)
+"Horde_Speed_Ratio_When_No_Player_Around" 	=> json51 (100 in json = 1.0 in xml)
+
+----- "Horde_Other_Options" -----
+"Time_Before_The_Horde_Respawn_After_Been_Defeated" 	=> json72 - json73
+"Persistant_Position_When_Server_Restart" 				=> json3
+"Security_Distance_To_Avoid_Horde_Spawning_On_Players" 	=> json49
+
+
+=====================================================================
+================ Pvz_TheDarkHorde_ZombiesOptions.xml ================
+
+----- "Zombies_Health" -----
+"Health_Points_Ratio_For_Zombie_From_The_Horde" 		=> json60 json61 	(100 in json = 1.0 in xml)
+"Health_Points_Ratio_For_Zombie_Outside_The_Horde" 		=> json62 			(100 in json = 1.0 in xml)
+"Resistance_To_The_Cars_For_Zombie_From_The_Horde" 		=> json64			(100 in json = 1.0 in xml)
+"Resistance_To_The_Cars_For_Zombie_Outiside_The_Horde" 	=> json65			(100 in json = 1.0 in xml)
+
+----- "Zombies_Behaviours" -----
+"Allow_Ghost_Zombies_To_Go_Throught_Walls" 	=> json66
+"Allow_Night_Zombies_To_Teleport" 			=> json67	
+
+----- "Master_Health" -----
+"Health_Points_Ratio_For_The_Master" 			=> json58 json59 	(100 in json = 1.0 in xml)
+"Resistance_To_The_Cars_For_The_Master" 		=> json63 			(100 in json = 1.0 in xml)
+
+----- "Master_Behaviours" -----
+"Master_Regeneration_Rate" 						=> json36 (3 in json = 0.3 in xml)
+"Master_Is_Bulletproof" 						=> json68 (now just 0 or 1 because day and night are now two different values)
+"Master_Is_Immune_To_Explosions" 				(New)
+"Master_Is_Teleport_When_Hit_By_MeleeWaypon" 	=> json69 (now just 0 or 1 because day and night are now two different values)
+"Master_Is_Teleport_When_Hit_By_FireWaypon" 	=> json69 (now just 0 or 1 because day and night are now two different values)
+"Master_Can_Dodge" 								(New)
+
+----- "Zombies_Spawn_Options" -----
+"Zombie_Spawn_Timer" 	=> json8 - json12
+"Zombie_Spawn_Shift" 	=> json9 - json13
+"Zombie_Spawn_Radius" 	=> json22
+"Master_Spawn_Radius" 	=> json27
+
+----- "Zombies_Despawn" -----
+"Radius_To_Despawn_Zombie_When_Horde_Is_Calm" 		=> json23 - json24
+"Radius_To_Despawn_Zombie_When_Horde_Is_Not_Calm"	=> json25 - json26
+"Zombie_Despawn_Time_When_They_Are_Outside_Radius" 	=> json32
+"Zombie_Despawn_Time_After_Zombie_Have_Been_Killed" => json33
+"Zombie_Despawn_Time_After_Master_Have_Been_Killed" => json34
+
+----- "Master_Follow_The_Horde_And_Despawn" -----
+"Distance_To_Teleport_Master_When_Horde_Is_Calm" 		=> json28 - json29
+"Distance_To_Teleport_Master_When_Horde_Is_Not_Calm" 	=> json30 - json31
+"Master_Despawn_Time_After_Master_Have_Been_Killed" 	=> json35
+
+
+================================================================
+================ Pvz_TheDarkHorde___Debug__.xml ================
+
+----- "Debug" -----
+"Show_Debug_Messages" 		=> json0
+"Use_Debug_Fog_Blue_Color" 	=> json1
+
+----- "Test_Zone" -----
+"Activate_Test_Zone" 	=>(New)
+"Test_Zone_Limits" 		=>(New)
+
+----- "Teleport_Players_On_Horde_Creation" -----
+"Relative_Position_Of_The_Player" 		=> json41 - json42
+"Timer_Before_Teleporting_Players" 		=> json43
+"Number_Of_Horde_On_Which_To_Teleport" 	(New)
+
+----- "Other_Tests" -----
+"Number_Of_Hordes" 	(New)
+"Fog01Ratio" 		(New)
+"Fog02Ratio" 		(New)
+
+
+======================================================================
+================ Pvz_TheDarkHorde_CustomNightTime.xml ================
+
+----- "Custom_Night_Configuration" -----
+"Night_Config_Selected" 	=> json44
+"Beginning_Of_The_Night" 	=> json45 json46
+"End_Of_The_Night" 			=> json47 json48
+
+
+=====================================================================
+================ Pvz_TheDarkHorde_ScreenMessages.xml ================
+
+----- "Compas" -----
+"Minimum_Distance_To_Show_The_Message" 	=> json39
+"Show_Horde_Direction" 					=> json37
+"Show_Horde_Distance" 					=> json38
+
+----- "Messages" -----
+"Show_Message_At_Player_Connection" 		=> json40
+"Show_Message_Player_Kill_Master" 			=> json74
+"Show_Additional_Information_For_Admins" 	=> json75
+
+"Player_Connection_Message" 				(was in Pvz_TheDarkHorde_Messages.c)
+"Horde_Direction_Prefix_Message" 			(was in Pvz_TheDarkHorde_Messages.c)
+"The_Horde_Is_Too_Close_Message" 			(was in Pvz_TheDarkHorde_Messages.c)
+"No_Horde_Message" 							(was in Pvz_TheDarkHorde_Messages.c)
+"Killed_By_Message" 						(was in Pvz_TheDarkHorde_Messages.c)
+"Killed_With_Message" 						(was in Pvz_TheDarkHorde_Messages.c)
+
+
+=======================================================================
+================ Pvz_TheDarkHorde_SoundsAndVisuals.xml ================
+
+----- "Fog_Visual_Characteristics" -----
+"Fog_Color" 						=> json70 - json71
+"ParticulSystem_Birth_Rate_Ratio" 	=> json52 - json55 (100 in json = 1.0 in xml)
+"ParticulSystem_Size_Ratio" 		=> json53 - json56 (100 in json = 1.0 in xml)
+"ParticulSystem_Lifetime_Ratio" 	=> json54 - json57 (100 in json = 1.0 in xml)
+
+----- "Other_Visual_Effects" -----
+"Activate_Thunder_Sound_When_The_Master_Is_Disturb" (New)
+"Distance_To_Render_Zombies_Spawn_Little_Cloud" 	(New)
+
+"Sound_Effects"
+"Time_Between_Bell_Alarms" 										(New)
+"Activate_Zombie_Spawn_Sound" 									(New)
+"Activate_Zombie_Teleport_Sound" 								(New)
+"Activate_Thunderbolt_Sound_When_The_Master_Die" 				(New)
+"Activate_Clouds_Above_The_Horde_When_The_Master_Is_Disturb" 	(New)
+
+
+================================================================
+================ Pvz_TheDarkHorde_SafeZones.xml ================
+
+The file structures didn't change. 
+I only added safe zones for DeerIsle and Namalsk (for undergrounds areas).
+These new safe zones are not activated by default.
+
+
+==================================================================
+================ Pvz_TheDarkHorde_CustomZones.xml ================
+
+Correspond to the old "Pvz_TheDarkHorde_StartPoints.c" values.
+In previous file the zones was defined by its center and radius, 
+now it is defined by upleft and  lowright corner, this allow to define rectangle zone (instead of simple squares).
+You can now select a specific zone or choose a random one (set "random" in "Zone_To_Use")
+I added zones for Livonia, DeerIsle and Namalsk maps.
+Comment or uncomment (ctrl+Q) the lines that correspond to the map you use or not.
+
+
+=====================================================================
+================ Pvz_TheDarkHorde_TerrainLimits.xml ================
+
+Correspond to the old "Pvz_TheDarkHorde_TerrainLimits.c" values.
+I added values for Livonia, DeerIsle and Namalsk maps.
+
+
+================================================================
+================ Pvz_TheDarkHorde_Waypoints.xml ================
+
+Correspond to the old "Pvz_TheDarkHorde_Waypoints.c" values.
+I added values for Livonia, DeerIsle and Namalsk maps.
+
+
+=================================================================
+================ Pvz_TheDarkHorde_ZombieLoot.xml ================
+
+Correspond to the old "Pvz_TheDarkHorde_ZombieLoot.c" values.
+Remember that you can NOT create new sections in this file.
+You have to modify the existing ones.
+
+
+==================================================================
+================ Pvz_TheDarkHorde_ZombiesList.xml ================
+
+Correspond to the old "Pvz_TheDarkHorde_ZombiesList.c" values.
+You can comment (ctrl+Q) to easily disable the zombies you don't want to spawn.
+
+====================================================================================================================================

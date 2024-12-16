@@ -1,0 +1,23 @@
+{
+  "m_Version": 12,
+  "DisplayName": "HARALDS ARMOURY PARTS",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Trader",
+  "Currencies": [
+    "expansionbanknotehryvnia",
+    "expansiongoldbar"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "Categories": [
+    "HAROLDS_AMMO",
+    "HAROLDS_CONVERSION_KITS",
+    "HAROLDS_ATTACHMENTS",
+    "HAROLDS_MISC",
+    "HAROLDS_MAGS"
+  ],
+  "Items": {}
+}

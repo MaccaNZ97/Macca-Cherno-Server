@@ -520,7 +520,7 @@
           "SlotName": "Shoulder",
           "Items": [
             {
-              "ClassName": "Snafu_ScarH_Black_GUN",
+              "ClassName": "HA_W_MCX_308_Black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -538,7 +538,7 @@
                   "SlotName": "",
                   "Items": [
                     {
-                      "ClassName": "Snafu_ScarH_25RND_Mag_BK",
+                      "ClassName": "HA_Magazines_MCX_308win_30Rnd",
                       "Chance": 1,
                       "Quantity": {
                         "Min": 0,
@@ -557,7 +557,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "SNAFU_Standardized_Suppressor_Black",
+                      "ClassName": "HA_Suppressor_308",
                       "Chance": 1,
                       "Quantity": {
                         "Min": 0,
@@ -576,7 +576,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "M68Optic",
+                      "ClassName": "AD_LeupoldMk4_Base",
                       "Chance": 1,
                       "Quantity": {
                         "Min": 0,
@@ -615,25 +615,6 @@
                           ]
                         }
                       ],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "SNAFU_FGCR_Grip",
-                      "Chance": 1,
-                      "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                      },
-                      "Health": [
-                        {
-                          "Min": 0.7,
-                          "Max": 1,
-                          "Zone": ""
-                        }
-                      ],
-                      "InventoryAttachments": [],
                       "InventoryCargo": [],
                       "ConstructionPartsBuilt": [],
                       "Sets": []

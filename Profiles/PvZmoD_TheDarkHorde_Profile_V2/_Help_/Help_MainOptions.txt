@@ -1,0 +1,120 @@
+===================================== Pvz_TheDarkHorde_MainOptions.xml ==================================
+
+---------------------------------------------------------------------------------------------------------
+									----- "Horde_Main_Options" -----
+---------------------------------------------------------------------------------------------------------
+"Number_Of_Zombies"
+	[Interger 0 to infinite]
+	This number does not include the master.
+	Take care of the balance and performances (server and client) when modifying this value.
+	
+"Horde_Movement_Type"
+	[Integer -1 to 6]
+	-1: 	Horde Disable 
+	 0:		Spawn at random position then random movements
+	 1:		Spawn in a custom zone then random moves in this zone (choose in CustomZones.xml)
+	 2:		Follow Waypoints (set in Waypoints.xml)
+	 3:		Fixed start and end coords (defined in "Horde_Movements_Options" section below) The horde will cycle on this two coords
+	 4:		Fixed start then random moves (start coord defined in "Horde_Movements_Options" section below)
+	 5:		Fixed destination then random moves (end   coord defined in "Horde_Movements_Options" section below)
+	 6:		Hunting movement : the horde spawn at random position then go near the closest player position
+
+---------------------------------------------------------------------------------------------------------
+								----- "Horde_Movements_Options" -----
+---------------------------------------------------------------------------------------------------------
+"Distance_Between_Random_Direction_Changes"
+	[Integer 0 to infinite] (meters)
+	It is the min/max distance the horde move when a random move is executed.
+	Don't worry if the zone is smaller than these value, they will be automatically adapted.	
+	
+"Minimum_Of_Players_To_Activate_The_Hunt"
+	[Integer 0 to infinite]
+	Used when n°6 movement type (Hunting) is selected.
+	This is to avoid the horde hunting players when there is not a lot of player on the server.
+	You can configure, if you want, to include the players that are in the safe zones in the "SafeZones.xml" file.
+	
+"Maximum_Number_Of_Hunt_Per_Session"
+	[Integer 0 to infinite]
+	Used when n°6 movement type (Hunting) is selected.
+	This limits the number of time the horde use hunting movement.
+	Each time the horde enter the player radius (see next variable) count for one hunt.	
+	
+"Distance_To_Player_To_Stop_Hunting"
+	[Integer 0 to infinite]
+	Used when n°6 movement type (Hunting) is selected.
+	When the horde enter this player radius it stop approaching him and move randomly instead.	
+	If the random move make the horde exit the radius, it will approach again if enought "Hunt_Per_Session" (see above) remains.	
+	
+"Start_Waypoint_Number"
+	[Integer 0 to Number of waypoints in "Waypoints.xml" list]
+	Used when n°2 movement type is selected.
+	0: Choose a random waypoint for the starting position
+	Other: choose a custom waypoint number for the starting position
+
+"Random_Waypoint_Order"
+	[Integer 0 or 1]
+	Used when n°2 movement type is selected.
+	0: Use waypoints in the "Waypoints.xml" list order
+	1: Use waypoints in random order
+
+"Start_Position"
+	[Integer 0 to Map Limits]
+	Used when n°3/4 movement type is selected.
+	Define the start position of the horde movement.
+	
+"End_Position"
+	[Integer 0 to Map Limits]
+	Used when n°3/5 movement type is selected.
+	Define the destination position of the horde movement.
+	
+---------------------------------------------------------------------------------------------------------
+								----- "Horde_Speed" -----
+---------------------------------------------------------------------------------------------------------
+"Horde_Speed_When_Calm"
+	[Integer 0 to infinite]
+	Horde speed when the horde IS close enought (700-1000m radius)
+	And when the master has NOT detected a player.
+	
+"Horde_Speed_When_Not_Calm"
+	[Integer 0 to infinite]
+	Horde speed when the horde is NOT close enought (700-1000m radius)
+	And when the master HAS detected a player.
+
+"Horde_Speed_Ratio_When_No_Player_Around"
+	[Decimal 0 to infinite] 
+	Movement speed multiplier when the horde is far enought (more than 700-1000m radius)
+	Multiplier applied to the "Horde_Speed_When_Not_Calm" speed (see above).
+	
+---------------------------------------------------------------------------------------------------------
+							----- "Horde_Other_Options" -----
+---------------------------------------------------------------------------------------------------------
+"Time_Before_The_Horde_Respawn_After_Been_Defeated"
+	[Integer 0 to infinite] (seconds)
+	Time before a new horde will spawn after the horde have been defeat by the player.
+	This is to avoid player been able to farm hordes again and again.
+	The random value between mini and maxi is choose when the server start (not each time a horde is defeated)
+	You need to restart the server to apply these values modification.
+	
+"Persistent_Position_When_Server_Restart"
+	[Integer 0 or 1]
+	0: Persistence deactivated, each time the server restart a new position is choose.
+	1: Persistence activated, the horde keep its position when server restart. A new position is choose only when the horde is defeated
+
+"Security_Distance_To_Avoid_Horde_Spawning_On_Players"
+	[Integer 0 to infinite] (meters)
+	This is to avoid horde spawning too close to player.
+
+"Activate_Bandit_And_Heroes_mod_Rewards"
+	[Integer 0 or 1]
+	0: Killing the master will not generate Hero&Bandit mod reward.
+	1: Killing the master will generate Hero&Bandit mod reward set in the profile ot his mod.
+	
+"Minimum_Player_Number_To_Activate_The_Horde" / "Maximum_Player_Number_To_Activate_The_Horde"
+	[Integer 0 to infinite]
+	The horde will not be activated if their is not enought or too much players on the server.
+	If you change these values and refresh ingame with numpad6, I recommend to reset the horde with numpad9 too,
+	if not the horde will not spawn in some circonstences. (don't worry this problem shouldn't occurs once the server had restart)
+	Note that position persistence is not fully active when using this feature:
+	mostly if there is enough players at daytime, then not enough at the end of the night, then enough again the next day => the horde will not spawn at the previous day position.	
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------

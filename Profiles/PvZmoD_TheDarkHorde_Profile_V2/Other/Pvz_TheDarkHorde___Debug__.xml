@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>
+	<type name="Debug">
+        <Show_Debug_Messages		value="0"/> <!-- [Integer 0 or 1] -->
+        <Use_Debug_Fog_Blue_Color	value="0"/> <!-- [Integer 0 or 1] -->
+	</type>
+	
+	<type name="Test_Zone">
+		<Activate_Test_Zone			Value="0"/> <!-- [Integer 0 or 1] -->
+        <Test_Zone_Limits			UpLeft_Corner="13802/13033"		LowRight_Corner="14002/12828"/> <!-- [Integer 0 to terrain limits] -->
+    </type>
+	<type name="Teleport_Players_On_Horde_Creation">
+        <Relative_Position_Of_The_Players			value="0/0"/> 	<!-- [Integer 0 to terrain limits] (meters) -->
+        <Timer_Before_Teleporting_Players			Value="15"/>	<!-- [Integer 0 to infinite] (seconds) -->	
+        <Number_Of_The_Horde_On_Which_To_Teleport	Value="1"/>		<!-- [Integer 0 to Number of hordes] -->
+	</type>
+	
+	<type name="Other_Tests">
+        <Number_Of_Hordes		Value="1"/>		<!-- [Integer 0 to Infinity] (Not fully tested, don't abuse or you will have performance problems) -->   	
+	</type>
+
+	<type name="NewFeatures">
+    </type>
+</types>
+
+
+
+

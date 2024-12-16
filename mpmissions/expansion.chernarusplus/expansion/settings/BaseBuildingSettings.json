@@ -95,7 +95,7 @@
         "ImprovisedExplosive",
         "Plastic_Explosive"
       ],
-      "IsWhitelist": 0,
+      "IsWhitelist": 1,
       "CustomMessage": "Military Zone"
     },
     {
@@ -114,7 +114,7 @@
         "SmallFishTrap",
         "TripwireTrap"
       ],
-      "IsWhitelist": 0,
+      "IsWhitelist": 1,
       "CustomMessage": ""
     }
   ],
@@ -123,7 +123,7 @@
   "DismantleFlagMode": -1,
   "FlagMenuMode": 1,
   "OverrideVanillaEntityPlacement": 0,
-  "EnableVirtualStorage": 1,
+  "EnableVirtualStorage": 0,
   "VirtualStorageExcludedContainers": [
     "ExpansionAirdropContainerBase",
     "KOTH_CHEST",
@@ -131,6 +131,9 @@
     "DNA_Crate_Red",
     "FD_Crate",
     "Locked_Rust_Crate",
-    "Locked_Armoury_Container"
+    "Locked_Armoury_Container",
+    "rag_hunting_cabin_hologram",
+    "rag_hunting_cabin",
+    "DNA_Workbench"
   ]
 }

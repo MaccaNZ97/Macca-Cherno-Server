@@ -79,6 +79,9 @@ ZmbM_ConstrWorkerNormal_Black
 ZmbM_ConstrWorkerNormal_Green
 ZmbM_ConstrWorkerNormal_Grey
 ZmbM_DoctorFat
+ZmbM_DoctorFat_Winter
+ZmbM_eastSoldier_Heavy_Navy
+ZmbM_eastSoldier_normal_Navy
 ZmbM_FarmerFat_Beige
 ZmbM_FarmerFat_Blue
 ZmbM_FarmerFat_Brown
@@ -88,6 +91,9 @@ ZmbM_FishermanOld_Blue
 ZmbM_FishermanOld_Green
 ZmbM_FishermanOld_Grey
 ZmbM_FishermanOld_Red
+ZmbM_Gamedev_Black
+ZmbM_Gamedev_Blue
+ZmbM_Gamedev_Gray
 ZmbM_HandymanNormal_Beige
 ZmbM_HandymanNormal_Blue
 ZmbM_HandymanNormal_Green
@@ -127,6 +133,7 @@ ZmbM_MotobikerFat_Beige
 ZmbM_MotobikerFat_Black
 ZmbM_MotobikerFat_Blue
 ZmbM_NBC_Grey
+ZmbM_NBC_White
 ZmbM_NBC_Yellow
 ZmbM_OffshoreWorker_Green
 ZmbM_OffshoreWorker_Orange
@@ -137,10 +144,12 @@ ZmbM_ParamedicNormal_Blue
 ZmbM_ParamedicNormal_Green
 ZmbM_ParamedicNormal_Red
 ZmbM_PatientSkinny
+ZmbM_PatientSkinny_Winter
 ZmbM_PatrolNormal_Autumn
 ZmbM_PatrolNormal_Flat
 ZmbM_PatrolNormal_PautRev
 ZmbM_PatrolNormal_Summer
+ZmbM_PatrolNormal_Winter
 ZmbM_PolicemanFat
 ZmbM_PolicemanSpecForce
 ZmbM_PolicemanSpecForce_Heavy

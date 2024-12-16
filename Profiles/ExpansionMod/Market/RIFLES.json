@@ -44,19 +44,6 @@
       "Variants": []
     },
     {
-      "ClassName": "expansion_m14",
-      "MaxPriceThreshold": 1000,
-      "MinPriceThreshold": 1000,
-      "SellPricePercent": -1.0,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [
-        "mag_expansion_m14_10rnd"
-      ],
-      "Variants": []
-    },
-    {
       "ClassName": "expansion_m1a",
       "MaxPriceThreshold": 1000,
       "MinPriceThreshold": 1000,
@@ -151,6 +138,78 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
+    },
+    {
+      "ClassName": "ak101_black",
+      "MaxPriceThreshold": 6500,
+      "MinPriceThreshold": 6500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ak101_green"
+      ]
+    },
+    {
+      "ClassName": "ak74_black",
+      "MaxPriceThreshold": 6500,
+      "MinPriceThreshold": 6500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ak74_hndgrd",
+        "ak74_woodbttstck",
+        "mag_ak74_30rnd",
+        "mag_ak74_45rnd"
+      ],
+      "Variants": [
+        "ak74_green"
+      ]
+    },
+    {
+      "ClassName": "aks74u_black",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "aks74u_bttstck"
+      ],
+      "Variants": [
+        "aks74u_green"
+      ]
+    },
+    {
+      "ClassName": "asval",
+      "MaxPriceThreshold": 9500,
+      "MinPriceThreshold": 9500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_val_20rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "m4a1_black",
+      "MaxPriceThreshold": 7500,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "m4a1_green"
+      ]
     }
   ]
 }

@@ -1,43 +1,48 @@
 {
-  "m_Version": 7,
-  "m_TraderID": 1,
-  "m_ClassName": "ExpansionP2PTraderAIIrena",
-  "m_Position": [
-    7411.19,
-    15.2187,
-    2197.14
-  ],
-  "m_Orientation": [
-    150.1320037841797,
-    0.0,
-    0.0
-  ],
-  "m_LoadoutFile": "YellowKingLoadout",
-  "m_VehicleSpawnPosition": [
-    3728.43994140625,
-    401.6659851074219,
-    6011.509765625
-  ],
-  "m_WatercraftSpawnPosition": [
-    0.0,
-    0.0,
-    0.0
-  ],
-  "m_AircraftSpawnPosition": [
-    0.0,
-    0.0,
-    0.0
-  ],
-  "m_DisplayName": "Player to Player Trader",
-  "m_DisplayIcon": "Deliver",
-  "m_Faction": "InvincibleObservers",
-  "m_Waypoints": [],
-  "m_EmoteID": 46,
-  "m_EmoteIsStatic": 0,
-  "m_IsGlobalTrader": 1,
-  "m_Currencies": [
-    "expansionbanknotehryvnia"
-  ],
-  "m_DisplayCurrencyValue": 1,
-  "m_DisplayCurrencyName": ""
+    "m_Version": 8,
+    "m_TraderID": 1,
+    "m_ClassName": "ExpansionP2PTraderAIIrena",
+    "m_Position": [
+        7411.18994140625,
+        15.218700408935547,
+        2197.139892578125
+    ],
+    "m_Orientation": [
+        150.1320037841797,
+        0.0,
+        0.0
+    ],
+    "m_LoadoutFile": "YellowKingLoadout",
+    "m_VehicleSpawnPosition": [
+        3728.43994140625,
+        401.6659851074219,
+        6011.509765625
+    ],
+    "m_WatercraftSpawnPosition": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_AircraftSpawnPosition": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_DisplayName": "Player to Player Trader",
+    "m_DisplayIcon": "Deliver",
+    "m_Faction": "InvincibleObservers",
+    "m_Waypoints": [],
+    "m_EmoteID": 46,
+    "m_EmoteIsStatic": 0,
+    "m_RequiredFaction": "",
+    "m_UseReputation": 0,
+    "m_MinRequiredReputation": 0,
+    "m_MaxRequiredReputation": 2147483647,
+    "m_RequiredCompletedQuestID": -1,
+    "m_IsGlobalTrader": 1,
+    "m_Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "m_DisplayCurrencyValue": 1,
+    "m_DisplayCurrencyName": ""
 }

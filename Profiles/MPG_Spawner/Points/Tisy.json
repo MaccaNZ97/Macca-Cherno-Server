@@ -1,7 +1,7 @@
 [
   {
     "pointId": 1,
-    "isDebugEnabled": 1,
+    "isDebugEnabled": 0,
     "isDisabled": 0,
     "showVisualisation": 0,
     "notificationTitle": "Tisy Gates",

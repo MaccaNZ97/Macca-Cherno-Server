@@ -12,15 +12,14 @@
   "UseVirtualStorageForCargo": 1,
   "NeedKeyToStore": 1,
   "EntityWhitelist": [
-    "ExpansionParkingMeter",
     "ATSGroundMountDSParking",
-    "TerritoryFlag",
-    "Macca_Garage_Sign"
+    "Macca_Garage_Sign",
+    "ExpansionParkingMeter"
   ],
   "EnableGroupFeatures": 1,
   "GroupStoreMode": 0,
   "EnableMarketFeatures": 0,
-  "StorePricePercent": 1.0,
+  "StorePricePercent": 0.0,
   "StaticStorePrice": 100,
   "MaxStorableTier1": 2,
   "MaxStorableTier2": 4,

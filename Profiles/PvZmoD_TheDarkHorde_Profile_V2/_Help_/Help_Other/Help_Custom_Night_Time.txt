@@ -1,0 +1,23 @@
+===================================== Pvz_TheDarkHorde_CustomNightTime.xml =================================================
+
+-----------------------------------------------------------------------------------------------------------------
+									----- "Custom_Night_Configuration" -----
+-----------------------------------------------------------------------------------------------------------------
+"Night_Config_Selected"
+	[Interger 0, 1 or 2]
+	0: Night time disable, the Day horde will always been used (even during night time).
+	1: Night time enable with vanilla night system.
+	2: Night time enable with custom hours for beginning and end of the night.
+	
+"Beginning_Of_The_Night" and "End_Of_The_Night"
+	[Time on 24h format]
+	Used only if "Night_Config_Selected" (see above) is set to 2
+	
+-----------------------------------------------------------------------------------------------------------------
+
+This feature was made because the vanilla system consider it is night time when the global light is still bright
+It allows to switch to the night configuration only when the night become really dark.
+It doesn't affect vanilla time acceleration or other variables, 
+it only affect the horde switch between day and night configuration.
+
+=================================================================================================================

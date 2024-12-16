@@ -1,0 +1,57 @@
+{
+  "m_Version": 12,
+  "DisplayName": "HAROLDS SHOTGUNS",
+  "Icon": "Deliver",
+  "Color": "00FF40FF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ha_w_m2014",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_saiga_drum20rnd",
+        "ha_optics_acoglow",
+        "ha_optics_eotech_magnifieroff",
+        "ha_optics_eotech_magnifieron",
+        "ha_optics_hamr",
+        "ha_optics_microt1",
+        "ha_optics_nightforce32x",
+        "ha_optics_sigsauertango",
+        "ha_optics_trijiconskeetix",
+        "ha_optics_vortexspitfire",
+        "ha_optics_vortexstrikefire",
+        "ha_optics_vortexuh1",
+        "ha_optics_vortexvenom"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ha_w_remington870",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ha_w_saiga12",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": 60,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

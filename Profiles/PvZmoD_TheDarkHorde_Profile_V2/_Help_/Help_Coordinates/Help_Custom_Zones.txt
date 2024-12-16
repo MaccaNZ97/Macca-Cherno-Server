@@ -1,0 +1,40 @@
+===================================== Pvz_TheDarkHorde_CustomZones.xml ==============================================
+
+To use this feature the "Pvz_TheDarkHorde_MainOptions.xml / Horde_Main_Options / Horde_Movement_Type" have to be set to 1
+
+---------------------------------------------------------------------------------------------------------------------
+									----- "Horde_Main_Options" -----
+---------------------------------------------------------------------------------------------------------------------
+"Zone_To_Use"
+	[Text]
+	you can set a specific zone where the horde will spawn (after the horde is defeated or after server restart if position persistence is deactivated).
+	After that the horde will move randomly in the zone.
+	If you set to "random" or any other text that is not in the list, a random zone will be choosen.
+	If "random" is choose and the persistence activated, when the server will restart a new random zone will be choose
+	and the horde will move from the last saved position to the new chosen zone.
+	
+"Zone_Data"
+	"Name" [Text]: the name of the zone (used by "Zone_To_Use" above)
+	"Coord_TopLeft_Corner" and "Coord_LowRight_Corner" [Integer/Integer]: Limits of the zone
+
+---------------------------------------------------------------------------------------------------------------------
+
+Note that you can easily disable / enable zones from the list by commenting the line (to switch from a map to another for example).
+If you use a text editor like notepad++ you can use "ctrl+Q" shortcut to do that.
+
+Each line have to be commented, not a group of line:
+	<!-- <Zone_Data		Name = "Electro"		Coord_TopLeft_Corner = "9900/1730"		Coord_LowRight_Corner = "10900/1630"/> -->
+    <!-- <Zone_Data		Name = "Cherno"			Coord_TopLeft_Corner = "7130/3100"		Coord_LowRight_Corner = "8130/2100"/> -->
+    <!-- <Zone_Data		Name = "Zeleno"			Coord_TopLeft_Corner = "2200/5760"		Coord_LowRight_Corner = "3200/4760"/> -->
+    <!-- <Zone_Data		Name = "Novaya Petro"	Coord_TopLeft_Corner = "1050/13560"		Coord_LowRight_Corner = "2050/12560"/> -->
+		==> OK
+		
+	<!-- <Zone_Data		Name = "Electro"		Coord_TopLeft_Corner = "9900/1730"		Coord_LowRight_Corner = "10900/1630"/>
+		 <Zone_Data		Name = "Cherno"			Coord_TopLeft_Corner = "7130/3100"		Coord_LowRight_Corner = "8130/2100"/>
+		 <Zone_Data		Name = "Zeleno"			Coord_TopLeft_Corner = "2200/5760"		Coord_LowRight_Corner = "3200/4760"/>
+		 <Zone_Data		Name = "Novaya Petro"	Coord_TopLeft_Corner = "1050/13560"		Coord_LowRight_Corner = "2050/12560"/> -->
+		==> NOT OK
+			
+Don't worry "ctrl+Q" will comment each line you select at once (you don't have to comment them one by one)
+
+======================================================================================================================

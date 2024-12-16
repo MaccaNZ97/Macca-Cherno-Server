@@ -1,0 +1,39 @@
+===================================== Pvz_TheDarkHorde_Waypoints.xml =====================================
+
+This waypoint list is used only if you use the movement type 2
+You can use a random start waypoint or a random waypoint order in Pvz_TheDarkHorde_MainOptions.xml
+
+---------------------------------------------------------------------------------------------------------
+
+"Waypoints_List_To_Use"
+	[Text]
+	Here you set the Waypoints list name you want to use.	
+	Useful to quickly switch from a map to another.
+	
+"Waypoint_Coordinates"
+	[Integer/Integer]
+	Coordinates of the waypoints
+	
+---------------------------------------------------------------------------------------------------------
+
+Note that you can easily disable / enable waypoints from the list by commenting the line (to switch from a map data to another for example).
+If you use a text editor like notepad++ you can use "ctrl+Q" shortcut to do that.
+
+Each line have to be commented, not a group of line:
+	<!-- <Waypoint_Coordinates	Value="1842/2243"/>		<!-- Kamehka --> -->
+	<!-- <Waypoint_Coordinates	Value="3674/2468"/>		<!-- Komarovo --> -->
+	<!-- <Waypoint_Coordinates	Value="4489/2393"/>		<!-- Balota --> -->
+	<!-- <Waypoint_Coordinates	Value="6371/2303"/>		<!-- Cherno01 --> -->
+	<!-- <Waypoint_Coordinates	Value="6709/2918"/>		<!-- Cherno02 --> -->
+			==> OK
+		
+	<!-- <Waypoint_Coordinates	Value="1842/2243"/>		<!-- Kamehka -->
+		 <Waypoint_Coordinates	Value="3674/2468"/>		<!-- Komarovo -->
+		 <Waypoint_Coordinates	Value="4489/2393"/>		<!-- Balota -->
+		 <Waypoint_Coordinates	Value="6371/2303"/>		<!-- Cherno01 -->
+		 <Waypoint_Coordinates	Value="6709/2918"/>		<!-- Cherno02 --> -->
+			==> NOT OK
+			
+Don't worry "ctrl+Q" will comment each line you select at once (you don't have to comment them one by one)
+
+======================================================================================================================

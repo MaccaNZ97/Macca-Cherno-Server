@@ -1,10 +1,10 @@
 {
-  "m_Version": 13,
+  "m_Version": 15,
   "MarketSystemEnabled": 1,
   "NetworkCategories": [],
   "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
   "ATMSystemEnabled": 1,
-  "MaxDepositMoney": 10000000,
+  "MaxDepositMoney": 50000000,
   "DefaultDepositMoney": 10000,
   "ATMPlayerTransferEnabled": 1,
   "ATMPartyLockerEnabled": 1,
@@ -65,18 +65,6 @@
         0,
         0
       ]
-    },
-    {
-      "Position": [
-        11873,
-        140.085999,
-        12457.5
-      ],
-      "Orientation": [
-        0,
-        0,
-        0
-      ]
     }
   ],
   "AirSpawnPositions": [
@@ -126,6 +114,18 @@
         7403.5,
         15.2201004,
         0
+      ]
+    },
+    {
+      "Position": [
+        11832.2998,
+        139.705002,
+        12481.7002
+      ],
+      "Orientation": [
+        17.3269997,
+        -0.525779009,
+        1.96155
       ]
     }
   ],
@@ -249,5 +249,7 @@
     "ExpansionCarKey"
   ],
   "MaxSZVehicleParkingTime": 7200.0,
-  "SZVehicleParkingTicketFine": 2500
+  "SZVehicleParkingTicketFine": 2500,
+  "SZVehicleParkingFineUseKey": 1,
+  "DisallowUnpersisted": 0
 }

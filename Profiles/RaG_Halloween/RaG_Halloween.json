@@ -1,0 +1,58 @@
+{
+    "tombstones": {
+        "ChanceToSpawnRewards": 50,
+        "ChanceToDigGrave": 50,
+        "SpawnableAI": "ZmbM_Mummy",
+        "Rewards": [
+            "AmmoBox_556x45_20Rnd",
+            "AmmoBox_545x39_20Rnd",
+            "Ammo_Expansion_M203_HE",
+            "AmmoBox_Expansion_338_15rnd",
+            "Ammo_HA_50BMG",
+            "HA_AmmoBox_338LP_15Rnd",
+            "HA_AmmoBox_408CT_15Rnd"
+        ]
+    },
+    "boogieman": {
+        "SpawnableAI": [
+            "ZmbM_Mummy",
+            "ZmbM_Mummy",
+            "ZmbM_Mummy",
+            "ZmbM_Mummy"
+        ]
+    },
+    "pumpkingrenade": {
+        "ChanceToGetRewards": 50,
+        "SpawnableAI": "Animal_CanisLupus_White",
+        "Rewards": [
+            "AmmoBox_556x45_20Rnd",
+            "AmmoBox_545x39_20Rnd",
+            "Ammo_Expansion_M203_HE",
+            "AmmoBox_Expansion_338_15rnd",
+            "Ammo_HA_50BMG",
+            "HA_AmmoBox_338LP_15Rnd",
+            "HA_AmmoBox_408CT_15Rnd"
+        ]
+    },
+    "pedestal": {
+        "ChanceToSpawnCoffin": 50,
+        "SpawnableAI": [
+            "Animal_UrsusArctos",
+            "Animal_UrsusArctos",
+            "Animal_UrsusArctos",
+            "CDAJ_ZmbM_Demon"
+            
+        ],
+        "Rewards": [
+            "AmmoBox_556x45_20Rnd",
+            "AmmoBox_545x39_20Rnd",
+            "Ammo_Expansion_M203_HE",
+            "AmmoBox_Expansion_338_15rnd",
+            "Ammo_HA_50BMG",
+            "HA_AmmoBox_338LP_15Rnd",
+            "HA_AmmoBox_408CT_15Rnd",
+            "HA_Magazine_M200",
+            "HA_W_M200"
+        ]
+    }
+}

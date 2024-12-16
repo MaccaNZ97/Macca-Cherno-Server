@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>
+  <!-- =========== ZOMBIES MAIN OPTIONS =========== -->
+  <type name="Zombies_Health">
+    <!-- !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
+    <Health_Points_Ratio_For_Zombies_From_The_Horde Day="2.0" Night="4.0" />
+    <!-- [Decimal 0.01 to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
+    <Health_Points_Ratio_For_Zombies_Outside_The_Horde Value="1.0" />
+    <!-- [Decimal 0.01 to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
+    <Resistance_To_The_Cars_For_Zombies_From_The_Horde Value="50.0" />
+    <!-- [Decimal 0.0 to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
+    <Resistance_To_The_Cars_For_Zombies_Outside_The_Horde Value="1.0" />
+    <!-- [Decimal 0.0 to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
+  </type>
+  <type name="Zombies_Behaviours">
+    <Allow_Ghost_Zombies_To_Go_Through_Walls Value="1" />
+    <!-- [Integer 0 or 1] -->
+    <Allow_Night_Zombies_To_Teleport Value="1" />
+    <!-- [Integer 0 or 1] -->
+  </type>
+  <!-- =========== MASTER MAIN OPTIONS =========== -->
+  <type name="Master_Health">
+    <!-- !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
+    <Health_Points_Ratio_For_The_Master Day="30.0" Night="60.0" />
+    <!-- [Decimal 0.01 to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
+    <Resistance_To_The_Cars_For_The_Master Value="5000.0" />
+    <!-- [Decimal 0.0  to infinite] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
+  </type>
+  <type name="Master_Behaviours">
+    <Master_Regeneration_Rate Day="0.6" Night="1.2" />
+    <!-- [Decimal 0.01 to infinite] (Health Points per second)-->
+    <Master_Is_Bulletproof Day="0" Night="0" />
+    <!-- [Integer 0 or 1] -->
+    <Master_Is_Immune_To_Explosions Day="1" Night="1" />
+    <!-- [Integer 0 or 1] -->
+    <Master_Is_Teleport_When_Hit_By_MeleeWeapon Day="0" Night="0" />
+    <!-- [Integer 0 or 1] -->
+    <Master_Is_Teleport_When_Hit_By_FireWeapon Day="0" Night="0" />
+    <!-- [Integer 0 or 1] -->
+    <Master_Can_Dodge Day="1" Night="1" />
+    <!-- [Integer 0 or 1] !! Not used if "PvZmoD Customisable Zombies" is loaded !!-->
+    <Master_Size_Ratio Day="10" Night="20" />
+    <!-- [Decimal - Theoretically: 0 to infinite - Recommended 0.5 to 1.5] -->
+  </type>
+  <!-- =========== OTHER OPTIONS =========== -->
+  <type name="Zombies_Spawn_Options">
+    <Zombie_Spawn_Timer Day="1.5" Night="2.0" />
+    <!--[Decimal 0.01 to infinite] (seconds) -->
+    <Zombie_Spawn_Shift Day="-3" Night="-5" />
+    <!--[Decimal 0.0 to infinite] (meters) -->
+    <Zombie_Spawn_Radius Value="3" />
+    <!--[Decimal 0.0 to infinite] (meters) -->
+    <Master_Spawn_Radius Value="2" />
+    <!--[Decimal 0.0 to infinite] (meters) -->
+  </type>
+  <type name="Zombies_Despawn_Options">
+    <Radius_To_Despawn_Zombie_When_Horde_Is_Calm Mini="30" Maxi="50" />
+    <!-- [Integer 10 to infinite] (meters) -->
+    <Radius_To_Despawn_Zombie_When_Horde_Is_Not_Calm Mini="50" Maxi="60" />
+    <!-- [Integer 10 to infinite] (meters) -->
+    <Zombie_Despawn_Time_When_They_Are_Outside_Radius Value="3" />
+    <!-- [Integer 0 to infinite] (seconds) -->
+    <Zombie_Despawn_Time_After_Zombie_Have_Been_Killed Value="30" />
+    <!-- [Integer 0 to infinite] (seconds) -->
+    <Zombie_Despawn_Time_After_Master_Have_Been_Killed Value="15" />
+    <!-- [Integer 0 to infinite] (seconds) -->
+  </type>
+  <type name="Master_Follow_The_Horde_And_Despawn">
+    <Distance_To_Teleport_Master_When_Horde_Is_Calm Mini="10" Maxi="10" />
+    <!-- [Integer 10 to infinite] (meters) -->
+    <Distance_To_Teleport_Master_When_Horde_Is_Not_Calm Mini="40" Maxi="50" />
+    <!-- [Integer 10 to infinite] (meters) -->
+    <Master_Despawn_Time_After_Master_Have_Been_Killed Value="300" />
+    <!-- [Integer 0 to infinite] (seconds) -->
+  </type>
+  <type name="NewFeatures">
+    <Master_Stun_Bullet_Resistance Day="1.5" Night="1.5" />
+    <!-- [Decimal 0 to 2.0] !! Not used if "PvZmoD Customisable Zombies" is loaded !! (new feature, you should move it in "Master_Behaviours" section)  -->
+  </type>
+</types>

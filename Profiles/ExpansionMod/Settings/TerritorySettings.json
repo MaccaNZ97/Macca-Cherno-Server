@@ -1,13 +1,13 @@
 {
-    "m_Version": 5,
-    "EnableTerritories": 1,
-    "UseWholeMapForInviteList": 1,
-    "TerritorySize": 200.0,
-    "TerritoryPerimeterSize": 100.0,
-    "MaxMembersInTerritory": 20,
-    "MaxTerritoryPerPlayer": 2,
-    "TerritoryInviteAcceptRadius": 150.0,
-    "AuthenticateCodeLockIfTerritoryMember": 0,
-    "InviteCooldown": 0,
-    "OnlyInviteGroupMember": 0
+  "m_Version": 5,
+  "EnableTerritories": 1,
+  "UseWholeMapForInviteList": 1,
+  "TerritorySize": 200.0,
+  "TerritoryPerimeterSize": 100.0,
+  "MaxMembersInTerritory": 20,
+  "MaxTerritoryPerPlayer": 1,
+  "TerritoryInviteAcceptRadius": 150.0,
+  "AuthenticateCodeLockIfTerritoryMember": 0,
+  "InviteCooldown": 0,
+  "OnlyInviteGroupMember": 0
 }

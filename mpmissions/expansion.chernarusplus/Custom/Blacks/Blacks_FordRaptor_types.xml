@@ -198,17 +198,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="vehicles" />
   </type>
-  <type name="Blacks_FordRaptor_Arrow">
-    <nominal>0</nominal>
-    <lifetime>10800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>0</quantmin>
-    <quantmax>0</quantmax>
-    <cost>0</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="donot_spawn" />
-  </type>
   <type name="Blacks_FordRaptor_Arrow_cargo1">
     <nominal>0</nominal>
     <lifetime>10800</lifetime>
@@ -726,7 +715,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="donot_spawn" />
   </type>
- 
   <type name="Blacks_FordRaptor_Camo006">
     <nominal>0</nominal>
     <lifetime>3888000</lifetime>
@@ -1618,17 +1606,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="vehicles" />
   </type>
-  <type name="Blacks_FordRaptor_Clawz">
-    <nominal>0</nominal>
-    <lifetime>10800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>0</quantmin>
-    <quantmax>0</quantmax>
-    <cost>0</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="donot_spawn" />
-  </type>
   <type name="Blacks_FordRaptor_Clawz_cargo1">
     <nominal>0</nominal>
     <lifetime>10800</lifetime>
@@ -1716,17 +1693,6 @@
     <cost>0</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="vehicles" />
-  </type>
-  <type name="Blacks_FordRaptor_Dragon">
-    <nominal>0</nominal>
-    <lifetime>10800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>0</quantmin>
-    <quantmax>0</quantmax>
-    <cost>0</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="donot_spawn" />
   </type>
   <type name="Blacks_FordRaptor_Dragon_cargo1">
     <nominal>0</nominal>
@@ -1816,17 +1782,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="vehicles" />
   </type>
-  <type name="Blacks_FordRaptor_Groot">
-    <nominal>0</nominal>
-    <lifetime>10800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>0</quantmin>
-    <quantmax>0</quantmax>
-    <cost>0</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="donot_spawn" />
-  </type>
   <type name="Blacks_FordRaptor_Groot_cargo1">
     <nominal>0</nominal>
     <lifetime>10800</lifetime>
@@ -1914,17 +1869,6 @@
     <cost>0</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="vehicles" />
-  </type>
-  <type name="Blacks_FordRaptor_Groot2">
-    <nominal>0</nominal>
-    <lifetime>10800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>0</quantmin>
-    <quantmax>0</quantmax>
-    <cost>0</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="donot_spawn" />
   </type>
   <type name="Blacks_FordRaptor_Groot2_cargo1">
     <nominal>0</nominal>
@@ -2014,17 +1958,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="vehicles" />
   </type>
-  <type name="Blacks_FordRaptor_Lightning">
-    <nominal>0</nominal>
-    <lifetime>10800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>0</quantmin>
-    <quantmax>0</quantmax>
-    <cost>0</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="donot_spawn" />
-  </type>
   <type name="Blacks_FordRaptor_Lightning_cargo1">
     <nominal>0</nominal>
     <lifetime>10800</lifetime>
@@ -2112,17 +2045,6 @@
     <cost>0</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="vehicles" />
-  </type>
-  <type name="Blacks_FordRaptor_Solar">
-    <nominal>0</nominal>
-    <lifetime>10800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>0</quantmin>
-    <quantmax>0</quantmax>
-    <cost>0</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="donot_spawn" />
   </type>
   <type name="Blacks_FordRaptor_Solar_cargo1">
     <nominal>0</nominal>
@@ -2212,17 +2134,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="vehicles" />
   </type>
-  <type name="Blacks_FordRaptor_STAND">
-    <nominal>0</nominal>
-    <lifetime>10800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>0</quantmin>
-    <quantmax>0</quantmax>
-    <cost>0</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="donot_spawn" />
-  </type>
   <type name="Blacks_FordRaptor_STAND_cargo1">
     <nominal>0</nominal>
     <lifetime>10800</lifetime>
@@ -2311,17 +2222,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="vehicles" />
   </type>
-  <type name="Blacks_FordRaptor_Swoosh">
-    <nominal>0</nominal>
-    <lifetime>10800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>0</quantmin>
-    <quantmax>0</quantmax>
-    <cost>0</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="donot_spawn" />
-  </type>
   <type name="Blacks_FordRaptor_Swoosh_cargo1">
     <nominal>0</nominal>
     <lifetime>10800</lifetime>
@@ -2409,17 +2309,6 @@
     <cost>0</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="vehicles" />
-  </type>
-  <type name="Blacks_FordRaptor_Torn">
-    <nominal>0</nominal>
-    <lifetime>10800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
-    <quantmin>0</quantmin>
-    <quantmax>0</quantmax>
-    <cost>0</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="donot_spawn" />
   </type>
   <type name="Blacks_FordRaptor_Torn_cargo1">
     <nominal>0</nominal>

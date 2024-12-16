@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>
+  <!-- ======================== NIGHT TIME ============================== -->
+  <type NightTime_Master="CDAJ_ZmbM_Clown">
+    <NightTime_Zombie Name="CDAJ_ZmbM_NBC_Space" />
+    <NightTime_Zombie Name="CDAJ_ZmbM_Demon" />
+    <NightTime_Zombie Name="CDAJ_ZmbM_NBC_BlueLight" />
+    <NightTime_Zombie Name="CDAJ_ZmbM_NBC_Rainbow" />
+    <NightTime_Zombie Name="CDAJ_ZmbM_Dark_Heavy" />
+    <NightTime_Zombie Name="CDAJ_ZmbM_NBC_Green" />
+  </type>
+  <!-- ======================== DAY TIME ============================== -->
+  <type DayTime_Master="CDAJ_ZmbM_TribeDemon_White">
+    <!-- <type DayTime_Master = "Era_Zombies_feeder"> -->
+    <DayTime_Zombie Name="CDAJ_ZmbM_NBC_BlueLight" />
+    <DayTime_Zombie Name="CDAJ_ZmbM_NBC_ERDL" />
+    <DayTime_Zombie Name="CDAJ_ZmbM_NBC_Green" />
+    <DayTime_Zombie Name="CDAJ_ZmbM_NBC_Rainbow" />
+    <DayTime_Zombie Name="CDAJ_ZmbM_NBC_Red" />
+    <DayTime_Zombie Name="CDAJ_ZmbM_NBC_Space" />
+    <DayTime_Zombie Name="CDAJ_ZmbM_Dark_Heavy" />
+  </type>
+</types>

@@ -318,7 +318,8 @@
         "camonet",
         "wrench",
         "canistergasoline",
-        "ext_tac_radio"
+        "ext_tac_radio",
+        "ext_mi24_door_2_1"
       ],
       "Variants": [
         "ext_mi24_acr",
@@ -350,7 +351,8 @@
         "camonet",
         "wrench",
         "canistergasoline",
-        "ext_tac_radio"
+        "ext_tac_radio",
+        "ext_mi24_door_2_1_acr"
       ],
       "Variants": []
     },
@@ -367,9 +369,6 @@
         "expansionigniterplug",
         "expansionhydraulichoses",
         "headlighth7",
-        "ext_mi24_door_1_1",
-        "ext_mi24_door_cargo_1",
-        "ext_mi24_door_cargo_2",
         "ext_mi24_wheel_1_1",
         "ext_mi24_wheel_1_2",
         "ext_mi24_wheel_2_1",
@@ -377,7 +376,11 @@
         "camonet",
         "wrench",
         "canistergasoline",
-        "ext_tac_radio"
+        "ext_tac_radio",
+        "ext_mi24_door_1_1_ion",
+        "ext_mi24_door_2_1_ion",
+        "ext_mi24_door_cargo_1_ion",
+        "ext_mi24_door_cargo_2_ion"
       ],
       "Variants": []
     },
@@ -394,9 +397,6 @@
         "expansionigniterplug",
         "expansionhydraulichoses",
         "headlighth7",
-        "ext_mi24_door_1_1",
-        "ext_mi24_door_cargo_1",
-        "ext_mi24_door_cargo_2",
         "ext_mi24_wheel_1_1",
         "ext_mi24_wheel_1_2",
         "ext_mi24_wheel_2_1",
@@ -404,7 +404,11 @@
         "camonet",
         "wrench",
         "canistergasoline",
-        "ext_tac_radio"
+        "ext_tac_radio",
+        "ext_mi24_door_1_1_takistan",
+        "ext_mi24_door_2_1_takistan",
+        "ext_mi24_door_cargo_1_takistan",
+        "ext_mi24_door_cargo_2_takistan"
       ],
       "Variants": []
     },
@@ -421,17 +425,17 @@
         "expansionigniterplug",
         "expansionhydraulichoses",
         "headlighth7",
-        "ext_mi24_door_1_1",
-        "ext_mi24_door_cargo_1",
-        "ext_mi24_door_cargo_2",
         "ext_mi24_wheel_1_1",
         "ext_mi24_wheel_1_2",
         "ext_mi24_wheel_2_1",
-        "ext_mi24_wheel_2_2",
         "camonet",
         "wrench",
         "canistergasoline",
-        "ext_tac_radio"
+        "ext_tac_radio",
+        "ext_mi24_door_cargo_1_un",
+        "ext_mi24_door_cargo_2_un",
+        "ext_mi24_door_2_1_un",
+        "ext_mi24_door_1_1_un"
       ],
       "Variants": []
     },

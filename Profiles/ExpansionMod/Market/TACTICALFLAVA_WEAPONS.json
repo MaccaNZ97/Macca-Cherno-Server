@@ -225,10 +225,10 @@
       "MaxStockThreshold": 1,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
-      "SpawnAttachments": ["tf_mag_anzio20_3rnd"],
-      "Variants": [
-        
-      ]
+      "SpawnAttachments": [
+        "tf_mag_anzio20_3rnd"
+      ],
+      "Variants": []
     },
     {
       "ClassName": "tf_fiveseven",
@@ -742,6 +742,17 @@
         "tf_mag_ak74_45rnd",
         "tf_harris_bipod"
       ],
+      "Variants": []
+    },
+    {
+      "ClassName": "tf_an94m",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
       "Variants": []
     }
   ]

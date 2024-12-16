@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>	
+
+<!-- You can find more help in the pined thread on the mod workshop page -->
+
+<types>
+	<type name="Global_Variables">
+        <Activate 		Night_Zombies ="1"/>						<!-- Integer [0 or 1] -->
+        <Global_Ratio 	Night_Zombies ="1.0"/>						<!-- Decimal [0.0 infinite] -->
+		<OverRide_Vanilla_Night_Time	Activated 	= "0"		/> 	<!-- Integer [0 or 1] -->
+        <Night_Beginning				Time 		= "20:30"	/> 	<!-- 24h time (set 20:30 not 8:30pm for example) -->
+        <Night_End						Time 		= "04:30"	/>
+        <Spawn_Day_Zombie if_Zombie_is_not_in_the_list ="true"/>	<!-- [true or false] -->
+        <Fast_Night_Time_Check 	Activated ="0"/> 					<!-- Integer [0 or 1] Default is 0, use 1 only for debugging because it's ressource consuming -->
+    </type>
+	
+	<type name="ZmbM_HermitSkinny_Beige">				<!-- Class name of the day zombie  -->
+		<Night Ratio ="1.0"/>							<!-- Decimal [0.0 infinite] if set to 2.0 two zombies will spawn when it's night time -->
+		<Night Zombies ="ZmbM_HermitSkinny_Beige"/>		<!-- Class name of the night zombie -->
+	</type>
+	<type name="ZmbM_HermitSkinny_Black">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbM_HermitSkinny_Black"/>
+	</type>
+	<type name="ZmbM_HermitSkinny_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_HermitSkinny_Green"/>
+	</type>
+	<type name="ZmbM_HermitSkinny_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_HermitSkinny_Red"/>
+	</type>
+	<type name="ZmbF_CitizenBSkinny">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbF_CitizenBSkinny"/>
+	</type>
+	<type name="ZmbF_SkaterYoung_Brown">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbF_SkaterYoung_Brown"/>
+	</type>
+	<type name="ZmbF_SkaterYoung_Striped">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbF_SkaterYoung_Striped"/>
+	</type>
+	<type name="ZmbF_SkaterYoung_Violet">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_SkaterYoung_Violet"/>
+	</type>
+	<type name="ZmbF_MilkMaidOld_Beige">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbF_MilkMaidOld_Beige"/>
+	</type>
+	<type name="ZmbF_MilkMaidOld_Black">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_MilkMaidOld_Black"/>
+	</type>
+	<type name="ZmbF_MilkMaidOld_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_MilkMaidOld_Green"/>
+	</type>
+	<type name="ZmbF_MilkMaidOld_Grey">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbF_MilkMaidOld_Grey"/>
+	</type>
+	<type name="ZmbM_PatientSkinny">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbM_PatientSkinny"/>
+	</type>
+	<type name="ZmbM_FarmerFat_Beige">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_FarmerFat_Beige"/>
+	</type>
+	<type name="ZmbM_FarmerFat_Blue">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbM_FarmerFat_Blue"/>
+	</type>
+	<type name="ZmbM_FarmerFat_Brown">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_FarmerFat_Brown"/>
+	</type>
+	<type name="ZmbM_FarmerFat_Green">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbM_FarmerFat_Green"/>
+	</type>
+	<type name="ZmbM_VillagerOld_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_VillagerOld_Blue"/>
+	</type>
+	<type name="ZmbM_VillagerOld_Green">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbM_VillagerOld_Green"/>
+	</type>
+	<type name="ZmbM_VillagerOld_White">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbM_VillagerOld_White"/>
+	</type>
+	<type name="ZmbF_VillagerOld_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_VillagerOld_Blue"/>
+	</type>
+	<type name="ZmbF_VillagerOld_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_VillagerOld_Green"/>
+	</type>
+	<type name="ZmbF_VillagerOld_Red">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbF_VillagerOld_Red"/>
+	</type>
+	<type name="ZmbF_VillagerOld_White">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_VillagerOld_White"/>
+	</type>
+	<type name="ZmbF_SurvivorNormal_Blue">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbM_BloodSucker_superhardR"/>
+	</type>
+	<type name="ZmbF_SurvivorNormal_Orange">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_SurvivorNormal_Orange"/>
+	</type>
+	<type name="ZmbF_SurvivorNormal_Red">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbF_SurvivorNormal_Red"/>
+	</type>
+	<type name="ZmbF_SurvivorNormal_White">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_SurvivorNormal_White"/>
+	</type>
+	<type name="ZmbM_FishermanOld_Blue">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbM_FishermanOld_Blue"/>
+	</type>
+	<type name="ZmbM_FishermanOld_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_FishermanOld_Green"/>
+	</type>
+	<type name="ZmbM_FishermanOld_Grey">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbM_FishermanOld_Grey"/>
+	</type>
+	<type name="ZmbM_FishermanOld_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_FishermanOld_Red"/>
+	</type>
+	<type name="ZmbF_CitizenANormal_Beige">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbF_CitizenANormal_Beige"/>
+	</type>
+	<type name="ZmbF_CitizenANormal_Brown">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_CitizenANormal_Brown"/>
+	</type>
+	<type name="ZmbF_CitizenANormal_Blue">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbF_CitizenANormal_Blue"/>
+	</type>
+	<type name="ZmbM_CitizenASkinny_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_CitizenASkinny_Blue"/>
+	</type>
+	<type name="ZmbM_CitizenASkinny_Brown">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbM_CitizenASkinny_Brown"/>
+	</type>
+	<type name="ZmbM_CitizenASkinny_Grey">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_CitizenASkinny_Grey"/>
+	</type>
+	<type name="ZmbM_CitizenASkinny_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_CitizenASkinny_Red"/>
+	</type>
+	<type name="ZmbM_CitizenBFat_Blue">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbM_CitizenBFat_Blue"/>
+	</type>
+	<type name="ZmbM_CitizenBFat_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_CitizenBFat_Red"/>
+	</type>
+	<type name="ZmbM_CitizenBFat_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_CitizenBFat_Green"/>
+	</type>
+	<type name="ZmbM_HikerSkinny_Blue">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbM_HikerSkinny_Blue"/>
+	</type>
+	<type name="ZmbM_HikerSkinny_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_HikerSkinny_Green"/>
+	</type>
+	<type name="ZmbM_HikerSkinny_Yellow">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_HikerSkinny_Yellow"/>
+	</type>
+	<type name="ZmbF_HikerSkinny_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_HikerSkinny_Blue"/>
+	</type>
+	<type name="ZmbF_HikerSkinny_Grey">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="SFP_RatDog"/>
+	</type>
+	<type name="ZmbF_HikerSkinny_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_HikerSkinny_Green"/>
+	</type>
+	<type name="ZmbF_HikerSkinny_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_BloodSucker_superhardR"/>
+	</type>
+	<type name="ZmbF_JournalistNormal_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_JournalistNormal_Blue"/>
+	</type>
+	<type name="ZmbF_JournalistNormal_Green">
+		<Night Ratio ="2.0"/>
+		<Night Zombies ="ZmbF_JournalistNormal_Green"/>
+	</type>
+	<type name="ZmbF_JournalistNormal_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_JournalistNormal_Red"/>
+	</type>
+	<type name="ZmbF_JournalistNormal_White">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_JournalistNormal_White"/>
+	</type>
+	<type name="ZmbM_CommercialPilotOld_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_CommercialPilotOld_Blue"/>
+	</type>
+	<type name="ZmbM_CommercialPilotOld_Olive">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_CommercialPilotOld_Olive"/>
+	</type>
+	<type name="ZmbM_CommercialPilotOld_Brown">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_CommercialPilotOld_Brown"/>
+	</type>
+	<type name="ZmbM_CommercialPilotOld_Grey">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_CommercialPilotOld_Grey"/>
+	</type>
+	<type name="ZmbM_JoggerSkinny_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_JoggerSkinny_Blue"/>
+	</type>
+	<type name="ZmbM_JoggerSkinny_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_JoggerSkinny_Green"/>
+	</type>
+	<type name="ZmbM_JoggerSkinny_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_JoggerSkinny_Red"/>
+	</type>
+	<type name="ZmbF_JoggerSkinny_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_JoggerSkinny_Blue"/>
+	</type>
+	<type name="ZmbF_JoggerSkinny_Brown">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_JoggerSkinny_Brown"/>
+	</type>
+	<type name="ZmbF_JoggerSkinny_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_JoggerSkinny_Green"/>
+	</type>
+	<type name="ZmbF_JoggerSkinny_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_JoggerSkinny_Red"/>
+	</type>
+	<type name="ZmbM_MotobikerFat_Beige">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_BloodSucker_superweird"/>
+	</type>
+	<type name="ZmbM_MotobikerFat_Black">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_MotobikerFat_Black"/>
+	</type>
+	<type name="ZmbM_MotobikerFat_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_MotobikerFat_Blue"/>
+	</type>
+	<type name="ZmbM_SkaterYoung_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_SkaterYoung_Blue"/>
+	</type>
+	<type name="ZmbM_SkaterYoung_Brown">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_SkaterYoung_Brown"/>
+	</type>
+	<type name="ZmbM_SkaterYoung_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_SkaterYoung_Green"/>
+	</type>
+	<type name="ZmbM_SkaterYoung_Grey">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_SkaterYoung_Grey"/>
+	</type>
+	<type name="ZmbF_BlueCollarFat_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_BlueCollarFat_Blue"/>
+	</type>
+	<type name="ZmbF_BlueCollarFat_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_BlueCollarFat_Green"/>
+	</type>
+	<type name="ZmbF_BlueCollarFat_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_BlueCollarFat_Red"/>
+	</type>
+	<type name="ZmbF_BlueCollarFat_White">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_BlueCollarFat_White"/>
+	</type>
+	<type name="ZmbM_ClerkFat_Brown">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_ClerkFat_Brown"/>
+	</type>
+	<type name="ZmbM_ClerkFat_Grey">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_ClerkFat_Grey"/>
+	</type>
+	<type name="ZmbM_ClerkFat_Khaki">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_ClerkFat_Khaki"/>
+	</type>
+	<type name="ZmbM_ClerkFat_White">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_ClerkFat_White"/>
+	</type>
+	<type name="ZmbF_Clerk_Normal_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_Clerk_Normal_Blue"/>
+	</type>
+	<type name="ZmbF_Clerk_Normal_White">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_Clerk_Normal_White"/>
+	</type>
+	<type name="ZmbF_Clerk_Normal_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_Clerk_Normal_Green"/>
+	</type>
+	<type name="ZmbF_Clerk_Normal_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_Clerk_Normal_Red"/>
+	</type>
+	<type name="ZmbF_ClerkFat_Black">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ClerkFat_Black"/>
+	</type>
+	<type name="ZmbF_ClerkFat_GreyPattern">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ClerkFat_GreyPattern"/>
+	</type>
+	<type name="ZmbF_ClerkFat_BluePattern">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ClerkFat_BluePattern"/>
+	</type>
+	<type name="ZmbF_ClerkFat_White">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ClerkFat_White"/>
+	</type>
+	<type name="ZmbF_MechanicNormal_Beige">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_MechanicNormal_Beige"/>
+	</type>
+	<type name="ZmbF_MechanicNormal_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_MechanicNormal_Green"/>
+	</type>
+	<type name="ZmbF_MechanicNormal_Grey">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="SFP_ANM_Krovosos"/>
+	</type>
+	<type name="ZmbF_MechanicNormal_Orange">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_MechanicNormal_Orange"/>
+	</type>
+	<type name="ZmbM_MechanicSkinny_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_MechanicSkinny_Blue"/>
+	</type>
+	<type name="ZmbM_MechanicSkinny_Grey">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_MechanicSkinny_Grey"/>
+	</type>
+	<type name="ZmbM_MechanicSkinny_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_MechanicSkinny_Green"/>
+	</type>
+	<type name="ZmbM_MechanicSkinny_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_MechanicSkinny_Red"/>
+	</type>
+	<type name="ZmbM_ConstrWorkerNormal_Beige">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_ConstrWorkerNormal_Beige"/>
+	</type>
+	<type name="ZmbM_ConstrWorkerNormal_Black">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_ConstrWorkerNormal_Black"/>
+	</type>
+	<type name="ZmbM_ConstrWorkerNormal_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_ConstrWorkerNormal_Green"/>
+	</type>
+	<type name="ZmbM_ConstrWorkerNormal_Grey">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_ConstrWorkerNormal_Grey"/>
+	</type>
+	<type name="ZmbM_HandymanNormal_Beige">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_HandymanNormal_Beige"/>
+	</type>
+	<type name="ZmbM_HandymanNormal_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_HandymanNormal_Blue"/>
+	</type>
+	<type name="ZmbM_HandymanNormal_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_HandymanNormal_Green"/>
+	</type>
+	<type name="ZmbM_HandymanNormal_Grey">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_HandymanNormal_Grey"/>
+	</type>
+	<type name="ZmbM_HandymanNormal_White">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_HandymanNormal_White"/>
+	</type>
+	<type name="ZmbM_HeavyIndustryWorker">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_HeavyIndustryWorker"/>
+	</type>
+	<type name="ZmbM_OffshoreWorker_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="SFP_ANM_Krovosos"/>
+	</type>
+	<type name="ZmbM_OffshoreWorker_Orange">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_OffshoreWorker_Orange"/>
+	</type>
+	<type name="ZmbM_OffshoreWorker_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_OffshoreWorker_Red"/>
+	</type>
+	<type name="ZmbM_OffshoreWorker_Yellow">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_OffshoreWorker_Yellow"/>
+	</type>
+	<type name="ZmbF_DoctorSkinny">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_DoctorSkinny"/>
+	</type>
+	<type name="ZmbF_NurseFat">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_NurseFat"/>
+	</type>
+	<type name="ZmbM_ParamedicNormal_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_ParamedicNormal_Blue"/>
+	</type>
+	<type name="ZmbM_ParamedicNormal_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_ParamedicNormal_Green"/>
+	</type>
+	<type name="ZmbM_ParamedicNormal_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_ParamedicNormal_Red"/>
+	</type>
+	<type name="ZmbM_ParamedicNormal_Black">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_ParamedicNormal_Black"/>
+	</type>
+	<type name="ZmbF_ParamedicNormal_Blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ParamedicNormal_Blue"/>
+	</type>
+	<type name="ZmbF_ParamedicNormal_Green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ParamedicNormal_Green"/>
+	</type>
+	<type name="ZmbF_ParamedicNormal_Red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ParamedicNormal_Red"/>
+	</type>
+	<type name="ZmbM_PrisonerSkinny">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_PrisonerSkinny"/>
+	</type>
+	<type name="ZmbM_FirefighterNormal">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_FirefighterNormal"/>
+	</type>
+	<type name="ZmbM_Jacket_beige">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_Jacket_beige"/>
+	</type>
+	<type name="ZmbM_Jacket_black">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_Jacket_black"/>
+	</type>
+	<type name="ZmbM_Jacket_blue">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_Jacket_blue"/>
+	</type>
+	<type name="ZmbM_Jacket_bluechecks">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_Jacket_bluechecks"/>
+	</type>
+	<type name="ZmbM_Jacket_brown">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_Jacket_brown"/>
+	</type>
+	<type name="ZmbM_Jacket_greenchecks">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_Jacket_greenchecks"/>
+	</type>
+	<type name="ZmbM_Jacket_grey">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_Jacket_grey"/>
+	</type>
+	<type name="ZmbM_Jacket_khaki">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_Jacket_khaki"/>
+	</type>
+	<type name="ZmbM_Jacket_magenta">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_Jacket_magenta"/>
+	</type>
+	<type name="ZmbM_Jacket_stripes">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_Jacket_stripes"/>
+	</type>
+	<type name="ZmbF_ShortSkirt_beige">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ShortSkirt_beige"/>
+	</type>
+	<type name="ZmbF_ShortSkirt_black">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ShortSkirt_black"/>
+	</type>
+	<type name="ZmbF_ShortSkirt_brown">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ShortSkirt_brown"/>
+	</type>
+	<type name="ZmbF_ShortSkirt_green">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ShortSkirt_green"/>
+	</type>
+	<type name="ZmbF_ShortSkirt_grey">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ShortSkirt_grey"/>
+	</type>
+	<type name="ZmbF_ShortSkirt_checks">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ShortSkirt_checks"/>
+	</type>
+	<type name="ZmbF_ShortSkirt_red">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ShortSkirt_red"/>
+	</type>
+	<type name="ZmbF_ShortSkirt_stripes">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ShortSkirt_stripes"/>
+	</type>
+	<type name="ZmbF_ShortSkirt_white">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ShortSkirt_white"/>
+	</type>
+	<type name="ZmbF_ShortSkirt_yellow">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_ShortSkirt_yellow"/>
+	</type>
+	<type name="ZmbM_PolicemanFat">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_PolicemanFat"/>
+	</type>
+	<type name="ZmbF_PoliceWomanNormal">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbF_PoliceWomanNormal"/>
+	</type>
+	<type name="ZmbM_HunterOld_Autumn">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_HunterOld_Autumn"/>
+	</type>
+	<type name="ZmbM_HunterOld_Spring">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_HunterOld_Spring"/>
+	</type>
+	<type name="ZmbM_HunterOld_Summer">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_BloodSucker_superhardR"/>
+	</type>
+	<type name="ZmbM_HunterOld_Winter">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_HunterOld_Winter"/>
+	</type>
+	<type name="ZmbM_PolicemanSpecForce">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_PolicemanSpecForce"/>
+	</type>
+	<type name="ZmbM_SoldierNormal">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_SoldierNormal"/>
+	</type>
+	<type name="ZmbM_usSoldier_normal_Woodland">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_usSoldier_normal_Woodland"/>
+	</type>
+	<type name="ZmbM_usSoldier_normal_Desert">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_usSoldier_normal_Desert"/>
+	</type>
+	<type name="ZmbM_PatrolNormal_PautRev">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_PatrolNormal_PautRev"/>
+	</type>
+	<type name="ZmbM_PatrolNormal_Autumn">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_PatrolNormal_Autumn"/>
+	</type>
+	<type name="ZmbM_PatrolNormal_Flat">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_PatrolNormal_Flat"/>
+	</type>
+	<type name="ZmbM_PatrolNormal_Summer">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_PatrolNormal_Summer"/>
+	</type>
+	<type name="ZmbM_DoctorFat">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_DoctorFat"/>
+	</type>
+	<type name="ZmbM_priestPopSkinny">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_priestPopSkinny"/>
+	</type>
+	<type name="ZmbM_usSoldier_Officer_Desert">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_usSoldier_Officer_Desert"/>
+	</type>
+	<type name="ZmbM_PolicemanSpecForce_Heavy">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_PolicemanSpecForce_Heavy"/>
+	</type>
+	<type name="ZmbM_NBC_Yellow">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_NBC_Yellow"/>
+	</type>
+	<type name="ZmbM_NBC_Grey">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_NBC_Grey"/>
+	</type>
+	<type name="ZmbM_Santa">
+		<Night Ratio ="1.0"/>
+		<Night Zombies ="ZmbM_Santa"/>
+	</type>
+</types>

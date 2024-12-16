@@ -1,0 +1,127 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG GHILLIES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fog_ghillieatt_bushyellow",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ghillieatt_grass",
+        "fog_ghillieatt_grassgreen",
+        "fog_ghillieatt_grassmulti",
+        "fog_ghillieatt_green",
+        "fog_ghillieatt_leaf",
+        "fog_ghillieatt_mcbrowns",
+        "fog_ghillieatt_pine",
+        "fog_ghillieatt_rags",
+        "fog_ghillieatt_ragsmcb",
+        "fog_ghillieatt_snow",
+        "fog_ghillieatt_urban"
+      ]
+    },
+    {
+      "ClassName": "fog_ghilliebushrag_bushyellow",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ghilliebushrag_grass",
+        "fog_ghilliebushrag_grassgreen",
+        "fog_ghilliebushrag_grassmulti",
+        "fog_ghilliebushrag_green",
+        "fog_ghilliebushrag_leaf",
+        "fog_ghilliebushrag_mcbrowns",
+        "fog_ghilliebushrag_pine",
+        "fog_ghilliebushrag_rags",
+        "fog_ghilliebushrag_ragsmcb",
+        "fog_ghilliebushrag_snow",
+        "fog_ghilliebushrag_urban"
+      ]
+    },
+    {
+      "ClassName": "fog_ghilliehood_bushyellow",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ghilliehood_grass",
+        "fog_ghilliehood_grassgreen",
+        "fog_ghilliehood_grassmulti",
+        "fog_ghilliehood_green",
+        "fog_ghilliehood_leaf",
+        "fog_ghilliehood_mcbrowns",
+        "fog_ghilliehood_pine",
+        "fog_ghilliehood_rags",
+        "fog_ghilliehood_ragsmcb",
+        "fog_ghilliehood_snow",
+        "fog_ghilliehood_urban"
+      ]
+    },
+    {
+      "ClassName": "fog_ghilliesuit_bushyellow",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ghilliesuit_green",
+        "fog_ghilliesuit_grass",
+        "fog_ghilliesuit_grassgreen",
+        "fog_ghilliesuit_grassmulti",
+        "fog_ghilliesuit_leaf",
+        "fog_ghilliesuit_livonia",
+        "fog_ghilliesuit_mcbrowns",
+        "fog_ghilliesuit_pine",
+        "fog_ghilliesuit_rags",
+        "fog_ghilliesuit_ragsmcb",
+        "fog_ghilliesuit_snow",
+        "fog_ghilliesuit_urban",
+        "fog_ghilliesuit_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_ghillietop_bushyellow",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_ghillietop_grass",
+        "fog_ghillietop_grassgreen",
+        "fog_ghillietop_grassmulti",
+        "fog_ghillietop_green",
+        "fog_ghillietop_leaf",
+        "fog_ghillietop_mcbrowns",
+        "fog_ghillietop_pine",
+        "fog_ghillietop_rags",
+        "fog_ghillietop_ragsmcb",
+        "fog_ghillietop_snow",
+        "fog_ghillietop_urban"
+      ]
+    }
+  ]
+}

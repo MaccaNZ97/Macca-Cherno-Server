@@ -164,56 +164,6 @@
       ]
     },
     {
-      "ClassName": "fog_gpnvg_black",
-      "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3500,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": [
-        "fog_gpnvg_rg",
-        "fog_gpnvg_tan",
-        "fog_gpnvg_elite",
-        "fog_gpnvg_tarzier",
-        "fog_gpnvg_tarzier_black"
-      ]
-    },
-    {
-      "ClassName": "fog_gpnvg_elite",
-      "MaxPriceThreshold": 7500,
-      "MinPriceThreshold": 7500,
-      "SellPricePercent": 25,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": 25,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_gpnvg_tarzier",
-      "MaxPriceThreshold": 5500,
-      "MinPriceThreshold": 5500,
-      "SellPricePercent": 25,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": 25,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "fog_gpnvg_tarzier_black",
-      "MaxPriceThreshold": 5500,
-      "MinPriceThreshold": 5500,
-      "SellPricePercent": 25,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": 25,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "fog_hmtl_light_tan",
       "MaxPriceThreshold": 550,
       "MinPriceThreshold": 550,

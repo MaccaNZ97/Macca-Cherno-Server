@@ -17,7 +17,10 @@
     "BO SEEDS",
     "CP SUPPLIES",
     "CP BRICKS",
-    "CP SEEDS"
+    "CP SEEDS",
+    "DNA_CARDS"
   ],
-  "Items": {}
+  "Items": {
+    "dna_keycard_blisterpackchip_yellow": 0
+  }
 }

@@ -1,0 +1,55 @@
+======================================= Help_Zombies_Loot.xml =================================================
+
+These lists are used to spawn loot on zombies
+It is useful for night zombies that need special items (Ghillie on invisible zombies for example)
+and to spawn loot on Master to reward the players that defeat the horde
+
+---------------------------------------------------------------------------------------------------------------
+
+Note that the horde male zombies inherit from "ZmbM_JournalistSkinny" and female from "ZmbF_PatientOld"
+so I advice you to disable the vanilla loot on these zombies (and PvZmoD Spawn System loot if you use it)
+or could have unwanted thing like ghosts with backpacks.
+
+============================================== IMPORTANT : ====================================================
+DON'T ADD NEW SECTIONS, USE THE "Custom_Sections" TO CREATE YOUR OWN CONFIGURATIONS
+IF YOU SET YOUR OWN CONFIGURATIONS, REMEMBER THE FIRST CONFIGURATION MATCHING THE ZOMBIE CONCERNED IS SELECTED 
+===============================================================================================================
+
+Zombie_Category_Class_Names
+	List of zombie classe that is concerned by the current section.
+	Use a comma between each class, NO SPACES.
+
+Items_List_A-B-C-D : 1st entry : 
+	All => the zed always loot all the item in the list
+	1.0 => 100% chance to loot one item in the list 
+	0.3 => 30% to loot one item in the list 
+	2.0 => loot 2 random items in the list
+   -5.0 => loot between 1 and 5 items randomly chosen in the list
+	
+Items_List_A-B-C-D	: 2nd entry : 
+	Random 			=> items with random health 
+	Normal/Pristine => items pristine 
+	Worn 			=> items worn
+	Damaged 		=> items damaged 
+	BadlyDamaged 	=> items badly damaged 
+	Ruined 			=> items ruined
+	Stacked(*) 		=> Spawn a stack containing the quantity defined in the first entry of each item in the list (the objects will be pristine)
+	
+	(*)Example of stacked objects : 
+		<Items_List_A	Quantity_Or_Chance_To_Spawn = "100"	state = "Stacked"	List = "AKM,Ammo_22,MoneyRuble25"/>
+			=> 	1 AKM (just 1 because this item can't be stacked)
+			And	1 stack of 50 Ammo_22 (because the max nbr of Ammo_22 in a stack is 50)
+			And 1 stack of 100 MoneyRuble25 (Total 2500 rubles)
+			Note that if the first entry is negative the stack value will be randomly choose between 1 and the set value.
+	
+Items_List_A-B-C-D	: other entries : 
+	list of item the zed can loot
+	You can find items names in your server types.xml file
+
+-----------------------------------------------------------------------------------------------------------------
+
+All Items_List_ (A,B,C and D) works the same way. 
+The list A spawn first then B... this allow to mix items spawn configurations to make custom combination.
+The item will automatically go in the first appropriate slot (For example hats will go in head slot automatically)
+
+=================================================================================================================

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<weather reset="1" enable="1">
+  <overcast>
+    <current actual="0.45" time="120" duration="240" />
+    <limits min="0.0" max="1.0" />
+    <timelimits min="600" max="900" />
+    <changelimits min="0.0" max="1.0" />
+  </overcast>
+  <fog>
+    <current actual="0.05" time="120" duration="240" />
+    <limits min="0.02" max="0.08" />
+    <timelimits min="900" max="900" />
+    <changelimits min="0.0" max="1.0" />
+  </fog>
+  <rain>
+    <current actual="0.0" time="120" duration="240" />
+    <limits min="0.0" max="1.0" />
+    <timelimits min="900" max="1800" />
+    <changelimits min="0.0" max="0.1" />
+    <thresholds min="0.6" max="0.1" end="60" />
+  </rain>
+  <windMagnitude>
+    <current actual="8.0" time="120" duration="240" />
+    <limits min="0.0" max="20.0" />
+    <timelimits min="120" max="240" />
+    <changelimits min="0.0" max="20.0" />
+  </windMagnitude>
+  <windDirection>
+    <current actual="0.0" time="120" duration="240" />
+    <limits min="-3.14" max="3.14" />
+    <timelimits min="60" max="120" />
+    <changelimits min="-1.0" max="1.0" />
+  </windDirection>
+  <snowfall>
+    <current actual="0.0" time="0" duration="32768" />
+    <limits min="0.0" max="0.0" />
+    <timelimits min="300" max="3600" />
+    <changelimits min="0.0" max="0.0" />
+    <thresholds min="1.0" max="1.0" end="120" />
+  </snowfall>
+  <storm density="1.0" threshold="0.9" timeout="45" />
+</weather>

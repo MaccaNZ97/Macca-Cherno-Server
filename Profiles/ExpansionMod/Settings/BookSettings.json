@@ -7,6 +7,8 @@
   "EnableTerritoryTab": 1,
   "EnableBookMenu": 1,
   "CreateBookmarks": 1,
+  "ShowHaBStats": 1,
+  "ShowPlayerFaction": 1,
   "RuleCategories": [
     {
       "CategoryName": "General",
@@ -63,6 +65,10 @@
         {
           "RuleParagraph": "2.6",
           "RuleText": "Helicopters are considered to be vehicles\r\n"
+        },
+        {
+          "RuleParagraph": "2.7",
+          "RuleText": "Only vehicles that Spawn are Vanilla, on rare occasions will admin spawn Helicopters."
         }
       ]
     },
@@ -79,7 +85,7 @@
         },
         {
           "RuleParagraph": "3.3",
-          "RuleText": "You can only have 2 bases\r\nThat includes your base and any other group that you are a member of.\r\n\r\nTo be clear two spawn points only!\r\n"
+          "RuleText": "You can only have 1 bases\r\n\r\n\r\nTo be clear ONE BASE ONLY!\r\n"
         },
         {
           "RuleParagraph": "3.4",
@@ -106,8 +112,6 @@
     }
   ],
   "DisplayServerSettingsInServerInfoTab": 1,
-  "ShowHaBStats": 1,
-  "ShowPlayerFaction": 1,
   "SettingCategories": [
     {
       "CategoryName": "Base-Building Settings",

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--  -->
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>
+  <type name="Horde_Main_Options">
+    <Number_Of_Zombies Day="20" Night="30" />
+    <!-- [Integer 0 to infinite] -->
+    <Horde_Movement_Type Day="6" Night="6" />
+    <!-- [Integer 0 to 6] More details in help file -->
+    <!--  Movement Types list : -->
+    <!-- -1: 		Horde Disable  -->
+    <!--  0:		Spawn at random position then random movements -->
+    <!--  1:		Spawn in a custom zone then random moves in this zone (choose in CustomZones.xml) -->
+    <!--  2:		Follow Waypoints (set in Waypoints.xml) -->
+    <!--  3:		Fixed start and end coords (defined in "Horde_Movements_Options" section below) The horde will cycle on this two coords -->
+    <!--  4:		Fixed start then random moves (start coord defined in "Horde_Movements_Options" section below) -->
+    <!--  5:		Fixed destination then random moves (end   coord defined in "Horde_Movements_Options" section below) -->
+    <!--  6:		Hunting movement : the horde spawn at random position then go near the closest player position -->
+  </type>
+  <type name="Horde_Movements_Options">
+    <!-- Random Move Options (mvt n°0/1 and 4/5/6 in some circumstances) -->
+    <Distance_Between_Random_Direction_Changes Mini="70" Maxi="100" />
+    <!-- [Integer 1 to infinite] (meters) -->
+    <!-- Hunting Move Options (mvt n°6) -->
+    <Minimum_Of_Players_To_Activate_The_Hunt Value="2" />
+    <!-- [Integer 0 to infinite] -->
+    <Maximum_Number_Of_Hunt_Per_Session Value="99" />
+    <!-- [Integer 1 to infinite] -->
+    <Distance_To_Player_To_Stop_Hunting Day="200" Night="200" />
+    <!-- [Integer 0 to infinite] (meters) -->
+    <!-- WayPoints Move Options (mvt n°2) -->
+    <Start_Waypoint_Number Value="1" />
+    <!-- [Integer 0 to Number of waypoints in "Waypoints.xml" list] -->
+    <Random_Waypoint_Order Value="0" />
+    <!-- [Integer 0 or 1] -->
+    <!-- Start/End Move Options (mvt n°3/4/5) -->
+    <Start_Position Value="3549/6278" />
+    <!-- [Integer 0 to Map Limits] -->
+    <End_Position Value="4125/5650" />
+    <!-- [Integer 0 to Map Limits] -->
+  </type>
+  <type name="Horde_Speed">
+    <Horde_Speed_When_Calm Day="10.0" Night="10.0" />
+    <!-- [Integer 0 to infinite] -->
+    <Horde_Speed_When_Not_Calm Day="40.0" Night="40.0" />
+    <!-- [Integer 0 to infinite] -->
+    <Horde_Speed_Ratio_When_No_Player_Around Value="5.0" />
+    <!-- [Decimal 0 to infinite] Multiplier applied to the "Calm" speed -->
+  </type>
+  <type name="Horde_Other_Options">
+    <Time_Before_The_Horde_Respawn_After_Been_Defeated Mini="3800" Maxi="3800" />
+    <!-- [Integer 0 to infinite] (seconds) Need restart server to apply this timer modification -->
+    <Persistant_Position_When_Server_Restart Value="0" />
+    <!-- [Integer 0 or 1] -->
+    <Security_Distance_To_Avoid_Horde_Spawning_On_Players Value="250" />
+    <!-- [Integer 0 to infinite] (meters) -->
+    <Activate_Bandit_And_Heroes_mod_Rewards Value="0" />
+    <!-- [Integer 0 or 1] -->
+    <Minimum_Player_Number_To_Activate_The_Horde Day="2" Night="1" />
+    <!-- [Integer 0 to infinite] If you change these values and refresh with numpad6, I recommend to reset the horde with numpad9 too -->
+    <Maximum_Player_Number_To_Activate_The_Horde Day="999" Night="999" />
+    <!-- [Integer 0 to infinite] If you change these values and refresh with numpad6, I recommend to reset the horde with numpad9 too -->
+  </type>
+  <type name="NewFeatures">
+  </type>
+</types>

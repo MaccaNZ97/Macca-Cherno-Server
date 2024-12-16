@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<!-- FOR MORE DETAILS, Thread on workshop : https://steamcommunity.com/workshop/filedetails/discussion/2007900691/2936867947871717913/ -->
+<types>
+  <type name="Global_Safe_Zones_Options">
+    <Global_Activation Value="1" />
+    <!-- [Interger 0 or 1] -->
+    <Teleport_Distance_When_Entering_Safe_Zone Value="3000" />
+    <!-- [Integer 10 to Infinity] (meters) -->
+    <Security_Distance_To_Players Value="500" />
+    <!-- [Integer 10 to Infinity] (meters) -->
+    <Also_Count_Players_In_Safe_Zone_To_Trigger_Hunting_Mod Value="true" />
+    <!-- [true or false] -->
+    <Hunting_Mod_Can_Focus_On_Players_In_Safe_Zone Value="false" />
+    <!-- [true or false] -->
+    <Safe_Zone_Timer Value="5.0" />
+    <!-- [Decimal 1.0 to Infinity] (seconds) -->
+  </type>
+  <!-- =============== Save Zone Lists =================== -->
+  <!-- =================== Chernarus ===================== -->
+  <type name="Trader_GreenMountain">
+    <!-- [Text] -->
+    <Activated Value="0" />
+    <!-- [Integer 0 or 1] -->
+    <Corner_UpperLeft Coordinates="3495/6163" />
+    <!-- [Integer/Integer] -->
+    <Corner_LowerRight Coordinates="3987/5636" />
+    <!-- [Integer/Integer] -->
+  </type>
+  <type name="Trader_NEAF">
+    <!-- [Text] -->
+    <Activated Value="0" />
+    <!-- [Integer 0 or 1] -->
+    <Corner_UpperLeft Coordinates="11703/12680" />
+    <!-- [Integer/Integer] -->
+    <Corner_LowerRight Coordinates="12033/12275" />
+    <!-- [Integer/Integer] -->
+  </type>
+  <type name="Toxic_Zone_Riffy">
+    <!-- [Text] -->
+    <Activated Value="1" />
+    <!-- [Integer 0 or 1] -->
+    <Corner_UpperLeft Coordinates="13580/11290" />
+    <!-- [Integer/Integer] -->
+    <Corner_LowerRight Coordinates="13984/10955" />
+    <!-- [Integer/Integer] -->
+  </type>
+  <type name="Toxic_Zone_Pavlovo">
+    <!-- [Text] -->
+    <Activated Value="1" />
+    <!-- [Integer 0 or 1] -->
+    <Corner_UpperLeft Coordinates="1875/3625" />
+    <!-- [Integer/Integer] -->
+    <Corner_LowerRight Coordinates="2300/3164" />
+    <!-- [Integer/Integer] -->
+  </type>
+  <!-- =================== Livonia ===================== -->
+  <type name="Toxic_Zone_Gliniska_Airfeild">
+    <!-- [Text] -->
+    <Activated Value="0" />
+    <!-- [Integer 0 or 1] -->
+    <Corner_UpperLeft Coordinates="3570/10610" />
+    <!-- [Integer/Integer] -->
+    <Corner_LowerRight Coordinates="4530/10000" />
+    <!-- [Integer/Integer] -->
+  </type>
+  <type name="Toxic_Zone_Radunin">
+    <!-- [Text] -->
+    <Activated Value="0" />
+    <!-- [Integer 0 or 1] -->
+    <Corner_UpperLeft Coordinates="7090/6610" />
+    <!-- [Integer/Integer] -->
+    <Corner_LowerRight Coordinates="8015/5635" />
+    <!-- [Integer/Integer] -->
+  </type>
+  <!-- =================== DeerIsle ==================== -->
+  <type name="Underground_DeerIsle_BigMountainBase">
+    <!-- Because the horde doesn't work well in undergrounds -->
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="6672/12067" />
+    <Corner_LowerRight Coordinates="7704/11259" />
+  </type>
+  <type name="Underground_DeerIsle_Mine">
+    <!-- Because the horde doesn't work well in undergrounds -->
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="11012/2400" />
+    <Corner_LowerRight Coordinates="11368/2150" />
+  </type>
+  <type name="Underground_DeerIsle_NuclearPlants">
+    <!-- Because the horde doesn't work well in undergrounds -->
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="4466/7269" />
+    <Corner_LowerRight Coordinates="5038/6882" />
+  </type>
+  <type name="Underground_DeerIsle_DevilEye">
+    <!-- Because the horde doesn't work well in undergrounds -->
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="6471/3602" />
+    <Corner_LowerRight Coordinates="6754/3362" />
+  </type>
+  <type name="Underground_DeerIsle_SwampHQ">
+    <!-- Because the horde doesn't work well in undergrounds-->
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="3554/8904" />
+    <Corner_LowerRight Coordinates="3890/8584" />
+  </type>
+  <type name="Underground_DeerIsle_StoningtonCenter">
+    <!-- Because the horde doesn't work well in undergrounds-->
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="6758/2089" />
+    <Corner_LowerRight Coordinates="6945/1807" />
+  </type>
+  <!-- =================== Namalsk =================== -->
+  <type name="Underground_Athena2">
+    <!-- Because the horde doesn't work well in undergrounds-->
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="4890/6710" />
+    <Corner_LowerRight Coordinates="5070/6510" />
+  </type>
+  <!-- =================== Chiemsee =================== -->
+  <type name="AtomKraftwerk">
+    <!-- Because the horde doesn't work well in undergrounds-->
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="2710/8590" />
+    <Corner_LowerRight Coordinates="3295/8140" />
+  </type>
+  <type name="West_Mountain">
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="0/8190" />
+    <Corner_LowerRight Coordinates="1480/0" />
+  </type>
+  <type name="South_Mountain1">
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="0/1855" />
+    <Corner_LowerRight Coordinates="3565/0" />
+  </type>
+  <type name="South_Mountain2">
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="3565/555" />
+    <Corner_LowerRight Coordinates="10200/0" />
+  </type>
+  <!-- =================== Banov =================== -->
+  <type name="Jankov_Underground_And_Toxic">
+    <!-- Because the horde doesn't work well in undergrounds-->
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="13450/3975" />
+    <Corner_LowerRight Coordinates="14500/3400" />
+  </type>
+  <type name="Eye_Underground">
+    <!-- Because the horde doesn't work well in undergrounds-->
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="7950/1390" />
+    <Corner_LowerRight Coordinates="8415/680" />
+  </type>
+  <type name="Overgrown">
+    <!-- Because the horde doesn't work well in undergrounds-->
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="7385/10360" />
+    <Corner_LowerRight Coordinates="8575/8940" />
+  </type>
+  <type name="Tisovik_Underground">
+    <!-- Because the horde doesn't work well in undergrounds-->
+    <Activated Value="0" />
+    <Corner_UpperLeft Coordinates="11050/15260" />
+    <Corner_LowerRight Coordinates="11600/14810" />
+  </type>
+  <!-- =================== Other =================== -->
+  <type name="SafeZone_Other">
+    <!-- You can modify this one as you want -->
+    <Activated Value="0" />
+    <!-- You can modify this one as you want -->
+    <Corner_UpperLeft Coordinates="4500/6000" />
+    <!-- You can modify this one as you want -->
+    <Corner_LowerRight Coordinates="5000/5500" />
+    <!-- You can modify this one as you want -->
+  </type>
+  <!-- You can add new safe zones sections here -->
+</types>

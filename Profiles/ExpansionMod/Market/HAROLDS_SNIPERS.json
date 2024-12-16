@@ -1,0 +1,270 @@
+{
+  "m_Version": 12,
+  "DisplayName": "HAROLDS SNIPERS",
+  "Icon": "Deliver",
+  "Color": "00FF40FF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ha_w_ak50",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazine_ak50_7rnd",
+        "ha_optics_acoglow",
+        "ha_optics_eotech_magnifieroff",
+        "ha_optics_eotech_magnifieron",
+        "ha_optics_hamr",
+        "ha_optics_microt1",
+        "ha_optics_nightforce32x",
+        "ha_optics_sigsauertango",
+        "ha_optics_trijiconskeetix",
+        "ha_optics_vortexspitfire",
+        "ha_optics_vortexstrikefire",
+        "ha_optics_vortexuh1",
+        "ha_optics_vortexvenom"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ha_w_awm",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazines_awm_7rnd",
+        "ha_optics_acoglow",
+        "ha_optics_eotech_magnifieroff",
+        "ha_optics_eotech_magnifieron",
+        "ha_optics_hamr",
+        "ha_optics_microt1",
+        "ha_optics_nightforce32x",
+        "ha_optics_sigsauertango",
+        "ha_optics_trijiconskeetix",
+        "ha_optics_vortexspitfire",
+        "ha_optics_vortexstrikefire",
+        "ha_optics_vortexuh1",
+        "ha_optics_vortexvenom",
+        "ha_suppressor_308"
+      ],
+      "Variants": [
+        "ha_w_awm_bones",
+        "ha_w_awm_cats",
+        "ha_w_awm_dreamy",
+        "ha_w_awm_paw",
+        "ha_w_awm_shells"
+      ]
+    },
+    {
+      "ClassName": "ha_w_awm_338lm",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 35000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazines_awm_338lm_7rnd",
+        "ha_optics_acoglow",
+        "ha_optics_eotech_magnifieroff",
+        "ha_optics_eotech_magnifieron",
+        "ha_optics_hamr",
+        "ha_optics_microt1",
+        "ha_optics_nightforce32x",
+        "ha_optics_sigsauertango",
+        "ha_optics_trijiconskeetix",
+        "ha_optics_vortexspitfire",
+        "ha_optics_vortexstrikefire",
+        "ha_optics_vortexuh1",
+        "ha_optics_vortexvenom",
+        "ha_optics_xm157"
+      ],
+      "Variants": [
+        "ha_w_awm_338lm_bones",
+        "ha_w_awm_338lm_cats",
+        "ha_w_awm_338lm_dreamy",
+        "ha_w_awm_338lm_paw",
+        "ha_w_awm_338lm_shells"
+      ]
+    },
+    {
+      "ClassName": "ha_w_axmc",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazines_axmc_10rnd",
+        "ha_optics_acoglow",
+        "ha_optics_eotech_magnifieroff",
+        "ha_optics_eotech_magnifieron",
+        "ha_optics_hamr",
+        "ha_optics_microt1",
+        "ha_optics_nightforce32x",
+        "ha_optics_sigsauertango",
+        "ha_optics_trijiconskeetix",
+        "ha_optics_vortexspitfire",
+        "ha_optics_vortexstrikefire",
+        "ha_optics_vortexuh1",
+        "ha_optics_vortexvenom"
+      ],
+      "Variants": [
+        "ha_w_axmc_338lm"
+      ]
+    },
+    {
+      "ClassName": "ha_w_axmc_338lm",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 35000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazines_axmc_338lm_10rnd",
+        "ha_optics_acoglow",
+        "ha_optics_eotech_magnifieroff",
+        "ha_optics_eotech_magnifieron",
+        "ha_optics_hamr",
+        "ha_optics_microt1",
+        "ha_optics_nightforce32x",
+        "ha_optics_sigsauertango",
+        "ha_optics_trijiconskeetix",
+        "ha_optics_vortexspitfire",
+        "ha_optics_vortexstrikefire",
+        "ha_optics_vortexuh1",
+        "ha_optics_vortexvenom"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ha_w_m200",
+      "MaxPriceThreshold": 35000,
+      "MinPriceThreshold": 35000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazine_m200",
+        "ha_optics_acoglow",
+        "ha_optics_eotech_magnifieroff",
+        "ha_optics_eotech_magnifieron",
+        "ha_optics_hamr",
+        "ha_optics_microt1",
+        "ha_optics_nightforce32x",
+        "ha_optics_sigsauertango",
+        "ha_optics_trijiconskeetix",
+        "ha_optics_vortexspitfire",
+        "ha_optics_vortexstrikefire",
+        "ha_optics_vortexuh1",
+        "ha_optics_vortexvenom"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ha_w_m24",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazines_m24_7rnd",
+        "ha_suppressor_308",
+        "ha_optics_acoglow",
+        "ha_optics_eotech_magnifieroff",
+        "ha_optics_eotech_magnifieron",
+        "ha_optics_hamr",
+        "ha_optics_microt1",
+        "ha_optics_nightforce32x",
+        "ha_optics_sigsauertango",
+        "ha_optics_trijiconskeetix",
+        "ha_optics_vortexspitfire",
+        "ha_optics_vortexstrikefire",
+        "ha_optics_vortexuh1",
+        "ha_optics_vortexvenom"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ha_w_m24_338lm",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazines_m24_338lm_7rnd",
+        "ha_optics_acoglow",
+        "ha_optics_eotech_magnifieroff",
+        "ha_optics_eotech_magnifieron",
+        "ha_optics_hamr",
+        "ha_optics_microt1",
+        "ha_optics_nightforce32x",
+        "ha_optics_sigsauertango",
+        "ha_optics_trijiconskeetix",
+        "ha_optics_vortexspitfire",
+        "ha_optics_vortexstrikefire",
+        "ha_optics_vortexuh1",
+        "ha_optics_vortexvenom",
+        "ha_optics_xm157"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ha_w_sv98m",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_sv98_10rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ha_w_tac50_grey",
+      "MaxPriceThreshold": 45000,
+      "MinPriceThreshold": 45000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazines_tac50_7rnd",
+        "ha_optics_acoglow",
+        "ha_optics_eotech_magnifieroff",
+        "ha_optics_eotech_magnifieron",
+        "ha_optics_hamr",
+        "ha_optics_microt1",
+        "ha_optics_nightforce32x",
+        "ha_optics_sigsauertango",
+        "ha_optics_trijiconskeetix",
+        "ha_optics_vortexspitfire",
+        "ha_optics_vortexstrikefire",
+        "ha_optics_vortexuh1",
+        "ha_optics_vortexvenom"
+      ],
+      "Variants": [
+        "ha_w_tac50_olive",
+        "ha_w_tac50_pink",
+        "ha_w_tac50_tan"
+      ]
+    }
+  ]
+}

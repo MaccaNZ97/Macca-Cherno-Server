@@ -187,28 +187,6 @@
       "Variants": []
     },
     {
-      "ClassName": "tf_jpcvest_coyote",
-      "MaxPriceThreshold": 15000,
-      "MinPriceThreshold": 11250,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "tf_jpcvest_mc",
-      "MaxPriceThreshold": 15000,
-      "MinPriceThreshold": 11250,
-      "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "QuantityPercent": -1,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
       "ClassName": "tf_lvmbavvest_kh",
       "MaxPriceThreshold": 1500,
       "MinPriceThreshold": 1125,

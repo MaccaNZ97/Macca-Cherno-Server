@@ -1,0 +1,169 @@
+===================================== Pvz_TheDarkHorde_ZombiesOptions.xml =====================================
+
+---------------------------------------------------------------------------------------------------------
+										----- "Zombies_Health" -----
+---------------------------------------------------------------------------------------------------------
+"Health_Points_Ratio_For_Zombie_From_The_Horde"
+	[Decimal 0.01 to infinite]
+	!! Not used if "PvZmoD Customisable Zombies" is loaded !!
+	Use it if you want to increase/decrease the horde zombies health.
+	
+"Health_Points_Ratio_For_Zombie_Outside_The_Horde"
+	[Decimal 0.01 to infinite]
+	!! Not used if "PvZmoD Customisable Zombies" is loaded !!
+	Use it if you want to increase/decrease the health of zombies that are not part of the horde.
+	
+"Resistance_To_The_Cars_For_Zombie_From_The_Horde"
+	[Decimal 0.0 to infinite]
+	!! Not used if "PvZmoD Customisable Zombies" is loaded !!
+	Use it if you want to increase/decrease the resistance to the cars for zombies that are part of the horde.
+	
+"Resistance_To_The_Cars_For_Zombie_Outiside_The_Horde"
+	[Decimal 0.0 to infinite]
+	!! Not used if "PvZmoD Customisable Zombies" is loaded !!
+	Use it if you want to increase/decrease the resistance to the cars for zombies that are not part of the horde.
+	
+---------------------------------------------------------------------------------------------------------
+									----- "Zombies_Behaviours" -----
+---------------------------------------------------------------------------------------------------------
+"Allow_Ghost_Zombies_To_Go_Through_Walls"
+	[Integer 0 or 1]
+	0: Disable
+	1: Enable
+	Some night creature (the luminescent ones) can go through doors (or base walls)
+	Here you can disable this feature.
+	If you use "PvZmod Customisable Zombies" and disable this feature the "ZmbM_DH_Master_Night_NotThroughWalls" will be used
+	
+"Allow_Night_Zombies_To_Teleport"
+	[Integer 0 or 1]
+	0: Disable
+	1: Enable
+	The night zombie are teleported when they are angry but don't move.
+	This make them more difficult to kill.
+
+---------------------------------------------------------------------------------------------------------
+----- "Master_Health" -----
+---------------------------------------------------------------------------------------------------------
+"Health_Points_Ratio_For_The_Master"
+	[Decimal 0.01 to infinite]
+	!! Not used if "PvZmoD Customisable Zombies" is loaded !!
+	Use it if you want to increase/decrease the masters health.
+	
+"Resistance_To_The_Cars_For_The_Master"
+	[Decimal 0.0 to infinite]
+	!! Not used if "PvZmoD Customisable Zombies" is loaded !!
+	Use it if you want to increase/decrease the resistance to the cars for masters.
+
+---------------------------------------------------------------------------------------------------------
+									----- "Master_Behaviours" -----
+---------------------------------------------------------------------------------------------------------
+"Master_Regeneration_Rate"
+	[Decimal 0.01 to infinite] (Health Points per second)
+	This is to avoid master been too weak in case of a previous player start to kill him but didn't finish him.
+	
+"Master_Is_Bulletproof"
+	[Integer 0 or 1]
+	0: Disable
+	1: Enable
+	This is to avoid player being able to simply jump on a car to safely kill the master.
+	It force the player to deal with the horde to kill the master.
+
+"Master_Is_Immune_To_Explosions"
+	[Integer 0 or 1]
+	0: Disable
+	1: Enable
+	The master receive no damage from grenades and landmines.
+	
+"Master_Is_Teleport_When_Hit_By_MeleeWeapon"
+	[Integer 0 or 1]
+	0: Disable
+	1: Enable
+	This make the master more difficult to kill because the player can't hit him many time in a short period.
+	
+"Master_Is_Teleport_When_Hit_By_FireWeapon"
+	[Integer 0 or 1]
+	0: Disable
+	1: Enable
+	This make the master more difficult to kill because the player can't hit him many time in a short period.
+	
+"Master_Can_Dodge"
+	[Integer 0 or 1]
+	0: Disable
+	1: Enable
+	When fighting, the master never stop running so he can run around the player making him more difficult to hit.
+	His feature doesn't work 100% of time, sometime the master just run on the player without dodging (it works better if the player move)
+
+"Master_Size_Ratio"
+	[Decimal - Theoretically: 0 to infinite]
+	[Recommended 0.5 to 1.5] to not glitch too much with buildings and keep move speed and animation coherent.
+	When size is modified master sometime do not face his target, if it is too much immersive breaking, set back the values to 1.0
+
+---------------------------------------------------------------------------------------------------------
+								----- "Zombies_Spawn_Options" -----
+---------------------------------------------------------------------------------------------------------
+"Zombie_Spawn_Timer"
+	[Decimal 0.01 to infinite] (second)
+	It is the spawn rate of the zombies
+	For example: if set to 1.5, one zombie will spawn every 1.5 seconds
+	Note that the zombies spawn more quickly when the horde is not calm (to keep zombies close to the master)
+	Don't set this value to 0.0
+	
+"Zombie_Spawn_Shift"
+	[Decimal 0.0 to infinite] (meters)
+	It modify the spawn position to try to maintain the spawn inside the fog.
+	It doesn't work perfectly but it helps.
+	Modify it only if lot of zombies spawn outside the fog.
+	
+"Zombie_Spawn_Radius"
+	[Decimal 0.0 to infinite]
+	This is to avoid zombies to spawn at the exact same place (this situation can stuck them)
+	
+"Master_Spawn_Radius"
+	[Decimal 0.0 to infinite]
+	This is to avoid master to spawn at the exact same place than the other zombies (this situation can stuck them)
+
+---------------------------------------------------------------------------------------------------------
+									----- "Zombies_Despawn" -----
+---------------------------------------------------------------------------------------------------------
+"Radius_To_Despawn_Zombie_When_Horde_Is_Calm"
+	[Integer 10 to infinite] (meters)
+	The horde move by making zombie spawn on its position and kill and despawn them when they are too far from the horde.
+	This value set the distance from the horde to despawn zombie when horde is calm.
+	
+"Radius_To_Despawn_Zombie_When_Horde_Is_Not_Calm"
+	[Integer 10 to infinite] (meters)
+	Same thing than above but when the horde is not calm.
+	
+"Zombie_Despawn_Time_When_They_Are_Outside_Radius"
+	[Integer 0 to infinite] (seconds)
+	This is the time between the death and the despawn of zombie when the are too far from the horde.	
+	
+"Zombie_Despawn_Time_After_Zombie_Have_Been_Killed"
+	[Integer 0 to infinite] (seconds)
+	This is the time between the death and the despawn of zombie when they are killed by a player.
+	
+"Zombie_Despawn_Time_After_Master_Have_Been_Killed"
+	[Integer 0 to infinite] (seconds)
+	This is the time before the zombies die after the master has been killed.
+	This force the player to be careful few second after he killed the master.
+	This avoid player to takes too much risks by rushing the master thinking the other zombies will instantly died.
+	
+---------------------------------------------------------------------------------------------------------
+							----- "Master_Follow_The_Horde_And_Despawn" -----
+---------------------------------------------------------------------------------------------------------
+"Distance_To_Teleport_Master_When_Horde_Is_Calm"
+	[Integer 10 to infinite] (meters)
+	When the horde is calm, the master "follow" the horde.
+	As I can't choose where the master go, I have to teleport him in the horde when he is too far.
+	
+"Distance_To_Teleport_Master_When_Horde_Is_Not_Calm"
+	[Integer 10 to infinite] (meters)
+	When the horde is not calm it is the horde that follow the master.
+	But in some circumstance the master can be far from the horde, this teleport distance is here to fix that situation.
+	
+"Master_Despawn_Time_After_Master_Have_Been_Killed"
+	[Integer 0 to infinite] (seconds)
+	This timer is set to let the time to the player to loot the master after he have been killed.
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------

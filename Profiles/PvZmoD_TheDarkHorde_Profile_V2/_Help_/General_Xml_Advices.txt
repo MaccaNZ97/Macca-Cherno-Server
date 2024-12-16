@@ -1,0 +1,33 @@
+==================================== General_Xml_Advices.txt ====================================
+
+Do not modify the name of the variables (before the "=").
+Do not modify the name of the files and the folders.
+Do not move a variable from a file to another.
+Do not move a file from a folder to another.
+
+Do not modify the structure of the xml. 
+I mean the file have to be able to pass a verification like https://www.w3schools.com/xml/xml_validator.asp
+
+-------------------------------------------------------------------------------------------------
+
+You can move a variable in the same file (reorder the variable for example)
+You can create new sections (but you can't delete existing ones, they will automatically be recreated
+
+-------------------------------------------------------------------------------------------------
+
+Most of the xml files have a "NewFeatures" section.
+If new features come in the future they will be added in this section. 
+You will be able to move them where you want but just keep them in the same file.
+
+-------------------------------------------------------------------------------------------------
+
+Remember that you don't have to restart the server to apply the modifications made in xml files.
+You just have to press the "Refresh" shortcut (default numpad 6) in game.
+
+-------------------------------------------------------------------------------------------------
+
+I you use other map than Chernarus you have to modify values in all files in Coordinates folder.
+I built these files to make this easy to do.
+
+-------------------------------------------------------------------------------------------------
+

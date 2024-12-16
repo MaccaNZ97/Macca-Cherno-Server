@@ -1,0 +1,77 @@
+================================ Pvz_TheDarkHorde_SoundsAndVisuals.xml ==================================
+
+---------------------------------------------------------------------------------------------------------
+									----- "Fog_Visual_Characteristics" -----
+---------------------------------------------------------------------------------------------------------
+"Fog_Color"
+	[Interger 1 or 2]
+	1: Use black fog color
+	2: Use red fog color
+	3: Use white fog color
+	
+"ParticleSystem_Birth_Rate_Ratio"
+	[Decimal 0.0 to infinity]
+	Apply a multiplicator on the number of particles of the fog
+	Don't abuse it because it can cause client performance issues.
+	If set to 0.0 the fog is disable.
+	There is a bug that make this feature not working on red fog (I don't know why) but you still can disable it with 0.0
+	
+"ParticleSystem_Size_Ratio"
+	[Decimal 0.0 to infinity]
+	Apply a multiplicator on the size of particles of the fog
+	
+"ParticleSystem_Lifetime_Ratio"
+	[Decimal 0.0 to infinity]
+	Apply a multiplicator on the lifetime of particles of the fog
+	
+---------------------------------------------------------------------------------------------------------
+										----- "Other_Visual_Effects" -----
+---------------------------------------------------------------------------------------------------------
+"Activate_Clouds_Above_The_Horde_When_The_Master_Is_Disturbed"
+	[Interger 0 or 1]
+	0: Disable the cloud.
+	1: Enable the cloud.
+	
+"Distance_To_Display_Little_Cloud_When_Zombies_Spawn"
+	[Interger 0 to infinity] (meters)
+	This little cloud hide the zombie spawning (to less break immersion)
+	This distance is to avoid this little cloud being display if the player is too far to save client performance
+	
+---------------------------------------------------------------------------------------------------------
+											----- "Sound_Effects" -----
+---------------------------------------------------------------------------------------------------------
+"Time_Between_Bell_Alarms"
+	[Interger 0 to infinity] (seconds)
+	This manage the bell sound when horde enter the player radius (around 1000 meters).
+	This is useful to alert player around so they have to be careful.
+	-1: alarm sound always deactivated.
+	0: no timer between alarm sound (if the horde enter and exit the radius many times the player will hear the bell a lot)	
+	600: ten minutes between two alarm (the horde have to exit and re-enter the radius to trigger the alarm again)
+	
+"Activate_Zombie_Spawn_Sound"
+	[Interger 0 or 1]
+	0: Disable.
+	1: Enable.
+	Useful to be aware where zombies spawn around the player when he fight the horde.
+	
+"Activate_Zombie_Teleport_Sound"
+	[Interger 0 or 1]
+	0: Disable.
+	1: Enable.
+	Useful to hear where the night master teleport when player hit him.
+	
+"Activate_Thunderbolt_Sound_When_The_Master_Die"
+	[Interger 0 or 1]
+	0: Disable.
+	1: Enable.
+	
+"Activate_Thunder_Sound_When_The_Master_Is_Disturb"
+	[Interger 0 or 1]
+	0: Disable.
+	1: Enable.
+	Useful to inform the player that there is an angry horde near him so he can choose to fight or run away.
+	Lot of players was complaining to be taken by surprise and have the feeling the horde spawn on them.
+	
+===========================================================================================================
+	
+	

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="evg_keycard_holder_camo">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1</restock>
+    <min>4</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="evg_keycard_holder_leather">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1</restock>
+    <min>4</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Unique" />
+  </type>
+ 
+  <type name="evg_keycards_NWAF01">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>2</restock>
+    <min>10</min>
+    <quantmin>5</quantmin>
+    <quantmax>5</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Unique" />
+  </type>
+ 
+  <type name="evg_keycards_Tisy01">
+    <nominal>2</nominal>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="tools" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <tag name="shelves" />
+    <value name="Tier5" />
+  </type>
+  
+</types>

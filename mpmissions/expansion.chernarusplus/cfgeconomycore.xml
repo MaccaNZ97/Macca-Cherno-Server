@@ -8,6 +8,7 @@
     <rootclass name="SurvivorBase" reportMemoryLOD="no" act="character" />
     <rootclass name="DZ_LightAI" reportMemoryLOD="no" act="character" />
     <rootclass name="CarScript" reportMemoryLOD="no" act="car" />
+    <rootclass name="BoatScript" reportMemoryLOD="no" act="car" />
   </classes>
   <defaults>
     <default name="dyn_radius" value="30" />
@@ -34,23 +35,23 @@
     <file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
   </ce>
   <ce folder="Custom">
-    <file name="Basebuildingplus_types.xml" type="types" />
     <file name="fliptransport_types.xml" type="types" />
     <file name="UmbrellaClothing_types.xml" type="types" />
     <file name="Custom_Cards_types.xml" type="types" />
     <file name="codelock_types.xml" type="types" />
     <file name="Mavericks12v_types.xml" type="types" />
     <file name="Boomlay_things_types.xml" type="types" />
-    <file name="Winter_charnarus_types.xml" type="types" />
-    <file name="BN_Winter_Clothing_types.xml" type="types" />
     <file name="Advanced_Scopes_types.xml" type="types" />
     <file name="DayZ_MiniFigurines_V2_types.xml" type="types" />
-    <file name="TrailBrozer_types.xml" type="types" />
     <file name="Medical_Sobar_types.xml" type="types" />
     <file name="DriipyShoes_types.xml" type="types" />
     <file name="ObjectFiles_types.xml" type="types" />
     <file name="Umbrella_Zombies_types.xml" type="types" />
     <file name="Joes Role Play Uniforms_types.xml" type="types" />
+    <file name="BetterFirstAid_types.xml" type="types" />
+    <file name="MoreFlags_types.xml" type="types" />
+    <file name="NBC_Case_types.xml" type="types" />
+    <file name="er7_types.xml" type="types" />
   </ce>
   <ce folder="Custom/Custom_Events">
     <file name="Custom_events.xml" type="events" />
@@ -66,9 +67,9 @@
     <file name="types_tools.xml" type="types" />
     <file name="types_weapons.xml" type="types" />
   </ce>
-  <ce folder="Custom/Snafu Weapons">
-    <file name="Snafu_Weapons_types.xml" type="types" />
-    <file name="SnafuWeapons_spawnabletypes.xml" type="spawnabletypes" />
+  <ce folder="Custom/Harolds_Armoury">
+    <file name="Haralds_cfgspawnabletypes.xml" type="spawnabletypes" />
+    <file name="HaraldsWeapons_types.xml" type="types" />
   </ce>
   <ce folder="Custom/MMG">
     <file name="mmg_storage_types.xml" type="types" />
@@ -107,10 +108,6 @@
     <file name="AJ_Creatures_events.xml" type="events" />
     <file name="AJ_Creatures_spawnabletypes.xml" type="spawnabletypes" />
   </ce>
-  <ce folder="Custom/RAGS">
-    <file name="Rags_HuntingCabin_types.xml" type="types" />
-    <file name="Dragon_types.xml" type="types" />
-  </ce>
   <ce folder="Custom/Drugs">
     <file name="CannabisPlus_types.xml" type="types" />
   </ce>
@@ -119,11 +116,11 @@
   </ce>
   <ce folder="Custom/DBO">
     <file name="DBO_Creatures_types.xml" type="types" />
+    <file name="DBO_Raptor_types.xml" type="types" />
   </ce>
   <ce folder="Custom/Huffys">
-    <file name="BIO_Hazard_Bears_types.xml" type="types" />
-    <file name="Horror_bears_types.xml" type="types" />
     <file name="Cocaine_Bear_types.xml" type="types" />
+    <file name="Cocaine_Bears_spawnabletypes.xml" type="spawnabletypes" />
   </ce>
   <ce folder="Custom/CJ187">
     <file name="CJ187_HeliCrash_types.xml" type="types" />
@@ -133,5 +130,27 @@
   <ce folder="Custom/MBM">
     <file name="MBM_JLTV_types.xml" type="types" />
   </ce>
-
+  <ce folder="Custom/RAGS">
+    <file name="Rags_Base_Items_types.xml" type="types" />
+    <file name="Rags_immersive_vehicles_types.xml" type="types" />
+    <file name="Rags_HuntingCabin_types.xml" type="types" />
+    <file name="Dragon_types.xml" type="types" />
+    <file name="rag_atv_types.xml" type="types" />
+    <file name="rag_baja_types.xml" type="types" />
+    <file name="rag_derby_car_types.xml" type="types" />
+    <file name="rag_gaz69_types.xml" type="types" />
+    <file name="rag_hummer_types.xml" type="types" />
+    <file name="rag_jeep_willys_types.xml" type="types" />
+    <file name="rag_landrover_types.xml" type="types" />
+    <file name="rag_mtvr_types.xml" type="types" />
+    <file name="rag_schoolbus_types.xml" type="types" />
+    <file name="rag_zil_130_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/YesMods">
+    <file name="MedPlus_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/MoreDino">
+    <file name="MoreDinoHC_types.xml" type="types" />
+    <file name="MoreDino_spawnabletypes.xml" type="spawnabletypes" />
+  </ce>
 </economycore>

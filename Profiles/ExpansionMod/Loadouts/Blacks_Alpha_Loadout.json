@@ -453,7 +453,7 @@
           "SlotName": "Hands",
           "Items": [
             {
-              "ClassName": "SNAFU_MK4710Gun",
+              "ClassName": "HA_W_MK47",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -471,70 +471,7 @@
                   "SlotName": "",
                   "Items": [
                     {
-                      "ClassName": "SNAFU_MK47HG",
-                      "Chance": 1,
-                      "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                      },
-                      "Health": [
-                        {
-                          "Min": 0.7,
-                          "Max": 1,
-                          "Zone": ""
-                        }
-                      ],
-                      "InventoryAttachments": [],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
                       "ClassName": "AD_XPS34",
-                      "Chance": 1,
-                      "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                      },
-                      "Health": [
-                        {
-                          "Min": 0.7,
-                          "Max": 1,
-                          "Zone": ""
-                        }
-                      ],
-                      "InventoryAttachments": [
-                        {
-                          "SlotName": "",
-                          "Items": [
-                            {
-                              "ClassName": "Battery9V",
-                              "Chance": 1,
-                              "Quantity": {
-                                "Min": 0,
-                                "Max": 0
-                              },
-                              "Health": [
-                                {
-                                  "Min": 0.7,
-                                  "Max": 1,
-                                  "Zone": ""
-                                }
-                              ],
-                              "InventoryAttachments": [],
-                              "InventoryCargo": [],
-                              "ConstructionPartsBuilt": [],
-                              "Sets": []
-                            }
-                          ]
-                        }
-                      ],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "SNAFU_PEQ1_Laser",
                       "Chance": 1,
                       "Quantity": {
                         "Min": 0,

@@ -12,16 +12,26 @@
   "DisplayCurrencyValue": 1,
   "DisplayCurrencyName": "",
   "Categories": [
+    "BATTERY",
     "RAPTOR PARTS",
     "TOOLS",
     "LIQUIDS",
     "VEHICLE_PARTS",
+    "RAGS_IMMERSIVE_VEHICLES",
     "VEHICLEKEYS",
     "EXT_SPRAYCANS",
     "JEEP PARTS",
     "DBN NOVATOR PARTS",
-    "TRAIL BROZER PARTS",
-    "BATTERY"
+    "RAG_ATV_PARTS",
+    "RAG_BAJA_PARTS",
+    "RAG_DERBY_CAR_PARTS",
+    "RAG_GAZ69_PARTS",
+    "RAG_HUMMER_PARTS",
+    "RAG_JEEP_WILLYS_PARTS",
+    "RAG_LANDROVER_DEFENDER_PARTS",
+    "RAG_MTVR_PARTS",
+    "RAG_SCHOOLBUS_PARTS",
+    "RAG_ZIL-130_PARTS"
   ],
   "Items": {
     "smallgascanister": 3

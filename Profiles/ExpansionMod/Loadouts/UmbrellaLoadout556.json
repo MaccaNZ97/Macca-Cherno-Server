@@ -426,6 +426,19 @@
       "InventoryCargo": [],
       "ConstructionPartsBuilt": [],
       "Sets": []
+    },
+    {
+      "ClassName": "HA_Magazines_MCX_30Rnd",
+      "Chance": 1,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
     }
   ],
   "ConstructionPartsBuilt": [],
@@ -443,7 +456,7 @@
           "SlotName": "Shoulder",
           "Items": [
             {
-              "ClassName": "Snafu_ScarH_Black_GUN",
+              "ClassName": "HA_W_MCX_Zap",
               "Chance": 1.0,
               "Quantity": {
                 "Min": 1.0,
@@ -461,7 +474,7 @@
                   "SlotName": "",
                   "Items": [
                     {
-                      "ClassName": "Snafu_ScarH_25RND_Mag_BK",
+                      "ClassName": "HA_Magazines_MCX_30Rnd",
                       "Chance": 1.0,
                       "Quantity": {
                         "Min": 1.0,
@@ -474,7 +487,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "SNAFU_Standardized_Suppressor_Black",
+                      "ClassName": "HA_Suppressor_NATO_covered_Pink",
                       "Chance": 1.0,
                       "Quantity": {
                         "Min": 1.0,
@@ -487,7 +500,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "M68Optic",
+                      "ClassName": "HA_Optics_EOTech_Magnifier_Base",
                       "Chance": 1.0,
                       "Quantity": {
                         "Min": 1.0,
@@ -495,38 +508,6 @@
                       },
                       "Health": [],
                       "InventoryAttachments": [],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "SNAFU_FGCR_Grip",
-                      "Chance": 1.0,
-                      "Quantity": {
-                        "Min": 1.0,
-                        "Max": 1.0
-                      },
-                      "Health": [],
-                      "InventoryAttachments": [
-                        {
-                          "SlotName": "",
-                          "Items": [
-                            {
-                              "ClassName": "Battery9V",
-                              "Chance": 1.0,
-                              "Quantity": {
-                                "Min": 1.0,
-                                "Max": 1.0
-                              },
-                              "Health": [],
-                              "InventoryAttachments": [],
-                              "InventoryCargo": [],
-                              "ConstructionPartsBuilt": [],
-                              "Sets": []
-                            }
-                          ]
-                        }
-                      ],
                       "InventoryCargo": [],
                       "ConstructionPartsBuilt": [],
                       "Sets": []
@@ -543,7 +524,7 @@
       ],
       "InventoryCargo": [
         {
-          "ClassName": "Snafu_ScarH_25RND_Mag_BK",
+          "ClassName": "HA_Magazines_MCX_30Rnd",
           "Chance": 1.0,
           "Quantity": {
             "Min": 1.0,
@@ -556,7 +537,7 @@
           "Sets": []
         },
         {
-          "ClassName": "Snafu_ScarH_25RND_Mag_BK",
+          "ClassName": "HA_Magazines_MCX_30Rnd",
           "Chance": 1.0,
           "Quantity": {
             "Min": 1.0,

@@ -103,17 +103,19 @@
     ],
     "PantsGear": [
       {
-        "ClassName": "SodaCan_Pipsi",
+        "ClassName": "HA_Magazines_Glock_33rnd",
         "Quantity": -1,
         "Attachments": []
       },
       {
-        "ClassName": "Mag_Glock_15Rnd",
+        "ClassName": "HA_Magazines_Glock_33rnd",
         "Quantity": -1,
-        "Attachments": [
-          "PistolSuppressor",
-          "Mag_Glock_15Rnd"
-        ]
+        "Attachments": []
+      },
+      {
+        "ClassName": "BakedBeansCan",
+        "Quantity": -1,
+        "Attachments": []
       }
     ],
     "BackpackGear": [
@@ -140,11 +142,10 @@
     ],
     "VestGear": [],
     "PrimaryWeapon": {
-      "ClassName": "SN_Glock19",
-      "Quantity": 1,
+      "ClassName": "HA_W_Glock_18",
+      "Quantity": -1,
       "Attachments": [
-        "Mag_Glock_15Rnd",
-        "PistolSuppressor"
+        "HA_Magazines_Glock_33rnd"
       ]
     },
     "SecondaryWeapon": {}

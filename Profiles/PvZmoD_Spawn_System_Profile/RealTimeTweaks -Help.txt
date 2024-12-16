@@ -1,0 +1,141 @@
+THIS IS A HELP FILE, use RealTimeTweak.JSON to modify data, save it and press PavNum5 in game to refresh values 
+(don't forget to add your idsteam64 in admin.txt)
+
+Use INTEGERS values (no decimals, no true/false...)
+!! NO COMMA AT THE END OF THE LAST LINE !!
+
+{
+	"Data_RealTimeTweak": 
+	{
+		"0": 0,   	// (Debug) Show debug messages (0 disable (only keep refresh message), 1 enable all red message, -1 print and show refresh message, -2 only print refresh message) 
+
+		"1": 300, 	// (Perf) Maximum number of Z on the server (not including those spawned with vanilla system if always active) 0 => completely deactivate spawn system, just keeping items spawn on zeds body.
+		"2": 0, 	// (Tech) Use vanilla spawn system when fps are under the "56" value (see post in workshop discution thread for details)
+		
+		"3": 100, 	// (Tweak Difficulty)  Dynamic 	spawn RATIO 	(0 to disable Dynamic spawns - 50 for Vanilla Zombies - 100 for PvZmoD Tweaked Zombies - can be more)
+		"4": 100, 	// (Tweak Difficulty)  Static 	spawn RATIO 	(0 to disable Static  spawns - 50 for Vanilla Zombies - 100 for PvZmoD Tweaked Zombies - can be more)	
+		
+		"5": 100, 	// (Tweak Difficulty) Dynamic Spawn Delay RATIO (all dynamic zone but countryside) : 100 => default delay, less => Z spawn more often, more than 100 Z spawn less often than default
+		"6": 10,	// (Tweak Difficulty) Coast Factor : with higher value the dynamic Z spawn less often when the player is near the coast making game more difficult as player go inland (with 10 as value, it increase the time between each spawn by around 12 seconds on the coast)
+		
+		"7": 1,		// (Tweak) Zombies rotate after spawning to avoid always go north when they spawn (set it to 0 to disable if you see zombies shaking)
+		"8": 999,	// (NOT USED ANYMORE)
+		
+		"9": 1,  	// (Focus of Dynamic Spawn System) Residual quantity for non-focus players (0=>non spawn on non focus player / Positive value=>more residual zeds, (ex ”09”:2=> spawns between 1 and 2 zeds each time system try to spawn a group of dynamic zeds) / Negative value=> less residual zeds (ex:”09”:-4=> 25% chance to spawn a zed each time system try to spawn a group of dynamic zeds)
+		"10": 999,	// (NOT USED ANYMORE)
+		"11": 999,	// (NOT USED ANYMORE)
+		"12": 5,	// (Focus of Dynamic Spawn System) Minimum Focus Time (minutes)
+		"13": 10,	// (Focus of Dynamic Spawn System) Maximum Focus Time (minutes)
+		"14": 999, 	// (NOT USED ANYMORE)
+		
+		"15": 100, 	// (Tweak Spawn distance) Spawn Distance RATIO : 100 => defaut spawn distances (static/dynamique); 200 => double spawn distances (be careful to not exceed despawn distances)
+		"16": 150, 	// (Tweak Safe Zones Radius) Size of the zombie safe zone around the fire barrels 0 => Safe zones deactivated (in meters)
+		
+		"17": 100,  // (Tweak Despawn distance) Z Despawn distance when maximum Z number is reached (in meters)
+		
+		"18": 70,	// (Tweak Dead Body) Zombies dead body despawn DISTANCE (Meters)  if Distance and Time = 0 => Dead Bodys despawn handle by vanilla system (look at "20" "21" because dead body despawn impact the capacity to clean a zone)
+		"19": 120,	// (Tweak Dead Body) Zombies dead body despawn TIME 	(Seconds) if Distance and Time = 0 => Dead Bodys despawn handle by vanilla system (look at "20" "21" because dead body despawn impact the capacity to clean a zone)
+		
+		"20": 5,	// (Tweak Difficulty) Max number of countryside zombies GROUPS (not individual zombies) per player. This value works with "60" value (look at its description for more details. This allow to clean a zone and avoid infinite waves. To turn off this feature set it to 0
+		"21": 100,	// (Tweak Difficulty) Max number of towns zombies RATIO (this allow to clean a zone and avoid infinite waves) this number include dead bodies but not the static spawns (this ratio is apply to TOTAL MAX ZEDS NUMBER values in DynamicSpawnZones.c) when alive zeds or dead bodies despawn, the spawning of zeds is reactivated, use "18" "19" to make larger cleaning zone (To turn off this feature set it to 0)
+		
+		"22": 40,  	// (Tech/Difficulty) Move player Ratio (Between 10 and 100) MORE you put here, LESS the players make dynamic groups spawn (Increase this value if infinite waves of zeds)
+		"23": 50,  	// (Tech/Difficulty) Team Distance : Distance between players below which they are considered in the same "team" (0 (Deactivated)=> players spawn zombies the same rate if they are in a "team" or not / Superior to 0 (EASY)=> players spawn zombies less ofen if they are in a "team" / Inferior to 0 (HARD) => players spawn zombies more ofen if they are in a "team") 
+		"24": 20,	// (Tech/Perf) Numb of Z adaptation with number of player on server 0 deactivated (if set to 20 1-20 player=>100%Z / 30 players=>66%Z / 40 players=>50%Z / 50 players=>40% 100 players=>20%Z) this affect the "max number of zombies "1" value and when more than 50 players the Static horde are less dense and dynamic spawn less often and less quantity
+		"25": 999,	// (NOT USED ANYMORE)
+		"26": 100,	// (Tech) Static spawn reactivation delay RATIO (%). Apply a ratio to ReactivationDelay value in StaticSpawnDatas.c.
+
+		"27": 999, 	// (NOT USED ANYMORE)
+		"28": 999,  // (NOT USED ANYMORE)
+		"29": 0,	// (Debug) 1 = Delete all zombie; 0 = Stop deleting Zombies 
+		"30": 1,	// (Debug) Active Zombie AI (0=>inactive / 1=>active)
+		
+		"31": 100,  // (Tweak) Countryside 	zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"32": 100,  // (Tweak) Small Town 	zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"33": 100,  // (Tweak) Average Town zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"34": 100,  // (Tweak) Big Town 	zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"35": 100,  // (Tweak) Buildings 	zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"36": 100,  // (Tweak) Industrial 	zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"37": 100,  // (Tweak) Military 	zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"38": 100,  // (Tweak) Fog (test)	zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"39": 100,  // (Tweak) Prison 		zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"40": 100,  // (Tweak) Riffy (test)	zombie quantity ratio	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+	
+		"41": 100,  // (Tweak) data_Config90 zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"42": 100,  // (Tweak) data_Config91 zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"43": 100,  // (Tweak) data_Config92 zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"44": 100,  // (Tweak) data_Config93 zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"45": 100,  // (Tweak) data_Config94 zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"46": 100,  // (Tweak) data_Config95 zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"47": 100,  // (Tweak) data_Config96 zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"48": 100,  // (Tweak) data_Config97 zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)
+		"49": 100, 	// (Tweak) data_Config98 zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)	
+		"50": 100, 	// (Tweak) data_Config99 zombie quantity ratio 	(0 disable Z spawn - 100 is default value but it can be more - 0 will not disable residual quantities "09". For this, set to 0 the quantities in DynamicSpawnDatas.c)	
+		
+		"51": 1,  	// (Perf) CleanUp Packed Zombies 1=>activated 0=>deactivated : Teleport Zombies when they are not moving, not calm and too close to each other (for better server synchronisation)
+		"52": 4,  	// (Perf) CleanUp Packed Zombies radius (meters) to detect close zombies
+		"53": 5,  	// (Perf) CleanUp Packed Zombies number	of close zombie to be considered as packed
+		"54": 1,	// (Perf) CleanUp Packed Zombies moving distance (meters) to be considered as not moving
+		"55": 10,   // (Perf) CleanUp Packed Zombies time (seconds) between two check
+		
+		"56": 1000,  // (Perf) FPS cap : if server FPS are lower, somes zombies disappear (0 no FPS cap, zombies will not desapear)
+		"57": 4,   	// (Perf) speed variation of despawn distance [1-99]
+		
+		"58": 999,  // (NOT USED ANYMORE)
+		"59": 50,   // (Focus of Dynamic Spawn System) Chance (%) for each players to be focus by the dynamic spawn system
+
+		"60" : 120,	// (Tweak Difficulty) Time (in second) to suspend countryside spawn when “20” value is reach. 		
+		"61" : 100, // (Tweak Difficulty) Countryside Dynamic Spawn Delay RATIO : 100 => default delay, less => Z spawn more often, more than 100 Z spawn less often than default	
+        
+		"62" : 0, 	// (Debug-Test don't modify) Suspend CheckRemove Object        
+        "63" : 100, // (Debug-Test don't modify) Spawn System RefreshRatio (test don't modify)        
+        "64" : 1, 	// (Debug-Test don't modify) check Proxi Player Methode (test don't modify)    
+		
+		"65" : 80, 	// (Tweak) Chance to spawn for Priests. 50 => 50% chance to spawn / 200 => spawn 2 priests
+		"66" : 0, 	// (Tweak) Reactivation Time for Priests (in minutes) to avoid players farming these spawns again and again (need server Restart to update this value)
+		
+		"67" : 100, // (Tweak) Chance to spawn for Butchers. 50 => 50% chance to spawn / 200 => spawn 2 Butcher
+		"68" : 0, 	// (Tweak) Reactivation Time for Butchers (in minutes) to avoid players farming these spawns again and again (need server Restart to update this value)
+
+		"69" : 1, 	// (loot) Activate loot on zombies (don't affect vanilla loot). 0 : No pvzmod loot on zombies / 1 : pvzmod loot on zombies activated
+		"70" : 1, 	// (loot) Activate Loot Chests. 0 : No Loot Chests / 1 : Loot Chests activated
+		
+		"71" : 3, 	// (Helicopter Crash) Minimum Number Of Zombies On Helicopter Crash (this value is independent from "03" or "04" values, it is not link to the dynamic or static system)
+		"72" : 5, 	// (Helicopter Crash) Maximum Number Of Zombies On Helicopter Crash (this value is independent from "03" or "04" values, it is not link to the dynamic or static system)
+		"73" : 60, 	// (Helicopter Crash) Type Of Zombies On Helicopter Crash (correspond to the values in ZombiesChooseCategories.c file)
+		
+		"74" : 150, // (Zombies Despawn) Despawn Distance Ratio (as it is a ratio of the spawn distance, this value must be superior to 100)
+		"75" : 5, 	// (Zombies Despawn) Despawn timer (minutes) after player deconnection (to avoid players deco-reco to delete zombies)
+		
+		"76" : 5, 	// (loot) Minimum quantity of ammo when spawn a stack on zombies.
+		"77" : 10, 	// (loot) Maximum quantity of ammo when spawn a stack on zombies.
+
+		"78" : 3, 	// (Bonfires) Minimum Number Of Zombies On Bonfires (this value is independent from "03" or "04" values, it is not link to the dynamic or static system)
+		"79" : 5, 	// (Bonfires) Maximum Number Of Zombies On Bonfires (this value is independent from "03" or "04" values, it is not link to the dynamic or static system)
+		"80" : 106, // (Bonfires) Type Of Zombies On Bonfires 		 	(correspond to the values in ZombiesChooseCategories.c file)
+		
+		"81" : 1, 	// (Toxic) Minimum Number Of Zombies In Toxic Zones 	(this value is independent from "03" or "04" values, it is not link to the dynamic or static system)
+		"82" : 10, 	// (Toxic) Maximum Number Of Zombies In Toxic Zones 	(this value is independent from "03" or "04" values, it is not link to the dynamic or static system)
+		"83" : 99,	// (Toxic) Type Of Zombies In Toxic Zones 		 		(correspond to the values in ZombiesChooseCategories.c file)		
+		"84" : 75, 	// (Toxic) Spawn Radius In Toxic Zones
+		
+		"85" : 1, 	// (SantasSleigh Crash) Minimum Number Of Zombies On SantasSleigh Crash (this value is independent from "03" or "04" values, it is not link to the dynamic or static system)
+		"86" : 1, 	// (SantasSleigh Crash) Maximum Number Of Zombies On SantasSleigh Crash (this value is independent from "03" or "04" values, it is not link to the dynamic or static system)
+		"87" : 98, 	// (SantasSleigh Crash) Type Of Zombies On SantasSleigh Crash (correspond to the values in ZombiesChooseCategories.c file)
+		
+		"88" : 100, // (Tweak Difficulty) Ratio applied to maximum number of zombies per dynamic zone (applied to the last column in DynamicSpawnZones.c)
+		
+		"89" : 1, 	// (Tech) Spawn Dynamic Zombies directly on the ground (set it to 0 if zombies spawn under buildings floor too often)
+		"90" : 1, 	// (Tech) Avoid LootChests floating in the air (set it to 0 if some loot chests spawn under buildings floor, note that you can activate this option for each static spawn point by setting a negative value to "CHESTcoordY" in StaticSpawnDatas.c)
+		
+		"91" : 999, // Not used yet
+		"92" : 999, // Not used yet
+		"93" : 999, // Not used yet
+		"94" : 999, // Not used yet
+		"95" : 999, // Not used yet
+		"96" : 999, // Not used yet
+		"97" : 999, // Not used yet
+		"98" : 999, // Not used yet
+		"99" : 0  	// (Admin) Used to show modder to admins warning messages when needed (! do NOT add comma at the end of this line !)
+	}
+}

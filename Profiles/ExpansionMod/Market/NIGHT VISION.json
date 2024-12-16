@@ -93,6 +93,37 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
+    },
+    {
+      "ClassName": "fog_uapnvg_black",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_uapnvg_rg",
+        "fog_uapnvg_tan"
+      ]
+    },
+    {
+      "ClassName": "fog_gpnvg_elite",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_gpnvg_black",
+        "fog_gpnvg_rg",
+        "fog_gpnvg_tan",
+        "fog_gpnvg_tarzier",
+        "fog_gpnvg_tarzier_black"
+      ]
     }
   ]
 }

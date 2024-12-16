@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+  <type name="Animal_dbo_raptor">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_raptor_BABY">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_raptor_ADULT">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.25" />
+      <item name="Rag" chance="0.25" />
+      <item name="DNA_KeyCard_BlisterPackChip_Blue" />
+      <item name="DNA_Battery_40v" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_raptorblue">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_raptorblue_BABY">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_raptorblue_ADULT">
+    <cargo chance="1">
+      <item name="Paper" chance="0.25" />
+      <item name="Rag" chance="0.25" />
+      <item name="DNA_KeyCard_KeyCardChip_Blue" />
+      <item name="DNA_Bolts" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_raptorB">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_raptorB_BABY">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_raptorB_ADULT">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_tricero">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_tricero_BABY">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+      <item name="New Item, Please change me..." />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_tricero_ADULT">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_idrex">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_idrex_BABY">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_idrex_ADULT">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_trex">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_trex_BABY">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_trex_ADULT">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Animal_dbo_trex_GIANTCHICKEN">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+</spawnabletypes>

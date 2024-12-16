@@ -59,6 +59,36 @@
             "dna_Eyewear": "",
             "dna_Armband": "",
             "dna_NVG": "FOG_GPNVG_Elite"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Helm": "FOG_Helmet_FASTMT_AOR2",
+            "dna_Shirt": "TF_G3CombatShirt_WD",
+            "dna_Vest": "TF_6B43Vest_6sh112_EMR",
+            "dna_Pants": "TF_G3CombatPants_WD",
+            "dna_Shoes": "FOG_Operator_Boots_Black",
+            "dna_Backpack": "TF_MAPBag_Coyote",
+            "dna_Gloves": "FOG_Tactical_Fingerless_Gloves_Black",
+            "dna_Belt": "FOG_MRB_Belt_MC",
+            "dna_Facewear": "FOG_Ghost_Mask_Red_Gold",
+            "dna_Eyewear": "",
+            "dna_Armband": "",
+            "dna_NVG": "FOG_GPNVG_Elite"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Helm": "FOG_Helmet_FASTMT_AOR2",
+            "dna_Shirt": "TF_G3CombatShirt_WD",
+            "dna_Vest": "TF_6B43Vest_6sh112_EMR",
+            "dna_Pants": "TF_G3CombatPants_WD",
+            "dna_Shoes": "FOG_Operator_Boots_Black",
+            "dna_Backpack": "TF_MAPBag_Coyote",
+            "dna_Gloves": "FOG_Tactical_Fingerless_Gloves_Black",
+            "dna_Belt": "FOG_MRB_Belt_MC",
+            "dna_Facewear": "FOG_Ghost_Mask_Red_Gold",
+            "dna_Eyewear": "",
+            "dna_Armband": "",
+            "dna_NVG": "FOG_GPNVG_Elite"
         }
    ]
 }

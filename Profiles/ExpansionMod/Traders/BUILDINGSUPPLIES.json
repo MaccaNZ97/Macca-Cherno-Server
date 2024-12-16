@@ -15,7 +15,6 @@
     "ELECTRONICS",
     "CONTAINERS",
     "SUPPLIES",
-    "BASE BUIILDING PLUS",
     "NAVIGATION",
     "TOOLS",
     "TENTS",
@@ -26,7 +25,10 @@
     "FURNISHINGS",
     "GARDENING",
     "KITS",
-    "MMG_STORAGE:2"
+    "MMG_STORAGE:2",
+    "RAG_BASEITEMS",
+    "BASE ITEMS",
+    "BASE FURNITURE"
   ],
   "Items": {
     "battery9v": 1,

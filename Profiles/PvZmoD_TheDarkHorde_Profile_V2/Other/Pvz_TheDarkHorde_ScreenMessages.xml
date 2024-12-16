@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>
+  <type name="Compas">
+    <Minimum_Distance_To_Show_The_Message Value="1000" />
+    <!-- [Interger 0 to infinite] (meters) -->
+    <Show_Horde_Direction Value="0" />
+    <!-- [Interger 0 to 3] -->
+    <Show_Horde_Distance Value="0" />
+    <!-- [Interger 0 or 1] -->
+  </type>
+  <type name="Messages">
+    <Show_Message_At_Player_Connection Value="1" />
+    <!-- [Interger 0 or 1] -->
+    <Show_Message_Player_Kills_Master Value="1" />
+    <!-- [Interger 0 or 1] -->
+    <Show_Additional_Informations_For_Admins Value="4" />
+    <!-- [Interger 0 to 4] -->
+    <Player_Connection_Message Value="_______________ Press NUMPAD_0 to hunt the Master ______________ __________________ ( Be careful he is BulletProof! ) __________________" />
+    <!-- [Text] -->
+    <Horde_Direction_Prefix_Message Value="" />
+    <!-- [Text] -->
+    <The_Horde_Is_Too_Close_Message Value="It's close!" />
+    <!-- [Text] -->
+    <No_Horde_Message Value="No Horde Detected" />
+    <!-- [Text] -->
+    <Killed_By_Message Value=" killed by -- " />
+    <!-- [Text] -->
+    <Killed_With_Message Value=" -- with " />
+    <!-- [Text] -->
+    <Master_Is_Bulletproof_Message Value="THE MASTER IS BULLETPROOF!" />
+    <!-- [Text] -->
+    <Position_Of_The_Message_Box_Horizontal Value="0.385" />
+    <!-- Decimal recommended value between -0.385 (left) and 0.385 (right) -->
+    <Position_Of_The_Message_Box_Vertical Value="-0.445" />
+    <!-- Decimal recommended value between -0.445 (up) and 0.445 (down) -->
+  </type>
+  <type name="NewFeatures">
+    <Position_Of_The_Message_Box_Horizontal_With_NVG Value="0.21" />
+    <!-- Decimal -->
+    <Position_Of_The_Message_Box_Vertical_With_NVG Value="-0.39" />
+    <!-- Decimal -->
+  </type>
+</types>

@@ -1,10 +1,10 @@
 {
-    "m_Version": 10,
+    "m_Version": 11,
     "AccuracyMin": 0.30000001192092898,
     "AccuracyMax": 0.44999998807907107,
     "ThreatDistanceLimit": 1000.0,
     "NoiseInvestigationDistanceLimit": 500.0,
-    "DamageMultiplier": 0.50,
+    "DamageMultiplier": 0.5,
     "DamageReceivedMultiplier": 1.0,
     "Admins": [
         "76561197973441834"
@@ -17,6 +17,8 @@
     "CanRecruitFriendly": 1,
     "CanRecruitGuards": 1,
     "PreventClimb": [],
+    "ExcludedRoamingLocations": [],
+    "ExcludedRoamingBuildings": [],
     "PlayerFactions": [
         "West"
     ],

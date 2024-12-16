@@ -1,0 +1,32 @@
+===================================== Help_Zombies_List.xml =====================================
+
+"NightTime_Master"
+	The class name of the Night master.
+	
+"NightTime_Zombie"
+	The Class name of the Night zombies.
+	One class per line.
+	
+Same thing for "DayTime_Master" and "DayTime_Zombie"
+
+-------------------------------------------------------------------------------------------------
+
+Note that you can easily disable / enable zombies from the list by commenting the line.
+If you use a text editor like notepad++ you can use "ctrl+Q" shortcut to do that.
+
+Each line have to be commented, not a group of line:
+	<!-- <DayTime_Zombie		Name="ZmbM_HermitSkinny_Beige"/> -->
+	<!-- <DayTime_Zombie		Name="ZmbM_HermitSkinny_Black"/> -->
+	<!-- <DayTime_Zombie		Name="ZmbM_HermitSkinny_Green"/> -->
+	<!-- <DayTime_Zombie		Name="ZmbM_HermitSkinny_Red"/> -->
+		==> OK
+		
+	<!-- <DayTime_Zombie		Name="ZmbM_HermitSkinny_Beige"/>
+		 <DayTime_Zombie		Name="ZmbM_HermitSkinny_Black"/>
+		 <DayTime_Zombie		Name="ZmbM_HermitSkinny_Green"/>
+		 <DayTime_Zombie		Name="ZmbM_HermitSkinny_Red"/> -->
+		==> NOT OK
+			
+Don't worry "ctrl+Q" will comment each line you select at once (you don't have to comment them one by one)
+
+=====================================================================================================

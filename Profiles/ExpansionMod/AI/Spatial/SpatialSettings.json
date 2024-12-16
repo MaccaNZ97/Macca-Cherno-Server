@@ -1,7 +1,7 @@
 {
   "Version": 20,
-  "Spatial_MinTimer": 10,
-  "Spatial_MaxTimer": 20,
+  "Spatial_MinTimer": 15.00,
+  "Spatial_MaxTimer": 30.00,
   "MinDistance": 140,
   "MaxDistance": 220,
   "HuntMode": 2,
@@ -33,7 +33,7 @@
   "Spatial_InOwnTerritory": 1,
   "Group": [
     {
-      "Spatial_MinCount": 2,
+      "Spatial_MinCount": 1,
       "Spatial_MaxCount": 2,
       "Spatial_Weight": 200.0,
       "Spatial_Loadout": "WestLoadout.json",
@@ -47,8 +47,8 @@
     },
     {
       "Spatial_MinCount": 1,
-      "Spatial_MaxCount": 3,
-      "Spatial_Weight": 300.0,
+      "Spatial_MaxCount": 2,
+      "Spatial_Weight": 0.15,
       "Spatial_Loadout": "banditloadout.json",
       "Spatial_Faction": "Shamans",
       "Spatial_Name": "Group Bandit Patrol",
@@ -59,9 +59,9 @@
       "Spatial_UnlimitedReload": 1
     },
     {
-      "Spatial_MinCount": 2,
-      "Spatial_MaxCount": 3,
-      "Spatial_Weight": 350.0,
+      "Spatial_MinCount": 1,
+      "Spatial_MaxCount": 2,
+      "Spatial_Weight": 0.15,
       "Spatial_Loadout": "banditloadout.json",
       "Spatial_Faction": "Shamans",
       "Spatial_Name": "Group Bandit Patrol",
@@ -81,7 +81,7 @@
         "UmbrellaLoadout556.json"
       ],
       "Spatial_MinCount": 2,
-      "Spatial_MaxCount": 3,
+      "Spatial_MaxCount": 2,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
@@ -102,8 +102,8 @@
       "Spatial_ZoneLoadout": [
         "UmbrellaCorpSMG.json"
       ],
-      "Spatial_MinCount": 2,
-      "Spatial_MaxCount": 3,
+      "Spatial_MinCount": 1,
+      "Spatial_MaxCount": 2,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
@@ -124,8 +124,8 @@
       "Spatial_ZoneLoadout": [
         "UmbrellaCorpSMG.json"
       ],
-      "Spatial_MinCount": 2,
-      "Spatial_MaxCount": 3,
+      "Spatial_MinCount": 1,
+      "Spatial_MaxCount": 2,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
@@ -146,7 +146,7 @@
       "Spatial_ZoneLoadout": [
         "UmbrellaCorpak101.json"
       ],
-      "Spatial_MinCount": 2,
+      "Spatial_MinCount": 1,
       "Spatial_MaxCount": 3,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
@@ -169,7 +169,7 @@
         "UmbrellaCorpSMG.json"
       ],
       "Spatial_MinCount": 2,
-      "Spatial_MaxCount": 3,
+      "Spatial_MaxCount": 2,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
@@ -190,8 +190,8 @@
       "Spatial_ZoneLoadout": [
         "NBCFullLoadout.json"
       ],
-      "Spatial_MinCount": 4,
-      "Spatial_MaxCount": 5,
+      "Spatial_MinCount": 2,
+      "Spatial_MaxCount": 2,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
@@ -212,8 +212,8 @@
       "Spatial_ZoneLoadout": [
         "NBCFullLoadout.json"
       ],
-      "Spatial_MinCount": 4,
-      "Spatial_MaxCount": 6,
+      "Spatial_MinCount": 2,
+      "Spatial_MaxCount": 3,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
@@ -234,8 +234,8 @@
       "Spatial_ZoneLoadout": [
         "NBCFullLoadout.json"
       ],
-      "Spatial_MinCount": 3,
-      "Spatial_MaxCount": 5,
+      "Spatial_MinCount": 2,
+      "Spatial_MaxCount": 4,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
@@ -300,8 +300,8 @@
       "Spatial_ZoneLoadout": [
         "UmbrellaCorp.json"
       ],
-      "Spatial_MinCount": 2,
-      "Spatial_MaxCount": 3,
+      "Spatial_MinCount": 1,
+      "Spatial_MaxCount": 2,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
@@ -322,8 +322,8 @@
       "Spatial_ZoneLoadout": [
         "UmbrellaCorp.json"
       ],
-      "Spatial_MinCount": 2,
-      "Spatial_MaxCount": 3,
+      "Spatial_MinCount": 1,
+      "Spatial_MaxCount": 2,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
@@ -345,7 +345,7 @@
         "UmbrellaCorp.json"
       ],
       "Spatial_MinCount": 2,
-      "Spatial_MaxCount": 4,
+      "Spatial_MaxCount": 2,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
@@ -367,7 +367,7 @@
         "UmbrellaCorp.json"
       ],
       "Spatial_MinCount": 2,
-      "Spatial_MaxCount": 4,
+      "Spatial_MaxCount": 2,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
@@ -388,8 +388,8 @@
       "Spatial_ZoneLoadout": [
         "UmbrellaCorp.json"
       ],
-      "Spatial_MinCount": 2,
-      "Spatial_MaxCount": 4,
+      "Spatial_MinCount": 0,
+      "Spatial_MaxCount": 2,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
@@ -411,7 +411,7 @@
         "NBCFullLoadout.json"
       ],
       "Spatial_MinCount": 2,
-      "Spatial_MaxCount": 4,
+      "Spatial_MaxCount": 3,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,
@@ -424,28 +424,6 @@
         339.843994,
         14666.4004
       ]
-    },
-    {
-      "Spatial_Name": "Sklaist Upper Mil",
-      "Spatial_Safe": 0,
-      "Spatial_Radius": 100,
-      "Spatial_ZoneLoadout": [
-        "Blacks_Alpha_Loadout.json"
-      ],
-      "Spatial_MinCount": 1,
-      "Spatial_MaxCount": 1,
-      "Spatial_HuntMode": 6,
-      "Spatial_Faction": "Shamans",
-      "Spatial_Lootable": 1,
-      "Spatial_Chance": 0.80,
-      "Spatial_MinAccuracy": 0.5,
-      "Spatial_MaxAccuracy": 0.70,
-      "Spatial_UnlimitedReload": 1,
-      "Spatial_Position": [
-        13953.7998,
-        22.8050995,
-        2847.54004
-      ]
     }
   ],
   "Location": [
@@ -453,8 +431,8 @@
       "Spatial_Name": "Tisy Snipers",
       "Spatial_TriggerRadius": 250.0,
       "Spatial_ZoneLoadout": "NBCFullLoadout.json",
-      "Spatial_MinCount": 3,
-      "Spatial_MaxCount": 5,
+      "Spatial_MinCount": 1,
+      "Spatial_MaxCount": 3,
       "Spatial_HuntMode": 1,
       "Spatial_Faction": "Shamans",
       "Spatial_Lootable": 1,

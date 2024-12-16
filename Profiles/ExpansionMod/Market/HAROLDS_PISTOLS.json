@@ -1,0 +1,91 @@
+{
+  "m_Version": 12,
+  "DisplayName": "HAROLDS PISTOLS",
+  "Icon": "Deliver",
+  "Color": "00FF40FF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ha_w_alien",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazines_glock_33rnd",
+        "ha_suppressor_pistol_covered_black",
+        "ha_suppressor_pistol_covered_green",
+        "ha_suppressor_pistol_covered_pink",
+        "ha_suppressor_pistol_covered_red",
+        "ha_suppressor_pistol_covered_tan"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ha_w_berettam9",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazines_berettam9_15rnd",
+        "ha_suppressor_pistol_covered_black"
+      ],
+      "Variants": [
+        "ha_w_berettam9_dark"
+      ]
+    },
+    {
+      "ClassName": "ha_w_glock_18",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazines_glock_33rnd",
+        "ha_suppressor_pistol_covered_black",
+        "ha_g9carbine_nude"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ha_w_kimber1911",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazines_kimber1911_15rnd",
+        "ha_suppressor_pistol_covered_black"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ha_w_sgp320",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazines_glock_33rnd",
+        "ha_suppressor_pistol_covered_black",
+        "expansionreflexmrsoptic"
+      ],
+      "Variants": [
+        "ha_w_sgp320_olive",
+        "ha_w_sgp320_tan"
+      ]
+    }
+  ]
+}

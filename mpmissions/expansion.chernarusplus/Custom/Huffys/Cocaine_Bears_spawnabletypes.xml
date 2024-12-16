@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+  <type name="Animal_HMG_Bear_Cocaine_T0">
+    <cargo preset="DNAKeyCards" />
+  </type>
+  <type name="Animal_HMG_Bear_Cocaine_T1">
+    <cargo preset="DNAKeyCards" />
+  </type>
+  <type name="Animal_HMG_Bear_Cocaine_T2">
+    <cargo preset="DNAKeyCards" />
+  </type>
+  <type name="Animal_HMG_Bear_Cocaine_T3">
+    <cargo preset="DNAKeyCards" />
+  </type>
+  <type name="Animal_HMG_Bear_Cocaine_T4">
+    <cargo preset="DNAKeyCards" />
+  </type>
+  <type name="Animal_HMG_Bear_Cocaine_T5">
+    <cargo preset="DNAKeyCards" />
+  </type>
+  <type name="Animal_HMG_Bear_Cocaine_Vanilla">
+    <cargo preset="DNAKeyCards" />
+  </type>
+</spawnabletypes>

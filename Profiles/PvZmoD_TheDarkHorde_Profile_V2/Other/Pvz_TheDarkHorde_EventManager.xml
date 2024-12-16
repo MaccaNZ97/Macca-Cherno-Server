@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>	
+	<type name="Global_Options">        
+        <Activate_Namalsk_Event_System		Value="0"/> 	<!-- [Integer 0 or 1] -->
+        <Activate_Custom_Event_System		Value="0"/> 	<!-- [Integer 0 or 1] -->
+    </type>
+	
+	<type name="Horde_Characteristics"> 
+        <Horde_Spawn_Timer		Value="0"/> 	<!-- [Decimal 0.0 to Infinity] (Seconds) -->
+        <Horde_Lifetime			Value="0"/> 	<!-- [Decimal 0.0 to Infinity] (Minutes) -->
+        <Horde_Created_Or_Teleported_Only_If_At_Least_One_Player_Is_Teleported			Value="1"/> 	<!-- [Integer 0 or 1] -->
+    </type>
+	
+	<type name="Teleport_The_Horde"> 
+        <Teleport_The_Horde_To_An_Empty_Place		Value="1"/>								<!-- [Integer 0 or 1] -->
+        <Teleport_Zone_Limits						Coords_TopLeft_Corner = "1600/12000"	Coords_LowerRight_Corner = "9400/4800"/> <!-- [Integer/Integer] (Coordinates, no spaces)-->
+		<Allowed_Terrain_Heights					Minimum="10"		Maximum="1000"/>	<!-- [Decimal 0.0 to Infinity] (meters) -->
+		<Minimum_Distance_To_Non_Teleported_Players Value="500"/>							<!-- [Decimal 0.0 to Infinity] (meters) -->
+    </type>
+	
+	<type name="Players_Teleportation_Distances">        
+        <Distance_To_The_Horde				Minimum="200" 	Maximum="250"/> 	<!-- [Decimal 0.0 to Infinity] (meters) -->
+        <Distance_To_The_Other_Players		Minimum="20"/> 						<!-- [Decimal 0.0 to Infinity] (meters) -->
+    </type>
+	
+	<type name="Teleport_Players_During_Namalsk_EVR_Storm">        
+        <Teleport_The_Players_Jumping_In_The_Anomalie		Value="1"/> 	<!-- [Integer 1 or 0] -->
+        <Teleport_All_Players								Value="0"/> 	<!-- [Integer 1 or 0] -->
+		
+        <Teleport_Players_Who_Are_In_A_Safe_Location		Value="0"/> 	<!-- [Integer -1 or 0 or 1]  -->
+        <Teleport_Players_Who_Are_Not_In_A_Safe_Location	Value="0"/> 	<!-- [Integer -1 or 0 or 1]  -->
+		
+        <Teleport_The_Players_Wearing_An_Apsi				Value="0"/> 	<!-- [Integer -1 or 0 or 1]  -->
+        <Teleport_The_Players_Not_Wearing_An_Apsi			Value="0"/> 	<!-- [Integer -1 or 0 or 1]  -->
+    </type>
+	
+	<type name="Avoid_Player_Bases">        
+        <Items_To_Identify_Bases		List="WoodenCrate,TerritoryFlag" /> 				<!-- Class names, comma between each one, no space -->
+        <Minimum_Distance_From_Bases_To_Spawn_The_Horde		Value="100" /> 	<!-- [Decimal 0.0 to Infinity] (meters) -->
+        <Minimum_Distance_From_Bases_To_Spawn_The_Player	Value="50"/> 	<!-- [Decimal 0.0 to Infinity] (meters) -->
+    </type>
+
+	<type name="Other_Options">        
+        <Black_Screen_Timer				For_Namalsk_EVR_Storm_Event="3"		For_Custom_Event="3" /> <!-- [Decimal 0.0 to Infinity] (Seconds) -->
+        <Invincibility_Timer			For_Namalsk_EVR_Storm_Event="3"		For_Custom_Event="3" /> <!-- [Decimal 0.0 to Infinity] (Seconds) -->
+        <Teleport_Players_On_Connection	Value="0" /> 						<!-- [Integer 1 or 0] -->
+        <Teleport_Players_On_Respawn	Value="0" /> 						<!-- [Integer 1 or 0] -->
+    </type>
+	
+	<type name="New_Features">  
+    </type>
+</types>

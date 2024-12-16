@@ -1,0 +1,204 @@
+=================================== Pvz_TheDarkHorde_EventManager.xml ===================================
+
+---------------------------------------------------------------------------------------------------------
+											----- "Global_Options" -----
+---------------------------------------------------------------------------------------------------------
+"Activate_Namalsk_Event_System"
+	[Integer 0 or 1]
+	0: Deactivated.
+	1: Activated.
+	When activated the features from "Teleport_Players_During_Namalsk_EVR_Storm" section are used.
+	
+"Activate_Custom_Event_System"
+	[Integer 0 or 1]
+	0: Deactivated.
+	1: Activated.
+	When activated the functions StartEventForAllPlayers or TriggerTheHorde or TeleportPlayer can be called.
+	You can find more informations here: https://steamcommunity.com/workshop/filedetails/discussion/2007900691/3112521650145773620/.
+	
+Note that "Activate_Namalsk_Event_System" and "Activate_Custom_Event_System" can't be activated at the same time.
+If both are set to 1 the horde event will not be trigger.
+	
+---------------------------------------------------------------------------------------------------------
+											----- "Horde_Characteristics" -----
+---------------------------------------------------------------------------------------------------------
+"Horde_Spawn_Timer"
+	[Decimal 0.0 to Infinity] (Seconds)
+	This value is only used if "Teleport_The_Horde_To_An_Empty_Place" feature is activated.
+	It is the time between the event activation and the teleportation of the horde.
+	It is useful if you want to teleport players (or do something else) before teleport the horde.
+	Note that if you use the Namalsk event you can let the value to 0, the horde will be teleported the end of the storm.
+	
+"Horde_Lifetime"
+	[Decimal 0.0 to Infinity] (Minutes)
+	If not set to 0 the horde will only spawn when the event is trigger and will disappear after this timer (or if players defeat it).
+	
+"Horde_Created_Or_Teleported_Only_If_At_Least_One_Player_Is_Teleported"
+	[Integer 0 or 1]
+	0: Deactivated.
+	1: Activated.
+	In case of "Teleport_The_Horde_To_An_Empty_Place" is set to 1, the horde will be teleported  only if at least one player have been teleported.
+	Or in case the "Horde_Lifetime" is superior to 0 the horde will be created only if at least one player have been teleported.
+	
+---------------------------------------------------------------------------------------------------------
+								----- "Teleport_The_Horde" -----
+---------------------------------------------------------------------------------------------------------
+With this section you can teleport the horde when the event is activated.
+It is useful if you want that only teleported players fight the horde.
+
+"Teleport_The_Horde_To_An_Empty_Place"
+	[Integer 0 or 1]
+	0: Deactivated.
+	1: Activated.
+	If set to 1 the horde will be teleport in an empty place far from players and far from players bases.
+	
+"Teleport_Zone_Limits"
+	[Integer/Integer] (Coordinates, no spaces)
+	The limits of the area in which the horde can be teleported.
+	
+"Allowed_Terrain_Heights"
+	[Decimal 0.0 to Infinity] (meters)
+	The minimum and maximum terrain height in which the horde can be teleported.
+	Useful to avoid (or force) the horde to teleport on Namalsk ice floe.
+	
+"Minimum_Distance_To_Non_Teleported_Players"
+	[Decimal 0.0 to Infinity] (meters)
+	Useful to avoid the horde to be teleport too close to players.
+	Note that does not concern the teleported players (look at the next section for them).
+
+---------------------------------------------------------------------------------------------------------
+								----- "Players_Teleportation_Distances" -----
+---------------------------------------------------------------------------------------------------------
+
+"Distance_To_The_Horde"
+	[Decimal 0.0 to Infinity] (meters)
+	Minimum and maximum distance to the horde. 
+	Useful to avoid players been teleported to close (or too far) from the horde.
+	If players are teleported before the horde (because of "Horde_Spawn_Timer") don't worry this distance is calculated from the finale horde location.
+	
+"Distance_To_The_Other_Players"
+	[Decimal 0.0 to Infinity] (meters)
+	Useful to avoid players been teleported too close to other players.
+	Note that the system begin by trying to spawn the players far from the other (300m then 200m...) and if no available place is found, finish with the value set here. 
+	It is just to say you don't need to set a large value here, it is only the last security distance when no place is found far from the other players.
+	
+---------------------------------------------------------------------------------------------------------
+								----- "Teleport_Players_During_Namalsk_EVR_Storm" -----
+---------------------------------------------------------------------------------------------------------
+This section is only usable if the Namalsk Survival mod is used (being on Namalsk Island or another map).
+Note that players in vehicles are never teleported (because it leads to bugs and too weird situations).
+
+"Teleport_The_Players_Jumping_In_The_Anomalie"
+	[Integer 0 or 1]
+	0: Deactivated.
+	1: Activated.
+	Only players that jumps in the anomalie are teleported.
+
+"Teleport_All_Players"
+	[Integer 0 or 1]
+	0: Deactivated.
+	1: Activated.
+	If activated, all players will be teleported.
+-------------------------------------------------
+"Teleport_Players_Who_Are_In_A_Safe_Location"
+	[Integer -1 or 0 or 1]
+	-1: Exclude.
+	0: Don't care.
+	1: Include.
+	Affects players that are in a safe location (the places where you don't take damage at the end of the storm).
+
+"Teleport_Players_Who_Are_Not_In_A_Safe_Location"
+	[Integer -1 or 0 or 1]
+	-1: Exclude.
+	0: Don't care.
+	1: Include.
+	Affects players that are NOT in a safe location (the places where you take damages at the end of the storm).
+
+"Teleport_The_Players_Wearing_An_Apsi"
+	[Integer -1 or 0 or 1]
+	-1: Exclude.
+	0: Don't care.
+	1: Include.
+	Affects players wearing an Apsi helmet (the helmet have to be activated).
+
+"Teleport_The_Players_Not_Wearing_An_Apsi"
+	[Integer -1 or 0 or 1]
+	-1: Exclude.
+	0: Don't care.
+	1: Include.
+	Affects players NOT wearing an Apsi helmet (or if the helmet is not activated)
+
+With this options the system can make a list of players that will be teleported near the horde during EVR Namalsk storm.
+If "Include" (1) is selected the players that meet the condition will be added to the teleported players list.
+If "Exclude" (-1) is selected the players that meet the condition will be Remove from the teleported players list even if they are "included" by another condition.
+If "Don't care" (0) is selected the condition will not be checked (this condition will not add or remove players from the teleported players list).
+
+Example : If you want all players that are "not in a safe location" and that are "not wearing an Apsi helmet" to be teleported
+"Teleport_Players_Who_Are_In_A_Safe_Location" 		: 0  (don't care)
+"Teleport_Players_Who_Are_Not_In_A_Safe_Location"	: 1  (include)
+"Teleport_The_Players_Wearing_An_Apsi"				: -1 (exclude)
+"Teleport_The_Players_Not_Wearing_An_Apsi"			: 0  (don't care)
+
+Note 1: If "Teleport_All_Players" option is activated, the system will not check the safe location and the Apsi, it will always teleport all players.
+
+Note 2: If "Teleport_Players_Jumping_In_The_Anomalie" option is activated, these players will always be teleported when jumping regardless of the other conditions settings.
+
+---------------------------------------------------------------------------------------------------------
+								----- "Avoid_Player_Bases" -----
+---------------------------------------------------------------------------------------------------------
+This section allows to not teleport the horde or the players too close to players bases.
+
+"Items_To_Identify_Bases"
+	[ClassNames] (comma between each one, no spaces)
+	This object list allow to identify where the players bases are. 
+	I advice to not use fences or walls because the system don't make difference between finished and unfinished fence or wall.
+	I advice to not use barrel or tents because it can spawn anywhere.
+	I think something like "WoodenCrate" is a good choice because it is a craftable item (low chance to find it outside a base) and easy to do (all base should have at least one).
+
+"Minimum_Distance_From_Bases_To_Spawn_The_Horde"
+	[Decimal 0.0 to Infinity] (meters)
+	This is useful if "Teleport_The_Horde_To_An_Empty_Place" is set to 1.
+	
+"Minimum_Distance_From_Bases_To_Spawn_The_Player"
+	[Decimal 0.0 to Infinity] (meters)
+	If set too low a player can be teleported inside someone else base.
+
+---------------------------------------------------------------------------------------------------------
+								----- "Other_Options" -----
+---------------------------------------------------------------------------------------------------------
+"Black_Screen_Timer"
+	[Decimal 0.0 to Infinity] (Seconds)
+	When a player is teleported he can see through walls and trees during few seconds.
+	This feature displays a black screen to avoid that.
+	You can select diferente timer for Namalsk EVR storm teleportation and custom teleportation (because maybe Sumrak will fiw that his side at some point)
+
+"Invincibility_Timer"
+	[Decimal 0.0 to Infinity] (Seconds)
+	If you chose to show a black screen during teleportation, adding an invincibility timer can be a good idea to avoid players been killed without being able to defend themself.
+	You can select diferente timer for Namalsk EVR storm teleportation and custom teleportation.
+	
+"Teleport_Players_On_Connection"
+	[Integer 0 or 1]
+	0: Deactivated.
+	1: Activated.
+	If activated the players will be teleport near the horde when they connect.
+	It can be funny for community events for example but not really appropriate for daily gameplay.
+	You DON'T NEED to "Activate_Custom_Event_System", so you can use it with Namalsk EVR storm too.
+	
+"Teleport_Players_On_Respawn"
+	[Integer 0 or 1]
+	0: Deactivated.
+	1: Activated.
+	If activated the players will be teleport near the horde when they respawn after they died.
+	It can be funny for refresh the early game.
+	You DON'T NEED to "Activate_Custom_Event_System", so you can use it with Namalsk EVR storm too.
+	More information here: https://steamcommunity.com/workshop/filedetails/discussion/2007900691/3112521650145769478/
+	
+---------------------------------------------------------------------------------------------------------
+								----- "NewFeatures" -----
+---------------------------------------------------------------------------------------------------------
+In this section I will add new features settings. You can move them in the section you want.
+Just don't change the name of the variable and keep it in the same file.
+
+=========================================================================================================
+	

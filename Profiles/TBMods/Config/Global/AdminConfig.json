@@ -1,5 +1,5 @@
 {
-    "version": "8",
+    "version": "9",
     "isInitialized": 1,
     "admins": {
         "Add here Steam Or DayZ ID": {
@@ -11,6 +11,7 @@
             "secondHandMarket": 0,
             "revivePlayer": 0,
             "jewelsOfSurvival": 0,
+            "warParty": 0,
             "playerId": "Add here Steam Or DayZ ID"
         }
     }

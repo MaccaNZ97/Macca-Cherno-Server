@@ -209,7 +209,7 @@
       "SlotName": "Body",
       "Items": [
         {
-          "ClassName": "TCP_UmbrellaJacket",
+          "ClassName": "NBCJacketYellow",
           "Chance": 1,
           "Quantity": {
             "Min": 0,
@@ -233,7 +233,7 @@
       "SlotName": "Legs",
       "Items": [
         {
-          "ClassName": "TCP_UmbrellaPants",
+          "ClassName": "NBCPantsYellow",
           "Chance": 1,
           "Quantity": {
             "Min": 0,
@@ -257,7 +257,7 @@
       "SlotName": "Feet",
       "Items": [
         {
-          "ClassName": "TCP_UmbrellaBoots",
+          "ClassName": "NBCBootsYellow",
           "Chance": 1,
           "Quantity": {
             "Min": 0,
@@ -305,7 +305,7 @@
       "SlotName": "Gloves",
       "Items": [
         {
-          "ClassName": "TCP_UmbrellaGloves",
+          "ClassName": "NBCGlovesYellow",
           "Chance": 1,
           "Quantity": {
             "Min": 0,

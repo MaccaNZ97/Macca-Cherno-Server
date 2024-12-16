@@ -5,7 +5,7 @@
       <item name="TF_MICH2000Helmet_Black" chance="1" />
       <item name="TF_6B23Vest_EMR" chance="1" />
     </attachments>
-    <cargo preset="mixArmy" />
+    <cargo preset="CJ_Key10" />
     <cargo preset="RedHigh" />
     <cargo preset="CustomKeycards" />
   </type>
@@ -20,17 +20,21 @@
   <type name="CDAJ_ZmbM_LostInfected">
     <cargo preset="YellowLow" />
     <cargo preset="foodArmy" />
+    <cargo preset="CustomKeycards" />
   </type>
   <type name="CDAJ_ZmbM_Mutant">
     <cargo preset="YellowLow" />
     <cargo preset="mixArmy" />
+    <cargo preset="CustomKeycards" />
   </type>
   <type name="CDAJ_ZmbM_Mutant_Bloody">
     <cargo preset="CustomKeycards" />
     <cargo preset="YellowHigh" />
+    <cargo preset="CustomKeycards" />
   </type>
   <type name="CDAJ_ZmbM_Mutant_Pale">
     <cargo preset="YellowHigh" />
     <cargo preset="YellowLow" />
+    <cargo preset="CustomKeycards" />
   </type>
 </spawnabletypes>

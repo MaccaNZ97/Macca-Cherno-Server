@@ -1,0 +1,69 @@
+============================================= Help_Debug.xml ============================================
+
+---------------------------------------------------------------------------------------------------------
+											----- "Debug" -----
+---------------------------------------------------------------------------------------------------------
+"Show_Debug_Messages"
+	[Integer 0 or 1]
+	0: Deactivated.
+	1: Activated.
+	When activated additional red messages are displayed to help debugging.
+	Note that when activated the debug system consume some server resource so I advice to disable it when you don't need it.
+	
+"Use_Debug_Fog_Blue_Color"
+	[Integer 0 or 1]
+	0: Deactivated.
+	1: Activated.
+	When activated the horde fog become semi transparent blue making more easy to see what happen in the horde.
+	
+---------------------------------------------------------------------------------------------------------
+											----- "Test_Zone" -----
+---------------------------------------------------------------------------------------------------------
+"Activate_Test_Zone"
+	[Integer 0 or 1]
+	0: Deactivated.
+	1: Activated.
+	When activated the horde will stay in the defined (see below) zone.
+	Note that only works on deplacement types that use random movement (not waypoint or custom zones for example)
+	This feature is useful to tweak the horde, you don't have to search for it each time it spawns.
+	
+"Test_Zone_Limits"
+	[Integer 0 to terrain limits]
+	It the coordinates of the test zones defined by its UpLeft and LowRight Corners.
+	
+---------------------------------------------------------------------------------------------------------
+								----- "Teleport_Players_On_Horde_Creation" -----
+---------------------------------------------------------------------------------------------------------
+This section teleport the players near the horde when it spawns.
+It can be useful for debugging (don't need to search the horde) or maybe for events.
+
+"Relative_Position_Of_The_Players"
+	[Integer 0 to terrain limits] (meters) 
+	If set "100/200" the player will spawn 100 meters at the east and 200 meters at the north of the horde
+	
+"Timer_Before_Teleporting_Players"
+	[Integer 0 to infinite] (seconds)
+	Time before the player is teleported to the chosen relative coordinates.
+	
+"Number_Of_The_Horde_On_Which_To_Teleport"
+	[Integer 0 to Number of hordes]
+	Choose the horde on which the players will be teleported (see below) 
+	
+---------------------------------------------------------------------------------------------------------
+											----- "Other_Tests" -----
+---------------------------------------------------------------------------------------------------------
+"Number_Of_Hordes"
+	[Integer 0 to Infinity]
+	Yes you can spawn multiple hordes! 
+	BUT :
+		This feature has not been fully tested.
+		It is not really adapted for all movement types.
+		All hordes will use the same movement type.
+		Can lead to server or client performance problems.
+		Can lead to unfair situations for players.
+	So you can use it but at your own risk.
+	Note that I'm not sure to develop further this feature because it is a lot of work to make it really stable.
+	So no promise, no ETA (but I let the feature if you want to have fun).
+	
+=========================================================================================================
+	

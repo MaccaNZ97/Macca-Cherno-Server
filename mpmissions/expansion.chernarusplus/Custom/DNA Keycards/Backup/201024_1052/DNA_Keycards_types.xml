@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="DNA_Crate_Purple">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>100</restock>
+    <min>5</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier4" />
+  </type>
+  <type name="DNA_Crate_Red">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_Crate_Yellow">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="containers" />
+  </type>
+  <type name="DNA_KeyCard_blue_Inactive">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>5</restock>
+    <min>5</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier3" />
+  </type>
+  <type name="DNA_KeyCard_green_Inactive">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>5</restock>
+    <min>5</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="DNA_KeyCard_Purple_inactive">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>5</restock>
+    <min>5</min>
+    <quantmin>2</quantmin>
+    <quantmax>4</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="DNA_KeyCard_Red">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_Red_Inactive">
+    <nominal>2</nominal>
+    <lifetime>28800</lifetime>
+    <restock>5</restock>
+    <min>2</min>
+    <quantmin>1</quantmin>
+    <quantmax>4</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <value name="Tier5" />
+  </type>
+  <type name="DNA_KeyCard_Yellow">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_Yellow_Inactive">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>5</restock>
+    <min>5</min>
+    <quantmin>1</quantmin>
+    <quantmax>1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="ContaminatedArea" />
+    <usage name="Military" />
+    <usage name="Prison" />
+    <tag name="floor" />
+    <tag name="ground" />
+    <tag name="shelves" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="DNA_KeyCard_Blank">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_Blue_Unprogrammed">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_Error">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_Green_Unprogrammed">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_Orange_Unprogrammed">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_Purple_Unprogrammed">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_Red_Unprogrammed">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_Yellow_Unprogrammed">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_Blue">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_Green">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_Orange">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_Purple">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_BlisterPackChip_Blue">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+  </type>
+  <type name="DNA_KeyCard_BlisterPackChip_Green">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="DNA_KeyCard_BlisterPackChip_Orange">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+  </type>
+  <type name="DNA_KeyCard_BlisterPackChip_Purple">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+  </type>
+  <type name="DNA_KeyCard_BlisterPackChip_Red">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+  </type>
+  <type name="DNA_KeyCard_BlisterPackChip_Yellow">
+    <nominal>0</nominal>
+    <lifetime>14400</lifetime>
+    <restock>100</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+  </type>
+  <type name="DNA_KeyCard_BlisterPackChipEmpty">
+    <lifetime>300</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_KeyCardChip_Blue">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_KeyCardChip_Burnt">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_KeyCardChip_Green">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_KeyCardChip_Orange">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_KeyCardChip_Purple">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_KeyCardChip_Red">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+  <type name="DNA_KeyCard_KeyCardChip_Yellow">
+    <lifetime>14400</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+</types>

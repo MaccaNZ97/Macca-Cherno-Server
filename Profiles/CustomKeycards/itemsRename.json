@@ -1,0 +1,15 @@
+{
+    "Enabled": 0,
+    "ItemRenames": [
+        {
+            "ItemClassName": "evg_keycards_Blue",
+            "ItemNewName": "Cool Blue Keycard",
+            "ItemNewDescription": "Blue Keycard from Cool Keycard Door near Zelenogorsk!"
+        },
+        {
+            "ItemClassName": "evg_keycards_Tisy02",
+            "ItemNewName": "#CK_KEYCARD_TISY02_NAME",
+            "ItemNewDescription": "#CK_KEYCARD_TISY02_DESC"
+        }
+    ]
+}

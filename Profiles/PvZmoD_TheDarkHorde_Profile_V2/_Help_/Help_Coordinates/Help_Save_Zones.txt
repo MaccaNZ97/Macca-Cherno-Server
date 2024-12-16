@@ -1,0 +1,58 @@
+===================================== Pvz_TheDarkHorde_SafeZones.xml =====================================
+
+I advice to create safe zones for each trader and each underground areas.
+
+---------------------------------------------------------------------------------------------------------
+									----- "Global_Safe_Zones_Options" -----
+---------------------------------------------------------------------------------------------------------
+"Global_Activation"
+	[Interger 0 or 1]
+	0: Deactivate all safe zones at once
+	1: Activate the safe zones that have their "Activated" value set to 1
+	
+"Teleport_Distance_When_Entering_Safe_Zone"
+	[Integer 10 to Infinity] (meters)
+	It is the distance on which the horde is teleported when enter the safe zone
+Don't lower too much this value especially if the horde move fast because the system will not work correctly
+	
+"Security_Distance_To_Players"
+	[Integer 10 to Infinity] (meters)
+	This value avoid the horde to be teleported too close to a player
+	
+"Also_Count_Players_In_Safe_Zone_To_Trigger_Hunting_Mod"
+	[true or false]
+	Feature only useful if "hunting" movement type (6) is activated.
+	It is related to "Pvz_TheDarkHorde_MainOptions.xml / Horde_Movements_Options / Minimum_Of_Players_To_Activate_The_Hunt" value
+	true:  if the minimum player is 10 and there is 15 player on the server including 7 players in the safe zone => the hunt will be active
+	false: if the minimum player is 10 and there is 15 player on the server including 7 players in the safe zone => the hunt will be suspended (because only 8 player are available for the hunt)
+	
+"Hunting_Mod_Can_Focus_On_Players_In_Safe_Zone"
+	[true or false]
+	Feature only useful if "hunting" movement type (6) is activated.
+	The horde can focus on player in the safe zone (if he is the nearest player)
+	but it will be teleported when it try to enter the safe zone, then it will approach the player again, will be teleported...
+	It is useful if you want to make the horde waiting the player at the safe zone exit (a kind of camping horde).
+	
+"Safe_Zone_Timer"
+	[Decimal 1.0 to Infinity] (seconds)
+	It is the refresh timer of this system.
+	Modify it only if you have problems because it can be a little bit resource consuming (especially if there is a lot of safe zones)
+	
+---------------------------------------------------------------------------------------------------------
+									----- "Horde_Main_Options" -----
+---------------------------------------------------------------------------------------------------------
+"name"
+	[Text]
+	Name the safe zone as you want
+
+"Activated"
+	[Integer 0 or 1]
+	Activate or deactivate the safe zone
+	Useful to quickly change the safe zones when you change the map
+	
+"Corner_UpperLeft" / "Corner_LowerRight"
+	[Integer/Integer]
+	Limits of the safe zone.
+
+==========================================================================================================
+	

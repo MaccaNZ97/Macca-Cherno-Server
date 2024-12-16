@@ -1,19 +1,52 @@
 {
-    "m_Version": 12,
-    "DisplayName": "HUNTING_SUPPLIES",
-    "MinRequiredReputation": 0,
-    "MaxRequiredReputation": 2147483647,
-    "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1,
-    "TraderIcon": "Questionmark",
-    "Currencies": [
-        "expansionbanknotehryvnia"
-    ],
-    "DisplayCurrencyValue": 1,
-    "DisplayCurrencyName": "",
-    "Categories": [
-        "ANIMAL PELTS:2",
-        "FISHING"
-    ],
-    "Items": {}
+  "m_Version": 12,
+  "DisplayName": "HUNTING_SUPPLIES",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "RequiredFaction": "",
+  "RequiredCompletedQuestID": -1,
+  "TraderIcon": "Questionmark",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "DisplayCurrencyValue": 1,
+  "DisplayCurrencyName": "",
+  "Categories": [
+    "FISHING",
+    "MEAT"
+  ],
+  "Items": {
+    "bearpelt": 2,
+    "cowpelt": 2,
+    "deerpelt": 2,
+    "goatpelt": 2,
+    "md_pelt_raptor": 2,
+    "md_pelt_raptoradult": 2,
+    "md_pelt_raptorb": 2,
+    "md_pelt_raptorbaby": 2,
+    "md_pelt_raptorbadult": 2,
+    "md_pelt_raptorbbaby": 2,
+    "md_pelt_raptorblue": 2,
+    "md_pelt_raptorblueadult": 2,
+    "md_pelt_raptorbluebaby": 2,
+    "md_pelt_raptoridrex": 2,
+    "md_pelt_raptoridrexadult": 2,
+    "md_pelt_raptoridrexbaby": 2,
+    "md_pelt_trex": 2,
+    "md_pelt_trexadult": 2,
+    "md_pelt_trexbaby": 2,
+    "md_pelt_trexgiant": 2,
+    "md_pelt_tricero": 2,
+    "md_pelt_triceroadult": 2,
+    "pigpelt": 2,
+    "rabbitpelt": 2,
+    "rag_dragon_head_brown": 2,
+    "rag_dragon_head_grey": 2,
+    "rag_dragon_head_orange": 2,
+    "rag_dragon_head_red": 2,
+    "rag_dragon_head_trophy": 2,
+    "rag_dragon_head_yellow": 2,
+    "sheeppelt": 2,
+    "wolfpelt": 2
+  }
 }

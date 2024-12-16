@@ -1,0 +1,39 @@
+{
+  "m_Version": 12,
+  "DisplayName": "HAROLDS LMGS",
+  "Icon": "Deliver",
+  "Color": "00FF40FF",
+  "InitStockPercent": 75,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "ha_w_m249",
+      "MaxPriceThreshold": 250000,
+      "MinPriceThreshold": 250000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_magazine_m249"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ha_w_xm250",
+      "MaxPriceThreshold": 400000,
+      "MinPriceThreshold": 400000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "ha_xm250_barrel",
+        "ha_xm250_buttstock",
+        "ha_xm250_nobarrel",
+        "ha_xm250_shroud"
+      ],
+      "Variants": []
+    }
+  ]
+}

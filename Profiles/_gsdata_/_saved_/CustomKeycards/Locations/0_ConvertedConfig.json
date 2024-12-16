@@ -1,0 +1,293 @@
+{
+    "LocationName": "NWAF",
+    "KeycardDoors": [
+        {
+            "ClassName": "evg_gate_wall2",
+            "Position": [
+                4808.25,
+                341.739990234375,
+                9883.2998046875
+            ],
+            "Orientation": [
+                107.5,
+                0.5,
+                0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 60.0,
+            "ItemsToOpen": [
+                "evg_keycards_NWAF01"
+            ],
+            "DamageToItem": 30.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "NWAF Entrance",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        },
+        {
+            "ClassName": "evg_outsideDoor_Wall1",
+            "Position": [
+                4788.97998046875,
+                342.77301025390627,
+                9895.5498046875
+            ],
+            "Orientation": [
+                61.022300720214847,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 60.0,
+            "ItemsToOpen": [
+                "evg_keycards_NWAF01"
+            ],
+            "DamageToItem": 30.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "NWAF Building 1 Blue",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        },
+        {
+            "ClassName": "evg_outsideDoor_Wall1",
+            "Position": [
+                4766.2099609375,
+                342.66900634765627,
+                9891.400390625
+            ],
+            "Orientation": [
+                150.0019989013672,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 60.0,
+            "ItemsToOpen": [
+                "evg_keycards_NWAF01"
+            ],
+            "DamageToItem": 30.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "NWAF Building 2 Green Strongroom",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        },
+        {
+            "ClassName": "evg_outsideDoor_Wall2",
+            "Position": [
+                4735.93994140625,
+                342.781005859375,
+                9904.009765625
+            ],
+            "Orientation": [
+                -117.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 60.0,
+            "ItemsToOpen": [
+                "evg_keycards_NWAF01"
+            ],
+            "DamageToItem": 30.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "NWAF Building 3 Red Strongroom",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        },
+        {
+            "ClassName": "evg_outsideDoor",
+            "Position": [
+                4764.89013671875,
+                341.5660095214844,
+                9939.759765625
+            ],
+            "Orientation": [
+                38.5,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 60.0,
+            "ItemsToOpen": [
+                "evg_keycards_NWAF01"
+            ],
+            "DamageToItem": 30.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "NWAF Staff Quarters Last Barrack Purple",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        },
+        {
+            "ClassName": "evg_outsideDoor",
+            "Position": [
+                4769.31982421875,
+                341.531005859375,
+                9933.26953125
+            ],
+            "Orientation": [
+                38.5,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 60.0,
+            "ItemsToOpen": [
+                "evg_keycards_NWAF01"
+            ],
+            "DamageToItem": 30.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "NWAF Weapon Storage 2nd Barrack Purple",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        },
+        {
+            "ClassName": "evg_outsideDoor_Wall1",
+            "Position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Orientation": [
+                61.022300720214847,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 60.0,
+            "ItemsToOpen": [
+                "evg_keycards_NWAF01"
+            ],
+            "DamageToItem": 30.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "Tisy",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        },
+        {
+            "ClassName": "evg_gate_Wall1",
+            "Position": [
+                1312.8299560546876,
+                458.56500244140627,
+                14489.2998046875
+            ],
+            "Orientation": [
+                -64.93000030517578,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "AutoCloseTime": 300.0,
+            "ItemsToOpen": [
+                "evg_keycards_Tisy01"
+            ],
+            "DamageToItem": 30.0,
+            "OpenSound": 1,
+            "ErrorSound": 1,
+            "CloseSound": 1,
+            "AlarmSound": 0,
+            "AlarmSoundSetName": "CK_KeycardAlarm_SoundSet",
+            "AlarmPositions": [
+                [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            ],
+            "Notification": 1,
+            "NotificationLocationName": "Tisy_Arena_Of_Death_Entrance",
+            "NotificationText": "Keycard Room was unlocked at %1",
+            "NotificationTime": 5,
+            "LootCrates": []
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>	
+	<type ZONE_TO_USE = "Chernarus_Full"> </type> 				<!-- [Text] -->
+	
+	<type Zone_Name="Chernarus_Full">							<!-- [Text] -->
+        <TopLeft_Corner_Coordinates		Value="200/15200"/>		<!-- [Integer/Integer] -->
+        <LowRight_Corner_Coordinates	Value="14500/1516"/>	<!-- [Integer/Integer] -->
+	</type>
+	
+	<type Zone_Name="Livonia_Full">		
+        <TopLeft_Corner_Coordinates		Value="100/12500"/>
+        <LowRight_Corner_Coordinates	Value="12500/100"/>
+	</type>
+
+	<type Zone_Name="DeerIsle_Full">		
+        <TopLeft_Corner_Coordinates		Value="1290/15600"/>
+        <LowRight_Corner_Coordinates	Value="11200/550"/>
+	</type>	
+	
+	<type Zone_Name="Namalsk_Full">		
+        <TopLeft_Corner_Coordinates		Value="2130/12060"/>
+        <LowRight_Corner_Coordinates	Value="9120/4700"/>
+	</type>	
+	
+	<type Zone_Name="Takistan_Full">		
+        <TopLeft_Corner_Coordinates		Value="500/12500"/>
+        <LowRight_Corner_Coordinates	Value="12500/500"/>
+	</type>
+	
+	<type Zone_Name="Chiemsee_Full">		
+        <TopLeft_Corner_Coordinates		Value="100/10000"/>
+        <LowRight_Corner_Coordinates	Value="10200/0"/>
+	</type>
+	
+	<type Zone_Name="Banov_Full">		
+        <TopLeft_Corner_Coordinates		Value="100/15200"/>
+        <LowRight_Corner_Coordinates	Value="15200/100"/>
+	</type>
+</types>

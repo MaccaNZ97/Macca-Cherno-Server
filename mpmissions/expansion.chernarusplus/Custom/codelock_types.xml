@@ -3,7 +3,7 @@
   <type name="CodeLock">
     <nominal>80</nominal>
     <lifetime>7200</lifetime>
-    <restock>0</restock>
+    <restock>10</restock>
     <min>50</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>

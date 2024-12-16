@@ -203,7 +203,20 @@
   ],
   "InventoryCargo": [
     {
-      "ClassName": "BO_Mag_AS50_10rnd",
+      "ClassName": "HA_Magazines_AWM_338LM_7rnd",
+      "Chance": 1,
+      "Quantity": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Health": [],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "HA_Magazines_AWM_338LM_7rnd",
       "Chance": 1,
       "Quantity": {
         "Min": 0,
@@ -231,7 +244,7 @@
           "SlotName": "Shoulder",
           "Items": [
             {
-              "ClassName": "SNAFU_AS50_GUN",
+              "ClassName": "HA_W_AWM_338LM",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -249,7 +262,7 @@
                   "SlotName": "",
                   "Items": [
                     {
-                      "ClassName": "SNAFU_AKHuntingOptic",
+                      "ClassName": "AD_LeupoldMk4_Base",
                       "Chance": 1,
                       "Quantity": {
                         "Min": 1,
@@ -268,26 +281,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "SNAFU_AS50_Mag",
-                      "Chance": 1,
-                      "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                      },
-                      "Health": [
-                        {
-                          "Min": 0.7,
-                          "Max": 1,
-                          "Zone": ""
-                        }
-                      ],
-                      "InventoryAttachments": [],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "SNAFU_50bmg_Suppressor_W",
+                      "ClassName": "HA_Magazines_AWM_338LM_7rnd",
                       "Chance": 1,
                       "Quantity": {
                         "Min": 0,

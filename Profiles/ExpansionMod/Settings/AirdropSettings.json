@@ -15,7 +15,7 @@
   "Containers": [
     {
       "Container": "ExpansionAirdropContainer",
-      "FallSpeed": 4.5,
+      "FallSpeed": 9.5,
       "Usage": 0,
       "Weight": 5.0,
       "Infected": [
@@ -110,8 +110,25 @@
         "ZmbF_MilkMaidOld_Black",
         "ZmbF_MilkMaidOld_Green",
         "ZmbF_MilkMaidOld_Grey",
-        "eAI_SurvivorM_Mirek|faction:Shamans,loadout:BanditLoadout,unlimitedammo,canbelooted:true",
-        "eAI_SurvivorM_Boris|faction:Shamans,loadout:BanditLoadout,unlimitedammo,canbelooted:true"
+        "CDAJ_ZmbM_Clown",
+        "CDAJ_ZmbM_Dark_Heavy",
+        "CDAJ_ZmbM_Demon",
+        "CDAJ_ZmbM_LostInfected",
+        "CDAJ_ZmbM_Mutant",
+        "CDAJ_ZmbM_Mutant_Bloody",
+        "CDAJ_ZmbM_Mutant_Pale",
+        "CDAJ_ZmbM_NBC_BlueLight",
+        "CDAJ_ZmbM_NBC_ERDL",
+        "CDAJ_ZmbM_NBC_Green",
+        "CDAJ_ZmbM_NBC_Rainbow",
+        "CDAJ_ZmbM_NBC_Red",
+        "CDAJ_ZmbM_NBC_Space",
+        "CDAJ_ZmbM_TribeDemon",
+        "CDAJ_ZmbM_TribeDemon_Pale",
+        "CDAJ_ZmbM_TribeDemon_White",
+        "Animal_dbo_idrex_BABY",
+        "Animal_dbo_raptor_BABY",
+        "Animal_dbo_raptorblue_BABY"
       ],
       "ItemCount": 30,
       "InfectedCount": 25,
@@ -3540,15 +3557,6 @@
           "Variants": []
         },
         {
-          "Name": "BBP_Blueprint",
-          "Attachments": [],
-          "Chance": 0.5,
-          "QuantityPercent": -1,
-          "Max": -1,
-          "Min": 0,
-          "Variants": []
-        },
-        {
           "Name": "CodeLock",
           "Attachments": [],
           "Chance": 0.5,
@@ -3775,6 +3783,2976 @@
         },
         {
           "Name": "mmg_toolwagon_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "Avengers_Display_Kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "Drip_LargeDisplayCase_Kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_hunting_cabin_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "ExpansionParkingMeterKit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_notebook",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_antique_dresser_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_antique_wall_clock_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_barrelshelf_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_basket_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_beach_chair_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_beach_umbrella_beige_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_beach_umbrella_blue_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_beach_umbrella_green_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_beach_umbrella_multi_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_bed_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_bedside_table_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_big_drawer_cabinet_darkwood_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_big_drawer_cabinet_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_big_safe_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_bookshelf_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_brazier_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_brazier_small_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_carlift_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_catears",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_celtic_shelter_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_cleaning_patches",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_grinder_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_hutch_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_jar",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_machine_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_blue_bar",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_blue_break",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_green_bar",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_green_break",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_green_fresh",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_purple_bar",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_purple_break",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_rag",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_red_bar",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_red_break",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_yellow_break",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_yellow_fresh",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_yellow_shop",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_pack",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_thermos",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_control_unit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_crateshelf_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_cuckoo_clock_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_dinner_table_chair_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_dinner_table_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_electric_wires",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_firstaid_cabinet_big_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_firstaid_cabinet_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_fishing_rod_rack_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_food_dono_stand_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_fridge_twodoor_old_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_furnace_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gascanister",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gazebo_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_globe_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_grammophone_2_disk",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_grammophone_3_disk",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_grammophone_4_disk",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_grammophone_5_disk",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_grammophone_disk",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gramophone_table_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_grandfathers_clock_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_greenhouse_big_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_greenhouse_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gun_cabinet_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gunrack_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gunwall_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gunwall_nostand_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_improvised_bed_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_jd_fridge_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_lantern_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_lantern_wall_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_log_holder_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_magpump_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_manikin_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_mask_head_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_medic_box_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_medieval_fireplace_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_medium_safe_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_mesh_locker_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_military_locker_big_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_military_locker_small_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_military_locker_threedoor_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_notebook",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_odin_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_oil_bottle",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_plank_holder_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_plant_rack_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_planterbox_high_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_planterbox_low_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_portafilter",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_repair_station_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_retro_fridge_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_beach_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_dayz1_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_dayz2_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_japan_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_morty_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_rag_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_sunset_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sawblade",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sewing_case",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sewing_cushion",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sewing_machine_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sewing_thread",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_side_table_white_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_side_table_wood_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_single_locker_black_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_single_locker_green_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_single_locker_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_single_locker_purple_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_single_locker_red_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_single_locker_yellow_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_iron_safe_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_pool_blue_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_pool_green_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_pool_pink_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_pool_rainbow_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_pool_red_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_pool_yellow_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_safe_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_smoker_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sofa_black_leather_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sofa_brown_leather_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sofa_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_solarpanel_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_spaycan_paint",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_spaycan_white",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_table_lamp_oval_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_table_lamp_round_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_table_saw_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_teddyshelf_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_toolbench_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_tools_drawer_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_totem_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_tv_vintage_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_victorian_table_white_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_victorian_table_wood_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_volleyball_net_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_wall_clock_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_wardrobe_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_warrior_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_weapon_cleaner_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_weapon_solvent",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_woodenshelf_big_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_woodenshelf_lightwood_big_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_woodenshelf_small_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_workbench_blueprint",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_workbench_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_xmas_calendar_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_xmas_lantern",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseittems_triple_locker_black_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseittems_triple_locker_green_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseittems_triple_locker_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseittems_triple_locker_purple_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseittems_triple_locker_red_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseittems_triple_locker_yellow_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_teddybear",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunWorkbench_Kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_workbench_blueprint",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_workbench_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_antique_dresser_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_antique_wall_clock_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_barrelshelf_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_basket_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_beach_chair_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_beach_umbrella_beige_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_beach_umbrella_blue_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_beach_umbrella_green_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_beach_umbrella_multi_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_bed_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_bedside_table_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_big_drawer_cabinet_darkwood_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_big_drawer_cabinet_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_big_safe_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_bookshelf_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_brazier_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_brazier_small_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_carlift_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_catears",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_celtic_shelter_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_cleaning_patches",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_grinder_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_hutch_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_jar",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_machine_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_blue_bar",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_blue_break",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_green_bar",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_green_break",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_green_fresh",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_purple_bar",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_purple_break",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_rag",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_red_bar",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_red_break",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_yellow_break",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_yellow_fresh",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_mug_yellow_shop",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_pack",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_coffee_thermos",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_control_unit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_crateshelf_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_cuckoo_clock_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_dinner_table_chair_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_dinner_table_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_electric_wires",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_firstaid_cabinet_big_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_firstaid_cabinet_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_fishing_rod_rack_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_food_dono_stand_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_fridge_twodoor_old_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_furnace_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gascanister",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gazebo_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_globe_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_grammophone_2_disk",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_grammophone_3_disk",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_grammophone_4_disk",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_grammophone_5_disk",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_grammophone_disk",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gramophone_table_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_grandfathers_clock_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_greenhouse_big_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_greenhouse_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gun_cabinet_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gunrack_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gunwall_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_gunwall_nostand_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_improvised_bed_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_jd_fridge_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_lantern_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_lantern_wall_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_log_holder_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_magpump_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_manikin_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_mask_head_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_medic_box_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_medieval_fireplace_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_medium_safe_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_mesh_locker_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_military_locker_big_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_military_locker_small_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_military_locker_threedoor_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_notebook",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_odin_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_oil_bottle",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_pistol_cabinet_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_plank_holder_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_plant_rack_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_planterbox_high_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_planterbox_low_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_portafilter",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_repair_station_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_retro_fridge_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_beach_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_dayz1_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_dayz2_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_japan_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_morty_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_rag_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_roomdivider_sunset_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sawblade",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sewing_case",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sewing_cushion",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sewing_machine_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sewing_thread",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_side_table_white_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_side_table_wood_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_single_locker_black_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_single_locker_green_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_single_locker_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_single_locker_purple_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_single_locker_red_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_single_locker_yellow_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_iron_safe_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_pool_blue_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_pool_green_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_pool_pink_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_pool_rainbow_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_pool_red_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_pool_yellow_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_small_safe_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_smoker_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sofa_black_leather_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sofa_brown_leather_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_sofa_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_solarpanel_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_spaycan_paint",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_spaycan_white",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_spraycan_paint",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_spraycan_white",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_table_lamp_oval_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_table_lamp_round_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_table_saw_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_teddyshelf_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_toolbench_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_tools_drawer_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_totem_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_triple_locker_black_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_triple_locker_green_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_triple_locker_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_triple_locker_purple_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_triple_locker_red_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_triple_locker_yellow_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_tv_vintage_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_victorian_table_white_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_victorian_table_wood_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_volleyball_net_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_wall_clock_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_wardrobe_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_warrior_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_weapon_cleaner_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_weapon_solvent",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_woodenshelf_big_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_woodenshelf_lightwood_big_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_woodenshelf_small_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_xmas_calendar_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseitems_xmas_lantern",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseittems_triple_locker_black_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseittems_triple_locker_green_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseittems_triple_locker_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseittems_triple_locker_purple_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseittems_triple_locker_red_kit",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "rag_baseittems_triple_locker_yellow_kit",
           "Attachments": [],
           "Chance": 0.5,
           "QuantityPercent": -1,
@@ -6320,51 +9298,6 @@
           "Variants": []
         },
         {
-          "Name": "SNAFU_MK4710Gun",
-          "Attachments": [
-            {
-              "Name": "SNAFU_Tango6T_Black",
-              "Attachments": [],
-              "Chance": 1.0
-            },
-            {
-              "Name": "SNAFU_PEQ1_Laser",
-              "Attachments": [],
-              "Chance": 1.0
-            },
-            {
-              "Name": "SNAFU_MK47_Stock",
-              "Attachments": [],
-              "Chance": 1.0
-            },
-            {
-              "Name": "SNAFU_PistolGripColtA2",
-              "Attachments": [],
-              "Chance": 1.0
-            },
-            {
-              "Name": "SNAFU_AFG_02_Black",
-              "Attachments": [],
-              "Chance": 1.0
-            },
-            {
-              "Name": "Mag_AKM_Drum75Rnd",
-              "Attachments": [],
-              "Chance": 1.0
-            },
-            {
-              "Name": "SNAFU_MK13",
-              "Attachments": [],
-              "Chance": 1.0
-            }
-          ],
-          "Chance": 0.74,
-          "QuantityPercent": 1,
-          "Max": 1,
-          "Min": 1,
-          "Variants": []
-        },
-        {
           "Name": "DNA_KeyCard_Purple_inactive",
           "Attachments": [],
           "Chance": 0.34,
@@ -6411,15 +9344,6 @@
         },
         {
           "Name": "ExpansionGoldBar",
-          "Attachments": [],
-          "Chance": 0.5,
-          "QuantityPercent": -1,
-          "Max": -1,
-          "Min": 0,
-          "Variants": []
-        },
-        {
-          "Name": "GCGN_Ammo_50Cal",
           "Attachments": [],
           "Chance": 0.5,
           "QuantityPercent": -1,
@@ -6525,6 +9449,465 @@
               "Chance": 1
             }
           ]
+        },
+        {
+          "Name": "Ammo_HA_12gSteel",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "Ammo_HA_338LM",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "Ammo_HA_408CT",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "Ammo_HA_44Magnum",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "Ammo_HA_50BMG",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_AmmoBox_12gSteel_20Rnd",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_AmmoBox_338LP_15Rnd",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_AmmoBox_408CT_15Rnd",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_AmmoBox_44Magnum_24Rnd",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_AmmoBox_50BMG_15Rnd",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_Flashlight_Surefire",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_Flashlight_SurefireXC2",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_G9Carbine_Nude",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_1",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_10",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_11",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_12",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_13",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_14",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_15",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_16",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_17",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_18",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_19",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_2",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_20",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_21",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_22",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_23",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_24",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_25",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_26",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_27",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_28",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_29",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_3",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_30",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_31",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_32",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_33",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_34",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_35",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_36",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_37",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_38",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_4",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_5",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_6",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_7",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_8",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "HA_GunSticker_9",
+          "Attachments": [],
+          "Chance": 0.5,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
         }
       ]
     }

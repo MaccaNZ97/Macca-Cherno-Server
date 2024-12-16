@@ -1,0 +1,78 @@
+{
+    "MagicCrateExchangeType": "NONE",
+    "MagicCratePrice": 0,
+    "CanCrateChangeLocation": 1,
+    "MinimumRollBeforeFailChance": 5,
+    "BoxFailChance": 30,
+    "PossibleBoxPositions": [{
+            "Position": [
+                871.885,
+                469.069,
+                14738.2
+            ],
+            "Orientation": [
+                -154.779, -0.0, -0.0
+            ]
+        },
+        {
+            "Position": [
+                4776.92,
+                352.242,
+                9868.67
+            ],
+            "Orientation": [
+                58.1299, -0.0, -0.0
+            ]
+        },
+        {
+            "Position": [
+                14336.2,
+                15.8622,
+                2936.42
+            ],
+            "Orientation": [-156.713, -0.0, -0.0]
+        }
+        
+    ],
+    "PossibleBoxItems": [
+        {
+            "Item": "ER7_Gauss_T5",
+            "Attachments": [
+                "ER7_Scope",
+                "ER7_Gauss_Battery"
+            ],
+            "Mag": "ER7_Gauss_Magazine"
+        },
+        {
+            "Item": "HA_W_AWM_338LM_Bones",
+            "Attachments": [
+                "HA_Optics_TrijiconSkeetIX",
+                "HA_Suppressor_308"
+            ],
+            "Mag": "HA_Magazines_AWM_338LM_7rnd"
+        },
+        {
+            "Item": "HA_W_M249",
+            "Attachments": [
+                "HA_Suppressor_308",
+                "HA_Optics_EOTech_MagnifierOFF"
+            ],
+            "Mag": "HA_Magazine_M249"
+        },
+        {
+            "Item": "HA_W_M200",
+            "Attachments": [
+                "HA_Optics_SigSauerTango"
+                
+            ],
+            "Mag": "HA_Magazine_M200"
+        },
+        {
+            "Item": "HA_W_Tac50_Tan",
+            "Attachments": [
+                "HA_Optics_SigSauerTango"
+            ],
+            "Mag": "HA_Magazines_Tac50_7rnd"
+        }
+    ]
+}

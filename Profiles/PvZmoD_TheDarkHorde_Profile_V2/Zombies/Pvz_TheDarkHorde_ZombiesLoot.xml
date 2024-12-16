@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ================== YOU CAN FIND A LOT MORE INFORMATIONS IN HELP.TXT FILES ================== -->
+<types>
+  <type Zombie_Category_Class_Names="CDAJ_ZmbM_Clown">
+    <Items_List_A Quantity_Or_Chance_To_Spawn="1.0" state="Pristine" List="HA_W_Tac50_Pink" />
+    <!-- Add REWARD for player that defeat the horde -->
+    <Items_List_B Quantity_Or_Chance_To_Spawn="2.0" state="Pristine" List="HA_AmmoBox_50BMG_15Rnd," />
+    <Items_List_C Quantity_Or_Chance_To_Spawn="1.0" state="Pristine" List="HA_W_AWM_338LM_Bones," />
+    <Items_List_D Quantity_Or_Chance_To_Spawn="1.0" state="Pristine" List="HA_W_XM250" />
+  </type>
+  <type Zombie_Category_Class_Names="CDAJ_ZmbM_TribeDemon_White">
+    <Items_List_A Quantity_Or_Chance_To_Spawn="30.0" state="Pristine" List="DNA_Solder_Kit,DNA_Workbench_Kit,DNA_Battery_40v" />
+    <!-- Add REWARD for player that defeat the horde -->
+    <Items_List_B Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="DNA_CardReader" />
+    <Items_List_C Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="DNA_Flux" />
+    <Items_List_D Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="DNA_KeyCard_BlisterPackChip_Red" />
+  </type>
+  <type Zombie_Category_Class_Names="CDAJ_ZmbM_Dark_Heavy">
+    <Items_List_A Quantity_Or_Chance_To_Spawn="1.0" state="Ruined" List="Ammo_40mm_Explosive,AmmoBox_9x39AP_20Rnd" />
+    <Items_List_B Quantity_Or_Chance_To_Spawn="0.0" state="Random" List="" />
+    <Items_List_C Quantity_Or_Chance_To_Spawn="0.0" state="Random" List="" />
+    <Items_List_D Quantity_Or_Chance_To_Spawn="0.0" state="Random" List="" />
+  </type>
+  <type Zombie_Category_Class_Names="CDAJ_ZmbM_TribeDemon">
+    <Items_List_A Quantity_Or_Chance_To_Spawn="1.0" state="Ruined" List="Ammo_40mm_Explosive,AmmoBox_308WinTracer_20Rnd" />
+    <Items_List_B Quantity_Or_Chance_To_Spawn="1.0" state="BadlyDamaged" List="Red_Eye" />
+    <Items_List_C Quantity_Or_Chance_To_Spawn="0.0" state="Random" List="" />
+    <Items_List_D Quantity_Or_Chance_To_Spawn="0.0" state="Random" List="" />
+  </type>
+  <!-- ////// DON'T ADD NEW SECTION, USE THE "Custom_Sections" TO CREATE YOUR OWN CONFIGURATIONS -->
+  <type Zombie_Category_Class_Names="CDAJ_ZmbM_Clown">
+    <!-- You can configure this section as you want but don't create new ones -->
+    <Items_List_A Quantity_Or_Chance_To_Spawn="2" state="Stacked" List="HA_AmmoBox_338LP_15Rnd,AmmoBox_762x39Tracer_20Rnd,AmmoBox_308WinTracer_20Rnd,AmmoBox_556x45_20Rnd" />
+    <Items_List_B Quantity_Or_Chance_To_Spawn="0.4" state="Pristine" List="" />
+    <Items_List_C Quantity_Or_Chance_To_Spawn="0.4" state="Pristine" List="" />
+    <Items_List_D Quantity_Or_Chance_To_Spawn="0.4" state="Pristine" List="" />
+  </type>
+  <type Zombie_Category_Class_Names="Custom_Section02">
+    <!-- You can configure this section as you want but don't create new ones -->
+    <Items_List_A Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_B Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_C Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_D Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+  </type>
+  <type Zombie_Category_Class_Names="Custom_Section03">
+    <!-- You can configure this section as you want but don't create new ones -->
+    <Items_List_A Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_B Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_C Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_D Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+  </type>
+  <type Zombie_Category_Class_Names="Custom_Section04">
+    <!-- You can configure this section as you want but don't create new ones -->
+    <Items_List_A Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_B Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_C Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_D Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+  </type>
+  <type Zombie_Category_Class_Names="Custom_Section05">
+    <!-- You can configure this section as you want but don't create new ones -->
+    <Items_List_A Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_B Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_C Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_D Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+  </type>
+  <type Zombie_Category_Class_Names="Custom_Section06">
+    <!-- You can configure this section as you want but don't create new ones -->
+    <Items_List_A Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_B Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_C Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_D Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+  </type>
+  <type Zombie_Category_Class_Names="Custom_Section07">
+    <!-- You can configure this section as you want but don't create new ones -->
+    <Items_List_A Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_B Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_C Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+    <Items_List_D Quantity_Or_Chance_To_Spawn="0.0" state="Pristine" List="" />
+  </type>
+  <!-- ////// DON'T ADD NEW SECTION, USE THE "Custom_Sections" TO CREATE YOUR OWN CONFIGURATIONS -->
+</types>

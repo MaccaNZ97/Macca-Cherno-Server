@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+  <type name="rag_baseitems_sewing_cushion">
+  <damage min="0.0" max="0.6" />
+    <attachments preset="needle1" />
+    <attachments preset="needle2" />
+    <attachments preset="needle3" />
+    <attachments preset="needle4" />
+    <attachments preset="needle5" />
+    <attachments preset="needle6" />
+    <attachments preset="needle7" />
+    <attachments preset="needle8" />
+  </type>
+</spawnabletypes>
